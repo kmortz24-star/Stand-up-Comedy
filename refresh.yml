@@ -1,0 +1,46 @@
+name: Refresh Stand-Up Comedy Catalogs
+on:
+  schedule:
+    - cron: "23 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate catalog sorter
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh TMDB source data
+        env:
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: python3 fetch_tmdb.py
+      - name: Generate Nuvio catalog pages
+        run: python3 build_catalogs.py
+      - name: Commit updated data and catalogs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/specials.json docs
+          if ! git diff --cached --quiet; then
+            git commit -m "Update stand-up catalogs"
+            git push
+          fi
+      - name: Upload current catalogs for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Publish refreshed catalogs
+        id: deployment
+        uses: actions/deploy-pages@v4

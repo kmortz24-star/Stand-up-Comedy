@@ -1,0 +1,271 @@
+"""Build static Stremio-compatible catalogs for the Stand-Up Comedy Nuvio folder.
+
+Input records are in data/specials.json. Unknown performers remain in a review
+report rather than silently being assigned the wrong letter.
+"""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import random
+import re
+import shutil
+import unicodedata
+from collections import defaultdict
+from datetime import date
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parent
+DEFAULT_CONFIG = ROOT / "config.json"
+DEFAULT_INPUT = ROOT / "data" / "specials.json"
+DEFAULT_OUTPUT = ROOT / "docs"
+PAGE_SIZE = 50
+
+
+def read_json(path: Path, default=None):
+    if not path.exists():
+        if default is not None:
+            return default
+        raise FileNotFoundError(path)
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_json(path: Path, value):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def norm(value: str) -> str:
+    expanded = str(value).translate(str.maketrans({
+        "Æ": "Ae", "æ": "ae", "Ø": "O", "ø": "o", "Ł": "L", "ł": "l",
+        "Ð": "D", "ð": "d", "Þ": "Th", "þ": "th",
+    }))
+    text = unicodedata.normalize("NFKD", expanded)
+    return re.sub(r"[^a-z0-9 ]", "", "".join(c for c in text if not unicodedata.combining(c)).casefold())
+
+
+def performer_sort_name(performer: str) -> str:
+    # The performer goes under the first letter of their displayed/stage name.
+    return norm(performer).strip()
+
+
+def bucket_for(performer: str, groups: list[str]) -> int | None:
+    normalized = performer_sort_name(performer)
+    first = normalized[:1].upper()
+    matches = [i for i, group in enumerate(groups) if first in group]
+    return matches[0] if len(matches) == 1 else None
+
+
+def validate_groups(groups: list[str]):
+    letters = "".join(groups)
+    if len(groups) < 2 or sorted(letters) != list("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
+        raise ValueError("alphabet_groups must use each letter A-Z exactly once")
+    for group in groups:
+        if not re.fullmatch("[A-Z]+", group):
+            raise ValueError(f"Invalid group {group!r}")
+
+
+def unique_records(records: list[dict]) -> list[dict]:
+    by_id = {}
+    for record in records:
+        identifier = str(record.get("id", "")).strip()
+        if not identifier:
+            continue
+        original = by_id.get(identifier, {})
+        by_id[identifier] = {**original, **record}
+    return list(by_id.values())
+
+
+def display_title(record: dict) -> str:
+    return str(record.get("title", "")).strip() or "Untitled Special"
+
+
+def release_date(record: dict) -> date:
+    value = str(record.get("release_date", ""))
+    try:
+        return date.fromisoformat(value[:10])
+    except ValueError:
+        return date(1900, 1, 1)
+
+
+def alphabetical_sort_key(record: dict):
+    return (performer_sort_name(record["performer"]), release_date(record), norm(display_title(record)))
+
+
+def take_distinct_performers(records: list[dict], limit: int, salt: str, today: date | None = None) -> list[dict]:
+    # Different selection every ISO week, consistent across all devices in that week.
+    week = (today or date.today()).isocalendar()
+    seed = hashlib.sha256(f"{week.year}-W{week.week}-{salt}".encode()).digest()
+    rng = random.Random(int.from_bytes(seed, "big"))
+    performers = defaultdict(list)
+    for record in records:
+        name = performer_sort_name(record.get("performer", ""))
+        if name:
+            performers[name].append(record)
+    names = list(performers)
+    rng.shuffle(names)
+    chosen = []
+    for name in names[:limit]:
+        options = performers[name]
+        chosen.append(options[rng.randrange(len(options))])
+    return chosen
+
+
+def month_window_start(today: date, months: int) -> date:
+    year = today.year
+    month = today.month - months
+    while month <= 0:
+        year -= 1
+        month += 12
+    day = min(today.day, 28)
+    return date(year, month, day)
+
+
+def categories(records: list[dict], config: dict, today: date | None = None):
+    today = today or date.today()
+    groups = config["alphabet_groups"]
+    validate_groups(groups)
+    excluded = set(config.get("excluded_ids", []))
+    overrides = config.get("performer_overrides", {})
+    tag_overrides = config.get("tag_overrides", {})
+    accepted, unassigned = [], []
+
+    for source in unique_records(records):
+        record = dict(source)
+        if record["id"] in excluded or release_date(record) > today:
+            continue
+        if record["id"] in overrides:
+            record["performer"] = overrides[record["id"]]
+        record["tags"] = sorted(set(record.get("tags") or []) | set(tag_overrides.get(record["id"], [])))
+        if not record.get("performer") or bucket_for(record["performer"], groups) is None:
+            unassigned.append(record)
+        else:
+            accepted.append(record)
+
+    accepted.sort(key=alphabetical_sort_key)
+    alphabetical = [[] for _ in groups]
+    for record in accepted:
+        alphabetical[bucket_for(record["performer"], groups)].append(record)
+
+    fresh_start = month_window_start(today, config["new_specials_months"])
+    new = [r for r in accepted if release_date(r) >= fresh_start]
+    new.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
+
+    # A hand-picked early stand-up generation. Their newer specials belong here
+    # too; career era matters, not the date on the individual special.
+    legend_names = {norm(n) for n in config.get("legends_comedians", [])}
+    legends = [r for r in accepted if norm(r["performer"]) in legend_names]
+
+    # Less famous, reasonably rated works. Tune after we see real title counts.
+    gems = [
+        r for r in accepted
+        if float(r.get("popularity", 999)) <= config["hidden_gems_max_popularity"]
+        and float(r.get("vote_average", 0)) >= config["hidden_gems_min_rating"]
+        and int(r.get("vote_count", 0)) >= config["hidden_gems_min_votes"]
+    ]
+    roulette = take_distinct_performers(accepted, config["weekly_roulette_count"], "roulette", today)
+    hidden = take_distinct_performers(gems, config["weekly_hidden_gems_count"], "hidden", today)
+
+    # Seeded rising performers include Kill Tony alumni and comics discovered
+    # through social media. Refresh picks weekly as the source catalog grows.
+    viral_names = {norm(n) for n in config.get("viral_rising_comedians", [])}
+    viral_candidates = [r for r in accepted if norm(r["performer"]) in viral_names]
+    viral = take_distinct_performers(
+        viral_candidates, config.get("weekly_viral_rising_count", 30), "viral-rising", today
+    )
+    roast_terms = tuple(config.get("roast_title_terms", []))
+    roasts = [
+        r for r in unique_records(records)
+        if r.get("id") not in excluded and release_date(r) <= today
+        and (
+            "roast" in (r.get("tags") or [])
+            or "event" in (r.get("tags") or [])
+            or any(term in display_title(r).casefold() for term in roast_terms)
+        )
+    ]
+    roasts.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
+
+    outputs = [
+        ("comedy-roulette", "Comedy Roulette", roulette),
+        ("new-specials", "New Specials", new),
+        ("hidden-gems", "Hidden Gems", hidden),
+        ("comedy-legends", "Comedy Legends", legends),
+        ("viral-and-rising", "Viral & Rising Comedians", viral),
+    ]
+    for index, group in enumerate(groups):
+        outputs.append((f"comedians-{index + 1:02d}", f"Comedians {group}" if index == 0 else group, alphabetical[index]))
+    outputs += [
+        ("roasts-events", "Roasts & Comedy Events", roasts),
+    ]
+    return outputs, unassigned
+
+
+def meta_preview(record: dict) -> dict:
+    preview = {"id": record["id"], "type": "movie", "name": display_title(record)}
+    if record.get("poster"):
+        preview["poster"] = record["poster"]
+    elif record.get("poster_path"):
+        preview["poster"] = "https://image.tmdb.org/t/p/w500" + record["poster_path"]
+    if release_date(record).year > 1900:
+        preview["releaseInfo"] = str(release_date(record).year)
+    return preview
+
+
+def build(records: list[dict], config: dict, out_dir: Path, today: date | None = None) -> dict:
+    groups, unassigned = categories(records, config, today)
+    if out_dir.exists():
+        # Scoped replacement only, never remove a workspace/repository root.
+        catalog_dir = out_dir / "catalog"
+        if catalog_dir.exists():
+            shutil.rmtree(catalog_dir)
+
+    manifest = {
+        "id": config["addon_id"],
+        "version": "1.0.0",
+        "name": config["addon_name"],
+        "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
+        "resources": ["catalog"],
+        "types": ["movie"],
+        "catalogs": [],
+        "behaviorHints": {"configurable": False, "configurationRequired": False},
+    }
+    counts = {}
+    for identifier, title, records_in_catalog in groups:
+        manifest["catalogs"].append({
+            "id": identifier,
+            "type": "movie",
+            "name": title,
+            "pageSize": PAGE_SIZE,
+            "extra": [{"name": "skip", "isRequired": False}],
+        })
+        counts[title] = len(records_in_catalog)
+        catalog_path = out_dir / "catalog" / "movie"
+        for skip in range(0, max(1, len(records_in_catalog)), PAGE_SIZE):
+            items = [meta_preview(r) for r in records_in_catalog[skip:skip + PAGE_SIZE]]
+            name = f"{identifier}.json" if skip == 0 else f"{identifier}/skip={skip}.json"
+            write_json(catalog_path / name, {"metas": items})
+        # Some clients explicitly ask for skip=0.
+        write_json(catalog_path / identifier / "skip=0.json", {"metas": [meta_preview(r) for r in records_in_catalog[:PAGE_SIZE]]})
+    write_json(out_dir / "manifest.json", manifest)
+    report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    write_json(out_dir / "build_report.json", report)
+    return report
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--config", type=Path, default=DEFAULT_CONFIG)
+    parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    args = parser.parse_args()
+    report = build(read_json(args.input, []), read_json(args.config), args.output)
+    for label, count in report["counts"].items():
+        print(f"{label}: {count}")
+    print(f"Unassigned for review: {len(report['needs_review'])}")
+
+
+if __name__ == "__main__":
+    main()

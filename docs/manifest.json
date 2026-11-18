@@ -1,0 +1,162 @@
+{
+  "id": "com.kevin.standup.autocatalog",
+  "version": "1.0.0",
+  "name": "Stand-Up Comedy",
+  "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "id": "comedy-roulette",
+      "type": "movie",
+      "name": "Comedy Roulette",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "new-specials",
+      "type": "movie",
+      "name": "New Specials",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "hidden-gems",
+      "type": "movie",
+      "name": "Hidden Gems",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedy-legends",
+      "type": "movie",
+      "name": "Comedy Legends",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "viral-and-rising",
+      "type": "movie",
+      "name": "Viral & Rising Comedians",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-01",
+      "type": "movie",
+      "name": "Comedians ABCD",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-02",
+      "type": "movie",
+      "name": "EFGH",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-03",
+      "type": "movie",
+      "name": "IJKL",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-04",
+      "type": "movie",
+      "name": "MNOP",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-05",
+      "type": "movie",
+      "name": "QRST",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "comedians-06",
+      "type": "movie",
+      "name": "UVWXYZ",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "roasts-events",
+      "type": "movie",
+      "name": "Roasts & Comedy Events",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
