@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt41400803",
+      "type": "movie",
+      "name": "Jaspreet Singh: Grown Up",
+      "poster": "https://image.tmdb.org/t/p/w500/9YuhDFhEGtan9PQFdDLsCdM5F3P.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1247128",
       "type": "movie",
       "name": "Jatty Robinson: Odds are Even",
@@ -342,13 +349,6 @@
       "name": "Jethro: I Told It My Way",
       "poster": "https://image.tmdb.org/t/p/w500/gfptGn9JSkoI5eSraxTqRPbngWZ.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:376924",
-      "type": "movie",
-      "name": "Jethro Live: 40 Years The Joker",
-      "poster": "https://image.tmdb.org/t/p/w500/gjWPA3C4zwofgu6LpZsr2Gy2dmg.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

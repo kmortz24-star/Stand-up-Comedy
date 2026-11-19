@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt12357266",
+      "type": "movie",
+      "name": "Jo Koy: In His Elements",
+      "poster": "https://image.tmdb.org/t/p/w500/zx7kOO45cNcE8ag5co9uzYRmUd3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt21342096",
       "type": "movie",
       "name": "Jo Koy: Live from the Los Angeles Forum",
@@ -340,13 +347,6 @@
       "name": "Julien Lacroix - Le temps au temps",
       "poster": "https://image.tmdb.org/t/p/w500/9SkwO1U1rWhh33nPlZ57kFRAtTg.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38641367",
-      "type": "movie",
-      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
-      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

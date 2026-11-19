@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt38641367",
+      "type": "movie",
+      "name": "Color Theories by Julio Torres. A Guide to Seeing the World",
+      "poster": "https://image.tmdb.org/t/p/w500/cnJeI6TqrIzMKt9r5VXxaj1YJqR.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt27180536",
       "type": "movie",
       "name": "Just for Laughs: The Gala Specials - Chelsea Handler",
@@ -339,13 +346,6 @@
       "type": "movie",
       "name": "Kill Tony: Mayhem at Madison Square Garden",
       "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt36484010",
-      "type": "movie",
-      "name": "Kim Dongha : Connect",
-      "poster": "https://image.tmdb.org/t/p/w500/uT61RfZyTiI48JLq9HJEQInEdWy.jpg",
       "releaseInfo": "2025"
     }
   ]
