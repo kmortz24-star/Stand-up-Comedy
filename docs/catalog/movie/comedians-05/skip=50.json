@@ -1,0 +1,352 @@
+{
+  "metas": [
+    {
+      "id": "tt38994128",
+      "type": "movie",
+      "name": "Robby Hoffman: Wake Up",
+      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1492677",
+      "type": "movie",
+      "name": "Robin Tran: Hear Me Out",
+      "poster": "https://image.tmdb.org/t/p/w500/1IDWMU6rRZbzoNT4qlRFqZe3bGJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0391873",
+      "type": "movie",
+      "name": "Comic Relief '90",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0330829",
+      "type": "movie",
+      "name": "Robin Williams: Live on Broadway",
+      "poster": "https://image.tmdb.org/t/p/w500/omCkeQubfAtjJetFV2edOC3yhRB.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1560169",
+      "type": "movie",
+      "name": "Robin Williams: Weapons of Self Destruction",
+      "poster": "https://image.tmdb.org/t/p/w500/kjEElgEFtAtyadUt8JayBLUw5Sf.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tmdb:1673928",
+      "type": "movie",
+      "name": "Rod Quantock Comedy Warrior",
+      "poster": "https://image.tmdb.org/t/p/w500/v2uTg6E2UAGuQ29a6jhMKBqZteD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1156072",
+      "type": "movie",
+      "name": "Rodney Carrington: Live at the Majestic",
+      "poster": "https://image.tmdb.org/t/p/w500/cYQNdbgXA9bRY9VmsNjI1sQWRid.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt7582798",
+      "type": "movie",
+      "name": "Rodney Carrington: Here Comes the Truth",
+      "poster": "https://image.tmdb.org/t/p/w500/6CzFuhg96wEHyTLiiBChUA3iCLj.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0148538",
+      "type": "movie",
+      "name": "Rodney Dangerfield: Nothin' Goes Right",
+      "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0324325",
+      "type": "movie",
+      "name": "A Tribute to Sam Kinison",
+      "poster": "https://image.tmdb.org/t/p/w500/5OSeZNLNFI0WfQCVMoPDZpGbCmj.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt28327319",
+      "type": "movie",
+      "name": "Roman Frayssinet : Alors",
+      "poster": "https://image.tmdb.org/t/p/w500/hRboTnMF47rHe5GMqN8tt7sWD8T.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1631346",
+      "type": "movie",
+      "name": "Roman Frayssinet : Ô delà",
+      "poster": "https://image.tmdb.org/t/p/w500/jeFY9hrchhHwZ8cvenu2H0FIvUC.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43635838",
+      "type": "movie",
+      "name": "Rome Davis: Roshambo",
+      "poster": "https://image.tmdb.org/t/p/w500/o8DmXGK4Va6TVAo3SMtO5ZjaxHy.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt21532188",
+      "type": "movie",
+      "name": "Ron Ervin: Prodigal Son",
+      "poster": "https://image.tmdb.org/t/p/w500/eZHBgZoCuY1uiynVejvzxjUaJdM.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0431370",
+      "type": "movie",
+      "name": "Ron White: They Call Me Tater Salad",
+      "poster": "https://image.tmdb.org/t/p/w500/5rY6dQLkMmOwfL4H72MlCiVUbEE.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0811045",
+      "type": "movie",
+      "name": "Ron White: You Can't Fix Stupid",
+      "poster": "https://image.tmdb.org/t/p/w500/1mgnXpsRJqpFX12j8LbJDvCp1jY.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1858777",
+      "type": "movie",
+      "name": "Ron White: Comedy Salute to the Troops",
+      "poster": "https://image.tmdb.org/t/p/w500/dMb8WLOL21zPdlfk4k2jEdVLZ0e.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2980086",
+      "type": "movie",
+      "name": "Ron White: A Little Unprofessional",
+      "poster": "https://image.tmdb.org/t/p/w500/9b81DMNNPI4oMiL2d8Up7G8mf0U.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt9060534",
+      "type": "movie",
+      "name": "Ron White: If You Quit Listening, I'll Shut Up",
+      "poster": "https://image.tmdb.org/t/p/w500/25fzgwGlyuWUyViMrU4rIqTnZj8.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt2064936",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Spek",
+      "poster": "https://image.tmdb.org/t/p/w500/27pJMi6hfxNGsYcC3qBrgsTnA6G.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt5115054",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Ze bestaan echt",
+      "poster": "https://image.tmdb.org/t/p/w500/b5GQFbKORdysUp9LldWhak1u82P.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt5115076",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Dedication",
+      "poster": "https://image.tmdb.org/t/p/w500/pnevQolDAUVinP0l8oSgUNTQ55R.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt5172324",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Binnen de Lijntjes",
+      "poster": "https://image.tmdb.org/t/p/w500/gtzLLHJzGtC9H8TXC45qn0deHkM.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt5620110",
+      "type": "movie",
+      "name": "Ronald Goedemondt: De R van Ronald",
+      "poster": "https://image.tmdb.org/t/p/w500/u8ZjaYCoPvm3rvnSmU4qZnwDLMg.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8443772",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Geen Sprake Van",
+      "poster": "https://image.tmdb.org/t/p/w500/AakfyHm2DIqHMtitASrqVXXAEAh.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt13788804",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Numero Uno",
+      "poster": "https://image.tmdb.org/t/p/w500/z9t50UiNHHbm6JH4swJkgomXFBk.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt35357642",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Met Knielende Knikjes",
+      "poster": "https://image.tmdb.org/t/p/w500/uBkuBsfYlB8y51MTO5I7uH9SohR.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt32323284",
+      "type": "movie",
+      "name": "The Big Team",
+      "poster": "https://image.tmdb.org/t/p/w500/ohE8SM7UyrTRuKyF0dlSWZLPZPE.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt11248800",
+      "type": "movie",
+      "name": "Ronny Chieng: Asian Comedian Destroys America!",
+      "poster": "https://image.tmdb.org/t/p/w500/yZZdeUJ0JI89aZTbHb92bf1JGgK.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt15281420",
+      "type": "movie",
+      "name": "Rosebud Baker: Whiskey Fists",
+      "poster": "https://image.tmdb.org/t/p/w500/2MZnyP1TDZgWOEc9ueJpZtqkTen.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt5628412",
+      "type": "movie",
+      "name": "Roué Verveer: R.I.P.",
+      "poster": "https://image.tmdb.org/t/p/w500/lR1XW1acxid1Iih8lXPrKxe057c.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt5626820",
+      "type": "movie",
+      "name": "Roué Verveer: Voorwaardelijk Vrij",
+      "poster": "https://image.tmdb.org/t/p/w500/5uoHO1th1tIHXJD1RCqRfRCYTsS.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt5610352",
+      "type": "movie",
+      "name": "Roué Verveer: M.A.W.",
+      "poster": "https://image.tmdb.org/t/p/w500/2EwZ0edEoCsep1ghL2zDlA4e5ch.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt5594270",
+      "type": "movie",
+      "name": "Roué Verveer: Mans Genoeg",
+      "poster": "https://image.tmdb.org/t/p/w500/r3Oofxf8QhmhM4Ci0mZbgo3kU18.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt6437894",
+      "type": "movie",
+      "name": "Roué Verveer: Typisch Surinaams",
+      "poster": "https://image.tmdb.org/t/p/w500/1vMbZE2o3484BKtnHUdHMJjTX6v.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt6437860",
+      "type": "movie",
+      "name": "Roué Verveer: FF wat anders",
+      "poster": "https://image.tmdb.org/t/p/w500/xHhvCDKZ1nHeDd9Q1s3hDQXeCuG.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:1410567",
+      "type": "movie",
+      "name": "Roué Verveer: Tjar A Lobi",
+      "poster": "https://image.tmdb.org/t/p/w500/c6WTIuNDWAOweVrwVUQgCPxTgvg.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:765285",
+      "type": "movie",
+      "name": "Roué Verveer - Op het Laatste Moment",
+      "poster": "https://image.tmdb.org/t/p/w500/bdS4Ne7OkAiDcwIgPkMvNJLZ6bz.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt13712198",
+      "type": "movie",
+      "name": "Roué Verveer: Heppie de Peppie",
+      "poster": "https://image.tmdb.org/t/p/w500/bwRii0M7DOxkm8ANIKNpMLZVoP5.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1409015",
+      "type": "movie",
+      "name": "Roué Verveer: Gewoon Roué",
+      "poster": "https://image.tmdb.org/t/p/w500/bVQ8wEdZyp5iP5i6WWzZx6Krg1.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:706714",
+      "type": "movie",
+      "name": "Roy Chubby Brown - 50 Shades Of Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1653386",
+      "type": "movie",
+      "name": "Rufat Agayev The Bad Rufat",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1515900",
+      "type": "movie",
+      "name": "Rune Klan: Går large",
+      "poster": "https://image.tmdb.org/t/p/w500/gtle9Gum5RbdbRZT8HCJ6mwIHJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt2396624",
+      "type": "movie",
+      "name": "Rune Klan: Det Blå Show",
+      "poster": "https://image.tmdb.org/t/p/w500/yMPa3m5Nf7xhqtEiTjOFUoWC6HO.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tmdb:305629",
+      "type": "movie",
+      "name": "Rune Klan: Det stribede show",
+      "poster": "https://image.tmdb.org/t/p/w500/uYL2QCHTbqxeGhocml7RdZKubaC.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:486318",
+      "type": "movie",
+      "name": "Rune Klan: Barnløs",
+      "poster": "https://image.tmdb.org/t/p/w500/9Ea3jKdssEJyTr5cl4FPrW45Myh.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:869038",
+      "type": "movie",
+      "name": "Rune Klan: Håbefuld",
+      "poster": "https://image.tmdb.org/t/p/w500/9gfBiGdnFhzBc5oGrHqQAsm1gIS.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1163513",
+      "type": "movie",
+      "name": "Rune Klan: Tvivl",
+      "poster": "https://image.tmdb.org/t/p/w500/uhemnPMf0c3f1kj5xytm1whlvGU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1692221",
+      "type": "movie",
+      "name": "Russell Brand: Scandalous",
+      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tmdb:1103103",
+      "type": "movie",
+      "name": "Russell Brand: Brandemic",
+      "poster": "https://image.tmdb.org/t/p/w500/7GXjKlebNjh27bC0T944CkmhcpM.jpg",
+      "releaseInfo": "2023"
+    }
+  ]
+}

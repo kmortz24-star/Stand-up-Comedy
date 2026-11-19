@@ -1,0 +1,353 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1769517",
+      "type": "movie",
+      "name": "Charles Haycock: Freezer Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/fTZKRpvyrJV1zfmqK19f4qemG2M.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1272486",
+      "type": "movie",
+      "name": "Charlie Baker: 24 Hour Pasty People",
+      "poster": "https://image.tmdb.org/t/p/w500/81sw81tR3HmVi8651k2f56MeL0T.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1091628",
+      "type": "movie",
+      "name": "Charlie Berens: Midwest Goodbye",
+      "poster": "https://image.tmdb.org/t/p/w500/dwHFPFAX930nvrbFqUnmbICJOJs.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt38846171",
+      "type": "movie",
+      "name": "Charlie Berens: Neighborly",
+      "poster": "https://image.tmdb.org/t/p/w500/16GO98B6qCzqPcxVre5cNzVg4Dh.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt23711530",
+      "type": "movie",
+      "name": "Chelsea Handler: Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/bL0bA4aZqml7BjTSRWH8uh2UvyC.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt35820235",
+      "type": "movie",
+      "name": "Chelsea Handler: The Feeling",
+      "poster": "https://image.tmdb.org/t/p/w500/92bo4Jp2YevmwXoxzGNtEMsgRRO.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt3804556",
+      "type": "movie",
+      "name": "Chelsea Peretti: One of the Greats",
+      "poster": "https://image.tmdb.org/t/p/w500/ijpc2gcdK5xrBX8uMYefh2S5378.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:1805664",
+      "type": "movie",
+      "name": "Chloe Radcliffe: Eyes Down Here",
+      "poster": "https://image.tmdb.org/t/p/w500/iBSoaJnt1Bj3l8chbr6aH68uWNu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3394592",
+      "type": "movie",
+      "name": "Chris D'Elia: White Male. Black Comic.",
+      "poster": "https://image.tmdb.org/t/p/w500/mEbLMGmnSKrKcLfXl3ohTTTLlX7.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt7068896",
+      "type": "movie",
+      "name": "Chris D'Elia: Man on Fire",
+      "poster": "https://image.tmdb.org/t/p/w500/fn0tN4xEv8rdfWLOe7gU0eoC94Q.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt11987296",
+      "type": "movie",
+      "name": "Chris D'Elia: No Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt3777254",
+      "type": "movie",
+      "name": "Chris Distefano: The Half Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt10942332",
+      "type": "movie",
+      "name": "Chris Distefano: Size 38 Waist",
+      "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt19875708",
+      "type": "movie",
+      "name": "Chris Distefano: Speshy Weshy",
+      "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33517417",
+      "type": "movie",
+      "name": "Chris Distefano: It's Just Unfortunate",
+      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39765131",
+      "type": "movie",
+      "name": "Chris Fleming: Live at The Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt32323285",
+      "type": "movie",
+      "name": "Chris Grace: As Scarlett Johansson",
+      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1401447",
+      "type": "movie",
+      "name": "Chris Parker: Give Me One Good Reason Why I Shouldn't Throw My Phone Off This Bridge",
+      "poster": "https://image.tmdb.org/t/p/w500/9YReevJN3szF7Jqq2Wu9uEBHRiU.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1666675",
+      "type": "movie",
+      "name": "Chris Parker: Stop Being So Dramatic",
+      "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:510872",
+      "type": "movie",
+      "name": "Is That… Chris Ramsey?",
+      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:1279401",
+      "type": "movie",
+      "name": "Chris Ramsey: Live from London",
+      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt31869794",
+      "type": "movie",
+      "name": "Chris Ramsey Live: All Growed Up",
+      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt23625326",
+      "type": "movie",
+      "name": "Chris Redd: Why Am I Like This?",
+      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt27515738",
+      "type": "movie",
+      "name": "Chris Robinson: Panning for Gold",
+      "poster": "https://image.tmdb.org/t/p/w500/lauXvkbZhtbOkz3gSNnAyiubnRo.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0236102",
+      "type": "movie",
+      "name": "Chris Rock: Big Ass Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/MKBivBeYBdo0IHcW1iGJ9KF0lA.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0200529",
+      "type": "movie",
+      "name": "Chris Rock: Bring the Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/iKBOkpJY53iCc5Ur3DjxVnlbd26.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0206636",
+      "type": "movie",
+      "name": "Chris Rock: Bigger & Blacker",
+      "poster": "https://image.tmdb.org/t/p/w500/b5T4xRePE7VckU5xAFZh6jUEgD0.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0405832",
+      "type": "movie",
+      "name": "Chris Rock: Never Scared",
+      "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1213574",
+      "type": "movie",
+      "name": "Chris Rock: Kill the Messenger",
+      "poster": "https://image.tmdb.org/t/p/w500/cIuIOVRl558GziBkX3GbpsVGaik.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt8005338",
+      "type": "movie",
+      "name": "Chris Rock: Tamborine",
+      "poster": "https://image.tmdb.org/t/p/w500/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt23571908",
+      "type": "movie",
+      "name": "Chris Rock: Selective Outrage",
+      "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39398671",
+      "type": "movie",
+      "name": "Chris Spencer: GOAT Adjacent",
+      "poster": "https://image.tmdb.org/t/p/w500/y9JOnlKrjYhWLsHdKfqe7kCiQqF.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1284020",
+      "type": "movie",
+      "name": "Christel de Laat: Zijn daar nog vragen over?",
+      "poster": "https://image.tmdb.org/t/p/w500/AmeVAkPOzR7zqSZ8NTOBJgodlC7.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt10960410",
+      "type": "movie",
+      "name": "Christian Fuhlendorff : To make a short story long",
+      "poster": "https://image.tmdb.org/t/p/w500/A9DdoAFj9ypmqWYwYB3QsK0Si3l.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt13081040",
+      "type": "movie",
+      "name": "Christian Fuhlendorff: Går over i Historien - Del 1",
+      "poster": "https://image.tmdb.org/t/p/w500/98s8umJQSMHkMb3mrBfsm9JGBgV.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:962709",
+      "type": "movie",
+      "name": "Christian Fuhlendorff: Det Sjovt",
+      "poster": "https://image.tmdb.org/t/p/w500/f0zivqrjmhFgNwIHPRYCFq93WpF.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt30745097",
+      "type": "movie",
+      "name": "Claudia Oshry: Lean In",
+      "poster": "https://image.tmdb.org/t/p/w500/pV1ubTvaAjR6eLvXZ9WeOldR4wJ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt13701918",
+      "type": "movie",
+      "name": "Cliff Cash: Half Way There",
+      "poster": "https://image.tmdb.org/t/p/w500/z3fiLVD0WlqDE3TRgGqMteJyWo7.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt33362443",
+      "type": "movie",
+      "name": "Cliff Cash: The Long Road",
+      "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt38949061",
+      "type": "movie",
+      "name": "Cliff Cash: Thoughts And Prayers",
+      "poster": "https://image.tmdb.org/t/p/w500/9o4DfCgAP1hYZVy6vSm1WrvapfR.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39181904",
+      "type": "movie",
+      "name": "Cody Clarke: Marie",
+      "poster": "https://image.tmdb.org/t/p/w500/9tUSHm0kQtlEcmB3RsK0bxTTRqf.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1705530",
+      "type": "movie",
+      "name": "Cojo Feliz: Última Vida",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1543968",
+      "type": "movie",
+      "name": "Count Arthur Strong: And It's Goodnight from Him!",
+      "poster": "https://image.tmdb.org/t/p/w500/5w4PcPNTLZawXDJiMByz9uKciND.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1831617",
+      "type": "movie",
+      "name": "Craig Ferguson: Does This Need to Be Said?",
+      "poster": "https://image.tmdb.org/t/p/w500/ktUmYKCHI0fsk4zryIvtgGFlHw.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2523852",
+      "type": "movie",
+      "name": "Craig Ferguson: I'm Here to Help",
+      "poster": "https://image.tmdb.org/t/p/w500/6ui1V6EIWnNOqlPJVDjmdX1DyDL.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt35320799",
+      "type": "movie",
+      "name": "Craig Ferguson: I'm So Happy",
+      "poster": "https://image.tmdb.org/t/p/w500/goMFZsqjAQYrI7xCXBF9zJPsiB5.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6550456",
+      "type": "movie",
+      "name": "Cristela Alonzo: Lower Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/kO4eHzOj2745z5I3MEIXsegVFDf.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt18312376",
+      "type": "movie",
+      "name": "Cristela Alonzo: Middle Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt37966885",
+      "type": "movie",
+      "name": "Cristela Alonzo: Upper Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1405216",
+      "type": "movie",
+      "name": "Damien Power: Not So Funny Now Is It?",
+      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
+      "releaseInfo": "2024"
+    }
+  ]
+}

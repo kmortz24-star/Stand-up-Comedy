@@ -1,0 +1,354 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1247128",
+      "type": "movie",
+      "name": "Jatty Robinson: Odds are Even",
+      "poster": "https://image.tmdb.org/t/p/w500/NKSfmmyh7bFF2GCi0aRSWbA5il.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt38129244",
+      "type": "movie",
+      "name": "Jay Jurden: Yes Ma'am",
+      "poster": "https://image.tmdb.org/t/p/w500/13Y4XglXH2X11YWeVXEjBpOuU2A.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1142116",
+      "type": "movie",
+      "name": "Jay Larson: Sounds Like Bruce",
+      "poster": "https://image.tmdb.org/t/p/w500/5SBdJGksvx5ojwhLuBTPYrAdc9V.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1675303",
+      "type": "movie",
+      "name": "The 1984 Los Angeles Comedy Competition With Host Jay Leno",
+      "poster": "https://image.tmdb.org/t/p/w500/s04h8dacG0wR3Ykw7yO95lTp4OC.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt28787292",
+      "type": "movie",
+      "name": "J.B. Ball - It's My Privilege",
+      "poster": "https://image.tmdb.org/t/p/w500/vcXi2kV2CiaCdc5hyb2p3E7FM5.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1733382",
+      "type": "movie",
+      "name": "Jean-Thomas Jobin: Dix stricts trente thés un",
+      "poster": "https://image.tmdb.org/t/p/w500/sVYJGiHv4XptQf81UAWuFutDBAO.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43616650",
+      "type": "movie",
+      "name": "Jeff Arcuri: Nice to Meet You",
+      "poster": "https://image.tmdb.org/t/p/w500/pn5pu5LWufLymW6Szq6Nx0Tf93f.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0806102",
+      "type": "movie",
+      "name": "Jeff Dunham: Arguing with Myself",
+      "poster": "https://image.tmdb.org/t/p/w500/wh5KAy9lGcf7z9yv1Ax8hHVdUU2.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1143143",
+      "type": "movie",
+      "name": "Jeff Dunham: Spark of Insanity",
+      "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1295909",
+      "type": "movie",
+      "name": "Jeff Dunham's Very Special Christmas Special",
+      "poster": "https://image.tmdb.org/t/p/w500/l7W6hvdj7B3fguhxRVqps4Hgw0h.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2058636",
+      "type": "movie",
+      "name": "Jeff Dunham: Controlled Chaos",
+      "poster": "https://image.tmdb.org/t/p/w500/8LPGtz6m4g1JB9ZdkpmEcwRXNbn.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2134080",
+      "type": "movie",
+      "name": "Jeff Dunham: Birth of a Dummy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TPThkmYKUM5fNSyZT6h6guRVUG.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2461736",
+      "type": "movie",
+      "name": "Jeff Dunham: Minding the Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/ra1UaHU8bKBesaQ6BqIOaSvRk07.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4209802",
+      "type": "movie",
+      "name": "Jeff Dunham: All Over the Map",
+      "poster": "https://image.tmdb.org/t/p/w500/9o97CIpO5FgNXBYoXYxfgoV4lrz.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5038776",
+      "type": "movie",
+      "name": "Jeff Dunham: Unhinged in Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt7364706",
+      "type": "movie",
+      "name": "Jeff Dunham: Relative Disaster",
+      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10222676",
+      "type": "movie",
+      "name": "Jeff Dunham: Talking Heads",
+      "poster": "https://image.tmdb.org/t/p/w500/canWC7bnPpazySwLRt1fc6KVUgk.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt10847194",
+      "type": "movie",
+      "name": "Jeff Dunham: Beside Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/vOEVIc3b5SVeHPSThos7YbYLCSc.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt23318056",
+      "type": "movie",
+      "name": "Jeff Dunham: Me the People",
+      "poster": "https://image.tmdb.org/t/p/w500/kEaVVOuwLudLPp5dA8teacReGlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt31013184",
+      "type": "movie",
+      "name": "Jeff Dunham: I'm with Cupid",
+      "poster": "https://image.tmdb.org/t/p/w500/orK8fCKLh2RBwmXzAojlPErehD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33746385",
+      "type": "movie",
+      "name": "Jeff Dunham's Scrooged-Up Holiday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oE9faryVTtq78Qbr9izE3lGq1SA.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1734155",
+      "type": "movie",
+      "name": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/g9J7up2TMdiXFMfNvfP3bMywqRh.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt34611113",
+      "type": "movie",
+      "name": "Jeff Dye: Last Cowboy in LA",
+      "poster": "https://image.tmdb.org/t/p/w500/cBMRIY5nsknFpUlvekULKlZpU9q.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt42836662",
+      "type": "movie",
+      "name": "Jeff Foxworthy: The Joke's On Me",
+      "poster": "https://image.tmdb.org/t/p/w500/lSK1mmXLHfJA4P1KY9zRMNLnuSd.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt36543451",
+      "type": "movie",
+      "name": "Jeff Innocent - Smart Casual",
+      "poster": "https://image.tmdb.org/t/p/w500/xsho8sIpqVQvC0Jr4gEOpMd9XHa.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39901552",
+      "type": "movie",
+      "name": "Jeff Ross: Take a Banana for the Ride",
+      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1223641",
+      "type": "movie",
+      "name": "Jeff Scheen: Only Weirdo",
+      "poster": "https://image.tmdb.org/t/p/w500/8AYSLXjWtxqXbg5sJcMgJlsR5yI.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt33063230",
+      "type": "movie",
+      "name": "Jeff Scheen: All of It",
+      "poster": "https://image.tmdb.org/t/p/w500/3SL1OYGshF8vheAKMdYjMlZSqf6.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt4703660",
+      "type": "movie",
+      "name": "Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)",
+      "poster": "https://image.tmdb.org/t/p/w500/6hgsz7jukKMbu426dunxSd2wjdp.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt6386352",
+      "type": "movie",
+      "name": "Jen Kirkman: Just Keep Livin'?",
+      "poster": "https://image.tmdb.org/t/p/w500/xnHq2r9UaMt0GG5A5GYtBUcAjJF.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10971520",
+      "type": "movie",
+      "name": "Jenny Slate: Stage Fright",
+      "poster": "https://image.tmdb.org/t/p/w500/5OtkrwL9suQZd460jG0Q8bZgcb4.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt30841122",
+      "type": "movie",
+      "name": "Jenny Slate: Seasoned Professional",
+      "poster": "https://image.tmdb.org/t/p/w500/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt27003031",
+      "type": "movie",
+      "name": "Jenny Zigrino: Jen-Z",
+      "poster": "https://image.tmdb.org/t/p/w500/j2SaAa0CYdHZZLd6zkhSOHQQoOq.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39281560",
+      "type": "movie",
+      "name": "Jérémy Ferrari - Vends 2 pièces à Beyrouth",
+      "poster": "https://image.tmdb.org/t/p/w500/pCYvIlBhzOYQ6lNMKKHQKxd30IM.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:1480308",
+      "type": "movie",
+      "name": "Jérémy Lorca : Viens, on se marre",
+      "poster": "https://image.tmdb.org/t/p/w500/q1IMoQMnSDLLyQJSmQvksHj1F3.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37676169",
+      "type": "movie",
+      "name": "Jeroen Leenders: Van de partij",
+      "poster": "https://image.tmdb.org/t/p/w500/sG8za5lpRxcn0eSVWtYxBzJEMJ8.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt3741146",
+      "type": "movie",
+      "name": "Jerrod Carmichael: Love at the Store",
+      "poster": "https://image.tmdb.org/t/p/w500/iZKcw9Aq9g4b7vkiwKu04m8p9a5.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6669086",
+      "type": "movie",
+      "name": "Jerrod Carmichael: 8",
+      "poster": "https://image.tmdb.org/t/p/w500/8FQ9vcZyLe29Ja2LRYQhf5gHD3w.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt18949702",
+      "type": "movie",
+      "name": "Jerrod Carmichael: Rothaniel",
+      "poster": "https://image.tmdb.org/t/p/w500/klYNX97TLtWz4zfaByWsoLH2BGT.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt36437611",
+      "type": "movie",
+      "name": "Jerrod Carmichael: Don't Be Gay",
+      "poster": "https://image.tmdb.org/t/p/w500/dwGvAqAtA9pQl0uRckSXNahdpYq.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0500140",
+      "type": "movie",
+      "name": "Jerry Seinfeld: I'm Telling You for the Last Time",
+      "poster": "https://image.tmdb.org/t/p/w500/jffjpqXw6W9x6etUSYBkMPEQWRY.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt12117854",
+      "type": "movie",
+      "name": "Jerry Seinfeld: 23 Hours to Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/qvAymJkltRoaxvievYiJfXGusD3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt35699057",
+      "type": "movie",
+      "name": "Jessica Kirson: I'm the Man",
+      "poster": "https://image.tmdb.org/t/p/w500/w4cBtYKz8oQy7zGvW571qDIol6b.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt21327638",
+      "type": "movie",
+      "name": "Entre Nos Presents: Jesus Sepulveda: Mr. Tough Life",
+      "poster": "https://image.tmdb.org/t/p/w500/kz7Kb3KUBGH5kLDMQuXfo1RQVxY.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1622325",
+      "type": "movie",
+      "name": "Befor We Start",
+      "poster": "https://image.tmdb.org/t/p/w500/9BySXsyt129wvZrqTZFtQOye74k.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tmdb:931327",
+      "type": "movie",
+      "name": "Jethro - From Behind the Bushes",
+      "poster": "https://image.tmdb.org/t/p/w500/woM5PBWB01fidkVZFljR79xbqjw.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt1799109",
+      "type": "movie",
+      "name": "Jethro: Ready For Battle",
+      "poster": "https://image.tmdb.org/t/p/w500/9dWgjM7M8RT4ZimCAekp4Eeun24.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tmdb:144683",
+      "type": "movie",
+      "name": "Jethro: Off The Wall - Live",
+      "poster": "https://image.tmdb.org/t/p/w500/40b6hK8K5vmgN7Ry3rSf4V5I53Q.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1861357",
+      "type": "movie",
+      "name": "Jethro: I Told It My Way",
+      "poster": "https://image.tmdb.org/t/p/w500/gfptGn9JSkoI5eSraxTqRPbngWZ.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tmdb:376924",
+      "type": "movie",
+      "name": "Jethro Live: 40 Years The Joker",
+      "poster": "https://image.tmdb.org/t/p/w500/gjWPA3C4zwofgu6LpZsr2Gy2dmg.jpg",
+      "releaseInfo": "2015"
+    }
+  ]
+}
