@@ -50,6 +50,13 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "tt50546388",
+      "type": "movie",
+      "name": "Ed Gamble: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/5OtQt3UxctcYp9y90YXi2I1zEkn.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1679592",
       "type": "movie",
       "name": "Ed Night: Hour Long Clip",
@@ -342,13 +349,6 @@
       "name": "Franck Dubosc - Fifty / Fifty",
       "poster": "https://image.tmdb.org/t/p/w500/lNpm1GaXrgBy1rAQcc32KeEPBFK.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:918336",
-      "type": "movie",
-      "name": "Franco Escamilla: Rispida Rapsodia Regia",
-      "poster": "https://image.tmdb.org/t/p/w500/8wyzuesxHGAAbhuuz76bzGGoPbb.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

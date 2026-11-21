@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1669261",
+      "type": "movie",
+      "name": "Félix Dhjan - Nuances",
+      "poster": "https://image.tmdb.org/t/p/w500/An0uSD0y5AhAYDgSWybq81Eog69.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt41973417",
       "type": "movie",
       "name": "KillTonyMania",
@@ -341,13 +348,6 @@
       "type": "movie",
       "name": "Nick Swardson: Toilet Head",
       "poster": "https://image.tmdb.org/t/p/w500/rEy4uoN2ANeM1WZcmLELhREotNw.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1631346",
-      "type": "movie",
-      "name": "Roman Frayssinet : Ô delà",
-      "poster": "https://image.tmdb.org/t/p/w500/jeFY9hrchhHwZ8cvenu2H0FIvUC.jpg",
       "releaseInfo": "2026"
     }
   ]

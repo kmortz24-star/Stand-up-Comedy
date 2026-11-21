@@ -1,19 +1,19 @@
 {
   "counts": {
     "Comedy Roulette": 35,
-    "New Specials": 318,
+    "New Specials": 319,
     "Hidden Gems": 30,
     "Comedy Legends": 24,
     "Viral & Rising Comedians": 4,
     "Comedians ABCD": 329,
-    "EFGH": 141,
+    "EFGH": 142,
     "IJKL": 322,
     "MNOP": 243,
     "QRST": 265,
     "UVWXYZ": 56,
     "Roasts & Comedy Events": 5
   },
-  "total_unique_records": 1554,
+  "total_unique_records": 1557,
   "needs_review": [
     {
       "id": "tt0949330",
@@ -2549,6 +2549,32 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "tmdb:1836326",
+      "tmdb_id": 1836326,
+      "title": "ابوطالب: جوانان فریب خورده",
+      "performer": "ابوطالب",
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-21"
+    },
+    {
+      "id": "tmdb:1836349",
+      "tmdb_id": 1836349,
+      "title": "ابوطالب: او یک فرشته نبود",
+      "performer": "ابوطالب",
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-21"
     }
   ]
 }
