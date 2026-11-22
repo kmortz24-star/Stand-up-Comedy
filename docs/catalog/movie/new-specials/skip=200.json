@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt38994128",
+      "type": "movie",
+      "name": "Robby Hoffman: Wake Up",
+      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39181904",
+      "type": "movie",
+      "name": "Cody Clarke: Marie",
+      "poster": "https://image.tmdb.org/t/p/w500/9tUSHm0kQtlEcmB3RsK0bxTTRqf.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1598850",
+      "type": "movie",
+      "name": "Alfie Brown: The Last Cancelled Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/xUEcN193dMl3OYzEZP4WlfjaoFH.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1597512",
       "type": "movie",
       "name": "Doully : Hier j'arrête !",
@@ -326,27 +347,6 @@
       "type": "movie",
       "name": "Matt McCusker: A Humble Offering",
       "poster": "https://image.tmdb.org/t/p/w500/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1558737",
-      "type": "movie",
-      "name": "Le gala du Do You Comedy de Saint-Tropez",
-      "poster": "https://image.tmdb.org/t/p/w500/cQj4Mbn631GpFL0czaIROaTOg9.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1729014",
-      "type": "movie",
-      "name": "Hugo Sousa: Premissas",
-      "poster": "https://image.tmdb.org/t/p/w500/xEaCtZVmOx5GHylExXdFV7wEi6C.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1555016",
-      "type": "movie",
-      "name": "Ashamed to Know You",
-      "poster": "https://image.tmdb.org/t/p/w500/bfVlpPzP4ZsdmotK0Rf7dL6XakH.jpg",
       "releaseInfo": "2025"
     }
   ]

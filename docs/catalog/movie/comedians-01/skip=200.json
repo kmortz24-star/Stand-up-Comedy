@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt51299438",
+      "type": "movie",
+      "name": "Chad Daniels: Nothing to Fix",
+      "poster": "https://image.tmdb.org/t/p/w500/vdhEItUnLOn38iBfzHZpUbR7ZpW.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1769517",
       "type": "movie",
       "name": "Charles Haycock: Freezer Baby",
@@ -341,13 +348,6 @@
       "name": "Cristela Alonzo: Upper Classy",
       "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1405216",
-      "type": "movie",
-      "name": "Damien Power: Not So Funny Now Is It?",
-      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

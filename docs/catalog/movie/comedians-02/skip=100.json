@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt38570199",
+      "type": "movie",
+      "name": "Goran Vincic: I Love You So",
+      "poster": "https://image.tmdb.org/t/p/w500/w4qCeHaR7fjj4tAoT4tNn8hvBoC.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1401881",
       "type": "movie",
       "name": "Grace Jarvis: This is the Last Goldfish That I Am Going to Eat For You",

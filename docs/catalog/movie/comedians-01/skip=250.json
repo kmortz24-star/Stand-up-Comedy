@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1405216",
+      "type": "movie",
+      "name": "Damien Power: Not So Funny Now Is It?",
+      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1199723",
       "type": "movie",
       "name": "Dan Andersen: Holder 100",
@@ -341,13 +348,6 @@
       "name": "Dave Merheje: Good Friend Bad Grammar",
       "poster": "https://image.tmdb.org/t/p/w500/oUNRIzBYJGYi6EJ4kesQIGJ5kMD.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tt38793681",
-      "type": "movie",
-      "name": "David Castello-Lopes : Authentique",
-      "poster": "https://image.tmdb.org/t/p/w500/dQQoP3sQNWt9chPNdCaDpI3Gfl6.jpg",
-      "releaseInfo": "2022"
     }
   ]
 }

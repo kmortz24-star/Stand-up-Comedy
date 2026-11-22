@@ -20239,5 +20239,57 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-21"
+  },
+  {
+    "id": "tt50202569",
+    "tmdb_id": 1823264,
+    "title": "Gareth Reynolds: Why Aren't You Bigger?",
+    "performer": "Gareth Reynolds",
+    "release_date": "2026-11-10",
+    "poster_path": "/lHnkaBYAA3KdqAyPR2fgKWrGlWp.jpg",
+    "popularity": 0.2417,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-22"
+  },
+  {
+    "id": "tt51299438",
+    "tmdb_id": 1828300,
+    "title": "Chad Daniels: Nothing to Fix",
+    "performer": "Chad Daniels",
+    "release_date": "2026-11-19",
+    "poster_path": "/vdhEItUnLOn38iBfzHZpUbR7ZpW.jpg",
+    "popularity": 0.0533,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-22"
+  },
+  {
+    "id": "tt51547996",
+    "tmdb_id": 1830978,
+    "title": "Dustin Nickerson: Is That Your Dad?!",
+    "performer": "Dustin Nickerson",
+    "release_date": "2026-11-19",
+    "poster_path": "/5mCtlSk7vC3EI9V3P1cQk943aRu.jpg",
+    "popularity": 0.0845,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-22"
+  },
+  {
+    "id": "tmdb:1837248",
+    "tmdb_id": 1837248,
+    "title": "Gabriel Iglesias: Lone Star Fluffy",
+    "performer": "Gabriel Iglesias",
+    "release_date": "2026-12-24",
+    "poster_path": "/kZpPVfPFPVl83ucJz3qGzf49WRK.jpg",
+    "popularity": 0.0,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-22"
   }
 ]

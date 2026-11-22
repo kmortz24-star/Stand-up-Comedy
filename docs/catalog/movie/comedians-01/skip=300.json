@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt38793681",
+      "type": "movie",
+      "name": "David Castello-Lopes : Authentique",
+      "poster": "https://image.tmdb.org/t/p/w500/dQQoP3sQNWt9chPNdCaDpI3Gfl6.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt0251656",
       "type": "movie",
       "name": "David Cross: The Pride Is Back",
@@ -193,6 +200,13 @@
       "name": "drew michael: red blue green",
       "poster": "https://image.tmdb.org/t/p/w500/3fGrQ1mMhNhVW8bH084nVCNfxyn.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tt51547996",
+      "type": "movie",
+      "name": "Dustin Nickerson: Is That Your Dad?!",
+      "poster": "https://image.tmdb.org/t/p/w500/5mCtlSk7vC3EI9V3P1cQk943aRu.jpg",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt37433245",

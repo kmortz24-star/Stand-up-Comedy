@@ -134,6 +134,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt50202569",
+      "type": "movie",
+      "name": "Gareth Reynolds: Why Aren't You Bigger?",
+      "poster": "https://image.tmdb.org/t/p/w500/lHnkaBYAA3KdqAyPR2fgKWrGlWp.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt30218365",
       "type": "movie",
       "name": "Gary Gulman: Born on 3rd Base",
@@ -342,13 +349,6 @@
       "name": "Goran Vincic: Usual Suspect",
       "poster": "https://image.tmdb.org/t/p/w500/5IxN7gd0vrxzeaPZWYdL2qZhkP8.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt38570199",
-      "type": "movie",
-      "name": "Goran Vincic: I Love You So",
-      "poster": "https://image.tmdb.org/t/p/w500/w4qCeHaR7fjj4tAoT4tNn8hvBoC.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }
