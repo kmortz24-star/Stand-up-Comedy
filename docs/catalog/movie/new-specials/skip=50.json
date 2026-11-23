@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1710092",
-      "type": "movie",
-      "name": "Ricardo O’Farrill: Corto Circuito",
-      "poster": "https://image.tmdb.org/t/p/w500/eY7xutUwX92vkrjnBKu0fse9Sjn.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt36428359",
       "type": "movie",
       "name": "Whitmer Thomas: Terminal Crew of Dudes",
@@ -280,13 +273,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1698418",
-      "type": "movie",
-      "name": "Adili Idola Celebrity Roast: Fedi Nuril",
-      "poster": "https://image.tmdb.org/t/p/w500/9R87Ru2OiwoijZQlTnSSgPgCpQL.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt41269788",
       "type": "movie",
       "name": "Wanda Sykes: Legacy",
@@ -315,13 +301,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt40898187",
-      "type": "movie",
-      "name": "The Roast of Kevin Hart",
-      "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt42172944",
       "type": "movie",
       "name": "Anjelah Johnson-Reyes: Ugly Baby",
@@ -336,6 +315,12 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt37674617",
+      "type": "movie",
+      "name": "Evil Eye Comedy Special Featuring Angelo Tsarouchas And Frank Spadone",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1688186",
       "type": "movie",
       "name": "The Birth of a Forehead",
@@ -347,6 +332,19 @@
       "type": "movie",
       "name": "Jack Tucker: Comedy Standup Hour",
       "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt38575417",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1680561",
+      "type": "movie",
+      "name": "Josh Jones - Lad On Tour",
       "releaseInfo": "2026"
     }
   ]

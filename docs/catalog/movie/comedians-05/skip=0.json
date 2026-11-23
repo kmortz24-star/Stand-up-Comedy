@@ -134,6 +134,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt2170618",
+      "type": "movie",
+      "name": "Redd Foxx: Video in a Plain Brown Wrapper",
+      "poster": "https://image.tmdb.org/t/p/w500/736bCjtJXmSLBtD1kBWtbthc2S1.jpg",
+      "releaseInfo": "1983"
+    },
+    {
       "id": "tt31498817",
       "type": "movie",
       "name": "Redouane Bougheraba : On m'appelle Marseille",
@@ -153,13 +160,6 @@
       "name": "Renee Gauthier: High Blood Italian",
       "poster": "https://image.tmdb.org/t/p/w500/ff1GfHY6InQJPbIMWU0nslbVzUv.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1706128",
-      "type": "movie",
-      "name": "Adili Idola Celebrity Roast: Reza Oktovian",
-      "poster": "https://image.tmdb.org/t/p/w500/fSprwIQDLtxMknlQJ2JPH3juNw6.jpg",
-      "releaseInfo": "2026"
     },
     {
       "id": "tt27077795",

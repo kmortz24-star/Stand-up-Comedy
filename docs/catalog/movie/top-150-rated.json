@@ -8,6 +8,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "tt13446472",
+      "type": "movie",
+      "name": "James Acaster: Cold Lasagne Hate Myself 1999",
+      "poster": "https://image.tmdb.org/t/p/w500/dzRahuPe6GlM9gKtRUQ33oCsjgH.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt0251654",
       "type": "movie",
       "name": "Dave Chappelle: Killin' Them Softly",
@@ -85,6 +92,13 @@
       "releaseInfo": "2008"
     },
     {
+      "id": "tt0814086",
+      "type": "movie",
+      "name": "Doug Stanhope: Deadbeat Hero",
+      "poster": "https://image.tmdb.org/t/p/w500/z4fWyhl3A6AtNygPMoAdifGXkHv.jpg",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "tt3210258",
       "type": "movie",
       "name": "Bo Burnham: What.",
@@ -139,6 +153,20 @@
       "name": "Blanche Gardin: I Talk to Myself",
       "poster": "https://image.tmdb.org/t/p/w500/qfQSBFfxZbdjKhoMJYFfUqT7jXE.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0116066",
+      "type": "movie",
+      "name": "Eddie Izzard: Definite Article",
+      "poster": "https://image.tmdb.org/t/p/w500/1yG50ajC6EEEQq01Y96SkXIqILy.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0808179",
+      "type": "movie",
+      "name": "Brian Regan: I Walked on the Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
+      "releaseInfo": "2004"
     },
     {
       "id": "tt0927619",
@@ -316,39 +344,11 @@
       "releaseInfo": "1983"
     },
     {
-      "id": "tt1213574",
+      "id": "tt6900644",
       "type": "movie",
-      "name": "Chris Rock: Kill the Messenger",
-      "poster": "https://image.tmdb.org/t/p/w500/cIuIOVRl558GziBkX3GbpsVGaik.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt3958494",
-      "type": "movie",
-      "name": "Jim Jefferies: Bare",
-      "poster": "https://image.tmdb.org/t/p/w500/pqGtStSCU0F3cZyEItCaqol24Mi.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt0083652",
-      "type": "movie",
-      "name": "Bill Cosby: Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/t685Vbw4q2PxgnrlBFpgZO607D0.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt2510998",
-      "type": "movie",
-      "name": "Louis C.K.: Oh My God",
-      "poster": "https://image.tmdb.org/t/p/w500/4roFbQgNik1M8oTN7anqihfNF2i.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt10810424",
-      "type": "movie",
-      "name": "Dave Chappelle: Sticks & Stones",
-      "poster": "https://image.tmdb.org/t/p/w500/onTLKNYvTQ7f86LQZEj6EAUmpjt.jpg",
-      "releaseInfo": "2019"
+      "name": "Hasan Minhaj: Homecoming King",
+      "poster": "https://image.tmdb.org/t/p/w500/clFR57vfc0BXGYFIo3LYryopyY.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

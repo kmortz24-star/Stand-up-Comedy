@@ -190,6 +190,13 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "tt18396984",
+      "type": "movie",
+      "name": "Michela Giraud: The Truth, I Swear!",
+      "poster": "https://image.tmdb.org/t/p/w500/oPrdpUiiGiBfWxUE6oBAgEsFxNp.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt11269704",
       "type": "movie",
       "name": "Michelle Wolf: Joke Show",
@@ -295,6 +302,13 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "tt18314226",
+      "type": "movie",
+      "name": "Mike Epps: Indiana Mike",
+      "poster": "https://image.tmdb.org/t/p/w500/jTfbkGEfm3OUvdl2ynZRtwzmCwG.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt30222855",
       "type": "movie",
       "name": "Mike Epps: Ready to Sell Out",
@@ -335,20 +349,6 @@
       "name": "Mike Tyson: Return of the Mike",
       "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt27241591",
-      "type": "movie",
-      "name": "Mike Vecchione: The Attractives",
-      "poster": "https://image.tmdb.org/t/p/w500/bLsSEMSWbFHAjV5PaxyKNa2nu0l.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt37357426",
-      "type": "movie",
-      "name": "Mike Vecchione: Low Income White",
-      "poster": "https://image.tmdb.org/t/p/w500/a3WkZynxYnZ5Ac3L0cNnCkjplhT.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

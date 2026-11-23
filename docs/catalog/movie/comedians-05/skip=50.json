@@ -8,6 +8,27 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt3833400",
+      "type": "movie",
+      "name": "Robert Kelly: Live at the Village Underground",
+      "poster": "https://image.tmdb.org/t/p/w500/ehYwNOW9OkOKB24X8ExdvGkChjc.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt0253594",
+      "type": "movie",
+      "name": "Robert Schimmel: Unprotected",
+      "poster": "https://image.tmdb.org/t/p/w500/8Xk2XKecRk4DspQNC2uoia7xA7G.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt1401899",
+      "type": "movie",
+      "name": "Robert Schimmel: Life Since Then",
+      "poster": "https://image.tmdb.org/t/p/w500/62S6K86WILfyJE75ziOf4oHcYvv.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "tmdb:1492677",
       "type": "movie",
       "name": "Robin Tran: Hear Me Out",
@@ -54,6 +75,13 @@
       "name": "Rodney Carrington: Here Comes the Truth",
       "poster": "https://image.tmdb.org/t/p/w500/6CzFuhg96wEHyTLiiBChUA3iCLj.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0334249",
+      "type": "movie",
+      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
+      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
+      "releaseInfo": "1986"
     },
     {
       "id": "tt0148538",
@@ -203,6 +231,13 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "tt7044010",
+      "type": "movie",
+      "name": "Rory Scovel Tries Stand-Up for the First Time",
+      "poster": "https://image.tmdb.org/t/p/w500/lGQp2uymuoOpvZmSpGnNA1pBLh4.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt15281420",
       "type": "movie",
       "name": "Rosebud Baker: Whiskey Fists",
@@ -312,41 +347,6 @@
       "name": "Rune Klan: Det stribede show",
       "poster": "https://image.tmdb.org/t/p/w500/uYL2QCHTbqxeGhocml7RdZKubaC.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:486318",
-      "type": "movie",
-      "name": "Rune Klan: Barnløs",
-      "poster": "https://image.tmdb.org/t/p/w500/9Ea3jKdssEJyTr5cl4FPrW45Myh.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:869038",
-      "type": "movie",
-      "name": "Rune Klan: Håbefuld",
-      "poster": "https://image.tmdb.org/t/p/w500/9gfBiGdnFhzBc5oGrHqQAsm1gIS.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1163513",
-      "type": "movie",
-      "name": "Rune Klan: Tvivl",
-      "poster": "https://image.tmdb.org/t/p/w500/uhemnPMf0c3f1kj5xytm1whlvGU.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1692221",
-      "type": "movie",
-      "name": "Russell Brand: Scandalous",
-      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tmdb:1103103",
-      "type": "movie",
-      "name": "Russell Brand: Brandemic",
-      "poster": "https://image.tmdb.org/t/p/w500/7GXjKlebNjh27bC0T944CkmhcpM.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

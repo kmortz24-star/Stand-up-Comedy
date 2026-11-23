@@ -1,11 +1,80 @@
 {
   "metas": [
     {
+      "id": "tt0168459",
+      "type": "movie",
+      "name": "Andrew Dice Clay: The Diceman Cometh",
+      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0101726",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Dice Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0249353",
+      "type": "movie",
+      "name": "Andrew Dice Clay: For Ladies Only",
+      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0249355",
+      "type": "movie",
+      "name": "Andrew Dice Clay: No Apologies",
+      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0249352",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Assume the Position",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0201680",
+      "type": "movie",
+      "name": "Andrew Dice Clay: I'm Over Here Now",
+      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt2605244",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Indestructible",
+      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt0152183",
       "type": "movie",
       "name": "Bill Hicks: Revelations",
       "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
       "releaseInfo": "1993"
+    },
+    {
+      "id": "tt1065071",
+      "type": "movie",
+      "name": "Bob Newhart: Off the Record",
+      "poster": "https://image.tmdb.org/t/p/w500/og4BBFFo5Y8flSYAmdEWojBt2Cp.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0472041",
+      "type": "movie",
+      "name": "Bob Newhart: Unbuttoned",
+      "poster": "https://image.tmdb.org/t/p/w500/cQ4g6xkJCsaB2PHjx4l1uGf3njd.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt33023573",
+      "type": "movie",
+      "name": "Bob Newhart: A Legacy of Laughter",
+      "poster": "https://image.tmdb.org/t/p/w500/d3vAv3CUGCTCoHB3YWf5pJd3sCO.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt28267801",
@@ -113,6 +182,33 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "tt0151327",
+      "type": "movie",
+      "name": "Lenny Bruce: Without Tears",
+      "poster": "https://image.tmdb.org/t/p/w500/GqdsBxRTjWUeHZgmcqugCLoBTh.jpg",
+      "releaseInfo": "1972"
+    },
+    {
+      "id": "tt0175844",
+      "type": "movie",
+      "name": "Lenny Bruce: Swear to Tell the Truth",
+      "poster": "https://image.tmdb.org/t/p/w500/c25HajWlwZyUoWAurRtEJ4YtE3a.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tmdb:1355277",
+      "type": "movie",
+      "name": "Lenny Bruce",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt2170618",
+      "type": "movie",
+      "name": "Redd Foxx: Video in a Plain Brown Wrapper",
+      "poster": "https://image.tmdb.org/t/p/w500/736bCjtJXmSLBtD1kBWtbthc2S1.jpg",
+      "releaseInfo": "1983"
+    },
+    {
       "id": "tt0079807",
       "type": "movie",
       "name": "Richard Pryor: Live in Concert",
@@ -147,6 +243,13 @@
       "releaseInfo": "2009"
     },
     {
+      "id": "tt0334249",
+      "type": "movie",
+      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
+      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
+      "releaseInfo": "1986"
+    },
+    {
       "id": "tt0148538",
       "type": "movie",
       "name": "Rodney Dangerfield: Nothin' Goes Right",
@@ -166,6 +269,20 @@
       "name": "I Am Sam Kinison",
       "poster": "https://image.tmdb.org/t/p/w500/4Cjt5cgUr0c6jKZnPr2jkSQExs.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0393555",
+      "type": "movie",
+      "name": "Steve Martin: On Location with Steve Martin",
+      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
+      "releaseInfo": "1976"
+    },
+    {
+      "id": "tt0356076",
+      "type": "movie",
+      "name": "Steve Martin's Best Show Ever",
+      "poster": "https://image.tmdb.org/t/p/w500/pD4FmZ9NRUj8Yut5bP7D8SSvFSF.jpg",
+      "releaseInfo": "1981"
     }
   ]
 }

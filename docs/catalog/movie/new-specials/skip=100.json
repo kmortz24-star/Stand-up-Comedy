@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt38575417",
-      "type": "movie",
-      "name": "Nikki Glaser: Good Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1680561",
-      "type": "movie",
-      "name": "Josh Jones - Lad On Tour",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:1670792",
       "type": "movie",
       "name": "Fanny Ruwet : On disait qu'on faisait la fête",
@@ -347,6 +334,20 @@
       "type": "movie",
       "name": "Evan Hull: Big Cool Bug",
       "poster": "https://image.tmdb.org/t/p/w500/7QwWDyXipafug9dIQEjVboLeYVF.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39981243",
+      "type": "movie",
+      "name": "Shane Mauss: Trips: First Dose",
+      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1634149",
+      "type": "movie",
+      "name": "Cotonou Comedy Festival",
+      "poster": "https://image.tmdb.org/t/p/w500/wOBSzigPjgNWV6evyqaPDticv54.jpg",
       "releaseInfo": "2026"
     }
   ]

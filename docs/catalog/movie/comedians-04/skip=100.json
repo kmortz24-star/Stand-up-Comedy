@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt27241591",
+      "type": "movie",
+      "name": "Mike Vecchione: The Attractives",
+      "poster": "https://image.tmdb.org/t/p/w500/bLsSEMSWbFHAjV5PaxyKNa2nu0l.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt37357426",
+      "type": "movie",
+      "name": "Mike Vecchione: Low Income White",
+      "poster": "https://image.tmdb.org/t/p/w500/a3WkZynxYnZ5Ac3L0cNnCkjplhT.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1641904",
       "type": "movie",
       "name": "Mike Vecchione: Live from the Stress Factory",
@@ -47,6 +61,20 @@
       "name": "Mission:G.I.G.G.L.E.",
       "poster": "https://image.tmdb.org/t/p/w500/zGjH2Tpruz8T9nSt0dOHJGBAXs.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1702003",
+      "type": "movie",
+      "name": "Mitch Fatel Is Magical",
+      "poster": "https://image.tmdb.org/t/p/w500/3nOi1u8ETsEYgW3YB4BSkgO3Q6.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt6344996",
+      "type": "movie",
+      "name": "Mitch Hedberg: Mitch All Together",
+      "poster": "https://image.tmdb.org/t/p/w500/tu6XRikp3wC1MuwxIVXAmQ70zAm.jpg",
+      "releaseInfo": "2003"
     },
     {
       "id": "tt38458157",
@@ -319,34 +347,6 @@
       "name": "Niels Hausgaard: Live med mer",
       "poster": "https://image.tmdb.org/t/p/w500/3gqTNW3CSTjKkLpa0wsyNSMilrf.jpg",
       "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0322658",
-      "type": "movie",
-      "name": "Niels Hausgaard: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/cBjWXHxH6RozcgwD5gsdDiumqKI.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tmdb:786626",
-      "type": "movie",
-      "name": "Niels Hausgaard: Lad os finde festen",
-      "poster": "https://image.tmdb.org/t/p/w500/8iMvGfNLjWvP3fW6x1D9mYpF7Jc.jpg",
-      "releaseInfo": "2001"
-    },
-    {
-      "id": "tt0325899",
-      "type": "movie",
-      "name": "Niels Hausgaard: Live i Cirkusbygningen",
-      "poster": "https://image.tmdb.org/t/p/w500/9gXDPJC5cknNr7oA35oXoheszHa.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt0406103",
-      "type": "movie",
-      "name": "Niels Hausgaard: Finer Han Kanten",
-      "poster": "https://image.tmdb.org/t/p/w500/cf6tUdVBbDCAYAoApQvinU75ZB7.jpg",
-      "releaseInfo": "2003"
     }
   ]
 }

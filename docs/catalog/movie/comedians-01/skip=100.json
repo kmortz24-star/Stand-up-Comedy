@@ -1,354 +1,352 @@
 {
   "metas": [
     {
-      "id": "tt35227072",
+      "id": "tt2346046",
       "type": "movie",
-      "name": "Arjen Lubach: STRIJDER",
-      "poster": "https://image.tmdb.org/t/p/w500/kAKOh4JKq3aniYOdM7IOeIJMLfy.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt27604405",
-      "type": "movie",
-      "name": "Ashley Gavin: Live in Chicago",
-      "poster": "https://image.tmdb.org/t/p/w500/6ipV6GrFzntdM66EnPe4hEVdfnP.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt21335620",
-      "type": "movie",
-      "name": "Atsuko Okatsuka: The Intruder",
-      "poster": "https://image.tmdb.org/t/p/w500/vnQZlr6BkJ3OSp6kK9YTaWCusn5.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33319618",
-      "type": "movie",
-      "name": "Atsuko Okatsuka: Father",
-      "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38793736",
-      "type": "movie",
-      "name": "Austin Nasso: Impressionable Youth",
-      "poster": "https://image.tmdb.org/t/p/w500/fjjacgMDPOYkZAmLMrOhSSXVenq.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37391335",
-      "type": "movie",
-      "name": "Aymeric Lompret : Tant Pis",
-      "poster": "https://image.tmdb.org/t/p/w500/1MfT9a2wWat5HhEI1HKBMJAbq1K.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt40525855",
-      "type": "movie",
-      "name": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
-      "poster": "https://image.tmdb.org/t/p/w500/ir2jBFW4CeQwE4kIPWdLii0eHTx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39333550",
-      "type": "movie",
-      "name": "Az – Exister",
-      "poster": "https://image.tmdb.org/t/p/w500/hvA86X4K5ipGZrvsM1NlgRMYYFp.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1588412",
-      "type": "movie",
-      "name": "Aziz Ansari: Intimate Moments for a Sensual Evening",
-      "poster": "https://image.tmdb.org/t/p/w500/nx5WPhgoGLM8U6xhPFA4r1rNsHH.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2302529",
-      "type": "movie",
-      "name": "Aziz Ansari: Dangerously Delicious",
-      "poster": "https://image.tmdb.org/t/p/w500/8YrfERnlUJyR9k1gvtapCtIWcxF.jpg",
+      "name": "Amy Schumer: Mostly Sex Stuff",
+      "poster": "https://image.tmdb.org/t/p/w500/uG7J72qZo8fUht8wE6xzjhzVjVi.jpg",
       "releaseInfo": "2012"
     },
     {
-      "id": "tt2836450",
+      "id": "tt4909348",
       "type": "movie",
-      "name": "Aziz Ansari: Buried Alive",
-      "poster": "https://image.tmdb.org/t/p/w500/rGkwXZEP1zLV6HBSbDBjxi8wXCH.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4530184",
-      "type": "movie",
-      "name": "Aziz Ansari: Live at Madison Square Garden",
-      "poster": "https://image.tmdb.org/t/p/w500/jmZKABNheJNx6etJlGTPAvmJce9.jpg",
+      "name": "Amy Schumer: Live at the Apollo",
+      "poster": "https://image.tmdb.org/t/p/w500/bZji0NPuue5QkO9K5ypvb4CoRnj.jpg",
       "releaseInfo": "2015"
     },
     {
-      "id": "tt10575038",
+      "id": "tt9770590",
       "type": "movie",
-      "name": "Aziz Ansari: Right Now",
-      "poster": "https://image.tmdb.org/t/p/w500/5vaYOkQ3MxOnxQLeKUNXiAfZVHb.jpg",
+      "name": "Amy Schumer: Growing",
+      "poster": "https://image.tmdb.org/t/p/w500/uQa9lkX1fYCpsG5Uq8ONOsqlbQw.jpg",
       "releaseInfo": "2019"
     },
     {
-      "id": "tt17005888",
+      "id": "tt20723730",
       "type": "movie",
-      "name": "Aziz Ansari: Nightclub Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/hgo2USQOTbiQR0HzwQQ7wuXSfCi.jpg",
+      "name": "Amy Schumer Presents: Parental Advisory",
+      "poster": "https://image.tmdb.org/t/p/w500/cDwZI6SbCO92tTBDCYueO4vpMAu.jpg",
       "releaseInfo": "2022"
     },
     {
-      "id": "tt12776826",
+      "id": "tt27791865",
       "type": "movie",
-      "name": "Basile: Growing Up Greek in America II",
-      "poster": "https://image.tmdb.org/t/p/w500/oTS8nvVR4Vcbv3Ge7E54aedjuF7.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt21464298",
-      "type": "movie",
-      "name": "BeBe Zahara Benet: Africa Is Not a Country",
-      "poster": "https://image.tmdb.org/t/p/w500/4hc3CEpL59dmxVxQXhS25icXkiK.jpg",
+      "name": "Amy Schumer: Emergency Contact",
+      "poster": "https://image.tmdb.org/t/p/w500/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg",
       "releaseInfo": "2023"
     },
     {
-      "id": "tt32801084",
+      "id": "tmdb:1512768",
       "type": "movie",
-      "name": "Ben Elton: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/wax5SE4LuAENNpuN1UVKg3bwJSy.jpg",
-      "releaseInfo": "2022"
+      "name": "An Evening with Dr. Katz: Live from the Comedy Central Stage",
+      "poster": "https://image.tmdb.org/t/p/w500/prif4V8QRefGiHQZfxRjTLpGMIZ.jpg",
+      "releaseInfo": "2007"
     },
     {
-      "id": "tmdb:1549798",
+      "id": "tt5615230",
       "type": "movie",
-      "name": "Ben Hunter: The Refunds Show",
-      "poster": "https://image.tmdb.org/t/p/w500/kKWPJC0Fgb0dE0q3LnBQGv9xU23.jpg",
-      "releaseInfo": "2025"
+      "name": "Anders Grau: Bekymringsfabler",
+      "poster": "https://image.tmdb.org/t/p/w500/wjZlqkzjq1m2UNxhkU93gVSOQBF.jpg",
+      "releaseInfo": "2015"
     },
     {
-      "id": "tt28656741",
+      "id": "tmdb:1196851",
       "type": "movie",
-      "name": "Ben Roy - Hyena",
-      "poster": "https://image.tmdb.org/t/p/w500/qqexDiGhfdp7EsGJLdNuDy09Q4h.jpg",
+      "name": "Anders Grau: Vamos a La Playa",
+      "poster": "https://image.tmdb.org/t/p/w500/wJg0hUQ4KKvwYlwxsk9WtWGzOZY.jpg",
       "releaseInfo": "2023"
     },
     {
-      "id": "tmdb:1483064",
+      "id": "tt0346508",
       "type": "movie",
-      "name": "Early Version of Benny Feldman's Butterfly Pavilion",
-      "poster": "https://image.tmdb.org/t/p/w500/qblrSlGTF1CHaKw96VKNOLglMvw.jpg",
-      "releaseInfo": "2025"
+      "name": "Anders Matthesen: Hva' snakker du om?",
+      "poster": "https://image.tmdb.org/t/p/w500/xkyrTejVK59IB67aZ4RiZUob8jL.jpg",
+      "releaseInfo": "2001"
     },
     {
-      "id": "tmdb:1794842",
+      "id": "tt0352127",
       "type": "movie",
-      "name": "Benny Feldman: Butterfly Pavilion",
-      "poster": "https://image.tmdb.org/t/p/w500/vpbCSQ1b3zpOUAJ9RMdSE9VkhdO.jpg",
-      "releaseInfo": "2026"
+      "name": "Anders Matthesen: 9 Års Jubilæum",
+      "poster": "https://image.tmdb.org/t/p/w500/a9QazWZXpUmaMbGGI8YX0cfeXf1.jpg",
+      "releaseInfo": "2003"
     },
     {
-      "id": "tmdb:437722",
+      "id": "tt0425509",
       "type": "movie",
-      "name": "Bérengère Krief - Le Trianon",
-      "poster": "https://image.tmdb.org/t/p/w500/rnucirlkn1aMj0ipuo19auMEvwz.jpg",
+      "name": "Anders Matthesen: Tal for dig selv",
+      "poster": "https://image.tmdb.org/t/p/w500/kPb3oTHqmdNhzQ6yBc9hfbS5LaK.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1515730",
+      "type": "movie",
+      "name": "Anders Matthesen: ...vender tilbage",
+      "poster": "https://image.tmdb.org/t/p/w500/j9szUQAMLs7O4McIlgdFD7Xi9cf.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt6387190",
+      "type": "movie",
+      "name": "Anders Matthesen: Shhh",
+      "poster": "https://image.tmdb.org/t/p/w500/52kqU1PUqL70gsGYyexjyFyCrqg.jpg",
       "releaseInfo": "2016"
     },
     {
-      "id": "tt39301669",
+      "id": "tmdb:1399425",
       "type": "movie",
-      "name": "Berk Karan: Yetim",
-      "poster": "https://image.tmdb.org/t/p/w500/hax0fQ11uA5iM84MFY0nLqAP5L6.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt39301679",
-      "type": "movie",
-      "name": "Berk Karan: Yetim Londra'da",
-      "poster": "https://image.tmdb.org/t/p/w500/2OWlNlJ3qX9T6TV4475Dy2Qq8z0.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt46083053",
-      "type": "movie",
-      "name": "Bert Gabriëls: Live vanuit de Wetstraat",
-      "poster": "https://image.tmdb.org/t/p/w500/ghCVlL2wbYf1yCMEJHXIv1jgwqz.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt6545220",
-      "type": "movie",
-      "name": "Bert Kreischer: The Machine",
-      "poster": "https://image.tmdb.org/t/p/w500/3290OL6UCXFRpbIv6nznPXkWAgy.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt8786466",
-      "type": "movie",
-      "name": "Bert Kreischer: Secret Time",
-      "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt11810424",
-      "type": "movie",
-      "name": "Bert Kreischer: Hey Big Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/5aqafBYRCqUK0ys59xRn1dK9wyF.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt26752731",
-      "type": "movie",
-      "name": "Bert Kreischer: Razzle Dazzle",
-      "poster": "https://image.tmdb.org/t/p/w500/4jIKENHrHUxFZPSN352UznKv9GA.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt35924806",
-      "type": "movie",
-      "name": "Bert Kreischer: Lucky",
-      "poster": "https://image.tmdb.org/t/p/w500/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt28997186",
-      "type": "movie",
-      "name": "Beth Stelling: If You Didn't Want Me Then",
-      "poster": "https://image.tmdb.org/t/p/w500/fMvNCGHV8a76GOFihi3wv9udglB.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt37532034",
-      "type": "movie",
-      "name": "Beth Stelling: The Landlord Special",
-      "poster": "https://image.tmdb.org/t/p/w500/9lATGlE5zKSS16zFXjwpfOfO9yz.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt27437956",
-      "type": "movie",
-      "name": "Big Jay Oakerson: Dog Belly",
-      "poster": "https://image.tmdb.org/t/p/w500/28NHHxkz9XZgpv1qBUpy2n7YeZX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt36095265",
-      "type": "movie",
-      "name": "Big Jay Oakerson: They",
-      "poster": "https://image.tmdb.org/t/p/w500/1gHBOuBANf3jzNpL6tqwJ31qVKT.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1664093",
-      "type": "movie",
-      "name": "Bill Bailey: Thoughtifier",
-      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0666199",
-      "type": "movie",
-      "name": "Bill Burr: One Night Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1254947",
-      "type": "movie",
-      "name": "Bill Burr: Why Do I Do This?",
-      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt1717578",
-      "type": "movie",
-      "name": "Bill Burr: Let It Go",
-      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2290153",
-      "type": "movie",
-      "name": "Bill Burr: You People Are All The Same",
-      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3823690",
-      "type": "movie",
-      "name": "Bill Burr: I'm Sorry You Feel That Way",
-      "poster": "https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt6184894",
-      "type": "movie",
-      "name": "Bill Burr: Walk Your Way Out",
-      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10847306",
-      "type": "movie",
-      "name": "Bill Burr: Paper Tiger",
-      "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt20723672",
-      "type": "movie",
-      "name": "Bill Burr Presents: Friends Who Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/9gSpgNwjP3Qg8LAsrBgo1Fu6QdL.jpg",
+      "name": "Curraràs",
+      "poster": "https://image.tmdb.org/t/p/w500/qpy7d3kB6FNzVIkUDzKYtDwFy8X.jpg",
       "releaseInfo": "2022"
     },
     {
-      "id": "tt21106500",
+      "id": "tmdb:1399427",
       "type": "movie",
-      "name": "Bill Burr: Live at Red Rocks",
-      "poster": "https://image.tmdb.org/t/p/w500/w3VmDVhgVq8c9lWNkMzsSeJIdgA.jpg",
-      "releaseInfo": "2022"
+      "name": "Que ens bombin a tots",
+      "poster": "https://image.tmdb.org/t/p/w500/6UBhCBQDDN2dMj7qm83yMk5f9Lb.jpg",
+      "releaseInfo": "2023"
     },
     {
-      "id": "tt34686029",
+      "id": "tt0168459",
       "type": "movie",
-      "name": "Bill Burr: Drop Dead Years",
-      "poster": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
-      "releaseInfo": "2025"
+      "name": "Andrew Dice Clay: The Diceman Cometh",
+      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
+      "releaseInfo": "1988"
     },
     {
-      "id": "tt0083652",
+      "id": "tt0101726",
       "type": "movie",
-      "name": "Bill Cosby: Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/t685Vbw4q2PxgnrlBFpgZO607D0.jpg",
-      "releaseInfo": "1983"
+      "name": "Andrew Dice Clay: Dice Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
+      "releaseInfo": "1991"
     },
     {
-      "id": "tt3053202",
+      "id": "tt0249353",
       "type": "movie",
-      "name": "Bill Cosby: Far From Finished",
-      "poster": "https://image.tmdb.org/t/p/w500/49Z6MXy7zfzLfxE8oqzQeoDBPwu.jpg",
-      "releaseInfo": "2013"
+      "name": "Andrew Dice Clay: For Ladies Only",
+      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
+      "releaseInfo": "1992"
     },
     {
-      "id": "tt0152183",
+      "id": "tt0249355",
       "type": "movie",
-      "name": "Bill Hicks: Revelations",
-      "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
+      "name": "Andrew Dice Clay: No Apologies",
+      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
       "releaseInfo": "1993"
     },
     {
-      "id": "tt18271228",
+      "id": "tt0249352",
       "type": "movie",
-      "name": "Bill Maher: #Adulting",
-      "poster": "https://image.tmdb.org/t/p/w500/7CwC1vVE6Zzs4pGlhYpw5THJijq.jpg",
+      "name": "Andrew Dice Clay: Assume the Position",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0201680",
+      "type": "movie",
+      "name": "Andrew Dice Clay: I'm Over Here Now",
+      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt2605244",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Indestructible",
+      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tmdb:1681678",
+      "type": "movie",
+      "name": "Andrew Ivimey - Let’s Go",
+      "poster": "https://image.tmdb.org/t/p/w500/c14r7LdBBCvMHwCjmcrE6VZyczt.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5875632",
+      "type": "movie",
+      "name": "Andrew Santino: Homefield Advantage",
+      "poster": "https://image.tmdb.org/t/p/w500/jFvA7qkcgNyv54BPJHlVRLCt9Ul.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt24640480",
+      "type": "movie",
+      "name": "Cheeseburger",
+      "poster": "https://image.tmdb.org/t/p/w500/r4rzop9rUbmJ3C9Oqk7wO62STcL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt34381932",
+      "type": "movie",
+      "name": "Andrew Santino: White Noise",
+      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:818650",
+      "type": "movie",
+      "name": "Andrew Schulz: 4:4:1",
+      "poster": "https://image.tmdb.org/t/p/w500/mgK2KbvcZDJxZu1zySu1fIImsI2.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:652620",
+      "type": "movie",
+      "name": "Andrew Schulz: The Crowd Work Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oKngzrx3DBtu8FNScfAEqEC37Rk.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt15445790",
+      "type": "movie",
+      "name": "Andrew Schulz: Infamous",
+      "poster": "https://image.tmdb.org/t/p/w500/xAaSnjYMrqKxyi4N0P0F1W2NW9e.jpg",
       "releaseInfo": "2022"
     },
     {
-      "id": "tt34491055",
+      "id": "tt35705915",
       "type": "movie",
-      "name": "Bill Maher: Is Anyone Else Seeing This?",
-      "poster": "https://image.tmdb.org/t/p/w500/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg",
+      "name": "Andrew Schulz: LIFE",
+      "poster": "https://image.tmdb.org/t/p/w500/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt22059934",
+      "type": "movie",
+      "name": "Andy Field: The Andy Field Experience",
+      "poster": "https://image.tmdb.org/t/p/w500/e5K0quOrwpg3trw6cKcJctCGgJZ.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0777179",
+      "type": "movie",
+      "name": "The 2nd Annual HBO Young Comedians Show",
+      "poster": "https://image.tmdb.org/t/p/w500/5zke4yr04Nkmc78VNMhDS19Gy9u.jpg",
+      "releaseInfo": "1977"
+    },
+    {
+      "id": "tmdb:1451646",
+      "type": "movie",
+      "name": "Andy Parsons: Bafflingly Optimistic",
+      "poster": "https://image.tmdb.org/t/p/w500/66ib73iE1I3C2v29sg4O0uzYDML.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:474360",
+      "type": "movie",
+      "name": "Ane Høgsberg: Dårlig Feminist",
+      "poster": "https://image.tmdb.org/t/p/w500/yc3p5XyThBHy96i53m3VrssoBRQ.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:603512",
+      "type": "movie",
+      "name": "Ane Høgsberg: Døden har en Årsag",
+      "poster": "https://image.tmdb.org/t/p/w500/jyKwNjn1d8wxRT4qh6HZ0AqZimb.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1464769",
+      "type": "movie",
+      "name": "Ane Høgsberg: Fun",
+      "poster": "https://image.tmdb.org/t/p/w500/9wVTkVJtexO7L0XLZJAjQMfiFqL.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37674617",
+      "type": "movie",
+      "name": "Evil Eye Comedy Special Featuring Angelo Tsarouchas And Frank Spadone",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1743622",
+      "type": "movie",
+      "name": "Anisa Nandaula: You Can't Say That",
+      "poster": "https://image.tmdb.org/t/p/w500/stQPg127E0WR7Wme6B1JwutrpW3.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt27774472",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Say I Won't",
+      "poster": "https://image.tmdb.org/t/p/w500/iHc9pGfUe9YzUjg34OLmQZDtHm3.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt42172944",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Ugly Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/ux1fYlc6rtnBLc2GBpZ6efMWjRW.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2624662",
+      "type": "movie",
+      "name": "Anthony Jeselnik: Caligula",
+      "poster": "https://image.tmdb.org/t/p/w500/bwomVOksahLKETSLsf8vjky44hu.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5087554",
+      "type": "movie",
+      "name": "Anthony Jeselnik: Thoughts and Prayers",
+      "poster": "https://image.tmdb.org/t/p/w500/s257nbi40jQXFy4AyjVMT4Nhfun.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt10050780",
+      "type": "movie",
+      "name": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "poster": "https://image.tmdb.org/t/p/w500/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt34225422",
+      "type": "movie",
+      "name": "Anthony Jeselnik: Bones and All",
+      "poster": "https://image.tmdb.org/t/p/w500/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1783369",
+      "type": "movie",
+      "name": "Antoni Rémillard: Impuissant",
+      "poster": "https://image.tmdb.org/t/p/w500/zOkbfFuQ4KaBDi2ckvrlfaCqJqr.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt29276114",
+      "type": "movie",
+      "name": "Antoni Syrek-Dąbrowski: Norma",
+      "poster": "https://image.tmdb.org/t/p/w500/hyaZC4xCPpMgNQqvc4TU7275c8P.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:826676",
+      "type": "movie",
+      "name": "António Raminhos: O Melhor do Pior",
+      "poster": "https://image.tmdb.org/t/p/w500/zIzjaMI9Bc7IK2O4FGyMWI1X5Ck.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt26548127",
+      "type": "movie",
+      "name": "Anubhav Singh Bassi: Bas Kar Bassi",
+      "poster": "https://image.tmdb.org/t/p/w500/mXCkGcysVC5hwBtO1n2GW0A7aKb.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt38711471",
+      "type": "movie",
+      "name": "Aparna Nancherla: Hopeful Potato",
+      "poster": "https://image.tmdb.org/t/p/w500/smxXLZkK7tp6Q0a9jmcRLWuezKi.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1628273",
+      "type": "movie",
+      "name": "We Need to Talk",
+      "poster": "https://image.tmdb.org/t/p/w500/begZh34IMryzSRkbTN7sR8O8B1L.jpg",
+      "releaseInfo": "2024"
     }
   ]
 }

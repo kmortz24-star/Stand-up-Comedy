@@ -70,6 +70,12 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt39240416",
+      "type": "movie",
+      "name": "Ian Edwards: Untitled The Comedy Special You Didn't Know You Needed",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37966885",
       "type": "movie",
       "name": "Cristela Alonzo: Upper Classy",
@@ -217,6 +223,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt37897162",
+      "type": "movie",
+      "name": "Josh Wolf: The Campfire Special",
+      "poster": "https://image.tmdb.org/t/p/w500/nSsBdWfsbfSN5F4T3pr65BF9nGL.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37649515",
       "type": "movie",
       "name": "Jim Jefferies: Two Limb Policy",
@@ -332,20 +345,6 @@
       "type": "movie",
       "name": "Eddie Pepitone: The Collapse",
       "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37666557",
-      "type": "movie",
-      "name": "Katie Boyle: Terapy",
-      "poster": "https://image.tmdb.org/t/p/w500/6hiE6JvvTZDaDYGUvUkimo8mFNd.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37446074",
-      "type": "movie",
-      "name": "It's Worth It by Dani Rovira",
-      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
       "releaseInfo": "2025"
     }
   ]

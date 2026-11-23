@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt37666557",
+      "type": "movie",
+      "name": "Katie Boyle: Terapy",
+      "poster": "https://image.tmdb.org/t/p/w500/6hiE6JvvTZDaDYGUvUkimo8mFNd.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37446074",
+      "type": "movie",
+      "name": "It's Worth It by Dani Rovira",
+      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37333173",
       "type": "movie",
       "name": "Nate Jackson: Super Funny",
@@ -143,6 +157,13 @@
       "type": "movie",
       "name": "Mike Birbiglia: The Good Life",
       "poster": "https://image.tmdb.org/t/p/w500/zAlU7tRd2jNtilSrqakkiSi02OQ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt35667233",
+      "type": "movie",
+      "name": "LowKey Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1sf4uBmtmqq3x4Gzta60lhOJ3Ly.jpg",
       "releaseInfo": "2025"
     },
     {

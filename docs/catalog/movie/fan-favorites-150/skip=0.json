@@ -232,6 +232,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tt6900644",
+      "type": "movie",
+      "name": "Hasan Minhaj: Homecoming King",
+      "poster": "https://image.tmdb.org/t/p/w500/clFR57vfc0BXGYFIo3LYryopyY.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt1717578",
       "type": "movie",
       "name": "Bill Burr: Let It Go",
@@ -342,13 +349,6 @@
       "name": "Bill Burr: Walk Your Way Out",
       "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
       "releaseInfo": "2017"
-    },
-    {
-      "id": "tt0152183",
-      "type": "movie",
-      "name": "Bill Hicks: Revelations",
-      "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
-      "releaseInfo": "1993"
     }
   ]
 }

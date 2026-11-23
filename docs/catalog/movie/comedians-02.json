@@ -64,11 +64,32 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt0337996",
+      "type": "movie",
+      "name": "Eddie Griffin: DysFunktional Family",
+      "poster": "https://image.tmdb.org/t/p/w500/jYfGKG94Mfs8HMjqXsn9aIVqGTK.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0116066",
+      "type": "movie",
+      "name": "Eddie Izzard: Definite Article",
+      "poster": "https://image.tmdb.org/t/p/w500/1yG50ajC6EEEQq01Y96SkXIqILy.jpg",
+      "releaseInfo": "1996"
+    },
+    {
       "id": "tt0184424",
       "type": "movie",
       "name": "Eddie Izzard: Dress to Kill",
       "poster": "https://image.tmdb.org/t/p/w500/mwvsA31Ei0vYaOPRjF8FBL9For7.jpg",
       "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0342317",
+      "type": "movie",
+      "name": "Eddie Izzard: Circle",
+      "poster": "https://image.tmdb.org/t/p/w500/toAzvLu1wMh884YGkFFkhu589H5.jpg",
+      "releaseInfo": "2002"
     },
     {
       "id": "tt0085474",
@@ -83,6 +104,13 @@
       "name": "Eddie Murphy Raw",
       "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
       "releaseInfo": "1987"
+    },
+    {
+      "id": "tt11045806",
+      "type": "movie",
+      "name": "Eddie Pence: The (Un)special Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/d2852w9VO2wCWzm3KDJmp4tWros.jpg",
+      "releaseInfo": "2020"
     },
     {
       "id": "tt37499050",
@@ -132,6 +160,20 @@
       "name": "Elisabeth Buffet : Obsolescence programmée",
       "poster": "https://image.tmdb.org/t/p/w500/mIhW2LJDxOTjdXT2yyx18dfitt9.jpg",
       "releaseInfo": "2020"
+    },
+    {
+      "id": "tt0365156",
+      "type": "movie",
+      "name": "Ellen DeGeneres: Here and Now",
+      "poster": "https://image.tmdb.org/t/p/w500/rSEX32XPjRyy3jrhrb1ZhMS1WSx.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt32359444",
+      "type": "movie",
+      "name": "Ellen DeGeneres: For Your Approval",
+      "poster": "https://image.tmdb.org/t/p/w500/gFR1z640P1G3IYQ9FMtiLsFDYyu.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt42395063",
@@ -239,17 +281,17 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt35667233",
+      "type": "movie",
+      "name": "LowKey Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1sf4uBmtmqq3x4Gzta60lhOJ3Ly.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1670792",
       "type": "movie",
       "name": "Fanny Ruwet : On disait qu'on faisait la fête",
       "poster": "https://image.tmdb.org/t/p/w500/zqXBkKHzu3rw4agKtKmcnOQDvSN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1698418",
-      "type": "movie",
-      "name": "Adili Idola Celebrity Roast: Fedi Nuril",
-      "poster": "https://image.tmdb.org/t/p/w500/9R87Ru2OiwoijZQlTnSSgPgCpQL.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -307,48 +349,6 @@
       "name": "Flo & Joan: Sweet Release",
       "poster": "https://image.tmdb.org/t/p/w500/dzYnBeltN5KpyUki7PcMEtlYjRe.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt11853618",
-      "type": "movie",
-      "name": "Florence Foresti : Epilogue",
-      "poster": "https://image.tmdb.org/t/p/w500/nfXfGuDhmHy88AS9cAuTZ1uBwE7.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt31962790",
-      "type": "movie",
-      "name": "Florence Foresti : Boys Boys Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/vGzv7gRpxz1gC7zkx6MZ6InFJTw.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt22373568",
-      "type": "movie",
-      "name": "Fortune Feimster: Good Fortune",
-      "poster": "https://image.tmdb.org/t/p/w500/e6uS6y0EwHnI7Fldc912y7Tcp9J.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt34253921",
-      "type": "movie",
-      "name": "Fortune Feimster: Crushing It",
-      "poster": "https://image.tmdb.org/t/p/w500/nzr70rq2m82zJc4SbGeFBVa2yuD.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt4187564",
-      "type": "movie",
-      "name": "Franck Dubosc - Il était une fois...",
-      "poster": "https://image.tmdb.org/t/p/w500/n4akKD5R3PzGOdLvmrLX41rfxCs.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt18266570",
-      "type": "movie",
-      "name": "Franck Dubosc - Fifty / Fifty",
-      "poster": "https://image.tmdb.org/t/p/w500/lNpm1GaXrgBy1rAQcc32KeEPBFK.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

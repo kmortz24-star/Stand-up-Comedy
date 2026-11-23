@@ -1,3 +1,51 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt0300261",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Hugh Hefner",
+      "poster": "https://image.tmdb.org/t/p/w500/6PaNW9QEeYmuqfjUvE8y63Hgh5v.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0236388",
+      "type": "movie",
+      "name": "The Original Kings of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/vjbEcW9OqWoXKr9e2KySG1WZlNS.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0463482",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Jerry Stiller",
+      "poster": "https://image.tmdb.org/t/p/w500/m3JDHHC33ku9NY2aBJnDjkvNaz1.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0439729",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Drew Carey",
+      "poster": "https://image.tmdb.org/t/p/w500/prcJy3DXdbOUrVNc6jUn9890LHX.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tmdb:1802648",
+      "type": "movie",
+      "name": "The Friars Lifetime Achievement Award Roast of Hugh M. Hefner",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tmdb:1802652",
+      "type": "movie",
+      "name": "New York Friars Club Roast of Chevy Chase",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt1107612",
+      "type": "movie",
+      "name": "Friars Club Roast of Don Rickles",
+      "poster": "https://image.tmdb.org/t/p/w500/qKKmoPcwJnMEPi5hltHJ4gTAvJH.jpg",
+      "releaseInfo": "1970"
+    }
+  ]
 }
