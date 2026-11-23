@@ -14,11 +14,11 @@ A GitHub Pages-hosted, Stremio-compatible **metadata catalog** for Nuvio. It doe
 8. Roasts & Comedy Events
 9–14. Six alphabetical rows, with names sorted by **first / stage name** and specials from **oldest to newest**
 
-The six alphabet IDs stay stable when we rebalance letter groups later. **No Nuvio JSON import is needed** for updates to these GitHub-hosted catalogs.
+The six alphabet IDs stay stable when we rebalance letter groups. They are currently AB / CDEFG / HIJ / KLM / NOPQR / STUVWXYZ, based on actual catalog counts. **No Nuvio JSON import is needed** for updates to these GitHub-hosted catalogs.
 
 ## How automatic discovery works (new)
 
-`fetch_tmdb.py` now discovers leads from several independent paths:
+`fetch_tmdb.py` discovers leads from several independent paths:
 
 - Multiple TMDB stand-up-specific **keywords** rather than a single tag.
 - TMDB **title search** for stand-up, specials, and roasts, with cautious title/description matching.
@@ -31,15 +31,24 @@ This will not find *every* special in every catalog, and some sources may lack p
 
 ## Clean-up safeguards
 
-`build_catalogs.py` now:
+`build_catalogs.py`:
 
 - Removes exact same-performer/title/year duplicates, preferring IMDb-compatible IDs and stronger ratings metadata.
 - Keeps unrated titles and older classics with very small vote samples. Entries with reliable, very poor ratings are excluded from the published alphabeticals.
-- Repairs explicit performer labels such as `Comedy Central Presents: Dave Attell`, where that performer is known.
+- Repairs explicit performer labels such as `Comedy Central Presents: Dave Attell`, and names that appear before a clear title separator; known names come from cached specials, configured comedians and the Wikidata roster.
+- Keeps the presenting host separate from the featured comedian when the title explicitly names both (such as Gabriel Iglesias presenting Rick Gutierrez).
 - Places roasts/group events in their dedicated row, not automatically into a comedian's solo alphabetical list.
 - Preserves the 60-item weekly Roulette layout, 150 Top Rated and 150 Fan Favorites rows and stable alphabet/catalog IDs.
 
 The underlying TMDB data remains available in `data/specials.json` for reconsideration; low ratings do not permanently delete it.
+
+## Comedy Central Presents and HBO showcases: episode discovery (new)
+
+`fetch_tv_sets.py` searches TMDB's **TV series and episode index**, independently of the movie-special search. It checks **Comedy Central Presents**, **HBO Comedy Half-Hour** and **One Night Stand**, and records each episode's show, season, episode number, featured comedian (when identifiable), and TMDB episode ID.
+
+TV candidates are saved to **`data/tv_episode_candidates.json`** on the scheduled workflow. They are **not currently placed into the alphabetical movie catalogs**. TV episodes have different metadata and playback identifiers, and mixing them into `movie` entries before Nuvio/stream compatibility is tested could produce an unplayable catalog. Once we verify a working episode route, we can merge these performers into navigable Nuvio listings. No additional API key is needed; TV lookups reuse TMDB's existing secret.
+
+Our existing independent TMDB movie records such as `Comedy Central Presents: Dave Attell` remain in the collection and can be assigned to their featured comedians.
 
 ## YouTube: candidate discovery, not playback (new)
 
@@ -49,12 +58,14 @@ Candidates go into **`data/youtube_candidates.json` only**. YouTube IDs are **no
 
 ## GitHub Actions and publishing
 
-`.github/workflows/refresh.yml` runs each day and can also be triggered manually:
+`.github/workflows/refresh.yml` runs each day and can also be triggered manually. It commits the discovery state and YouTube review candidates so each daily run can advance to *new* comedians rather than restarting at the same names:
 
 1. Offline tests (no key required).
 2. Multi-source TMDB / Wikidata discovery (requires existing `TMDB_READ_ACCESS_TOKEN` Actions secret).
-3. Optional YouTube candidate collection (`YOUTUBE_API_KEY` Actions secret).
-4. Generate and publish the static catalog in `docs/` to GitHub Pages.
+3. TV comedy-show episode discovery for review (same TMDB secret).
+4. Optional YouTube candidate collection (`YOUTUBE_API_KEY` Actions secret).
+5. Generate and publish the static catalog in `docs/` to GitHub Pages.
+6. Save the rotating discovery history to the repository, with workflow concurrency controls to minimize push conflicts.
 
 The already installed addon address stays the same: `https://kmortz24-star.github.io/Stand-up-Comedy/manifest.json`.
 
@@ -66,10 +77,12 @@ If creating the repo from scratch: make a public GitHub repository, preserve the
 - `fetch_tmdb.py`: TMDB metadata fetcher and rolling search scheduler.
 - `discovery_sources.py`: independently retrieved Wikidata people/works.
 - `fetch_youtube.py`: optional YouTube **candidate-only** retrieval.
+- `fetch_tv_sets.py`: Comedy Central Presents / HBO stand-up TV episode metadata discovery (review only).
 - `data/specials.json`: existing indexed TMDB/IMDb records (updated by Action).
 - `data/manual_additions.json`: hand corrections and extra entries. **Never place API keys here.**
 - `data/discovery_state.json`: generated, scheduled discovery cache; created at first run.
 - `data/youtube_candidates.json`: generated YouTube review leads; not in Nuvio catalogs.
+- `data/tv_episode_candidates.json`: generated TV episode review leads; not in Nuvio catalogs.
 - `docs/build_report.json`: catalog sizes and unidentified performers for review.
 - `docs/`: generated manifest and paginated catalogs.
 
@@ -78,6 +91,7 @@ Python 3.10+ with no third-party packages:
 ```sh
 python3 -m unittest discover -s tests -v
 TMDB_READ_ACCESS_TOKEN=YOUR_TOKEN python3 fetch_tmdb.py
+python3 fetch_tv_sets.py  # same TMDB token
 YOUTUBE_API_KEY=YOUR_KEY python3 fetch_youtube.py  # optional
 python3 build_catalogs.py
 ```

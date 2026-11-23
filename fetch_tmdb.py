@@ -175,12 +175,15 @@ def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
     return result - known_ids
 
 def likely_performer(title: str, cast: list[dict]) -> str | None:
-    """Prefer explicit 'Comedian: Special' title; otherwise credited self performer."""
+    """Use explicit solo-comic titles, not generic show titles or roast hosts."""
     if ":" in title:
-        prefix = title.split(":", 1)[0].strip()
-        if 1 <= len(prefix.split()) <= 5 and not re.search(
-            r"(?i)\b(roast|comedy|stand.?up|festival|special|presents|best of|collection)\b", prefix
-        ):
+        prefix, remainder = (part.strip() for part in title.split(":", 1))
+        if re.match(r"(?i)^(?:one.night stand|hbo comedy half.hour|comedy central presents)$", prefix):
+            if 1 <= len(remainder.split()) <= 4 and len(remainder) <= 55:
+                return remainder
+        if (1 <= len(prefix.split()) <= 5 and
+                not re.search(r"(?i)\b(roast|comedy|stand.?up|festival|special|presents|best of|collection|show|tour|documentary|all.star|one.night|ring)\b", prefix) and
+                not prefix.lower().startswith(("the ", "an "))):
             return prefix
     for person in cast[:6]:
         character = str(person.get("character") or "")
@@ -287,6 +290,10 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
         if not record.get("performer") and hint and name_prefix(record["title"], hint):
             record["performer"] = hint
         if previous:
+            # Don't erase a verified existing comedian credit when an updated
+            # TMDB record has incomplete/misleading cast data.
+            if not record.get("performer"):
+                record["performer"] = previous.get("performer")
             cache.pop(previous["id"], None)
             record = {**previous, **record}
         cache[record["id"]] = record

@@ -2,12 +2,12 @@
   "addon_id": "com.kevin.standup.autocatalog",
   "addon_name": "Stand-Up Comedy",
   "alphabet_groups": [
-    "ABCD",
-    "EFGH",
-    "IJKL",
-    "MNOP",
-    "QRST",
-    "UVWXYZ"
+    "AB",
+    "CDEFG",
+    "HIJ",
+    "KLM",
+    "NOPQR",
+    "STUVWXYZ"
   ],
   "weekly_roulette_count": 60,
   "weekly_hidden_gems_count": 30,
@@ -58,8 +58,16 @@
     "original kings of comedy",
     "blue collar comedy tour"
   ],
-  "performer_overrides": {},
-  "tag_overrides": {},
+  "performer_overrides": {
+    "tt4853120": "Rick Gutierrez",
+    "tmdb:529703": "Jerry Rocha",
+    "tt0666146": "Bill Maher"
+  },
+  "tag_overrides": {
+    "tt1869360": [
+      "event"
+    ]
+  },
   "excluded_ids": [],
   "roulette_group_size": 15,
   "roulette_groups": {

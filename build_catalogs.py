@@ -292,22 +292,77 @@ def month_window_start(today: date, months: int) -> date:
     return date(year, month, day)
 
 
-def recognizable_performer(title: str, config: dict) -> str | None:
-    """Repair obvious missing credits using validated roster names and titles.
+def known_performer_names(records: list[dict], config: dict, roster_names=()) -> list[str]:
+    """Use existing performer credits, curated acts and (when available) Wikidata.
 
-    In particular, 'Comedy Central Presents: Dave Attell' is a Dave Attell
-    special, not a special by a performer named 'Comedy Central Presents'.
-    No fuzzy matching is used, so unrelated titles cannot acquire a comedian.
+    This allows unnamed titles to be attributed without treating every title
+    prefix or show host as the comedian. Longest names are tested first.
     """
     names = set(config.get("legends_comedians", [])) | set(config.get("viral_rising_comedians", []))
     for roster in config.get("roulette_groups", {}).values():
         names.update(roster)
-    match = re.match(r"(?i)^(?:comedy central|hbo|netflix) presents:\s*(.+)$", title)
+    names.update(r.get("performer") for r in records if r.get("performer"))
+    names.update(roster_names)
+    by_normalized = {}
+    for name in names:
+        if not isinstance(name, str) or not (3 <= len(name.strip()) <= 80):
+            continue
+        key = norm(name).strip()
+        if key:
+            by_normalized.setdefault(key, name.strip())
+    return sorted(by_normalized.values(), key=lambda x: (-len(x), norm(x)))
+
+
+def recognizable_performer(title: str, config: dict, known_names=()) -> str | None:
+    """Recover only performers whose names are clearly stated in the title.
+
+    Avoid inferring from a generic prefix like 'One-Night Stand' or from the
+    presenter of a different comedian's special.
+    """
+    names = known_names or known_performer_names([], config)
+    names_by_key = {norm(name).strip(): name for name in names}
+    text = title.strip()
+
+    # Series with an explicit featured act after the series title.
+    match = re.match(
+        r"(?i)^(?:comedy central presents|hbo comedy half.hour|one.night stand):\s*(.+)$", text
+    )
     if match:
-        suffix = norm(match.group(1).strip())
-        for name in sorted(names, key=len, reverse=True):
-            if suffix == norm(name):
-                return name
+        featured = match.group(1).strip()
+        known = names_by_key.get(norm(featured).strip())
+        if known:
+            return known
+        # Series episode names can be the full performer credit even if the
+        # comedian is absent from our existing roster (e.g. Earthquake).
+        # Accept only plausible proper names, never 'Episode 6' / 'Best Of'.
+        words = featured.split()
+        if (1 <= len(words) <= 4 and len(featured) <= 60 and
+                all(re.match(r"^[A-ZÀ-Ý][\wÀ-ÿ.'’\-]*$", word) for word in words) and
+                not any(norm(word) in {'episode', 'season', 'special', 'best', 'of', 'show'} for word in words)):
+            return featured
+        return None
+
+    # 'Gabriel Iglesias Presents Rick Gutierrez: ...' is Rick's set, NOT
+    # Gabriel's; similarly with 'The Gentleman Jerry Rocha'. Require a known
+    # presenting performer and a capitalized 2-4 word guest name.
+    match = re.match(r"(?i)^(.{3,80}?)\s+presents\s+(?:the gentleman\s+)?([^:]+?)(?::|$)", text)
+    if match and norm(match.group(1)).strip() in names_by_key:
+        guest = match.group(2).strip()
+        if (2 <= len(guest.split()) <= 4 and
+                all(word[:1].isupper() for word in guest.split())):
+            return names_by_key.get(norm(guest).strip(), guest)
+
+    for name in names:
+        # Exact full-name prefix only. Punctuation or common performance-title
+        # separators must immediately follow; avoid matching 'Dave Attellton'.
+        if text[:len(name)].casefold() != name.casefold():
+            continue
+        suffix = text[len(name):]
+        if not suffix or re.match(
+            r"(?i)^(?:\s*[:–—-]\s*|['’]s\b|\s+(?:is|live|at|in|on|won.t|stand.?up|comedy|special)\b|\?\s+)",
+            suffix,
+        ):
+            return name
     return None
 
 
@@ -318,7 +373,7 @@ def is_event_record(record: dict, config: dict) -> bool:
                 any(term.casefold() in title for term in terms))
 
 
-def categories(records: list[dict], config: dict, today: date | None = None):
+def categories(records: list[dict], config: dict, today: date | None = None, *, roster_names=()):
     today = today or date.today()
     groups = config["alphabet_groups"]
     validate_groups(groups)
@@ -326,18 +381,25 @@ def categories(records: list[dict], config: dict, today: date | None = None):
     overrides = config.get("performer_overrides", {})
     tag_overrides = config.get("tag_overrides", {})
     accepted, unassigned = [], []
+    known_names = known_performer_names(records, config, roster_names)
 
-    for source in dedupe_same_special(records):
+    # Resolve high-confidence credits before duplicate detection. Do not
+    # rewrite data/specials.json; questionable titles remain in review.
+    prepared = []
+    for source in records:
         record = dict(source)
+        if record.get("id") in overrides:
+            record["performer"] = overrides[record["id"]]
+        else:
+            corrected = recognizable_performer(display_title(record), config, known_names)
+            if corrected:
+                record["performer"] = corrected
+        record["tags"] = sorted(set(record.get("tags") or []) | set(tag_overrides.get(record.get("id"), [])))
+        prepared.append(record)
+    deduped = dedupe_same_special(prepared)
+    for record in deduped:
         if record["id"] in excluded or release_date(record) > today or too_poorly_rated(record, config):
             continue
-        if record["id"] in overrides:
-            record["performer"] = overrides[record["id"]]
-        record["tags"] = sorted(set(record.get("tags") or []) | set(tag_overrides.get(record["id"], [])))
-        if not record.get("performer"):
-            record["performer"] = recognizable_performer(display_title(record), config)
-        # Roasts and group comedy events have their own catalog; they shouldn't
-        # be mistaken for a specific performer's solo stand-up special.
         if is_event_record(record, config):
             continue
         if not record.get("performer") or bucket_for(record["performer"], groups) is None:
@@ -377,7 +439,7 @@ def categories(records: list[dict], config: dict, today: date | None = None):
         viral_candidates, config.get("weekly_viral_rising_count", 30), "viral-rising", today
     )
     roasts = [
-        r for r in dedupe_same_special(records)
+        r for r in deduped
         if r.get("id") not in excluded and release_date(r) <= today
         and is_event_record(r, config)
     ]
@@ -429,7 +491,11 @@ def meta_preview(record: dict) -> dict:
 
 
 def build(records: list[dict], config: dict, out_dir: Path, today: date | None = None) -> dict:
-    groups, unassigned = categories(records, config, today)
+    # Wikidata roster is a discovery source, not a required runtime dependency.
+    # The data file is saved by GitHub Actions on successful refreshes.
+    state = read_json(ROOT / "data" / "discovery_state.json", {})
+    roster_names = [entry["name"] for entry in state.get("roster", []) if entry.get("name")]
+    groups, unassigned = categories(records, config, today, roster_names=roster_names)
     if out_dir.exists():
         # Scoped replacement only, never remove a workspace/repository root.
         catalog_dir = out_dir / "catalog"
