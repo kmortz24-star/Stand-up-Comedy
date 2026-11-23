@@ -244,5 +244,11 @@
     ]
   },
   "roulette_discovery_min_rating": 6.5,
-  "roulette_discovery_min_votes": 5
+  "roulette_discovery_min_votes": 5,
+  "enable_ranked_150": true,
+  "ranked_list_size": 150,
+  "top_rated_min_votes": 20,
+  "fan_favorites_min_votes": 10,
+  "fan_favorites_min_rating": 6.5,
+  "rankings_english_only": true
 }

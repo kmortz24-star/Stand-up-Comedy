@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import math
 import random
 import re
 import shutil
@@ -188,6 +189,61 @@ def weekly_roulette(records: list[dict], config: dict, today: date) -> tuple[lis
     return chosen, details
 
 
+
+def ranked_specials(records: list[dict], config: dict) -> tuple[list[dict], list[dict]]:
+    """Two audience-derived rankings with different goals.
+
+    Rated is sorted by raw TMDB user rating with an explicit sample floor.
+    Favorites uses a simple positive-rating x participation score, favoring
+    broadly liked crowd favorites rather than a handful of perfect votes.
+    This is NOT a dedicated 'funniest special' poll.
+    """
+    limit = int(config.get("ranked_list_size", 150))
+    min_rated_votes = int(config.get("top_rated_min_votes", 20))
+    min_favorite_votes = int(config.get("fan_favorites_min_votes", 10))
+    min_favorite_rating = float(config.get("fan_favorites_min_rating", 6.5))
+    if limit < 1 or min_rated_votes < 1 or min_favorite_votes < 1:
+        raise ValueError("Ranking size and vote thresholds must be positive")
+
+    def valid(record: dict) -> bool:
+        # Source records without this new metadata remain eligible until the
+        # cache is gradually refreshed; explicitly non-English ones don't.
+        language = record.get("original_language")
+        if config.get("rankings_english_only", False) and language and language != "en":
+            return False
+        # Roast and event catalogs are separate; exclude only records tagged
+        # explicitly as events, rather than filtering regular comedy titles.
+        if set(record.get("tags") or []) & {"roast", "event"}:
+            return False
+        return bool(record.get("performer")) and float(record.get("vote_average") or 0) > 0
+
+    pool = [r for r in records if valid(r)]
+    top_rated = [r for r in pool if int(r.get("vote_count") or 0) >= min_rated_votes]
+    top_rated.sort(key=lambda r: (
+        -float(r.get("vote_average") or 0),
+        -int(r.get("vote_count") or 0),
+        norm(display_title(r)),
+    ))
+
+    fan_favorites = [r for r in pool if (
+        int(r.get("vote_count") or 0) >= min_favorite_votes
+        and float(r.get("vote_average") or 0) >= min_favorite_rating
+    )]
+
+    def fan_score(r: dict) -> float:
+        # Consensus strength: quality AND a substantial engaged audience.
+        # A score of 6.0 with 200 votes should not outrank a beloved 8.0.
+        return (float(r.get("vote_average") or 0) - 5.0) * math.sqrt(int(r.get("vote_count") or 0))
+
+    fan_favorites.sort(key=lambda r: (
+        -fan_score(r),
+        -float(r.get("vote_average") or 0),
+        -int(r.get("vote_count") or 0),
+        norm(display_title(r)),
+    ))
+    return top_rated[:limit], fan_favorites[:limit]
+
+
 def month_window_start(today: date, months: int) -> date:
     year = today.year
     month = today.month - months
@@ -262,6 +318,25 @@ def categories(records: list[dict], config: dict, today: date | None = None):
     ]
     roasts.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
 
+    # Backward compatible with the existing offline test fixtures; only the
+    # actual installed addon's config enables the new catalogs and ordering.
+    if config.get("enable_ranked_150", False):
+        rated, favorites = ranked_specials(accepted, config)
+        outputs = [
+            ("new-specials", "New Specials", new),
+            ("top-150-rated", "Top 150 Rated", rated),
+            ("fan-favorites-150", "150 Fan Favorites", favorites),
+            ("comedy-roulette", "Comedy Roulette", roulette),
+            ("hidden-gems", "Hidden Gems", hidden),
+            ("comedy-legends", "Comedy Legends", legends),
+            ("viral-and-rising", "Viral & Rising Comedians", viral),
+            ("roasts-events", "Roasts & Comedy Events", roasts),
+        ]
+        for index, group in enumerate(groups):
+            outputs.append((f"comedians-{index + 1:02d}",
+                            f"Comedians {group}" if index == 0 else group, alphabetical[index]))
+        return outputs, unassigned
+
     outputs = [
         ("comedy-roulette", "Comedy Roulette", roulette),
         ("new-specials", "New Specials", new),
@@ -331,6 +406,14 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             write_json(catalog_path / identifier / f"skip={terminal_skip}.json", {"metas": []})
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if config.get("enable_ranked_150", False):
+        report["rankings"] = {
+            "source": "TMDB audience vote_average + vote_count",
+            "top_150_rated": f"TMDB user average rating, minimum {config.get('top_rated_min_votes', 20)} votes",
+            "fan_favorites": "(TMDB average rating - 5) x sqrt(TMDb vote count): audience consensus/popularity proxy, NOT a dedicated funniest poll",
+            "overlap_allowed": True,
+            "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed" if config.get("rankings_english_only", False) else "All languages",
+        }
     if config.get("roulette_groups"):
         # Every alphabet row already contains validated, eligible performers.
         eligible = [record for identifier, _, items in groups
