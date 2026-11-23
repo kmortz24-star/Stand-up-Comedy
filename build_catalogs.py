@@ -324,8 +324,8 @@ def categories(records: list[dict], config: dict, today: date | None = None):
         rated, favorites = ranked_specials(accepted, config)
         outputs = [
             ("new-specials", "New Specials", new),
-            ("top-150-rated", "Top 150 Rated", rated),
-            ("fan-favorites-150", "150 Fan Favorites", favorites),
+            ("top-150-rated", "Top Rated", rated),
+            ("fan-favorites-150", "Fan Favorites", favorites),
             ("comedy-roulette", "Comedy Roulette", roulette),
             ("hidden-gems", "Hidden Gems", hidden),
             ("comedy-legends", "Comedy Legends", legends),
@@ -373,7 +373,7 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
 
     manifest = {
         "id": config["addon_id"],
-        "version": "1.0.0",
+        "version": "1.1.0",
         "name": config["addon_name"],
         "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
         "resources": ["catalog"],
