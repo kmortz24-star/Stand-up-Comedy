@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1408115",
+      "type": "movie",
+      "name": "Ricardo O’Farrill: Ciudadano Mexicano",
+      "poster": "https://image.tmdb.org/t/p/w500/2tONWKr0UJMMV4F4a9BEVnn2CZ9.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1407645",
+      "type": "movie",
+      "name": "Ricardo O’Farrill: FALACIA en vivo y a todo color",
+      "poster": "https://image.tmdb.org/t/p/w500/bQFi4UGZrC6s7wRWApo3d4uuaRk.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1710092",
+      "type": "movie",
+      "name": "Ricardo O’Farrill: Corto Circuito",
+      "poster": "https://image.tmdb.org/t/p/w500/eY7xutUwX92vkrjnBKu0fse9Sjn.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0309354",
       "type": "movie",
       "name": "Belzer Behind Bars",
@@ -29,11 +50,25 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "tt0089918",
+      "type": "movie",
+      "name": "Richard Pryor: Live and Smokin'",
+      "poster": "https://image.tmdb.org/t/p/w500/pdq8rXPK7vMLGL7124HVxioaggZ.jpg",
+      "releaseInfo": "1971"
+    },
+    {
       "id": "tt0079807",
       "type": "movie",
       "name": "Richard Pryor: Live in Concert",
       "poster": "https://image.tmdb.org/t/p/w500/zguG43yzPkiiNOyR9P1HglVNYOl.jpg",
       "releaseInfo": "1979"
+    },
+    {
+      "id": "tt0084597",
+      "type": "movie",
+      "name": "Richard Pryor: Live on the Sunset Strip",
+      "poster": "https://image.tmdb.org/t/p/w500/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "releaseInfo": "1982"
     },
     {
       "id": "tt0086194",
@@ -313,41 +348,6 @@
       "name": "Ron White: If You Quit Listening, I'll Shut Up",
       "poster": "https://image.tmdb.org/t/p/w500/25fzgwGlyuWUyViMrU4rIqTnZj8.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tt2064936",
-      "type": "movie",
-      "name": "Ronald Goedemondt: Spek",
-      "poster": "https://image.tmdb.org/t/p/w500/27pJMi6hfxNGsYcC3qBrgsTnA6G.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt5115054",
-      "type": "movie",
-      "name": "Ronald Goedemondt: Ze bestaan echt",
-      "poster": "https://image.tmdb.org/t/p/w500/b5GQFbKORdysUp9LldWhak1u82P.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt5115076",
-      "type": "movie",
-      "name": "Ronald Goedemondt: Dedication",
-      "poster": "https://image.tmdb.org/t/p/w500/pnevQolDAUVinP0l8oSgUNTQ55R.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt5172324",
-      "type": "movie",
-      "name": "Ronald Goedemondt: Binnen de Lijntjes",
-      "poster": "https://image.tmdb.org/t/p/w500/gtzLLHJzGtC9H8TXC45qn0deHkM.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt5620110",
-      "type": "movie",
-      "name": "Ronald Goedemondt: De R van Ronald",
-      "poster": "https://image.tmdb.org/t/p/w500/u8ZjaYCoPvm3rvnSmU4qZnwDLMg.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

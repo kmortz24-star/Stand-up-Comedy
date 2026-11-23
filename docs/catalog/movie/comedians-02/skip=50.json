@@ -126,6 +126,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt1395034",
+      "type": "movie",
+      "name": "Craig Ferguson: A Wee Bit o' Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/r3TbM1Hv41Z1Zc9SM39P78v2re.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "tt1831617",
       "type": "movie",
       "name": "Craig Ferguson: Does This Need to Be Said?",
@@ -306,6 +313,20 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt6502534",
+      "type": "movie",
+      "name": "Daniel Sosa: Sosafado",
+      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10438652",
+      "type": "movie",
+      "name": "Daniel Sosa: Maleducado",
+      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tmdb:1341805",
       "type": "movie",
       "name": "Daniel Sosa: Especial de Reyes Magos",
@@ -325,27 +346,6 @@
       "name": "Daniel Sosa: Especial de Día de Muertos",
       "poster": "https://image.tmdb.org/t/p/w500/mOPUEf5mimJBiuiKf7sO9Mxw0tM.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1341801",
-      "type": "movie",
-      "name": "Daniel Sosa En Vivo Desde El Woko",
-      "poster": "https://image.tmdb.org/t/p/w500/wpE72YEVSmUW55NrixJRhhdHqlu.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1329616",
-      "type": "movie",
-      "name": "Ya me quiero ir a mi casa",
-      "poster": "https://image.tmdb.org/t/p/w500/qFPDrFeIhQfKmGAgJt4EVCVwL0t.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt1054478",
-      "type": "movie",
-      "name": "Daniel Tosh: Completely Serious",
-      "poster": "https://image.tmdb.org/t/p/w500/mD1uqbeD8dQcqFOyFZiXGyGhLmr.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

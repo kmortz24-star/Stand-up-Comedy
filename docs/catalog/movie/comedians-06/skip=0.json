@@ -153,6 +153,13 @@
       "releaseInfo": "2016"
     },
     {
+      "id": "tt0422528",
+      "type": "movie",
+      "name": "Sarah Silverman: Jesus Is Magic",
+      "poster": "https://image.tmdb.org/t/p/w500/uKuAGLz9eUWw3tnuXPRChpK7lYI.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "tt2883224",
       "type": "movie",
       "name": "Sarah Silverman: We Are Miracles",
@@ -340,12 +347,6 @@
       "name": "Sheng Wang: Purple",
       "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1815131",
-      "type": "movie",
-      "name": "Shirley Souagnon - Être Humain",
-      "releaseInfo": "2023"
     }
   ]
 }

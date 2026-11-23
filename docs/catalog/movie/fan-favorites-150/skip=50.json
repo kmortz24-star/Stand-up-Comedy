@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt6562866",
+      "type": "movie",
+      "name": "Trevor Noah: Afraid of the Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/hXbNEZWoK9SeTPwZCXqx9fYrYDF.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt0152183",
       "type": "movie",
       "name": "Bill Hicks: Revelations",
@@ -71,6 +78,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "tt0084597",
+      "type": "movie",
+      "name": "Richard Pryor: Live on the Sunset Strip",
+      "poster": "https://image.tmdb.org/t/p/w500/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "releaseInfo": "1982"
+    },
+    {
       "id": "tt9170648",
       "type": "movie",
       "name": "Trevor Noah: Son of Patricia",
@@ -104,6 +118,13 @@
       "name": "John Mulaney: Baby J",
       "poster": "https://image.tmdb.org/t/p/w500/68IvnpczS3snky0W6K7SpxIGZLp.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2937390",
+      "type": "movie",
+      "name": "Mike Birbiglia: My Girlfriend's Boyfriend",
+      "poster": "https://image.tmdb.org/t/p/w500/gGLGbjB68fJ8Z0hhCUoCeWiwq1P.jpg",
+      "releaseInfo": "2013"
     },
     {
       "id": "tt1935828",
@@ -146,6 +167,13 @@
       "name": "Jim Jefferies: I Swear to God",
       "poster": "https://image.tmdb.org/t/p/w500/8GyTQCTnXE5JExI9Z8lncyRCpoO.jpg",
       "releaseInfo": "2009"
+    },
+    {
+      "id": "tt0148668",
+      "type": "movie",
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
     },
     {
       "id": "tt1560169",
@@ -320,34 +348,6 @@
       "type": "movie",
       "name": "Tom Segura: Mostly Stories",
       "poster": "https://image.tmdb.org/t/p/w500/wELcQAA77XLqYL09wZH5FAMkmnU.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt1143143",
-      "type": "movie",
-      "name": "Jeff Dunham: Spark of Insanity",
-      "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt12588160",
-      "type": "movie",
-      "name": "Jim Jefferies: Intolerant",
-      "poster": "https://image.tmdb.org/t/p/w500/h4lRLoaeISvLncMVwGt8BcecGIM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt21639094",
-      "type": "movie",
-      "name": "Gabriel Iglesias: Stadium Fluffy",
-      "poster": "https://image.tmdb.org/t/p/w500/cf96HbBBy3x5R5Jc8qcS8i7qgzD.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt6302122",
-      "type": "movie",
-      "name": "Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry",
-      "poster": "https://image.tmdb.org/t/p/w500/eOgTfgiIbrqVB9Ll0T5PtOD8RGb.jpg",
       "releaseInfo": "2016"
     }
   ]

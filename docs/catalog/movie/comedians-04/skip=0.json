@@ -85,6 +85,13 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt1820451",
+      "type": "movie",
+      "name": "Kathleen Madigan: Gone Madigan",
+      "poster": "https://image.tmdb.org/t/p/w500/vQ2oFpoucCc0s3tV6gmoqY4gSFZ.jpg",
+      "releaseInfo": "2010"
+    },
+    {
       "id": "tt38691301",
       "type": "movie",
       "name": "Kathleen Madigan: The Family Thread",
@@ -104,6 +111,13 @@
       "name": "Katie Boyle: Terapy",
       "poster": "https://image.tmdb.org/t/p/w500/6hiE6JvvTZDaDYGUvUkimo8mFNd.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt2370686",
+      "type": "movie",
+      "name": "Katt Williams: Kattpacalypse",
+      "poster": "https://image.tmdb.org/t/p/w500/lY9u57MIpTFXF8LYpz4wJTjeHlj.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tt32046453",
@@ -333,20 +347,6 @@
       "type": "movie",
       "name": "Kill Tony: Mayhem at Madison Square Garden",
       "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt31321952",
-      "type": "movie",
-      "name": "Kim Congdon: Childless Milf",
-      "poster": "https://image.tmdb.org/t/p/w500/trk1Pc2swDqiNNwAWFHsZRYOhx.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36484010",
-      "type": "movie",
-      "name": "Kim Dongha : Connect",
-      "poster": "https://image.tmdb.org/t/p/w500/uT61RfZyTiI48JLq9HJEQInEdWy.jpg",
       "releaseInfo": "2025"
     }
   ]

@@ -245,6 +245,20 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt0347752",
+      "type": "movie",
+      "name": "Paul Mooney: Analyzing White America",
+      "poster": "https://image.tmdb.org/t/p/w500/eRdHUA6NUVnrdy9zSlmiRRQNlDk.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0867339",
+      "type": "movie",
+      "name": "Paul Mooney: Know Your History - Jesus Is Black... So Was Cleopatra",
+      "poster": "https://image.tmdb.org/t/p/w500/8lZSTctMabsQTiQ4NmhBHTcpxPt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "tt0139811",
       "type": "movie",
       "name": "Paul Reiser: 3 1/2 Blocks from Home",
@@ -333,20 +347,6 @@
       "name": "Peter Kay: The Tour That Didn't Tour Tour",
       "poster": "https://image.tmdb.org/t/p/w500/2g8jQR2JmBqiq2mzHz3iIjBGhvT.jpg",
       "releaseInfo": "2011"
-    },
-    {
-      "id": "tt4943818",
-      "type": "movie",
-      "name": "Peter Kay: Live & Back on Nights",
-      "poster": "https://image.tmdb.org/t/p/w500/zMyqr8YlkELwN6E3Ye9iUafxMY1.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt15091640",
-      "type": "movie",
-      "name": "Phil Wang: Philly Philly Wang Wang",
-      "poster": "https://image.tmdb.org/t/p/w500/A4arZmJOFHw8QOjiAlqqRjdoiw4.jpg",
-      "releaseInfo": "2021"
     }
   ]
 }

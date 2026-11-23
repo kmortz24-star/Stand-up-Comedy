@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tmdb:1815131",
+      "type": "movie",
+      "name": "Shirley Souagnon - Être Humain",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt27792169",
       "type": "movie",
       "name": "Sierra Katow: Funt",
@@ -111,6 +117,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt0094089",
+      "type": "movie",
+      "name": "Swimming to Cambodia",
+      "poster": "https://image.tmdb.org/t/p/w500/33gl89Dw4y51pVK2PcSWi0PaKVi.jpg",
+      "releaseInfo": "1987"
+    },
+    {
       "id": "tt20723644",
       "type": "movie",
       "name": "Stand Out: An LGBTQ+ Celebration",
@@ -151,6 +164,13 @@
       "name": "Steph Tolev: Filth Queen",
       "poster": "https://image.tmdb.org/t/p/w500/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0838284",
+      "type": "movie",
+      "name": "Stephen Lynch: Live at the El Rey",
+      "poster": "https://image.tmdb.org/t/p/w500/qEbpA7uDKTfhM8gASjayHGEk9ZY.jpg",
+      "releaseInfo": "2004"
     },
     {
       "id": "tt2121359",
@@ -325,27 +345,6 @@
       "name": "Swann Périssé - Last Special Before the End of the World",
       "poster": "https://image.tmdb.org/t/p/w500/86aZzycuEXxZQdRhtvD57SdBWm6.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1454734",
-      "type": "movie",
-      "name": "Swann Périssé - On a fait un spectacle contre le fasc*sme...",
-      "poster": "https://image.tmdb.org/t/p/w500/qwY4d6xSmbl0EfP24jXDNXktycz.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1775649",
-      "type": "movie",
-      "name": "Swann Périssé - Calme",
-      "poster": "https://image.tmdb.org/t/p/w500/oV4AEJxJZjxRraTsH49tCKlrrwz.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1478687",
-      "type": "movie",
-      "name": "Tahnee, l'autre",
-      "poster": "https://image.tmdb.org/t/p/w500/aEdGvGceUotKeBm6ytaywKzVVi3.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

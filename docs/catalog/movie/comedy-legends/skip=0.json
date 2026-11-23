@@ -49,6 +49,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "tt0148668",
+      "type": "movie",
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
+    },
+    {
       "id": "tt0152183",
       "type": "movie",
       "name": "Bill Hicks: Revelations",
@@ -110,6 +117,20 @@
       "name": "Eddie Murphy Raw",
       "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
       "releaseInfo": "1987"
+    },
+    {
+      "id": "tt0249854",
+      "type": "movie",
+      "name": "George Carlin: On Location at USC",
+      "poster": "https://image.tmdb.org/t/p/w500/401TNpSzviX1VDzc0hzcaksONQF.jpg",
+      "releaseInfo": "1977"
+    },
+    {
+      "id": "tt0249853",
+      "type": "movie",
+      "name": "George Carlin: Again!",
+      "poster": "https://image.tmdb.org/t/p/w500/q9ooktZWvUZx8ox3OgefJmOffzC.jpg",
+      "releaseInfo": "1978"
     },
     {
       "id": "tt0248827",
@@ -182,6 +203,13 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "tt2519318",
+      "type": "movie",
+      "name": "Joan Rivers: Don't Start with Me",
+      "poster": "https://image.tmdb.org/t/p/w500/rRoaJow1NCKsxGycS78YccNybrf.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt0151327",
       "type": "movie",
       "name": "Lenny Bruce: Without Tears",
@@ -209,11 +237,25 @@
       "releaseInfo": "1983"
     },
     {
+      "id": "tt0089918",
+      "type": "movie",
+      "name": "Richard Pryor: Live and Smokin'",
+      "poster": "https://image.tmdb.org/t/p/w500/pdq8rXPK7vMLGL7124HVxioaggZ.jpg",
+      "releaseInfo": "1971"
+    },
+    {
       "id": "tt0079807",
       "type": "movie",
       "name": "Richard Pryor: Live in Concert",
       "poster": "https://image.tmdb.org/t/p/w500/zguG43yzPkiiNOyR9P1HglVNYOl.jpg",
       "releaseInfo": "1979"
+    },
+    {
+      "id": "tt0084597",
+      "type": "movie",
+      "name": "Richard Pryor: Live on the Sunset Strip",
+      "poster": "https://image.tmdb.org/t/p/w500/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "releaseInfo": "1982"
     },
     {
       "id": "tt0086194",

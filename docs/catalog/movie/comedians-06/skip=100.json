@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1454734",
+      "type": "movie",
+      "name": "Swann Périssé - On a fait un spectacle contre le fasc*sme...",
+      "poster": "https://image.tmdb.org/t/p/w500/qwY4d6xSmbl0EfP24jXDNXktycz.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1775649",
+      "type": "movie",
+      "name": "Swann Périssé - Calme",
+      "poster": "https://image.tmdb.org/t/p/w500/oV4AEJxJZjxRraTsH49tCKlrrwz.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1478687",
+      "type": "movie",
+      "name": "Tahnee, l'autre",
+      "poster": "https://image.tmdb.org/t/p/w500/aEdGvGceUotKeBm6ytaywKzVVi3.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1739199",
       "type": "movie",
       "name": "Comédie Queer, la scène des Outre-mer",
@@ -326,27 +347,6 @@
       "name": "Tobias Dybvad: Er det ikke dig fra Dybvad?",
       "poster": "https://image.tmdb.org/t/p/w500/i21jr2kdh6zVL8VTLLX87Rrbg8J.jpg",
       "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:572019",
-      "type": "movie",
-      "name": "Tobias Dybvad: Fasser partner",
-      "poster": "https://image.tmdb.org/t/p/w500/auztF1FTocduWxnUjXVjQ8jhcew.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:848722",
-      "type": "movie",
-      "name": "Tobias Dybvad: Levemand",
-      "poster": "https://image.tmdb.org/t/p/w500/xA0ulWoTS0WOTcwiF4U7m2J1IVp.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt28787142",
-      "type": "movie",
-      "name": "Todd Barry: Domestic Shorthair",
-      "poster": "https://image.tmdb.org/t/p/w500/a1lnRbjWnBk0TAnlAqUUxuA8OM4.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

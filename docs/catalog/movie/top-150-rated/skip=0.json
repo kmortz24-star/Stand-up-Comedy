@@ -260,6 +260,13 @@
       "releaseInfo": "2004"
     },
     {
+      "id": "tt0249854",
+      "type": "movie",
+      "name": "George Carlin: On Location at USC",
+      "poster": "https://image.tmdb.org/t/p/w500/401TNpSzviX1VDzc0hzcaksONQF.jpg",
+      "releaseInfo": "1977"
+    },
+    {
       "id": "tt6649108",
       "type": "movie",
       "name": "Dave Chappelle: Deep in the Heart of Texas",
@@ -302,6 +309,13 @@
       "releaseInfo": "1983"
     },
     {
+      "id": "tt0148668",
+      "type": "movie",
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
+    },
+    {
       "id": "tt21639094",
       "type": "movie",
       "name": "Gabriel Iglesias: Stadium Fluffy",
@@ -323,32 +337,18 @@
       "releaseInfo": "2010"
     },
     {
+      "id": "tt0111562",
+      "type": "movie",
+      "name": "Eddie Izzard: Unrepeatable",
+      "poster": "https://image.tmdb.org/t/p/w500/cALzW98trkiYXDJoOCr8HboQBA6.jpg",
+      "releaseInfo": "1994"
+    },
+    {
       "id": "tt1408088",
       "type": "movie",
       "name": "Stewart Lee: 41st Best Stand-Up Ever!",
       "poster": "https://image.tmdb.org/t/p/w500/A5TqisO7a0tIXBh5ywonzheY9Ri.jpg",
       "releaseInfo": "2008"
-    },
-    {
-      "id": "tt0930053",
-      "type": "movie",
-      "name": "Dara Ó Briain: Live at the Theatre Royal",
-      "poster": "https://image.tmdb.org/t/p/w500/9scgKwqsiquU74Hu38x8HzXZoSX.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt0085474",
-      "type": "movie",
-      "name": "Eddie Murphy: Delirious",
-      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt6900644",
-      "type": "movie",
-      "name": "Hasan Minhaj: Homecoming King",
-      "poster": "https://image.tmdb.org/t/p/w500/clFR57vfc0BXGYFIo3LYryopyY.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

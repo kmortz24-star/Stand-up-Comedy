@@ -1,21 +1,21 @@
 {
   "counts": {
-    "New Specials": 328,
+    "New Specials": 329,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 30,
-    "Comedy Legends": 41,
+    "Comedy Legends": 47,
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 58,
-    "Comedians AB": 276,
-    "CDEFG": 295,
-    "HIJ": 279,
-    "KLM": 271,
-    "NOPQR": 233,
-    "STUVWXYZ": 248
+    "Comedians AB": 299,
+    "CDEFG": 311,
+    "HIJ": 287,
+    "KLM": 283,
+    "NOPQR": 240,
+    "STUVWXYZ": 254
   },
-  "total_unique_records": 1853,
+  "total_unique_records": 1926,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -1736,6 +1736,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tt1320271",
+      "tmdb_id": 20930,
+      "title": "Katt Williams Presents: Katthouse Comedy",
+      "performer": null,
+      "release_date": "2009-01-20",
+      "poster_path": "/zrRcRgzaAvdr0GDu1VH947Fu6JV.jpg",
+      "popularity": 0.3905,
+      "original_language": "en",
+      "vote_average": 5.7,
+      "vote_count": 9,
+      "tags": [],
+      "last_checked": "2026-11-23"
+    },
+    {
       "id": "tt3387076",
       "tmdb_id": 235224,
       "title": "Anders",
@@ -2568,23 +2582,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 51,
+      "available_comedians": 63,
       "selected_comedians": [
-        "Paul Chowdhry",
-        "Natasha Leggero",
-        "Tim Minchin",
-        "Russell Howard",
-        "Stewart Lee",
-        "Cameron Esposito",
-        "Adam Ray",
         "Frankie Boyle",
+        "Tim Minchin",
+        "Donald Glover",
+        "Stephen Lynch",
         "Gianmarco Soresi",
-        "Ed Gamble",
-        "Doug Stanhope",
-        "Alex Edelman",
-        "Michael McIntyre",
-        "Marcello Hernández",
-        "Tig Notaro"
+        "Adam Ray",
+        "Stephen Merchant",
+        "Peter Kay",
+        "Greg Davies",
+        "Jeff Foxworthy",
+        "Joe Pera",
+        "Hank Green",
+        "Rory Scovel",
+        "Russell Howard",
+        "Eddie Griffin"
       ]
     }
   }
