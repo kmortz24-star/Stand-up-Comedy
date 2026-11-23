@@ -1,6 +1,97 @@
 {
   "metas": [
     {
+      "id": "tt35924806",
+      "type": "movie",
+      "name": "Bert Kreischer: Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt28997186",
+      "type": "movie",
+      "name": "Beth Stelling: If You Didn't Want Me Then",
+      "poster": "https://image.tmdb.org/t/p/w500/fMvNCGHV8a76GOFihi3wv9udglB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt37532034",
+      "type": "movie",
+      "name": "Beth Stelling: The Landlord Special",
+      "poster": "https://image.tmdb.org/t/p/w500/9lATGlE5zKSS16zFXjwpfOfO9yz.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt27437956",
+      "type": "movie",
+      "name": "Big Jay Oakerson: Dog Belly",
+      "poster": "https://image.tmdb.org/t/p/w500/28NHHxkz9XZgpv1qBUpy2n7YeZX.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt36095265",
+      "type": "movie",
+      "name": "Big Jay Oakerson: They",
+      "poster": "https://image.tmdb.org/t/p/w500/1gHBOuBANf3jzNpL6tqwJ31qVKT.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1664093",
+      "type": "movie",
+      "name": "Bill Bailey: Thoughtifier",
+      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0666199",
+      "type": "movie",
+      "name": "Bill Burr: One Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1254947",
+      "type": "movie",
+      "name": "Bill Burr: Why Do I Do This?",
+      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1717578",
+      "type": "movie",
+      "name": "Bill Burr: Let It Go",
+      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2290153",
+      "type": "movie",
+      "name": "Bill Burr: You People Are All The Same",
+      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3823690",
+      "type": "movie",
+      "name": "Bill Burr: I'm Sorry You Feel That Way",
+      "poster": "https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6184894",
+      "type": "movie",
+      "name": "Bill Burr: Walk Your Way Out",
+      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10847306",
+      "type": "movie",
+      "name": "Bill Burr: Paper Tiger",
+      "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tt20723672",
       "type": "movie",
       "name": "Bill Burr Presents: Friends Who Kill",
@@ -256,97 +347,6 @@
       "name": "Brett Goldstein: The Second Best Night of Your Life",
       "poster": "https://image.tmdb.org/t/p/w500/aWVT2RDf0DNorRq0felYfsUbL3t.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt35638446",
-      "type": "movie",
-      "name": "Bri Power: Perpetual Child",
-      "poster": "https://image.tmdb.org/t/p/w500/rNwfNVmbL2n1DqKT5R2A2AKml0u.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt28106045",
-      "type": "movie",
-      "name": "#Cancelholtzman",
-      "poster": "https://image.tmdb.org/t/p/w500/3nYADazjrVnDe0NcONyk1tumBv3.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt2226050",
-      "type": "movie",
-      "name": "Brian Posehn: The Fartist",
-      "poster": "https://image.tmdb.org/t/p/w500/gxRubeLNFQpqlmGTOHZfyQfY9m.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt5912600",
-      "type": "movie",
-      "name": "Brian Posehn: Criminally Posehn",
-      "poster": "https://image.tmdb.org/t/p/w500/i7NldZfG1pMSns23YeO5ta8EZM.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:1430875",
-      "type": "movie",
-      "name": "Brian Regan - Something's Wrong with the Regan Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/oH74ixg9OtcYH1BXBSjBAb4lmsN.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0808179",
-      "type": "movie",
-      "name": "Brian Regan: I Walked on the Moon",
-      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1043434",
-      "type": "movie",
-      "name": "Brian Regan: Standing Up",
-      "poster": "https://image.tmdb.org/t/p/w500/n3FSd5uCjrFC623xkMb2Yd6Cdfv.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1284973",
-      "type": "movie",
-      "name": "Brian Regan: The Epitome of Hyperbole",
-      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt5748362",
-      "type": "movie",
-      "name": "Brian Regan: Live From Radio City Music Hall",
-      "poster": "https://image.tmdb.org/t/p/w500/WGHmlFrZykmKe7OCz0ZVh04iA8.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt31024004",
-      "type": "movie",
-      "name": "Brian Roe: That's My Vibe",
-      "poster": "https://image.tmdb.org/t/p/w500/4JGazWTkh2mmG1Vy7A9U5EvYmvR.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt33063037",
-      "type": "movie",
-      "name": "Brittany Carney: That Is My Horse",
-      "poster": "https://image.tmdb.org/t/p/w500/nEIGM8Ue4jjKOD3cgC7hZozh0ft.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt33090114",
-      "type": "movie",
-      "name": "Brittany Schmitt's HORNY",
-      "poster": "https://image.tmdb.org/t/p/w500/tmR4Bly5sYwgrDMJ2KDzpuI72UO.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1789573",
-      "type": "movie",
-      "name": "Bron Lewis - Chaos",
-      "poster": "https://image.tmdb.org/t/p/w500/gCT7RgdRPngQBGvcOjeeWlTnICG.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

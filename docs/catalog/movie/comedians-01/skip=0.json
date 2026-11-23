@@ -133,10 +133,38 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt8052548",
+      "type": "movie",
+      "name": "Adam Hills - Live in the Suburbs",
+      "poster": "https://image.tmdb.org/t/p/w500/sLFKoZOAQzuBCHkoNY8gHdFajBi.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tmdb:810799",
+      "type": "movie",
+      "name": "Adam Hills - Joymonger",
+      "poster": "https://image.tmdb.org/t/p/w500/eyI4dU9vvYgIELhBhfwfNPIeHRJ.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt20853000",
+      "type": "movie",
+      "name": "Adam Hills: Stands Up Live",
+      "poster": "https://image.tmdb.org/t/p/w500/zEDReULwRV6kIIArXXgDn8DdGM3.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt31869823",
       "type": "movie",
       "name": "Channel 4's Comedy Gala 2013",
       "releaseInfo": "2013"
+    },
+    {
+      "id": "tt11091292",
+      "type": "movie",
+      "name": "Adam Hills: Take His Legs",
+      "poster": "https://image.tmdb.org/t/p/w500/wXLjgpdjMAEMiaiA0WvPEKX7ejo.jpg",
+      "releaseInfo": "2019"
     },
     {
       "id": "tt38499204",
@@ -317,34 +345,6 @@
       "name": "Al Murray, The Pub Landlord - My Gaff, My Rules",
       "poster": "https://image.tmdb.org/t/p/w500/keZavwGpuCVgqYwAdp1Vrb7XnRt.jpg",
       "releaseInfo": "2003"
-    },
-    {
-      "id": "tt0965457",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord: \"...And A Glass of White Wine for the Lady!\"",
-      "poster": "https://image.tmdb.org/t/p/w500/aCQH2veLkWGxqhbioqxI9E4vMjs.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0965458",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord - Giving It Both Barrels",
-      "poster": "https://image.tmdb.org/t/p/w500/11SqH7fTwyspZlA9vCJAnDFMMDX.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tmdb:52502",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord: Barrel of Fun Live",
-      "poster": "https://image.tmdb.org/t/p/w500/3st7ASov92XSvEth514Hg0WQi41.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt4293980",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord: The Only Way Is Epic",
-      "poster": "https://image.tmdb.org/t/p/w500/aK9FXuqO7a1BAS8kwLTqiAUbA4K.jpg",
-      "releaseInfo": "2012"
     }
   ]
 }

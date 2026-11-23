@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tt40544688",
+      "type": "movie",
+      "name": "David Cross: The End of the Beginning of the End",
+      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1324683",
+      "type": "movie",
+      "name": "David Gborie: Gbirth of a Nation",
+      "poster": "https://image.tmdb.org/t/p/w500/fu7lW6EXRXxQWu8tBt3WRDr9iQl.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1256166",
+      "type": "movie",
+      "name": "David Lucas: Uncancellable",
+      "poster": "https://image.tmdb.org/t/p/w500/g2YIupgDDS9zMI0apio1VcDUBjl.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt18955474",
+      "type": "movie",
+      "name": "David Spade: Nothing Personal",
+      "poster": "https://image.tmdb.org/t/p/w500/jc3u2yD3rpq6WyKAIpg85LnAVDe.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1574828",
+      "type": "movie",
+      "name": "David Steinberg in Concert With John Candy",
+      "poster": "https://image.tmdb.org/t/p/w500/AdmCk4Qn9wlTFMN5uc6dI7xSgy6.jpg",
+      "releaseInfo": "1984"
+    },
+    {
+      "id": "tmdb:1356994",
+      "type": "movie",
+      "name": "Todos vamos a morir",
+      "poster": "https://image.tmdb.org/t/p/w500/yUubL6TnMunHcLx7thY4cr7fExm.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1506015",
+      "type": "movie",
+      "name": "Deco Machado: Desencaixado",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1715172",
+      "type": "movie",
+      "name": "Deirdre O'Kane: Demented",
+      "poster": "https://image.tmdb.org/t/p/w500/9cKxngmPkDLL7y27s4KpYnjDH1Y.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1825512",
+      "type": "movie",
+      "name": "Deirdre O'Kane: O'Kaning It",
+      "poster": "https://image.tmdb.org/t/p/w500/ahr7cElYPxU7ALwxdQqCdG5y7yr.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0954327",
+      "type": "movie",
+      "name": "Demetri Martin. Person.",
+      "poster": "https://image.tmdb.org/t/p/w500/gaG1cisIvh6CHLkYCWncF7wJDLs.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt7725144",
+      "type": "movie",
+      "name": "Demetri Martin: The Overthinker",
+      "poster": "https://image.tmdb.org/t/p/w500/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt31916241",
+      "type": "movie",
+      "name": "Demetri Martin: Demetri Deconstructed",
+      "poster": "https://image.tmdb.org/t/p/w500/cIZwQbAZkpzip3kWXH5yPgKxWRu.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt38711469",
+      "type": "movie",
+      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
+      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt0344606",
       "type": "movie",
       "name": "Den Ægte Vare: Live i Cirkusbygningen",

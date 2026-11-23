@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt38667192",
+      "type": "movie",
+      "name": "Kathy Griffin: My Life on the PTSD-List",
+      "poster": "https://image.tmdb.org/t/p/w500/v9zRsXvMGZvhXrMPLwepDVRDRGV.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt38347318",
       "type": "movie",
       "name": "Matt McCusker: A Humble Offering",
@@ -338,13 +345,6 @@
       "type": "movie",
       "name": "Vir Das: Fool Volume",
       "poster": "https://image.tmdb.org/t/p/w500/druY5vhbnJSbFeq3V0AfDHYfXfe.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37499050",
-      "type": "movie",
-      "name": "Eddie Pepitone: The Collapse",
-      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
       "releaseInfo": "2025"
     }
   ]

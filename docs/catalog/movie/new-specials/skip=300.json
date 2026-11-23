@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt37499050",
+      "type": "movie",
+      "name": "Eddie Pepitone: The Collapse",
+      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37666557",
       "type": "movie",
       "name": "Katie Boyle: Terapy",

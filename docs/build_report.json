@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 325,
+    "New Specials": 326,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -8,14 +8,14 @@
     "Comedy Legends": 41,
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 57,
-    "Comedians ABCD": 419,
+    "Comedians ABCD": 432,
     "EFGH": 162,
     "IJKL": 361,
     "MNOP": 253,
     "QRST": 285,
     "UVWXYZ": 69
   },
-  "total_unique_records": 1840,
+  "total_unique_records": 1853,
   "needs_review": [
     {
       "id": "tmdb:1022459",

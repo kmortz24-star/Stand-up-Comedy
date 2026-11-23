@@ -80,6 +80,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1011654",
+    "tmdb_id": 1011654,
+    "title": "Ali Quandil : Industrial Curse",
+    "performer": "Ali Quandil",
+    "release_date": "2020-01-13",
+    "poster_path": "/uLqBHUU7ZOJSlStAGc24SDKfDHI.jpg",
+    "popularity": 0.0861,
+    "original_language": "ar",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt21342096",
     "tmdb_id": 1013842,
     "title": "Jo Koy: Live from the Los Angeles Forum",
@@ -143,6 +157,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1020344",
+    "tmdb_id": 1020344,
+    "title": "Alfie Brown: Sensitive Man",
+    "performer": "Alfie Brown",
+    "release_date": "2022-04-26",
+    "poster_path": "/bZRdSrzHM9GhXTjEqILkhyjuMlc.jpg",
+    "popularity": 0.1993,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tmdb:1022459",
@@ -341,6 +369,20 @@
     "vote_count": 26,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1033382",
+    "tmdb_id": 1033382,
+    "title": "Alfie Brown: Live in Liverpool",
+    "performer": "Alfie Brown",
+    "release_date": "2022-09-16",
+    "poster_path": "/tTj9L23v8XQvZDXwymuXr5IfcVV.jpg",
+    "popularity": 0.1891,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt22373568",
@@ -2924,6 +2966,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt29134283",
+    "tmdb_id": 1217099,
+    "title": "Alok",
+    "performer": "ALOK",
+    "release_date": "2024-01-18",
+    "poster_path": "/oMSDvoQdox0FnX9RlDeDHw12q1L.jpg",
+    "popularity": 0.2977,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt32227170",
     "tmdb_id": 1218439,
     "title": "Eric Rushton: Not That Deep",
@@ -4481,6 +4537,20 @@
     "vote_count": 15,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt32384787",
+    "tmdb_id": 1306169,
+    "title": "Ali Siddiq: The Domino Effect 4: Pins & Needles",
+    "performer": "Ali Siddiq",
+    "release_date": "2024-06-16",
+    "poster_path": "/f0BGhmyQzSWnjGBsgkhNZb4uynk.jpg",
+    "popularity": 0.2979,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt33034272",
@@ -7552,6 +7622,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1494375",
+    "tmdb_id": 1494375,
+    "title": "Alfie Moore: Fair Cop Unleashed",
+    "performer": "Alfie Moore",
+    "release_date": "2023-12-03",
+    "poster_path": "/uFcrecPSYDSKU6QO1SyQRvZupSA.jpg",
+    "popularity": 0.0315,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt35668659",
@@ -12537,6 +12621,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1720232",
+    "tmdb_id": 1720232,
+    "title": "Ali Siddiq: My Father",
+    "performer": "Ali Siddiq",
+    "release_date": "2026-06-21",
+    "poster_path": "/3aS0ARLho6T4ot39xRlK1Gd8VlT.jpg",
+    "popularity": 0.1726,
+    "original_language": "en",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt43615884",
     "tmdb_id": 1720246,
     "title": "Tom Cashman: The Formula for Happiness",
@@ -15722,6 +15820,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt20853000",
+    "tmdb_id": 285074,
+    "title": "Adam Hills: Stands Up Live",
+    "performer": "Adam Hills",
+    "release_date": "2012-12-20",
+    "poster_path": "/zEDReULwRV6kIIArXXgDn8DdGM3.jpg",
+    "popularity": 0.2004,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt3958494",
@@ -19797,6 +19909,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt8052548",
+    "tmdb_id": 54995,
+    "title": "Adam Hills - Live in the Suburbs",
+    "performer": "Adam Hills",
+    "release_date": "2006-01-01",
+    "poster_path": "/sLFKoZOAQzuBCHkoNY8gHdFajBi.jpg",
+    "popularity": 0.2738,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt9017614",
     "tmdb_id": 550248,
     "title": "Joe Rogan: Strange Times",
@@ -21059,6 +21185,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt11091292",
+    "tmdb_id": 655677,
+    "title": "Adam Hills: Take His Legs",
+    "performer": "Adam Hills",
+    "release_date": "2019-12-13",
+    "poster_path": "/wXLjgpdjMAEMiaiA0WvPEKX7ejo.jpg",
+    "popularity": 0.3613,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt11853618",
@@ -22631,6 +22771,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:810799",
+    "tmdb_id": 810799,
+    "title": "Adam Hills - Joymonger",
+    "performer": "Adam Hills",
+    "release_date": "2008-11-21",
+    "poster_path": "/eyI4dU9vvYgIELhBhfwfNPIeHRJ.jpg",
+    "popularity": 0.2168,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt2129950",
     "tmdb_id": 81378,
     "title": "Carlos Mencia: New Territory",
@@ -23093,6 +23247,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:876807",
+    "tmdb_id": 876807,
+    "title": "Ali Quandil: Big Child",
+    "performer": "Ali Quandil",
+    "release_date": "2019-09-14",
+    "poster_path": "/4YxJHIPIRO5ACneSlD5JAjBz0dQ.jpg",
+    "popularity": 0.1426,
+    "original_language": "ar",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
+  },
+  {
     "id": "tt11459872",
     "tmdb_id": 877802,
     "title": "Ahir Shah: Dots",
@@ -23404,6 +23572,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:922014",
+    "tmdb_id": 922014,
+    "title": "Ali Quandil : A Little Women's Topic",
+    "performer": "Ali Quandil",
+    "release_date": "2021-12-31",
+    "poster_path": "/deAqXE8DmWAEK6fNvIajhYat9hX.jpg",
+    "popularity": 0.0609,
+    "original_language": "ar",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-23"
   },
   {
     "id": "tt14174040",

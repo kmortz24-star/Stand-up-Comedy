@@ -133,6 +133,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1720232",
+      "type": "movie",
+      "name": "Ali Siddiq: My Father",
+      "poster": "https://image.tmdb.org/t/p/w500/3aS0ARLho6T4ot39xRlK1Gd8VlT.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1702960",
       "type": "movie",
       "name": "GOAT Pandemonium Ge on all tempo",
@@ -339,12 +346,6 @@
       "type": "movie",
       "name": "Nikki Glaser: Good Girl",
       "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1680561",
-      "type": "movie",
-      "name": "Josh Jones - Lad On Tour",
       "releaseInfo": "2026"
     }
   ]

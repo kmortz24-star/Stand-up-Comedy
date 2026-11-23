@@ -1,6 +1,97 @@
 {
   "metas": [
     {
+      "id": "tt35638446",
+      "type": "movie",
+      "name": "Bri Power: Perpetual Child",
+      "poster": "https://image.tmdb.org/t/p/w500/rNwfNVmbL2n1DqKT5R2A2AKml0u.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt28106045",
+      "type": "movie",
+      "name": "#Cancelholtzman",
+      "poster": "https://image.tmdb.org/t/p/w500/3nYADazjrVnDe0NcONyk1tumBv3.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2226050",
+      "type": "movie",
+      "name": "Brian Posehn: The Fartist",
+      "poster": "https://image.tmdb.org/t/p/w500/gxRubeLNFQpqlmGTOHZfyQfY9m.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5912600",
+      "type": "movie",
+      "name": "Brian Posehn: Criminally Posehn",
+      "poster": "https://image.tmdb.org/t/p/w500/i7NldZfG1pMSns23YeO5ta8EZM.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:1430875",
+      "type": "movie",
+      "name": "Brian Regan - Something's Wrong with the Regan Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/oH74ixg9OtcYH1BXBSjBAb4lmsN.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0808179",
+      "type": "movie",
+      "name": "Brian Regan: I Walked on the Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1043434",
+      "type": "movie",
+      "name": "Brian Regan: Standing Up",
+      "poster": "https://image.tmdb.org/t/p/w500/n3FSd5uCjrFC623xkMb2Yd6Cdfv.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1284973",
+      "type": "movie",
+      "name": "Brian Regan: The Epitome of Hyperbole",
+      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt5748362",
+      "type": "movie",
+      "name": "Brian Regan: Live From Radio City Music Hall",
+      "poster": "https://image.tmdb.org/t/p/w500/WGHmlFrZykmKe7OCz0ZVh04iA8.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt31024004",
+      "type": "movie",
+      "name": "Brian Roe: That's My Vibe",
+      "poster": "https://image.tmdb.org/t/p/w500/4JGazWTkh2mmG1Vy7A9U5EvYmvR.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt33063037",
+      "type": "movie",
+      "name": "Brittany Carney: That Is My Horse",
+      "poster": "https://image.tmdb.org/t/p/w500/nEIGM8Ue4jjKOD3cgC7hZozh0ft.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33090114",
+      "type": "movie",
+      "name": "Brittany Schmitt's HORNY",
+      "poster": "https://image.tmdb.org/t/p/w500/tmR4Bly5sYwgrDMJ2KDzpuI72UO.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1789573",
+      "type": "movie",
+      "name": "Bron Lewis - Chaos",
+      "poster": "https://image.tmdb.org/t/p/w500/gCT7RgdRPngQBGvcOjeeWlTnICG.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt39379814",
       "type": "movie",
       "name": "Bruce Bruce: I Ain't Playin'",
@@ -255,97 +346,6 @@
       "name": "Chris D'Elia: No Pain",
       "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt3777254",
-      "type": "movie",
-      "name": "Chris Distefano: The Half Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt10942332",
-      "type": "movie",
-      "name": "Chris Distefano: Size 38 Waist",
-      "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt19875708",
-      "type": "movie",
-      "name": "Chris Distefano: Speshy Weshy",
-      "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33517417",
-      "type": "movie",
-      "name": "Chris Distefano: It's Just Unfortunate",
-      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt14100856",
-      "type": "movie",
-      "name": "Chris Fairbanks - Rescue Cactus; A Stand-Up Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/5Jnz49fMkSHGqufV446nYAF21Ql.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt39765131",
-      "type": "movie",
-      "name": "Chris Fleming: Live at The Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt32323285",
-      "type": "movie",
-      "name": "Chris Grace: As Scarlett Johansson",
-      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1401447",
-      "type": "movie",
-      "name": "Chris Parker: Give Me One Good Reason Why I Shouldn't Throw My Phone Off This Bridge",
-      "poster": "https://image.tmdb.org/t/p/w500/9YReevJN3szF7Jqq2Wu9uEBHRiU.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1666675",
-      "type": "movie",
-      "name": "Chris Parker: Stop Being So Dramatic",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:510872",
-      "type": "movie",
-      "name": "Is That… Chris Ramsey?",
-      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1279401",
-      "type": "movie",
-      "name": "Chris Ramsey: Live from London",
-      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt31869794",
-      "type": "movie",
-      "name": "Chris Ramsey Live: All Growed Up",
-      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt23625326",
-      "type": "movie",
-      "name": "Chris Redd: Why Am I Like This?",
-      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
-      "releaseInfo": "2022"
     }
   ]
 }
