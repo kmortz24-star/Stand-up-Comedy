@@ -1,6 +1,41 @@
 {
   "metas": [
     {
+      "id": "tt46083053",
+      "type": "movie",
+      "name": "Bert Gabriëls: Live vanuit de Wetstraat",
+      "poster": "https://image.tmdb.org/t/p/w500/ghCVlL2wbYf1yCMEJHXIv1jgwqz.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt6545220",
+      "type": "movie",
+      "name": "Bert Kreischer: The Machine",
+      "poster": "https://image.tmdb.org/t/p/w500/3290OL6UCXFRpbIv6nznPXkWAgy.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8786466",
+      "type": "movie",
+      "name": "Bert Kreischer: Secret Time",
+      "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11810424",
+      "type": "movie",
+      "name": "Bert Kreischer: Hey Big Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/5aqafBYRCqUK0ys59xRn1dK9wyF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt26752731",
+      "type": "movie",
+      "name": "Bert Kreischer: Razzle Dazzle",
+      "poster": "https://image.tmdb.org/t/p/w500/4jIKENHrHUxFZPSN352UznKv9GA.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt35924806",
       "type": "movie",
       "name": "Bert Kreischer: Lucky",
@@ -132,6 +167,13 @@
       "name": "Bill Hicks: Revelations",
       "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
       "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0666146",
+      "type": "movie",
+      "name": "One-Night Stand: Bill Maher",
+      "poster": "https://image.tmdb.org/t/p/w500/sSQ1aL528wz79sAyJNIl1QohMCN.jpg",
+      "releaseInfo": "1989"
     },
     {
       "id": "tt18271228",
@@ -306,47 +348,6 @@
       "name": "Brad Howe: Live at the Legion",
       "poster": "https://image.tmdb.org/t/p/w500/hvB8Jbj9L1mdtwfSp6Oq4FJDrJ6.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt34540455",
-      "type": "movie",
-      "name": "Brad Wenzel: joke. joke. joke.",
-      "poster": "https://image.tmdb.org/t/p/w500/kpcsK4T7c3tJAyACEvn4eCEXtYT.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt41743373",
-      "type": "movie",
-      "name": "Brad Williams: Live on Short Street",
-      "poster": "https://image.tmdb.org/t/p/w500/xZRidUmyQQRtc63RlhzSTLfHFly.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1299762",
-      "type": "movie",
-      "name": "The Great Kiwi Christmas Comedy Gala",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt32323283",
-      "type": "movie",
-      "name": "Bigger! With Brennan and Izzy",
-      "poster": "https://image.tmdb.org/t/p/w500/pSdh4lIWy5ZzAZy3uVtkICpVRPZ.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt37026310",
-      "type": "movie",
-      "name": "Brent Weinbach: Popular Culture",
-      "poster": "https://image.tmdb.org/t/p/w500/kRUunrpSEGqGytDsqf7jB9DND4D.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt36242994",
-      "type": "movie",
-      "name": "Brett Goldstein: The Second Best Night of Your Life",
-      "poster": "https://image.tmdb.org/t/p/w500/aWVT2RDf0DNorRq0felYfsUbL3t.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

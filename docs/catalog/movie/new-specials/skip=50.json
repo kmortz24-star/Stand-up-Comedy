@@ -112,6 +112,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt43735707",
+      "type": "movie",
+      "name": "Des Bishop - Bridge and Tunnel",
+      "poster": "https://image.tmdb.org/t/p/w500/e9YW1RlLD1stg15B4dKaHCthU77.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt43615884",
       "type": "movie",
       "name": "Tom Cashman: The Formula for Happiness",
@@ -339,13 +346,6 @@
       "type": "movie",
       "name": "Jack Tucker: Comedy Standup Hour",
       "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38575417",
-      "type": "movie",
-      "name": "Nikki Glaser: Good Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
       "releaseInfo": "2026"
     }
   ]

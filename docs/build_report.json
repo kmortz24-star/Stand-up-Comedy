@@ -1,19 +1,19 @@
 {
   "counts": {
-    "New Specials": 326,
+    "New Specials": 328,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 30,
     "Comedy Legends": 41,
     "Viral & Rising Comedians": 8,
-    "Roasts & Comedy Events": 57,
-    "Comedians ABCD": 432,
-    "EFGH": 162,
-    "IJKL": 361,
-    "MNOP": 253,
-    "QRST": 285,
-    "UVWXYZ": 69
+    "Roasts & Comedy Events": 58,
+    "Comedians AB": 276,
+    "CDEFG": 295,
+    "HIJ": 279,
+    "KLM": 271,
+    "NOPQR": 233,
+    "STUVWXYZ": 248
   },
   "total_unique_records": 1853,
   "needs_review": [
@@ -67,19 +67,6 @@
       "popularity": 0.3865,
       "vote_average": 6.7,
       "vote_count": 6,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1027513",
-      "tmdb_id": 1027513,
-      "title": "Adam & Noah - Farvel og tjak",
-      "performer": null,
-      "release_date": "2022-09-22",
-      "poster_path": "/wZU5bwYLS7AIBWKfVKXUSDX0pNQ.jpg",
-      "popularity": 0.3342,
-      "vote_average": 6.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -190,19 +177,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tmdb:1114733",
-      "tmdb_id": 1114733,
-      "title": "Fanny Ruwet - Bon anniversaire Jean",
-      "performer": null,
-      "release_date": "2023-04-08",
-      "poster_path": "/q9RBFGIYLytOqEnx26aGk1ovJ2t.jpg",
-      "popularity": 0.3918,
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1116322",
       "tmdb_id": 1116322,
       "title": "Grin til Gavn 2022",
@@ -256,19 +230,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tmdb:1139151",
-      "tmdb_id": 1139151,
-      "title": "Stuart Laws Is All In",
-      "performer": null,
-      "release_date": "2023-04-21",
-      "poster_path": "/yg9lZBzu8vsjxufDnQrOtovgFcq.jpg",
-      "popularity": 0.3284,
-      "vote_average": 0.5,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1144692",
       "tmdb_id": 1144692,
       "title": "Florence Mendez - Délicate",
@@ -291,19 +252,6 @@
       "popularity": 0.1618,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1152362",
-      "tmdb_id": 1152362,
-      "title": "Mustapha El Atrassi - Que Du Sale",
-      "performer": null,
-      "release_date": "2023-07-13",
-      "poster_path": "/zCLmkEy1TPtlxrdNtd3OBPmi4ob.jpg",
-      "popularity": 0.2967,
-      "vote_average": 7.8,
-      "vote_count": 4,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -396,19 +344,6 @@
       "release_date": "2023-11-05",
       "poster_path": "/bzMUxVtkGVvoV93JZMd7b1FaKkp.jpg",
       "popularity": 0.2809,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1207805",
-      "tmdb_id": 1207805,
-      "title": "Eric Rushton Won't Die Alone",
-      "performer": null,
-      "release_date": "2015-06-26",
-      "poster_path": "/7C5i7lJUMNDAbhXk96oypm1pJzS.jpg",
-      "popularity": 0.2717,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -508,19 +443,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1269168",
-      "tmdb_id": 1269168,
-      "title": "Damien Power at The Scottish Prince",
-      "performer": null,
-      "release_date": "2024-03-22",
-      "poster_path": null,
-      "popularity": 0.1303,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1270361",
       "tmdb_id": 1270361,
       "title": "Argentinian Stand Up",
@@ -613,45 +535,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1297193",
-      "tmdb_id": 1297193,
-      "title": "Jérémy Lorca - Amoureux solitaire",
-      "performer": null,
-      "release_date": "2021-11-11",
-      "poster_path": "/lalXxH10xxA4jvIMx6BW6qTizT7.jpg",
-      "popularity": 0.3035,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1301675",
-      "tmdb_id": 1301675,
-      "title": "Mihai Bobonete - Back in Business",
-      "performer": null,
-      "release_date": "2022-12-19",
-      "poster_path": "/5cfoxhrQTHApuY3iLnOqfTktlwD.jpg",
-      "popularity": 0.2414,
-      "vote_average": 8.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1302725",
-      "tmdb_id": 1302725,
-      "title": "Jeff Dunham - Election 2024 - Biden vs. Trump How Did We Get Here... Again",
-      "performer": null,
-      "release_date": "2024-05-24",
-      "poster_path": "/eVQNLZlB0JjrBA3PIadCu1Sy8HS.jpg",
-      "popularity": 0.3083,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1307876",
       "tmdb_id": 1307876,
       "title": "Pride Comedy Show, 2e édition",
@@ -716,19 +599,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:1337663",
-      "tmdb_id": 1337663,
-      "title": "Jonas Mogensen - Trummerum",
-      "performer": null,
-      "release_date": "2024-08-23",
-      "poster_path": "/4bytOz9bCrtOicOdun2zZKLaDjc.jpg",
-      "popularity": 0.25,
-      "vote_average": 8.8,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt2364741",
@@ -835,19 +705,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt2542552",
-      "tmdb_id": 141446,
-      "title": "Mick Øgendahl's Spas",
-      "performer": null,
-      "release_date": "2012-11-13",
-      "poster_path": "/67rcY39ErofGIceBydIaXj7CSBc.jpg",
-      "popularity": 0.569,
-      "vote_average": 7.4,
-      "vote_count": 6,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt35294394",
       "tmdb_id": 1416055,
       "title": "Give It Up",
@@ -861,59 +718,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1420054",
-      "tmdb_id": 1420054,
-      "title": "Christian Fuhlendorff - Ærlig talt",
-      "performer": null,
-      "release_date": "2025-01-19",
-      "poster_path": "/gtNFxYVhiGDRRc3zPfIzvuROOFq.jpg",
-      "popularity": 0.5319,
-      "vote_average": 9.0,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1432577",
-      "tmdb_id": 1432577,
-      "title": "Roué Verveer - Zo Goed Als Nieuw",
-      "performer": null,
-      "release_date": "2024-12-04",
-      "poster_path": "/px083opOFMXyYTiXiiOapGy8uq2.jpg",
-      "popularity": 0.2788,
-      "vote_average": 8.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1437860",
-      "tmdb_id": 1437860,
-      "title": "Stuart Laws? Is That Guy Still Going?",
-      "performer": null,
-      "release_date": "2025-02-17",
-      "poster_path": "/zbHMv3WosuVhAUFbiB9WDrJ7am1.jpg",
-      "popularity": 0.1888,
-      "vote_average": 2.5,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1440173",
-      "tmdb_id": 1440173,
-      "title": "Kunal kamra  Stand up comedy 2019",
-      "performer": null,
-      "release_date": "2019-03-11",
-      "poster_path": "/v2WFQNuOBeaqd0zcD06Rb03VobY.jpg",
-      "popularity": 0.1202,
-      "original_language": "hi",
-      "vote_average": 10.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tmdb:1451553",
       "tmdb_id": 1451553,
       "title": "Surviving-ish",
@@ -923,19 +727,6 @@
       "popularity": 0.2562,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1454734",
-      "tmdb_id": 1454734,
-      "title": "Swann Périssé - On a fait un spectacle contre le fasc*sme...",
-      "performer": null,
-      "release_date": "2025-03-09",
-      "poster_path": "/qwY4d6xSmbl0EfP24jXDNXktycz.jpg",
-      "popularity": 0.6427,
-      "vote_average": 10.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1044,19 +835,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt6884258",
-      "tmdb_id": 151847,
-      "title": "Christian Fuhlendorff - Outstanding",
-      "performer": null,
-      "release_date": "2012-12-22",
-      "poster_path": "/gxmT3gc0eVBLRxedc9xxm3gQCZr.jpg",
-      "popularity": 0.0612,
-      "vote_average": 7.5,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt37778930",
       "tmdb_id": 1523311,
       "title": "Fer & Pipo",
@@ -1122,19 +900,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:1549283",
-      "tmdb_id": 1549283,
-      "title": "Lisa Delmoitiez - Remontada",
-      "performer": null,
-      "release_date": "2025-09-19",
-      "poster_path": "/nJpdGexitR7wPMyxJOdWYLMWCl0.jpg",
-      "popularity": 0.1986,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:1550121",
@@ -1581,19 +1346,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt0829665",
-      "tmdb_id": 1665762,
-      "title": "Comedy Central Presents: Earthquake",
-      "performer": null,
-      "release_date": "2003-03-07",
-      "poster_path": null,
-      "popularity": 0.298,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1669729",
       "tmdb_id": 1669729,
       "title": "Niclas Vingaard  - Er Jeg Virkelig Voksen?",
@@ -1642,19 +1394,6 @@
       "popularity": 0.4279,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt0949330",
-      "tmdb_id": 16884,
-      "title": "Anders Matthesen - Anden på coke?",
-      "performer": null,
-      "release_date": "2006-11-14",
-      "poster_path": "/lyk3QbRp9KWsidzGvUd4BvTL7Ak.jpg",
-      "popularity": 0.8566,
-      "vote_average": 6.9,
-      "vote_count": 19,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1720,19 +1459,6 @@
       "popularity": 0.5045,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt43735707",
-      "tmdb_id": 1722455,
-      "title": "Des Bishop - Bridge and Tunnel",
-      "performer": null,
-      "release_date": "2026-06-26",
-      "poster_path": "/e9YW1RlLD1stg15B4dKaHCthU77.jpg",
-      "popularity": 0.3523,
-      "vote_average": 7.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1902,19 +1628,6 @@
       "popularity": 0.1925,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt1515837",
-      "tmdb_id": 17983,
-      "title": "Jonatan Spang's Family",
-      "performer": null,
-      "release_date": "2008-11-18",
-      "poster_path": "/unHwjISjjrQ0wsnuoXEMSdOGFE3.jpg",
-      "popularity": 0.3316,
-      "vote_average": 7.3,
-      "vote_count": 6,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2116,19 +1829,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt4322998",
-      "tmdb_id": 300826,
-      "title": "Linda P'S Hovedpine",
-      "performer": null,
-      "release_date": "2014-11-04",
-      "poster_path": "/g93SNeThWVfvCOCB6xlePKmiHRD.jpg",
-      "popularity": 0.3687,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:301891",
       "tmdb_id": 301891,
       "title": "Frank Hvam - Inappropriate",
@@ -2138,19 +1838,6 @@
       "popularity": 0.4818,
       "vote_average": 10.0,
       "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt4274954",
-      "tmdb_id": 306666,
-      "title": "Jonatan Spang's Wedding",
-      "performer": null,
-      "release_date": "2014-11-28",
-      "poster_path": "/eKc1B7xX8nGSIFMYCOgbjifYNe7.jpg",
-      "popularity": 0.1286,
-      "vote_average": 6.7,
-      "vote_count": 3,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2181,19 +1868,6 @@
       "vote_count": 4,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tt39522232",
-      "tmdb_id": 37287,
-      "title": "Jo Brand - Barely Live",
-      "performer": null,
-      "release_date": "2003-11-23",
-      "poster_path": "/jVlFOZvcER6YmoJCoxUqz5ARGZX.jpg",
-      "popularity": 0.2743,
-      "vote_average": 6.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:375412",
@@ -2237,19 +1911,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt0991293",
-      "tmdb_id": 41231,
-      "title": "Carsten Bang - Har Satan En Fætter?",
-      "performer": null,
-      "release_date": "2007-03-05",
-      "poster_path": "/5HwOqpT9XjZzn81uoxg4aDy9UKm.jpg",
-      "popularity": 0.2238,
-      "vote_average": 6.4,
-      "vote_count": 5,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt0105577",
       "tmdb_id": 41776,
       "title": "This Is My Life",
@@ -2259,19 +1920,6 @@
       "popularity": 1.2359,
       "vote_average": 6.0,
       "vote_count": 21,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt4838690",
-      "tmdb_id": 426378,
-      "title": "Rodney Carrington - Laughter's Good",
-      "performer": null,
-      "release_date": "2014-11-16",
-      "poster_path": "/iTb6nTJaFYZyHAykvtM1qEXdNBD.jpg",
-      "popularity": 0.333,
-      "vote_average": 5.7,
-      "vote_count": 3,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2289,45 +1937,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:449659",
-      "tmdb_id": 449659,
-      "title": "Linda P - Normal?",
-      "performer": null,
-      "release_date": "2017-03-23",
-      "poster_path": "/oYxbjrQhbDar8lX829z6zwqhuTB.jpg",
-      "popularity": 0.227,
-      "vote_average": 6.5,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt13080902",
-      "tmdb_id": 453692,
-      "title": "Christian Fuhlendorff - Det er ligegyldigt hva' andre tænker, ikk'?",
-      "performer": null,
-      "release_date": "2017-04-22",
-      "poster_path": "/AauKtKMt244F9VKsoNZFbpG9N6n.jpg",
-      "popularity": 0.5277,
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt4853120",
-      "tmdb_id": 460779,
-      "title": "Gabriel Iglesias Presents Rick Gutierrez: I'm Not Mad, I'm Just a Parent",
-      "performer": null,
-      "release_date": "2014-06-14",
-      "poster_path": "/nvtOD0Lh2WP9oBHgalrK8tSWCTy.jpg",
-      "popularity": 0.0829,
-      "vote_average": 6.0,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt1757696",
       "tmdb_id": 46178,
       "title": "Bytte Bytte Købmand",
@@ -2337,19 +1946,6 @@
       "popularity": 0.3103,
       "vote_average": 7.9,
       "vote_count": 10,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt1516518",
-      "tmdb_id": 46229,
-      "title": "Christian Fuhlendorff -  My First One Man Show",
-      "performer": null,
-      "release_date": "2008-09-16",
-      "poster_path": "/1IrpTVxsO2UDSd10jmneXHnPa3O.jpg",
-      "popularity": 0.37,
-      "vote_average": 7.1,
-      "vote_count": 7,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2407,19 +2003,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt1830774",
-      "tmdb_id": 49657,
-      "title": "Mick Øgendahl's Propaganda",
-      "performer": null,
-      "release_date": "2010-02-03",
-      "poster_path": "/5vZbT0gUEdgAm7U9J0YVTphOcrU.jpg",
-      "popularity": 0.5781,
-      "vote_average": 7.1,
-      "vote_count": 7,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt1645043",
       "tmdb_id": 525796,
       "title": "Cholo Comedy Slam: Stand Up and Lean Back",
@@ -2432,19 +2015,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:529703",
-      "tmdb_id": 529703,
-      "title": "Gabriel Iglesias Presents The Gentleman Jerry Rocha",
-      "performer": null,
-      "release_date": "2015-10-17",
-      "poster_path": "/6cWtreVdJpMFJRVOuPNHZhSCVpI.jpg",
-      "popularity": 0.1806,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt9821118",
@@ -2499,19 +2069,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:567055",
-      "tmdb_id": 567055,
-      "title": "Thomas Hartmann - Kærlighed",
-      "performer": null,
-      "release_date": "2018-12-03",
-      "poster_path": "/edohBQvcJJhQSJZeyqX1IhuZTai.jpg",
-      "popularity": 0.2166,
-      "vote_average": 9.0,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt9476490",
       "tmdb_id": 571721,
       "title": "The Last Hangover",
@@ -2521,19 +2078,6 @@
       "popularity": 0.4227,
       "vote_average": 6.6,
       "vote_count": 84,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt30261353",
-      "tmdb_id": 61474,
-      "title": "Lenny Henry Live - So Much Things To Say",
-      "performer": null,
-      "release_date": "2005-11-07",
-      "poster_path": "/kB6EnT38LdC2x9k4SwaiQtBEPCH.jpg",
-      "popularity": 0.1764,
-      "vote_average": 0.0,
-      "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2564,19 +2108,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:652328",
-      "tmdb_id": 652328,
-      "title": "Anders Matthesen - Anden bringer ud",
-      "performer": null,
-      "release_date": "2019-11-30",
-      "poster_path": "/59RYhXGrTujSGuHem2jJ1TPywYs.jpg",
-      "popularity": 0.5654,
-      "vote_average": 7.4,
-      "vote_count": 5,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:660040",
@@ -2628,19 +2159,6 @@
       "popularity": 0.5389,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:682633",
-      "tmdb_id": 682633,
-      "title": "Anders Matthesen - Anden taler ud",
-      "performer": null,
-      "release_date": "2020-02-24",
-      "poster_path": "/jMxcluxB2LzNC8PeCQQF2X1pCIA.jpg",
-      "popularity": 0.3124,
-      "vote_average": 9.0,
-      "vote_count": 4,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -2698,19 +2216,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt0486448",
-      "tmdb_id": 73975,
-      "title": "Omar Marzouk - War, terror and other funny stuff",
-      "performer": null,
-      "release_date": "2005-10-17",
-      "poster_path": "/iLU35TtaJdQwyOLj4irVQaM9fpO.jpg",
-      "popularity": 0.4698,
-      "vote_average": 6.2,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:748014",
       "tmdb_id": 748014,
       "title": "Grin til gavn 2020",
@@ -2749,19 +2254,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tt13444348",
-      "tmdb_id": 769281,
-      "title": "Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special",
-      "performer": null,
-      "release_date": "2020-11-27",
-      "poster_path": "/4arRLeXYOpg3KFTllfYlbWqfwqs.jpg",
-      "popularity": 0.356,
-      "vote_average": 7.5,
-      "vote_count": 14,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt1037704",
@@ -2811,32 +2303,6 @@
       "release_date": "2017-11-24",
       "poster_path": "/arX71PS19u1rQ7XpC32KzfJARdx.jpg",
       "popularity": 0.1573,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt1243467",
-      "tmdb_id": 830661,
-      "title": "HBO Comedy Half Hour: Marc Maron",
-      "performer": null,
-      "release_date": "1995-09-07",
-      "poster_path": "/1IRtAdYAKPTByUNVbGSuiC7Ja9n.jpg",
-      "popularity": 0.391,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:848735",
-      "tmdb_id": 848735,
-      "title": "Linda P's Sabotagehunger",
-      "performer": null,
-      "release_date": "2021-11-24",
-      "poster_path": "/fqNdeXSOSyjU6FHULtbMoaqxfVE.jpg",
-      "popularity": 0.363,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -3104,20 +2570,20 @@
       "selected": 15,
       "available_comedians": 51,
       "selected_comedians": [
-        "Peter Kay",
         "Paul Chowdhry",
+        "Natasha Leggero",
         "Tim Minchin",
         "Russell Howard",
         "Stewart Lee",
-        "Chris D'Elia",
-        "Alex Agnew",
+        "Cameron Esposito",
+        "Adam Ray",
+        "Frankie Boyle",
         "Gianmarco Soresi",
-        "Greg Davies",
-        "Ellen DeGeneres",
-        "Ed Byrne",
-        "Atsuko Okatsuka",
-        "Mo Gilligan",
-        "Matteo Lane",
+        "Ed Gamble",
+        "Doug Stanhope",
+        "Alex Edelman",
+        "Michael McIntyre",
+        "Marcello Hernández",
         "Tig Notaro"
       ]
     }

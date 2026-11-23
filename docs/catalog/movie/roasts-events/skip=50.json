@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt0347626",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Chevy Chase",
+      "poster": "https://image.tmdb.org/t/p/w500/ab86Jqv3sK1y97IduPe0e6aKqcm.jpg",
+      "releaseInfo": "2002"
+    },
+    {
       "id": "tt0300261",
       "type": "movie",
       "name": "The N.Y. Friars Club Roast of Hugh Hefner",

@@ -320,6 +320,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "tt1869360",
+      "type": "movie",
+      "name": "Dave Attell's Insomniac Tour: Uncensored!",
+      "poster": "https://image.tmdb.org/t/p/w500/4EXnMe1daIgpO9VC15qwcmkRw2h.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "tt0423871",
       "type": "movie",
       "name": "Blue Collar Comedy Tour Rides Again",
@@ -339,13 +346,6 @@
       "name": "Blue Collar Comedy Tour: The Movie",
       "poster": "https://image.tmdb.org/t/p/w500/fUlTnmldkZQCSOy3nCAfire0SWM.jpg",
       "releaseInfo": "2003"
-    },
-    {
-      "id": "tt0347626",
-      "type": "movie",
-      "name": "The N.Y. Friars Club Roast of Chevy Chase",
-      "poster": "https://image.tmdb.org/t/p/w500/ab86Jqv3sK1y97IduPe0e6aKqcm.jpg",
-      "releaseInfo": "2002"
     }
   ]
 }

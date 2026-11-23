@@ -84,6 +84,13 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "tmdb:1027513",
+      "type": "movie",
+      "name": "Adam & Noah - Farvel og tjak",
+      "poster": "https://image.tmdb.org/t/p/w500/wZU5bwYLS7AIBWKfVKXUSDX0pNQ.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt8547366",
       "type": "movie",
       "name": "Adam Carolla: Not Taco Bell Material",
@@ -185,6 +192,13 @@
       "type": "movie",
       "name": "Adam Ray: Like and Subscribe",
       "poster": "https://image.tmdb.org/t/p/w500/fvApi7yHJ4QreHtht5wZIadAZ4L.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt34367447",
+      "type": "movie",
+      "name": "Adam Ray Is Dr. Phil UNLEASHED",
+      "poster": "https://image.tmdb.org/t/p/w500/87ZcSrr76CFCrKIIK72luVJ3Jud.jpg",
       "releaseInfo": "2024"
     },
     {
@@ -319,13 +333,6 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tt9189696",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord - Live At The Palladium",
-      "poster": "https://image.tmdb.org/t/p/w500/6BfuOacOOfk2h5YL3L84jodO1jQ.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt4017092",
       "type": "movie",
       "name": "Al Murray's Great British War Movies",
@@ -338,13 +345,6 @@
       "name": "Al Murray's Great British Spy Movies",
       "poster": "https://image.tmdb.org/t/p/w500/o7QIQJqjrAQ67dTq3jpLgUIjSn7.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt0409675",
-      "type": "movie",
-      "name": "Al Murray, The Pub Landlord - My Gaff, My Rules",
-      "poster": "https://image.tmdb.org/t/p/w500/keZavwGpuCVgqYwAdp1Vrb7XnRt.jpg",
-      "releaseInfo": "2003"
     }
   ]
 }

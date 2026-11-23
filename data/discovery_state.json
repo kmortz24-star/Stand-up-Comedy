@@ -1,0 +1,7664 @@
+{
+  "roster": [
+    {
+      "qid": "Q16221992",
+      "name": "Aamer Rahman"
+    },
+    {
+      "qid": "Q141640798",
+      "name": "Aashish Solanki"
+    },
+    {
+      "qid": "Q114963904",
+      "name": "Abby Schachner"
+    },
+    {
+      "qid": "Q124773914",
+      "name": "Abby Stein"
+    },
+    {
+      "qid": "Q141181562",
+      "name": "Abby Wambaugh"
+    },
+    {
+      "qid": "Q23772267",
+      "name": "Abdullah Afzal"
+    },
+    {
+      "qid": "Q17997599",
+      "name": "Abdur Arsyad"
+    },
+    {
+      "qid": "Q65621567",
+      "name": "Abhineet Mishra"
+    },
+    {
+      "qid": "Q44190865",
+      "name": "Abish Mathew"
+    },
+    {
+      "qid": "Q28723701",
+      "name": "Aci Resti"
+    },
+    {
+      "qid": "Q138778311",
+      "name": "Adam Morrison Jones"
+    },
+    {
+      "qid": "Q132952",
+      "name": "Adam Sandler"
+    },
+    {
+      "qid": "Q125908067",
+      "name": "Ade Aluko"
+    },
+    {
+      "qid": "Q2908546",
+      "name": "Adi Ashkenazi"
+    },
+    {
+      "qid": "Q4682812",
+      "name": "Adil Ray"
+    },
+    {
+      "qid": "Q4682954",
+      "name": "Adir Miller"
+    },
+    {
+      "qid": "Q16732696",
+      "name": "Aditi Mittal"
+    },
+    {
+      "qid": "Q111086771",
+      "name": "Admir Baltić"
+    },
+    {
+      "qid": "Q61973485",
+      "name": "Adriano Qalbi"
+    },
+    {
+      "qid": "Q20205230",
+      "name": "Adrienne Truscott"
+    },
+    {
+      "qid": "Q56393880",
+      "name": "Agung Motivamor"
+    },
+    {
+      "qid": "Q56394524",
+      "name": "Agung Widodo"
+    },
+    {
+      "qid": "Q105747265",
+      "name": "Ahmed Mamow"
+    },
+    {
+      "qid": "Q108940273",
+      "name": "Akau Daniel Jambo Poundak"
+    },
+    {
+      "qid": "Q98410420",
+      "name": "Akbar Eghbali"
+    },
+    {
+      "qid": "Q4704500",
+      "name": "Al Murray"
+    },
+    {
+      "qid": "Q94574324",
+      "name": "Aladdin Gedik Jameel"
+    },
+    {
+      "qid": "Q32795",
+      "name": "Alan Carr"
+    },
+    {
+      "qid": "Q16211199",
+      "name": "Alan Watt"
+    },
+    {
+      "qid": "Q79247034",
+      "name": "Alasdair Beckett-King"
+    },
+    {
+      "qid": "Q2830765",
+      "name": "Alban Ivanov"
+    },
+    {
+      "qid": "Q109390369",
+      "name": "Albert Roig"
+    },
+    {
+      "qid": "Q16487791",
+      "name": "Ale McHaddo"
+    },
+    {
+      "qid": "Q8194061",
+      "name": "Alejandro García Villalón (Virulo)"
+    },
+    {
+      "qid": "Q5664762",
+      "name": "Alejandro Hangahano"
+    },
+    {
+      "qid": "Q97196617",
+      "name": "Aleksandar Perišić"
+    },
+    {
+      "qid": "Q130388861",
+      "name": "Aleksander Økland"
+    },
+    {
+      "qid": "Q118854122",
+      "name": "Aleksandr Popov"
+    },
+    {
+      "qid": "Q116896794",
+      "name": "Aleksandra Szczęśniak"
+    },
+    {
+      "qid": "Q131407044",
+      "name": "Alen Borišek"
+    },
+    {
+      "qid": "Q1925185",
+      "name": "Alex Agnew"
+    },
+    {
+      "qid": "Q22277661",
+      "name": "Alex Edelman"
+    },
+    {
+      "qid": "Q106879492",
+      "name": "Alex Fabry"
+    },
+    {
+      "qid": "Q63807683",
+      "name": "Alex Hamel"
+    },
+    {
+      "qid": "Q2832982",
+      "name": "Alex Lutz"
+    },
+    {
+      "qid": "Q59534283",
+      "name": "Alex Ploeg"
+    },
+    {
+      "qid": "Q12300942",
+      "name": "Alex Thelander"
+    },
+    {
+      "qid": "Q2833045",
+      "name": "Alex Vizorek"
+    },
+    {
+      "qid": "Q142217520",
+      "name": "Alex Xia-Song"
+    },
+    {
+      "qid": "Q104521277",
+      "name": "Alexandros Tsouvelas"
+    },
+    {
+      "qid": "Q124023463",
+      "name": "Alexis Renato Arroyo Mendoza"
+    },
+    {
+      "qid": "Q111086779",
+      "name": "Aleš Novak"
+    },
+    {
+      "qid": "Q20713806",
+      "name": "Alfie Moore"
+    },
+    {
+      "qid": "Q106879299",
+      "name": "Ali Akbar"
+    },
+    {
+      "qid": "Q4724667",
+      "name": "Ali Asgar"
+    },
+    {
+      "qid": "Q2439541",
+      "name": "Ali B"
+    },
+    {
+      "qid": "Q11850860",
+      "name": "Ali Jahangiri"
+    },
+    {
+      "qid": "Q107400917",
+      "name": "Ali Quandil"
+    },
+    {
+      "qid": "Q5489058",
+      "name": "Alia Janine"
+    },
+    {
+      "qid": "Q18211784",
+      "name": "Alice Wetterlund"
+    },
+    {
+      "qid": "Q87851039",
+      "name": "Alicia Tobin"
+    },
+    {
+      "qid": "Q49251282",
+      "name": "Alif Baihaki"
+    },
+    {
+      "qid": "Q106879459",
+      "name": "Alif Rivelino"
+    },
+    {
+      "qid": "Q265540",
+      "name": "Alison Arngrim"
+    },
+    {
+      "qid": "Q5669043",
+      "name": "Alison Mandel"
+    },
+    {
+      "qid": "Q19745518",
+      "name": "Alison Victoria"
+    },
+    {
+      "qid": "Q4727257",
+      "name": "Alistair Barrie"
+    },
+    {
+      "qid": "Q86648254",
+      "name": "Alon Neuman"
+    },
+    {
+      "qid": "Q17998017",
+      "name": "Alphi Sugoi"
+    },
+    {
+      "qid": "Q4737484",
+      "name": "Alun Cochrane"
+    },
+    {
+      "qid": "Q110964874",
+      "name": "Amanda Waring"
+    },
+    {
+      "qid": "Q137645709",
+      "name": "Amandine Lourdel"
+    },
+    {
+      "qid": "Q91369502",
+      "name": "Amber Preston"
+    },
+    {
+      "qid": "Q110924260",
+      "name": "Ambika Mod"
+    },
+    {
+      "qid": "Q138208942",
+      "name": "Amelia Fritz"
+    },
+    {
+      "qid": "Q6941026",
+      "name": "Ami Anidjar"
+    },
+    {
+      "qid": "Q20110911",
+      "name": "Amir Karbalaeizadeh"
+    },
+    {
+      "qid": "Q87686738",
+      "name": "Amir Shurush"
+    },
+    {
+      "qid": "Q6583336",
+      "name": "Amiram Tovim"
+    },
+    {
+      "qid": "Q136335443",
+      "name": "Amirhoseyn Ghiasi"
+    },
+    {
+      "qid": "Q17306020",
+      "name": "Amy Hoggart"
+    },
+    {
+      "qid": "Q120728568",
+      "name": "Amy Miller"
+    },
+    {
+      "qid": "Q4749380",
+      "name": "Amy Schumer"
+    },
+    {
+      "qid": "Q96629101",
+      "name": "Amy Silverberg"
+    },
+    {
+      "qid": "Q12301375",
+      "name": "Anders Bonde"
+    },
+    {
+      "qid": "Q16063219",
+      "name": "Anders Grau"
+    },
+    {
+      "qid": "Q16063225",
+      "name": "Anders Stjernholm"
+    },
+    {
+      "qid": "Q26236888",
+      "name": "Andi Wijaya"
+    },
+    {
+      "qid": "Q111083768",
+      "name": "Andrea Jin"
+    },
+    {
+      "qid": "Q123299971",
+      "name": "Andreas Konstantinidis"
+    },
+    {
+      "qid": "Q39020635",
+      "name": "Andrei Bolocan"
+    },
+    {
+      "qid": "Q111086761",
+      "name": "Andrej Colarič"
+    },
+    {
+      "qid": "Q111086782",
+      "name": "Andrej Podbevšek"
+    },
+    {
+      "qid": "Q111086765",
+      "name": "Andrej Težak - Tešky"
+    },
+    {
+      "qid": "Q4757717",
+      "name": "Andrew Lawrence"
+    },
+    {
+      "qid": "Q4758143",
+      "name": "Andrew O'Connor"
+    },
+    {
+      "qid": "Q4758149",
+      "name": "Andrew O'Neill"
+    },
+    {
+      "qid": "Q115860617",
+      "name": "Andrew Stanley"
+    },
+    {
+      "qid": "Q131367883",
+      "name": "Andrey Beburishvili"
+    },
+    {
+      "qid": "Q116983254",
+      "name": "Andriy Shchehel"
+    },
+    {
+      "qid": "Q4760098",
+      "name": "André Wickström"
+    },
+    {
+      "qid": "Q115257983",
+      "name": "Andrés Fajngold"
+    },
+    {
+      "qid": "Q132151719",
+      "name": "Andrés Grillo"
+    },
+    {
+      "qid": "Q4760488",
+      "name": "Andy Cameron"
+    },
+    {
+      "qid": "Q27663756",
+      "name": "Andy Erikson"
+    },
+    {
+      "qid": "Q1379814",
+      "name": "Andy Hamilton"
+    },
+    {
+      "qid": "Q1754637",
+      "name": "Andy Parsons"
+    },
+    {
+      "qid": "Q4761518",
+      "name": "Andy Zaltzman"
+    },
+    {
+      "qid": "Q47000983",
+      "name": "Ane Høgsberg"
+    },
+    {
+      "qid": "Q121095828",
+      "name": "Ane Lindane"
+    },
+    {
+      "qid": "Q4762371",
+      "name": "Angela Barnes"
+    },
+    {
+      "qid": "Q4763208",
+      "name": "Angie Le Mar"
+    },
+    {
+      "qid": "Q106066827",
+      "name": "Angus Brown"
+    },
+    {
+      "qid": "Q106459321",
+      "name": "Anitta Ahonen"
+    },
+    {
+      "qid": "Q560070",
+      "name": "Anna Crilly"
+    },
+    {
+      "qid": "Q111995264",
+      "name": "Anne Bakland"
+    },
+    {
+      "qid": "Q4768283",
+      "name": "Anne Downie"
+    },
+    {
+      "qid": "Q4768065",
+      "name": "Anne-Kat. Hærland"
+    },
+    {
+      "qid": "Q107996141",
+      "name": "Anthony Crum"
+    },
+    {
+      "qid": "Q4772834",
+      "name": "Anthony Jeselnik"
+    },
+    {
+      "qid": "Q136470340",
+      "name": "Antoine Chavez"
+    },
+    {
+      "qid": "Q111086788",
+      "name": "Anton Pevc"
+    },
+    {
+      "qid": "Q20013129",
+      "name": "Antonio Castelo"
+    },
+    {
+      "qid": "Q64489772",
+      "name": "Antonis Krompas"
+    },
+    {
+      "qid": "Q112679712",
+      "name": "Antti Haapala"
+    },
+    {
+      "qid": "Q20915342",
+      "name": "Antto Terras"
+    },
+    {
+      "qid": "Q141081904",
+      "name": "Anurag Prusty"
+    },
+    {
+      "qid": "Q97602028",
+      "name": "Aonghus McAnally"
+    },
+    {
+      "qid": "Q85317524",
+      "name": "Aquiles Correa"
+    },
+    {
+      "qid": "Q60852981",
+      "name": "AR Devine"
+    },
+    {
+      "qid": "Q28723795",
+      "name": "Arafah Rianti"
+    },
+    {
+      "qid": "Q130496880",
+      "name": "Ari Matti"
+    },
+    {
+      "qid": "Q17998291",
+      "name": "Arie Kriting"
+    },
+    {
+      "qid": "Q18191754",
+      "name": "Ariel Waysman"
+    },
+    {
+      "qid": "Q28723739",
+      "name": "Arif Alfiansyah"
+    },
+    {
+      "qid": "Q56393574",
+      "name": "Arif Brata"
+    },
+    {
+      "qid": "Q111086785",
+      "name": "Armin Čulić"
+    },
+    {
+      "qid": "Q111086770",
+      "name": "Arne Dopudja"
+    },
+    {
+      "qid": "Q135438814",
+      "name": "Arnold Cytrowski"
+    },
+    {
+      "qid": "Q28521196",
+      "name": "Arnout Van den Bossche"
+    },
+    {
+      "qid": "Q100667331",
+      "name": "Arnošt Frauenberg"
+    },
+    {
+      "qid": "Q18421244",
+      "name": "Arry B. Wibowo"
+    },
+    {
+      "qid": "Q138012626",
+      "name": "Artemy Ostanin"
+    },
+    {
+      "qid": "Q124771430",
+      "name": "Artur Chaparyan"
+    },
+    {
+      "qid": "Q97956335",
+      "name": "Arturo J. Flores"
+    },
+    {
+      "qid": "Q42867730",
+      "name": "Artus"
+    },
+    {
+      "qid": "Q31174497",
+      "name": "Arya Novrianus"
+    },
+    {
+      "qid": "Q106943990",
+      "name": "Asaari Bibang"
+    },
+    {
+      "qid": "Q99891361",
+      "name": "Asaf Mor Yosef"
+    },
+    {
+      "qid": "Q17998376",
+      "name": "Asep Suaji"
+    },
+    {
+      "qid": "Q108511293",
+      "name": "Ashley Storrie"
+    },
+    {
+      "qid": "Q4806234",
+      "name": "Asi Cohen"
+    },
+    {
+      "qid": "Q126678217",
+      "name": "Assaf Itzhaki"
+    },
+    {
+      "qid": "Q111283141",
+      "name": "Asya Klimova"
+    },
+    {
+      "qid": "Q101243256",
+      "name": "Athena Kugblenu"
+    },
+    {
+      "qid": "Q24851990",
+      "name": "Atul Khatri"
+    },
+    {
+      "qid": "Q126285066",
+      "name": "Audrey Baldassare"
+    },
+    {
+      "qid": "Q6893426",
+      "name": "Avi Nussbaum"
+    },
+    {
+      "qid": "Q135011337",
+      "name": "Aviad"
+    },
+    {
+      "qid": "Q6824759",
+      "name": "Avner Dan"
+    },
+    {
+      "qid": "Q141745242",
+      "name": "Aydos Muratbaev Alisherovich"
+    },
+    {
+      "qid": "Q99365507",
+      "name": "Ayo Edebiri"
+    },
+    {
+      "qid": "Q135940292",
+      "name": "Ayoade Bamgboye"
+    },
+    {
+      "qid": "Q111488265",
+      "name": "Babatunde Aléshé"
+    },
+    {
+      "qid": "Q17998551",
+      "name": "Babe Cabita"
+    },
+    {
+      "qid": "Q27063126",
+      "name": "Badava Gopi"
+    },
+    {
+      "qid": "Q56393822",
+      "name": "Bakriyadi Arifin"
+    },
+    {
+      "qid": "Q2883665",
+      "name": "Baptiste Lecaplain"
+    },
+    {
+      "qid": "Q22277772",
+      "name": "Barry Ferns"
+    },
+    {
+      "qid": "Q2439865",
+      "name": "Bart Cannaerts"
+    },
+    {
+      "qid": "Q118247804",
+      "name": "Bart Cassauwers"
+    },
+    {
+      "qid": "Q2619443",
+      "name": "Bart Vanneste"
+    },
+    {
+      "qid": "Q2789338",
+      "name": "Bas Grevelink"
+    },
+    {
+      "qid": "Q122118024",
+      "name": "Baybulat Batulla"
+    },
+    {
+      "qid": "Q16198459",
+      "name": "Beck Bennett"
+    },
+    {
+      "qid": "Q63967005",
+      "name": "Bekim Aziri"
+    },
+    {
+      "qid": "Q142000015",
+      "name": "Bella Malu"
+    },
+    {
+      "qid": "Q118158685",
+      "name": "Ben Brainard"
+    },
+    {
+      "qid": "Q106879378",
+      "name": "Ben Dhanio"
+    },
+    {
+      "qid": "Q436712",
+      "name": "Ben Elton"
+    },
+    {
+      "qid": "Q56393889",
+      "name": "Benidictus Siregar"
+    },
+    {
+      "qid": "Q21459934",
+      "name": "Benjamin Esposito"
+    },
+    {
+      "qid": "Q120617182",
+      "name": "Benjamin Stevenson"
+    },
+    {
+      "qid": "Q817734",
+      "name": "Benjamin Walker"
+    },
+    {
+      "qid": "Q131914011",
+      "name": "Benji Waterhouse"
+    },
+    {
+      "qid": "Q640816",
+      "name": "Bernard Manning"
+    },
+    {
+      "qid": "Q59143032",
+      "name": "Beth Jones"
+    },
+    {
+      "qid": "Q55356769",
+      "name": "Beth Stelling"
+    },
+    {
+      "qid": "Q4897723",
+      "name": "Bethany Black"
+    },
+    {
+      "qid": "Q167291",
+      "name": "Bez"
+    },
+    {
+      "qid": "Q137176109",
+      "name": "Bianca Cristovao"
+    },
+    {
+      "qid": "Q55759729",
+      "name": "Bilal Abdul Kareem"
+    },
+    {
+      "qid": "Q22949307",
+      "name": "Bilal Zafar"
+    },
+    {
+      "qid": "Q944744",
+      "name": "Bill Bailey"
+    },
+    {
+      "qid": "Q13412374",
+      "name": "Bill Burr"
+    },
+    {
+      "qid": "Q35851",
+      "name": "Bill Hicks"
+    },
+    {
+      "qid": "Q3736724",
+      "name": "Bill Maynard"
+    },
+    {
+      "qid": "Q4910531",
+      "name": "Bill Posley"
+    },
+    {
+      "qid": "Q122765841",
+      "name": "Bill Young"
+    },
+    {
+      "qid": "Q64067222",
+      "name": "Billy Anderson"
+    },
+    {
+      "qid": "Q276425",
+      "name": "Billy Boyd"
+    },
+    {
+      "qid": "Q298838",
+      "name": "Billy Connolly"
+    },
+    {
+      "qid": "Q186485",
+      "name": "Billy Crystal"
+    },
+    {
+      "qid": "Q56393528",
+      "name": "Bintang Bete"
+    },
+    {
+      "qid": "Q96319254",
+      "name": "Bintang Emon"
+    },
+    {
+      "qid": "Q4916174",
+      "name": "Birdy Sweeney"
+    },
+    {
+      "qid": "Q102020052",
+      "name": "Bisha K. Ali"
+    },
+    {
+      "qid": "Q98915827",
+      "name": "Bjørn-Henning Ødegaard"
+    },
+    {
+      "qid": "Q296537",
+      "name": "Blake Clark"
+    },
+    {
+      "qid": "Q2905980",
+      "name": "Blanche Gardin"
+    },
+    {
+      "qid": "Q31174495",
+      "name": "Boah Sartika"
+    },
+    {
+      "qid": "Q55237515",
+      "name": "Bob Anders"
+    },
+    {
+      "qid": "Q4932463",
+      "name": "Bob Franklin"
+    },
+    {
+      "qid": "Q4933500",
+      "name": "Bob Nelson"
+    },
+    {
+      "qid": "Q718078",
+      "name": "Bob Newhart"
+    },
+    {
+      "qid": "Q333544",
+      "name": "Bob Saget"
+    },
+    {
+      "qid": "Q4934739",
+      "name": "Bobby Ball"
+    },
+    {
+      "qid": "Q4935259",
+      "name": "Bobby Knutt"
+    },
+    {
+      "qid": "Q1064120",
+      "name": "Bobby Lee"
+    },
+    {
+      "qid": "Q4942405",
+      "name": "Bonnie McFarlane"
+    },
+    {
+      "qid": "Q4943912",
+      "name": "Boothby Graffoe"
+    },
+    {
+      "qid": "Q19746152",
+      "name": "Boris Thompson Manullang"
+    },
+    {
+      "qid": "Q331720",
+      "name": "Brad Garrett"
+    },
+    {
+      "qid": "Q19667204",
+      "name": "Brandon Wardell"
+    },
+    {
+      "qid": "Q63302535",
+      "name": "Brendan Scannell"
+    },
+    {
+      "qid": "Q2703487",
+      "name": "Brendan Schaub"
+    },
+    {
+      "qid": "Q292073",
+      "name": "Brett Butler"
+    },
+    {
+      "qid": "Q22277167",
+      "name": "Brett Goldstein"
+    },
+    {
+      "qid": "Q113510275",
+      "name": "Brian Bahe"
+    },
+    {
+      "qid": "Q61820531",
+      "name": "Brian Lewis"
+    },
+    {
+      "qid": "Q60995173",
+      "name": "Brian Tseng"
+    },
+    {
+      "qid": "Q4973197",
+      "name": "Brody Stevens"
+    },
+    {
+      "qid": "Q4977518",
+      "name": "Bruce Fummey"
+    },
+    {
+      "qid": "Q129999011",
+      "name": "Bruno Peki"
+    },
+    {
+      "qid": "Q1139526",
+      "name": "Bryan Callen"
+    },
+    {
+      "qid": "Q19745592",
+      "name": "Budi Kusumah"
+    },
+    {
+      "qid": "Q27756523",
+      "name": "Bun Hay Mean"
+    },
+    {
+      "qid": "Q119558481",
+      "name": "Byron Theodoropoulos"
+    },
+    {
+      "qid": "Q5004952",
+      "name": "Bård Tufte Johansen"
+    },
+    {
+      "qid": "Q2929989",
+      "name": "Bérengère Krief"
+    },
+    {
+      "qid": "Q62032240",
+      "name": "Caitlin Durante"
+    },
+    {
+      "qid": "Q16188313",
+      "name": "Cak Lontong"
+    },
+    {
+      "qid": "Q64711684",
+      "name": "Cally Beaton"
+    },
+    {
+      "qid": "Q5039197",
+      "name": "Carey Marx"
+    },
+    {
+      "qid": "Q17227200",
+      "name": "Carisa Hendrix"
+    },
+    {
+      "qid": "Q1075796",
+      "name": "Carlos Alazraqui"
+    },
+    {
+      "qid": "Q1043065",
+      "name": "Carlos Mencia"
+    },
+    {
+      "qid": "Q116819978",
+      "name": "Carmel Zaig"
+    },
+    {
+      "qid": "Q139782159",
+      "name": "Carmine Del Grosso"
+    },
+    {
+      "qid": "Q142166429",
+      "name": "CarOlé Flamenco"
+    },
+    {
+      "qid": "Q559081",
+      "name": "Carrot Top"
+    },
+    {
+      "qid": "Q12305472",
+      "name": "Carsten Eskelund"
+    },
+    {
+      "qid": "Q20857921",
+      "name": "Casey Jane Ellison"
+    },
+    {
+      "qid": "Q17581508",
+      "name": "Cash Levy"
+    },
+    {
+      "qid": "Q66826913",
+      "name": "Cassandra Potenza"
+    },
+    {
+      "qid": "Q56648697",
+      "name": "Catherine Bohart"
+    },
+    {
+      "qid": "Q19724915",
+      "name": "Cecilie Steinmann Neess"
+    },
+    {
+      "qid": "Q732915",
+      "name": "Cem Yılmaz"
+    },
+    {
+      "qid": "Q141809864",
+      "name": "Chad Chambers"
+    },
+    {
+      "qid": "Q25464050",
+      "name": "Chandra Maretha"
+    },
+    {
+      "qid": "Q125727802",
+      "name": "Chara Tsioli"
+    },
+    {
+      "qid": "Q5076820",
+      "name": "Charles Demers"
+    },
+    {
+      "qid": "Q658690",
+      "name": "Charles Fleischer"
+    },
+    {
+      "qid": "Q111418140",
+      "name": "Charlie George"
+    },
+    {
+      "qid": "Q115788688",
+      "name": "Charly Nyobe"
+    },
+    {
+      "qid": "Q142251025",
+      "name": "Checho Falco"
+    },
+    {
+      "qid": "Q5090122",
+      "name": "Chelsea Peretti"
+    },
+    {
+      "qid": "Q5095381",
+      "name": "Chic Murray"
+    },
+    {
+      "qid": "Q99398127",
+      "name": "Chicandier"
+    },
+    {
+      "qid": "Q104722347",
+      "name": "Chillseph"
+    },
+    {
+      "qid": "Q142227257",
+      "name": "Chirayu Mistry"
+    },
+    {
+      "qid": "Q20740760",
+      "name": "Chris Dangerfield"
+    },
+    {
+      "qid": "Q121012971",
+      "name": "Chris Estrada"
+    },
+    {
+      "qid": "Q47510505",
+      "name": "Chris Fairbanks"
+    },
+    {
+      "qid": "Q131363637",
+      "name": "Chris Ford"
+    },
+    {
+      "qid": "Q313049",
+      "name": "Chris Hardwick"
+    },
+    {
+      "qid": "Q5107349",
+      "name": "Chris Martin"
+    },
+    {
+      "qid": "Q4109",
+      "name": "Chris Rock"
+    },
+    {
+      "qid": "Q116548942",
+      "name": "Chrissie Mayr"
+    },
+    {
+      "qid": "Q5109639",
+      "name": "Christian Geo Heltboe"
+    },
+    {
+      "qid": "Q107140604",
+      "name": "Christie Nicholls"
+    },
+    {
+      "qid": "Q5110857",
+      "name": "Christina Pazsitzky"
+    },
+    {
+      "qid": "Q11963760",
+      "name": "Christine Koht"
+    },
+    {
+      "qid": "Q112687772",
+      "name": "Christopher Grantham Smith"
+    },
+    {
+      "qid": "Q2967601",
+      "name": "Chuck McCann"
+    },
+    {
+      "qid": "Q5125227",
+      "name": "Claire Hooper"
+    },
+    {
+      "qid": "Q2980528",
+      "name": "Clémence DesRochers"
+    },
+    {
+      "qid": "Q41705859",
+      "name": "Cody Williams"
+    },
+    {
+      "qid": "Q49251518",
+      "name": "Coki Anwar"
+    },
+    {
+      "qid": "Q25470058",
+      "name": "Coki Pardede"
+    },
+    {
+      "qid": "Q5145019",
+      "name": "Colin Crompton"
+    },
+    {
+      "qid": "Q107452085",
+      "name": "Conor O'Toole"
+    },
+    {
+      "qid": "Q110434598",
+      "name": "Corinne Fisher"
+    },
+    {
+      "qid": "Q142213053",
+      "name": "Cormac Sinnott"
+    },
+    {
+      "qid": "Q108906679",
+      "name": "Cory Bertrand"
+    },
+    {
+      "qid": "Q115585559",
+      "name": "Cosmin Natanticu"
+    },
+    {
+      "qid": "Q42531670",
+      "name": "Cosmin Nedelcu"
+    },
+    {
+      "qid": "Q111749766",
+      "name": "Courtney Gilmour"
+    },
+    {
+      "qid": "Q135008930",
+      "name": "Coyote Brown"
+    },
+    {
+      "qid": "Q72867",
+      "name": "Craig Ferguson"
+    },
+    {
+      "qid": "Q3002057",
+      "name": "Craig Shoemaker"
+    },
+    {
+      "qid": "Q123397291",
+      "name": "Croix Kyles"
+    },
+    {
+      "qid": "Q137798522",
+      "name": "Crystal Ferrier"
+    },
+    {
+      "qid": "Q5195908",
+      "name": "Curtis Walker"
+    },
+    {
+      "qid": "Q105947367",
+      "name": "Cynthia Hijar"
+    },
+    {
+      "qid": "Q24895237",
+      "name": "D.C. Young Fly"
+    },
+    {
+      "qid": "Q11964513",
+      "name": "Dagfinn Lyngbø"
+    },
+    {
+      "qid": "Q28931125",
+      "name": "Daisuke Muramoto"
+    },
+    {
+      "qid": "Q5212592",
+      "name": "Damir Nikšić"
+    },
+    {
+      "qid": "Q5213090",
+      "name": "Dan Antopolski"
+    },
+    {
+      "qid": "Q901493",
+      "name": "Dan Clark"
+    },
+    {
+      "qid": "Q131387594",
+      "name": "Dan Hentschel"
+    },
+    {
+      "qid": "Q5214037",
+      "name": "Dan Mitchell"
+    },
+    {
+      "qid": "Q59140084",
+      "name": "Dan Thomas"
+    },
+    {
+      "qid": "Q115148391",
+      "name": "Dan Tiernan"
+    },
+    {
+      "qid": "Q65548351",
+      "name": "Dana Alexander"
+    },
+    {
+      "qid": "Q3013276",
+      "name": "Dana Gould"
+    },
+    {
+      "qid": "Q134988332",
+      "name": "Danae Christou"
+    },
+    {
+      "qid": "Q68580545",
+      "name": "Dandy Davy"
+    },
+    {
+      "qid": "Q21062071",
+      "name": "Dane Baptiste"
+    },
+    {
+      "qid": "Q19725198",
+      "name": "Daned Kumara Gustama"
+    },
+    {
+      "qid": "Q136890370",
+      "name": "Daniar Jūmadılov"
+    },
+    {
+      "qid": "Q19859226",
+      "name": "Daniel Assayag"
+    },
+    {
+      "qid": "Q132473138",
+      "name": "Daniel Betts"
+    },
+    {
+      "qid": "Q5217810",
+      "name": "Daniel Kitson"
+    },
+    {
+      "qid": "Q1808778",
+      "name": "Daniel McKeague"
+    },
+    {
+      "qid": "Q111475120",
+      "name": "Daniel Midas"
+    },
+    {
+      "qid": "Q5218579",
+      "name": "Daniel Rigby"
+    },
+    {
+      "qid": "Q135983500",
+      "name": "Daniel Shar"
+    },
+    {
+      "qid": "Q5218786",
+      "name": "Daniel Sloss"
+    },
+    {
+      "qid": "Q514066",
+      "name": "Daniel Tosh"
+    },
+    {
+      "qid": "Q124544499",
+      "name": "Daniela Delle Foglie"
+    },
+    {
+      "qid": "Q117069380",
+      "name": "Daniele Tinti"
+    },
+    {
+      "qid": "Q15072679",
+      "name": "Danielle Ward"
+    },
+    {
+      "qid": "Q42323952",
+      "name": "Danila Poperechny"
+    },
+    {
+      "qid": "Q5220145",
+      "name": "Danny Bhoy"
+    },
+    {
+      "qid": "Q49251580",
+      "name": "Dany Beler"
+    },
+    {
+      "qid": "Q62081359",
+      "name": "Darren Connell"
+    },
+    {
+      "qid": "Q16226126",
+      "name": "Darrin Rose"
+    },
+    {
+      "qid": "Q56393977",
+      "name": "Daslan Cukup"
+    },
+    {
+      "qid": "Q529262",
+      "name": "Dave Allen"
+    },
+    {
+      "qid": "Q112915363",
+      "name": "Dave Lynch"
+    },
+    {
+      "qid": "Q5229490",
+      "name": "Dave O'Neil"
+    },
+    {
+      "qid": "Q3703057",
+      "name": "Dave Thompson"
+    },
+    {
+      "qid": "Q5232562",
+      "name": "David Copperfield"
+    },
+    {
+      "qid": "Q69189816",
+      "name": "David Edwards"
+    },
+    {
+      "qid": "Q111086793",
+      "name": "David Gorinšek"
+    },
+    {
+      "qid": "Q141425364",
+      "name": "David J. Williams"
+    },
+    {
+      "qid": "Q139948816",
+      "name": "David Linszen"
+    },
+    {
+      "qid": "Q135004856",
+      "name": "David Minerba"
+    },
+    {
+      "qid": "Q19745765",
+      "name": "David Nurbianto"
+    },
+    {
+      "qid": "Q121337157",
+      "name": "David R. Boulton"
+    },
+    {
+      "qid": "Q5800322",
+      "name": "David Rionda"
+    },
+    {
+      "qid": "Q298658",
+      "name": "David Spade"
+    },
+    {
+      "qid": "Q698851",
+      "name": "Dayo Wong"
+    },
+    {
+      "qid": "Q109080300",
+      "name": "Debby Kleider-Broshi"
+    },
+    {
+      "qid": "Q21716256",
+      "name": "Deborah Frances-White"
+    },
+    {
+      "qid": "Q113459260",
+      "name": "Debra-Jane Appleby"
+    },
+    {
+      "qid": "Q258064",
+      "name": "Dee Wallace"
+    },
+    {
+      "qid": "Q4235873",
+      "name": "Denis Kosyakov"
+    },
+    {
+      "qid": "Q124024480",
+      "name": "Deniz Göktaş"
+    },
+    {
+      "qid": "Q5258204",
+      "name": "Dennis Blair"
+    },
+    {
+      "qid": "Q92100980",
+      "name": "Derek Sheen"
+    },
+    {
+      "qid": "Q5263440",
+      "name": "Des Clarke"
+    },
+    {
+      "qid": "Q5263495",
+      "name": "Des McLean"
+    },
+    {
+      "qid": "Q124365902",
+      "name": "Deshae Frost"
+    },
+    {
+      "qid": "Q138849064",
+      "name": "Despina Mirou"
+    },
+    {
+      "qid": "Q31174492",
+      "name": "Deswin Faqih"
+    },
+    {
+      "qid": "Q49251700",
+      "name": "Didi Sunardi"
+    },
+    {
+      "qid": "Q5805895",
+      "name": "Diego Arjona"
+    },
+    {
+      "qid": "Q689494",
+      "name": "Dieudonné Mbala Mbala"
+    },
+    {
+      "qid": "Q56393636",
+      "name": "Dimas Yudhistira"
+    },
+    {
+      "qid": "Q98586007",
+      "name": "Dimitris Dimopoulos"
+    },
+    {
+      "qid": "Q139071568",
+      "name": "Dino Archie"
+    },
+    {
+      "qid": "Q62081526",
+      "name": "Diona Doherty"
+    },
+    {
+      "qid": "Q5279355",
+      "name": "Dionne 'London' Hughes"
+    },
+    {
+      "qid": "Q132192393",
+      "name": "Dionysis Atzarakis"
+    },
+    {
+      "qid": "Q113689823",
+      "name": "Diribe Chidi Richard"
+    },
+    {
+      "qid": "Q5205336",
+      "name": "DJ Hazard"
+    },
+    {
+      "qid": "Q17410499",
+      "name": "Dodit Mulyanto"
+    },
+    {
+      "qid": "Q140340619",
+      "name": "Dodok Jogja"
+    },
+    {
+      "qid": "Q29534063",
+      "name": "Dominic Frisby"
+    },
+    {
+      "qid": "Q269890",
+      "name": "Don Rickles"
+    },
+    {
+      "qid": "Q1239933",
+      "name": "Donald Glover"
+    },
+    {
+      "qid": "Q5296419",
+      "name": "Donna McPhail"
+    },
+    {
+      "qid": "Q106909201",
+      "name": "Dono Pradana"
+    },
+    {
+      "qid": "Q55005138",
+      "name": "Dora Thorhallsdottir"
+    },
+    {
+      "qid": "Q63644330",
+      "name": "Doron Ravitz"
+    },
+    {
+      "qid": "Q99839412",
+      "name": "Dr. Shrunk"
+    },
+    {
+      "qid": "Q27063280",
+      "name": "Drew Lynch"
+    },
+    {
+      "qid": "Q140564516",
+      "name": "Drew Sullivan"
+    },
+    {
+      "qid": "Q104640912",
+      "name": "Dua Leo"
+    },
+    {
+      "qid": "Q7055179",
+      "name": "Dudu Dotan"
+    },
+    {
+      "qid": "Q12405749",
+      "name": "Dudu Erez"
+    },
+    {
+      "qid": "Q1263812",
+      "name": "Dudu Topaz"
+    },
+    {
+      "qid": "Q111086767",
+      "name": "Dušan Tomić - Dule"
+    },
+    {
+      "qid": "Q23417044",
+      "name": "Dwayne Perkins"
+    },
+    {
+      "qid": "Q18421266",
+      "name": "Dzawin Nur Ikram"
+    },
+    {
+      "qid": "Q109432875",
+      "name": "Ebel Cobra"
+    },
+    {
+      "qid": "Q139935432",
+      "name": "Ed Night"
+    },
+    {
+      "qid": "Q5336351",
+      "name": "Eddie Nestor"
+    },
+    {
+      "qid": "Q100144545",
+      "name": "Edgar-Yves"
+    },
+    {
+      "qid": "Q41884872",
+      "name": "Edoardo Ferrario"
+    },
+    {
+      "qid": "Q124218461",
+      "name": "Edu Tóth"
+    },
+    {
+      "qid": "Q50550345",
+      "name": "Eeva Vekki"
+    },
+    {
+      "qid": "Q1342277",
+      "name": "Efim Shifrin"
+    },
+    {
+      "qid": "Q106879340",
+      "name": "Egi Haw"
+    },
+    {
+      "qid": "Q132151653",
+      "name": "El Tobi"
+    },
+    {
+      "qid": "Q5353174",
+      "name": "Elaine Constance Smith"
+    },
+    {
+      "qid": "Q81968971",
+      "name": "Eleanor Sela"
+    },
+    {
+      "qid": "Q124829803",
+      "name": "Elena Nagapetyan"
+    },
+    {
+      "qid": "Q4441710",
+      "name": "Elena Stepanenko"
+    },
+    {
+      "qid": "Q4125082",
+      "name": "Elena Vorobey"
+    },
+    {
+      "qid": "Q59262901",
+      "name": "Eleri Morgan"
+    },
+    {
+      "qid": "Q16902196",
+      "name": "Elf Lyons"
+    },
+    {
+      "qid": "Q5069783",
+      "name": "Eli Finish"
+    },
+    {
+      "qid": "Q6668720",
+      "name": "Eli Galperin"
+    },
+    {
+      "qid": "Q2909866",
+      "name": "Eli Yatzpan"
+    },
+    {
+      "qid": "Q5361330",
+      "name": "Elis James"
+    },
+    {
+      "qid": "Q67203107",
+      "name": "Eliza Skinner"
+    },
+    {
+      "qid": "Q12963636",
+      "name": "Elizabeth Ramsey"
+    },
+    {
+      "qid": "Q135436587",
+      "name": "Elizaveta Aranova"
+    },
+    {
+      "qid": "Q63367849",
+      "name": "Ellie Jokar"
+    },
+    {
+      "qid": "Q63010867",
+      "name": "Elsa Ruiz"
+    },
+    {
+      "qid": "Q59772387",
+      "name": "Emily Heller"
+    },
+    {
+      "qid": "Q110026694",
+      "name": "Emily Lloyd-Saini"
+    },
+    {
+      "qid": "Q124463536",
+      "name": "Emma Doran"
+    },
+    {
+      "qid": "Q5372804",
+      "name": "Emma Fryer"
+    },
+    {
+      "qid": "Q60564877",
+      "name": "Emmy Blotnick"
+    },
+    {
+      "qid": "Q2422570",
+      "name": "Emo Philips"
+    },
+    {
+      "qid": "Q21705283",
+      "name": "Endrik Puntso"
+    },
+    {
+      "qid": "Q124606027",
+      "name": "Erez Birenboyim"
+    },
+    {
+      "qid": "Q6606548",
+      "name": "Erez Shalem"
+    },
+    {
+      "qid": "Q1294039",
+      "name": "Eric Douglas"
+    },
+    {
+      "qid": "Q113360913",
+      "name": "Erika Ehler"
+    },
+    {
+      "qid": "Q55606696",
+      "name": "Erlend Osnes"
+    },
+    {
+      "qid": "Q16176223",
+      "name": "Ernest Prakasa"
+    },
+    {
+      "qid": "Q111086766",
+      "name": "Ervin Adžikič"
+    },
+    {
+      "qid": "Q5401271",
+      "name": "Esther Povitsky"
+    },
+    {
+      "qid": "Q58898759",
+      "name": "Esyllt Sears"
+    },
+    {
+      "qid": "Q16231859",
+      "name": "Eunice Olumide"
+    },
+    {
+      "qid": "Q56273199",
+      "name": "Eurydice Dixon"
+    },
+    {
+      "qid": "Q108454605",
+      "name": "Eva Jin"
+    },
+    {
+      "qid": "Q111086801",
+      "name": "Eva Virc"
+    },
+    {
+      "qid": "Q106497805",
+      "name": "Evgeniy Chebatkov"
+    },
+    {
+      "qid": "Q141451144",
+      "name": "Ezinne Mgbeahuruike"
+    },
+    {
+      "qid": "Q96374286",
+      "name": "Fadily Camara"
+    },
+    {
+      "qid": "Q5429493",
+      "name": "Fahad Albutairi"
+    },
+    {
+      "qid": "Q125066128",
+      "name": "Fahim Anwar"
+    },
+    {
+      "qid": "Q131838509",
+      "name": "Faizal Agung"
+    },
+    {
+      "qid": "Q29467536",
+      "name": "Fakkah Fuzz"
+    },
+    {
+      "qid": "Q27987912",
+      "name": "Fary"
+    },
+    {
+      "qid": "Q91794629",
+      "name": "Fathi Ahmed"
+    },
+    {
+      "qid": "Q106879315",
+      "name": "Fatih Andhika"
+    },
+    {
+      "qid": "Q56394370",
+      "name": "Fedro Dwi Putra"
+    },
+    {
+      "qid": "Q60348656",
+      "name": "Felipe Esparza"
+    },
+    {
+      "qid": "Q5858365",
+      "name": "Felipe Polanco"
+    },
+    {
+      "qid": "Q5442188",
+      "name": "Felix Dexter"
+    },
+    {
+      "qid": "Q129773947",
+      "name": "Felix Redka"
+    },
+    {
+      "qid": "Q131727877",
+      "name": "Fernanda Metilli"
+    },
+    {
+      "qid": "Q19745533",
+      "name": "Ferry Ardilesmana"
+    },
+    {
+      "qid": "Q56394094",
+      "name": "Fianita"
+    },
+    {
+      "qid": "Q18421272",
+      "name": "Fico Fachriza"
+    },
+    {
+      "qid": "Q122583444",
+      "name": "Filip Andronik"
+    },
+    {
+      "qid": "Q115861492",
+      "name": "Filipp Voronin"
+    },
+    {
+      "qid": "Q125208706",
+      "name": "Flavio Ramírez"
+    },
+    {
+      "qid": "Q1857676",
+      "name": "Florence Foresti"
+    },
+    {
+      "qid": "Q1839277",
+      "name": "Fozzie Bear"
+    },
+    {
+      "qid": "Q112758118",
+      "name": "Fran Tudela i Lloret"
+    },
+    {
+      "qid": "Q104767511",
+      "name": "Francesca Fiorentini"
+    },
+    {
+      "qid": "Q5479124",
+      "name": "Francesca Martinez"
+    },
+    {
+      "qid": "Q139769585",
+      "name": "Francesco Fanucchi"
+    },
+    {
+      "qid": "Q116223572",
+      "name": "Francis Foster"
+    },
+    {
+      "qid": "Q3480254",
+      "name": "Frank Caeti"
+    },
+    {
+      "qid": "Q3545639",
+      "name": "Frank Caliendo"
+    },
+    {
+      "qid": "Q5485702",
+      "name": "Frank Carson"
+    },
+    {
+      "qid": "Q107339000",
+      "name": "Frank Martínez"
+    },
+    {
+      "qid": "Q937537",
+      "name": "Frankie Boyle"
+    },
+    {
+      "qid": "Q62587939",
+      "name": "Franártur Duque"
+    },
+    {
+      "qid": "Q1450857",
+      "name": "François-Xavier Demaison"
+    },
+    {
+      "qid": "Q847133",
+      "name": "Fred Tatasciore"
+    },
+    {
+      "qid": "Q10286899",
+      "name": "Fábio Rabin"
+    },
+    {
+      "qid": "Q56561410",
+      "name": "Gabe Liedman"
+    },
+    {
+      "qid": "Q111691299",
+      "name": "Gabriel Žifčák"
+    },
+    {
+      "qid": "Q18810776",
+      "name": "Gadi Wilcherski"
+    },
+    {
+      "qid": "Q54819244",
+      "name": "Galit Hoogi"
+    },
+    {
+      "qid": "Q25466716",
+      "name": "Gareng Rakasiwi"
+    },
+    {
+      "qid": "Q2389088",
+      "name": "Garik Martirosyan"
+    },
+    {
+      "qid": "Q115619277",
+      "name": "Garik Oganisyan"
+    },
+    {
+      "qid": "Q135929303",
+      "name": "Gary Little (comedian)"
+    },
+    {
+      "qid": "Q19560926",
+      "name": "Gatis Kandis"
+    },
+    {
+      "qid": "Q113711981",
+      "name": "Gautama Shindu"
+    },
+    {
+      "qid": "Q54398522",
+      "name": "Gaya Beer Gurevich"
+    },
+    {
+      "qid": "Q111086773",
+      "name": "Gašper Bergant"
+    },
+    {
+      "qid": "Q142189611",
+      "name": "GB Labrador"
+    },
+    {
+      "qid": "Q16177813",
+      "name": "Ge Pamungkas"
+    },
+    {
+      "qid": "Q1501158",
+      "name": "Gemma Whelan"
+    },
+    {
+      "qid": "Q1944158",
+      "name": "Gennady Khazanov"
+    },
+    {
+      "qid": "Q4110057",
+      "name": "Gennady Vetrov"
+    },
+    {
+      "qid": "Q5534250",
+      "name": "Geoff Norcott"
+    },
+    {
+      "qid": "Q150651",
+      "name": "George Carlin"
+    },
+    {
+      "qid": "Q1345198",
+      "name": "George Lindsey"
+    },
+    {
+      "qid": "Q73035",
+      "name": "George Lopez"
+    },
+    {
+      "qid": "Q110434710",
+      "name": "George Perez"
+    },
+    {
+      "qid": "Q5544030",
+      "name": "George Roper"
+    },
+    {
+      "qid": "Q11971887",
+      "name": "Gerd Thoreid"
+    },
+    {
+      "qid": "Q52106858",
+      "name": "Getup Srinu"
+    },
+    {
+      "qid": "Q3761594",
+      "name": "Ghemon"
+    },
+    {
+      "qid": "Q3763074",
+      "name": "Gianfranco Funari"
+    },
+    {
+      "qid": "Q28723848",
+      "name": "Gianluigi Christoikov"
+    },
+    {
+      "qid": "Q106879391",
+      "name": "Gideon Tulus"
+    },
+    {
+      "qid": "Q7056316",
+      "name": "Gil Kopatch"
+    },
+    {
+      "qid": "Q6874354",
+      "name": "Gil Sassover"
+    },
+    {
+      "qid": "Q19745841",
+      "name": "Gilang Bhaskara"
+    },
+    {
+      "qid": "Q106879365",
+      "name": "Gilang Herlambang"
+    },
+    {
+      "qid": "Q221464",
+      "name": "Gilbert Gottfried"
+    },
+    {
+      "qid": "Q4990811",
+      "name": "Gina Yashere"
+    },
+    {
+      "qid": "Q61718688",
+      "name": "Giora Zinger"
+    },
+    {
+      "qid": "Q12875384",
+      "name": "Giorgos Xatzipavlou"
+    },
+    {
+      "qid": "Q25464041",
+      "name": "Gita Bhebhita"
+    },
+    {
+      "qid": "Q135346960",
+      "name": "Glenn Hirsch"
+    },
+    {
+      "qid": "Q42287777",
+      "name": "Glenn Moore"
+    },
+    {
+      "qid": "Q106549480",
+      "name": "Godai Garcia"
+    },
+    {
+      "qid": "Q133520932",
+      "name": "Gold Dagal"
+    },
+    {
+      "qid": "Q5883304",
+      "name": "Gonzalo Valderrama"
+    },
+    {
+      "qid": "Q19629830",
+      "name": "Gord Robertson"
+    },
+    {
+      "qid": "Q18720189",
+      "name": "Grace Petrie"
+    },
+    {
+      "qid": "Q52742838",
+      "name": "Graham Clark"
+    },
+    {
+      "qid": "Q124143003",
+      "name": "Grecia Castillo"
+    },
+    {
+      "qid": "Q5605472",
+      "name": "Greg Davies"
+    },
+    {
+      "qid": "Q62078341",
+      "name": "Grego Rossello"
+    },
+    {
+      "qid": "Q56486616",
+      "name": "Gráinne Maguire"
+    },
+    {
+      "qid": "Q50759589",
+      "name": "Guillermo Guiz"
+    },
+    {
+      "qid": "Q4933640",
+      "name": "Gunilla Abrahamsson"
+    },
+    {
+      "qid": "Q141998009",
+      "name": "Guram Amaryan"
+    },
+    {
+      "qid": "Q1555182",
+      "name": "Guri Alfi-Aharon"
+    },
+    {
+      "qid": "Q141749484",
+      "name": "Gurleen Pannu"
+    },
+    {
+      "qid": "Q98969645",
+      "name": "Guy Adler"
+    },
+    {
+      "qid": "Q5622119",
+      "name": "Guy Branum"
+    },
+    {
+      "qid": "Q7210730",
+      "name": "Hadar Galron"
+    },
+    {
+      "qid": "Q6751488",
+      "name": "Hadar Levi"
+    },
+    {
+      "qid": "Q108923400",
+      "name": "Hagit Ginzburg"
+    },
+    {
+      "qid": "Q65252402",
+      "name": "Haim Almakis"
+    },
+    {
+      "qid": "Q128789494",
+      "name": "Hajinjim"
+    },
+    {
+      "qid": "Q14817277",
+      "name": "Hal Cruttenden"
+    },
+    {
+      "qid": "Q125862878",
+      "name": "Hallvard Dyrnes"
+    },
+    {
+      "qid": "Q126952096",
+      "name": "Hani Hussein"
+    },
+    {
+      "qid": "Q104604510",
+      "name": "Hanna Danmo"
+    },
+    {
+      "qid": "Q125864093",
+      "name": "Hannan Azlan"
+    },
+    {
+      "qid": "Q5604065",
+      "name": "Hans Carstensen"
+    },
+    {
+      "qid": "Q28070985",
+      "name": "Hareesh Perumanna"
+    },
+    {
+      "qid": "Q56394227",
+      "name": "Haris Teguh"
+    },
+    {
+      "qid": "Q136689450",
+      "name": "Harriet Dyer"
+    },
+    {
+      "qid": "Q63436808",
+      "name": "Harriet Kemsley"
+    },
+    {
+      "qid": "Q5668371",
+      "name": "Harry Denford"
+    },
+    {
+      "qid": "Q27481418",
+      "name": "Hasan Reyvandi"
+    },
+    {
+      "qid": "Q85320654",
+      "name": "Hassan el Rahaui"
+    },
+    {
+      "qid": "Q3498512",
+      "name": "Hattie Hayridge"
+    },
+    {
+      "qid": "Q127260535",
+      "name": "Heaven Hart"
+    },
+    {
+      "qid": "Q109426255",
+      "name": "Heidi Regan"
+    },
+    {
+      "qid": "Q106323463",
+      "name": "Heikki Vilja"
+    },
+    {
+      "qid": "Q12315946",
+      "name": "Heino Hansen"
+    },
+    {
+      "qid": "Q21062313",
+      "name": "Helen Arney"
+    },
+    {
+      "qid": "Q57754117",
+      "name": "Helen Hong"
+    },
+    {
+      "qid": "Q124641031",
+      "name": "Helen Pilcher"
+    },
+    {
+      "qid": "Q98764732",
+      "name": "Hello Hor"
+    },
+    {
+      "qid": "Q42649885",
+      "name": "Hen Mizrahi"
+    },
+    {
+      "qid": "Q47168306",
+      "name": "Hendrix Hart"
+    },
+    {
+      "qid": "Q124290814",
+      "name": "Henning Bang"
+    },
+    {
+      "qid": "Q12316327",
+      "name": "Henrik Bruhn"
+    },
+    {
+      "qid": "Q114597990",
+      "name": "Henrik Farley"
+    },
+    {
+      "qid": "Q97363616",
+      "name": "Henrik Fladseth"
+    },
+    {
+      "qid": "Q20426510",
+      "name": "Heri Horeh"
+    },
+    {
+      "qid": "Q19745887",
+      "name": "Hifdzi Khoir"
+    },
+    {
+      "qid": "Q81315390",
+      "name": "Hodgetwins"
+    },
+    {
+      "qid": "Q12822922",
+      "name": "Hojiboy Tojiboyev"
+    },
+    {
+      "qid": "Q5920714",
+      "name": "Howard Read"
+    },
+    {
+      "qid": "Q22100392",
+      "name": "Huang Hau-Ping"
+    },
+    {
+      "qid": "Q2059491",
+      "name": "Hugleikur Dagsson"
+    },
+    {
+      "qid": "Q14816237",
+      "name": "Humza Arshad"
+    },
+    {
+      "qid": "Q111086784",
+      "name": "Husein Šakanović"
+    },
+    {
+      "qid": "Q5980627",
+      "name": "Iain Stirling"
+    },
+    {
+      "qid": "Q5981230",
+      "name": "Ian Cognito"
+    },
+    {
+      "qid": "Q5981758",
+      "name": "Ian Harvie"
+    },
+    {
+      "qid": "Q5983002",
+      "name": "Ian Stone"
+    },
+    {
+      "qid": "Q99510897",
+      "name": "Ibrahem Al Hajjaj"
+    },
+    {
+      "qid": "Q97704980",
+      "name": "Ichal Kate"
+    },
+    {
+      "qid": "Q106358260",
+      "name": "Ida Grönlund"
+    },
+    {
+      "qid": "Q120442203",
+      "name": "Ido Kanner"
+    },
+    {
+      "qid": "Q113564067",
+      "name": "Ido Katzir"
+    },
+    {
+      "qid": "Q108328982",
+      "name": "Idrak Mirzalizade"
+    },
+    {
+      "qid": "Q47123304",
+      "name": "Idris Charles"
+    },
+    {
+      "qid": "Q56393634",
+      "name": "Ifan Firdaus Hasan"
+    },
+    {
+      "qid": "Q5913690",
+      "name": "Ignatius Farray"
+    },
+    {
+      "qid": "Q4501430",
+      "name": "Igor Khristenko"
+    },
+    {
+      "qid": "Q130297816",
+      "name": "Ilan Kovach"
+    },
+    {
+      "qid": "Q11864497",
+      "name": "Ilari Johansson"
+    },
+    {
+      "qid": "Q15453111",
+      "name": "Iliza Shlesinger"
+    },
+    {
+      "qid": "Q134617188",
+      "name": "Ilya Makarov"
+    },
+    {
+      "qid": "Q6001912",
+      "name": "Imaan Hadchiti"
+    },
+    {
+      "qid": "Q106817691",
+      "name": "Imah Dumagay"
+    },
+    {
+      "qid": "Q6008246",
+      "name": "Imran Yusuf"
+    },
+    {
+      "qid": "Q14945664",
+      "name": "Inder Manocha"
+    },
+    {
+      "qid": "Q25467925",
+      "name": "Indra Jegel"
+    },
+    {
+      "qid": "Q113328347",
+      "name": "Indrė Bareikienė"
+    },
+    {
+      "qid": "Q23946790",
+      "name": "Inel Tomlinson"
+    },
+    {
+      "qid": "Q75288302",
+      "name": "Ingrid Dahle"
+    },
+    {
+      "qid": "Q16183268",
+      "name": "Insan Nur Akbar"
+    },
+    {
+      "qid": "Q28723729",
+      "name": "Irawan Raharja"
+    },
+    {
+      "qid": "Q124014256",
+      "name": "Irene Minovas"
+    },
+    {
+      "qid": "Q61727025",
+      "name": "Irmy Shik-Blum"
+    },
+    {
+      "qid": "Q6075016",
+      "name": "Irwin Corey"
+    },
+    {
+      "qid": "Q3154812",
+      "name": "Isabeau de R."
+    },
+    {
+      "qid": "Q117846120",
+      "name": "Isalill Kolpus"
+    },
+    {
+      "qid": "Q19745917",
+      "name": "Isman H. Suryaman"
+    },
+    {
+      "qid": "Q137997",
+      "name": "Ismo Leikola"
+    },
+    {
+      "qid": "Q1674610",
+      "name": "Israel Katorza"
+    },
+    {
+      "qid": "Q6089554",
+      "name": "Isy Suttie"
+    },
+    {
+      "qid": "Q123701120",
+      "name": "Ivan Abramov"
+    },
+    {
+      "qid": "Q50931219",
+      "name": "Ivan Decker"
+    },
+    {
+      "qid": "Q98168931",
+      "name": "Ivan Usovich"
+    },
+    {
+      "qid": "Q27048895",
+      "name": "Ivo Graham"
+    },
+    {
+      "qid": "Q18421312",
+      "name": "Iyam Renzia"
+    },
+    {
+      "qid": "Q113453207",
+      "name": "Izzy Askwith"
+    },
+    {
+      "qid": "Q63228412",
+      "name": "Iča Putrih"
+    },
+    {
+      "qid": "Q64830333",
+      "name": "J. J. Vaquero"
+    },
+    {
+      "qid": "Q5491977",
+      "name": "J. P. Kangas"
+    },
+    {
+      "qid": "Q6109587",
+      "name": "Jaakko Saariluoma"
+    },
+    {
+      "qid": "Q52274823",
+      "name": "Jaboukie Young-White"
+    },
+    {
+      "qid": "Q16202365",
+      "name": "Jack Carroll"
+    },
+    {
+      "qid": "Q2351201",
+      "name": "Jack Dee"
+    },
+    {
+      "qid": "Q16105599",
+      "name": "Jack Diamond"
+    },
+    {
+      "qid": "Q5868696",
+      "name": "Jack Whitehall"
+    },
+    {
+      "qid": "Q102040469",
+      "name": "Jackie Fabulous"
+    },
+    {
+      "qid": "Q16997863",
+      "name": "Jackie Jokers"
+    },
+    {
+      "qid": "Q12060965",
+      "name": "Jackie Kashian"
+    },
+    {
+      "qid": "Q141539052",
+      "name": "Jackie Nash"
+    },
+    {
+      "qid": "Q116541711",
+      "name": "Jackie Pirico"
+    },
+    {
+      "qid": "Q81614436",
+      "name": "Jacob Taarnhøj"
+    },
+    {
+      "qid": "Q6121033",
+      "name": "Jacqui Holland"
+    },
+    {
+      "qid": "Q112561935",
+      "name": "Jad Turjman"
+    },
+    {
+      "qid": "Q17580495",
+      "name": "Jagdish Chaturvedi"
+    },
+    {
+      "qid": "Q6124049",
+      "name": "Jaine Green"
+    },
+    {
+      "qid": "Q6124893",
+      "name": "Jake O'Kane"
+    },
+    {
+      "qid": "Q22004539",
+      "name": "Jamali Maddix"
+    },
+    {
+      "qid": "Q15072714",
+      "name": "James Acaster"
+    },
+    {
+      "qid": "Q6128399",
+      "name": "James Adomian"
+    },
+    {
+      "qid": "Q6130944",
+      "name": "James Campbell"
+    },
+    {
+      "qid": "Q142189586",
+      "name": "James Caraan"
+    },
+    {
+      "qid": "Q123284943",
+      "name": "James Garlin"
+    },
+    {
+      "qid": "Q78453097",
+      "name": "James Long"
+    },
+    {
+      "qid": "Q6145962",
+      "name": "James Young"
+    },
+    {
+      "qid": "Q132235169",
+      "name": "Jamie MacDonald"
+    },
+    {
+      "qid": "Q2991113",
+      "name": "Jan Arlazorov"
+    },
+    {
+      "qid": "Q111086794",
+      "name": "Jan David Kljenak"
+    },
+    {
+      "qid": "Q112560352",
+      "name": "Jan Géryk"
+    },
+    {
+      "qid": "Q111086792",
+      "name": "Jan Hrušovar"
+    },
+    {
+      "qid": "Q111086769",
+      "name": "Jan Kreuzer"
+    },
+    {
+      "qid": "Q111086790",
+      "name": "Jan Tomažić - Jankič"
+    },
+    {
+      "qid": "Q99316716",
+      "name": "Janelle James"
+    },
+    {
+      "qid": "Q4950328",
+      "name": "Janey Godley"
+    },
+    {
+      "qid": "Q131703120",
+      "name": "Janice Wu"
+    },
+    {
+      "qid": "Q16727669",
+      "name": "Janine Brito"
+    },
+    {
+      "qid": "Q109425737",
+      "name": "Janine Harouni"
+    },
+    {
+      "qid": "Q5375691",
+      "name": "Janne Kataja"
+    },
+    {
+      "qid": "Q6155169",
+      "name": "Janne Rønningen"
+    },
+    {
+      "qid": "Q68725263",
+      "name": "Janneke de Bijl"
+    },
+    {
+      "qid": "Q11720399",
+      "name": "Janusz Pietruszka"
+    },
+    {
+      "qid": "Q96323403",
+      "name": "Jape Grönroos"
+    },
+    {
+      "qid": "Q6162202",
+      "name": "Jason Chatfield"
+    },
+    {
+      "qid": "Q3406356",
+      "name": "Jason Manford"
+    },
+    {
+      "qid": "Q6163806",
+      "name": "Jason Wood"
+    },
+    {
+      "qid": "Q2597366",
+      "name": "Jasper Carrott"
+    },
+    {
+      "qid": "Q22278304",
+      "name": "Jay Islaam"
+    },
+    {
+      "qid": "Q218718",
+      "name": "Jay Leno"
+    },
+    {
+      "qid": "Q492321",
+      "name": "Jay Mohr"
+    },
+    {
+      "qid": "Q136656986",
+      "name": "Jaye McBride"
+    },
+    {
+      "qid": "Q138208399",
+      "name": "Jaz Mattu"
+    },
+    {
+      "qid": "Q134385720",
+      "name": "Jeff Arcuri"
+    },
+    {
+      "qid": "Q6173761",
+      "name": "Jeff Dye"
+    },
+    {
+      "qid": "Q983082",
+      "name": "Jeff Garlin"
+    },
+    {
+      "qid": "Q6173947",
+      "name": "Jeff Green"
+    },
+    {
+      "qid": "Q15072763",
+      "name": "Jeff Mirza"
+    },
+    {
+      "qid": "Q12858627",
+      "name": "Jeff Ross"
+    },
+    {
+      "qid": "Q439315",
+      "name": "Jemaine Clement"
+    },
+    {
+      "qid": "Q6177264",
+      "name": "Jen Brister"
+    },
+    {
+      "qid": "Q6177299",
+      "name": "Jen Kirkman"
+    },
+    {
+      "qid": "Q6179345",
+      "name": "Jenny Jones"
+    },
+    {
+      "qid": "Q744166",
+      "name": "Jenny Slate"
+    },
+    {
+      "qid": "Q42912986",
+      "name": "Jens Dendoncker"
+    },
+    {
+      "qid": "Q111086763",
+      "name": "Jernej Celec"
+    },
+    {
+      "qid": "Q1797473",
+      "name": "Jerry Seinfeld"
+    },
+    {
+      "qid": "Q215506",
+      "name": "Jerry Seinfeld"
+    },
+    {
+      "qid": "Q141917262",
+      "name": "Jerry Vsan"
+    },
+    {
+      "qid": "Q12319635",
+      "name": "Jesper Juhl"
+    },
+    {
+      "qid": "Q25466519",
+      "name": "Jessica Farolan"
+    },
+    {
+      "qid": "Q109303295",
+      "name": "Jessica Kirson"
+    },
+    {
+      "qid": "Q20657553",
+      "name": "Jessimae Peluso"
+    },
+    {
+      "qid": "Q6193763",
+      "name": "Jim Bowen"
+    },
+    {
+      "qid": "Q40504",
+      "name": "Jim Carrey"
+    },
+    {
+      "qid": "Q124671623",
+      "name": "Jim Daly"
+    },
+    {
+      "qid": "Q2559713",
+      "name": "Jim Davidson"
+    },
+    {
+      "qid": "Q3396369",
+      "name": "Jim Florentine"
+    },
+    {
+      "qid": "Q3178896",
+      "name": "Jim Meskimen"
+    },
+    {
+      "qid": "Q16217628",
+      "name": "Jim Smallman"
+    },
+    {
+      "qid": "Q116287448",
+      "name": "Jim Speelmans"
+    },
+    {
+      "qid": "Q276181",
+      "name": "Jim Varney"
+    },
+    {
+      "qid": "Q6199204",
+      "name": "Jimeoin"
+    },
+    {
+      "qid": "Q964454",
+      "name": "Jimmy Carr"
+    },
+    {
+      "qid": "Q16887693",
+      "name": "Jimmy Failla"
+    },
+    {
+      "qid": "Q6200681",
+      "name": "Jimmy Mac"
+    },
+    {
+      "qid": "Q6201006",
+      "name": "Jimmy O. Yang"
+    },
+    {
+      "qid": "Q6201029",
+      "name": "Jimmy Pardo"
+    },
+    {
+      "qid": "Q16105498",
+      "name": "Jimmy Tarbuck"
+    },
+    {
+      "qid": "Q6201547",
+      "name": "Jimmy Wheeler"
+    },
+    {
+      "qid": "Q76540108",
+      "name": "Jing Jing"
+    },
+    {
+      "qid": "Q3395525",
+      "name": "Jo Brand"
+    },
+    {
+      "qid": "Q6204177",
+      "name": "Jo Caulfield"
+    },
+    {
+      "qid": "Q117359303",
+      "name": "Jo Cormier"
+    },
+    {
+      "qid": "Q29582603",
+      "name": "Joanna Hausmann"
+    },
+    {
+      "qid": "Q1691318",
+      "name": "Joe Alaskey"
+    },
+    {
+      "qid": "Q3810178",
+      "name": "Joe Barksdale"
+    },
+    {
+      "qid": "Q6211097",
+      "name": "Joe Mande"
+    },
+    {
+      "qid": "Q106417875",
+      "name": "Joe McHugh"
+    },
+    {
+      "qid": "Q2718421",
+      "name": "Joe Rogan"
+    },
+    {
+      "qid": "Q6212992",
+      "name": "Joe Wilkinson"
+    },
+    {
+      "qid": "Q6214342",
+      "name": "Joey Diaz"
+    },
+    {
+      "qid": "Q126772854",
+      "name": "Johanna Hurtig Wagrell"
+    },
+    {
+      "qid": "Q141740422",
+      "name": "Johannes Vaher"
+    },
+    {
+      "qid": "Q6225071",
+      "name": "John Caparulo"
+    },
+    {
+      "qid": "Q140363452",
+      "name": "John Dela Cruz"
+    },
+    {
+      "qid": "Q6229985",
+      "name": "John Dowie"
+    },
+    {
+      "qid": "Q6246956",
+      "name": "John Martin"
+    },
+    {
+      "qid": "Q6249723",
+      "name": "John Mulaney"
+    },
+    {
+      "qid": "Q16745357",
+      "name": "John Robins"
+    },
+    {
+      "qid": "Q20684252",
+      "name": "John Simmit"
+    },
+    {
+      "qid": "Q74213092",
+      "name": "Johnny Trash"
+    },
+    {
+      "qid": "Q113740699",
+      "name": "Johnny Zest"
+    },
+    {
+      "qid": "Q17037379",
+      "name": "Jon Clegg"
+    },
+    {
+      "qid": "Q15944087",
+      "name": "Jonas Brøndum"
+    },
+    {
+      "qid": "Q5960702",
+      "name": "Jonas Ljung"
+    },
+    {
+      "qid": "Q28913374",
+      "name": "Jonas Mogensen"
+    },
+    {
+      "qid": "Q12320299",
+      "name": "Jonatan Spang"
+    },
+    {
+      "qid": "Q124974373",
+      "name": "Joonas Ranta"
+    },
+    {
+      "qid": "Q5478461",
+      "name": "Joost Van Hyfte"
+    },
+    {
+      "qid": "Q22959265",
+      "name": "Josh Gondelman"
+    },
+    {
+      "qid": "Q6289004",
+      "name": "Josh Howie"
+    },
+    {
+      "qid": "Q61697670",
+      "name": "Josh Johnson"
+    },
+    {
+      "qid": "Q6289517",
+      "name": "Josh Widdicombe"
+    },
+    {
+      "qid": "Q56394469",
+      "name": "Joshua Bertus"
+    },
+    {
+      "qid": "Q1393191",
+      "name": "Joshua Suherman"
+    },
+    {
+      "qid": "Q26255232",
+      "name": "Juan Pablo Asanza"
+    },
+    {
+      "qid": "Q62607361",
+      "name": "Judi Love"
+    },
+    {
+      "qid": "Q3188035",
+      "name": "Judy Gold"
+    },
+    {
+      "qid": "Q107710694",
+      "name": "Julia Brandner"
+    },
+    {
+      "qid": "Q123465889",
+      "name": "Julie Conti"
+    },
+    {
+      "qid": "Q129172048",
+      "name": "Julie Jay"
+    },
+    {
+      "qid": "Q65030610",
+      "name": "Julio Torres"
+    },
+    {
+      "qid": "Q31174499",
+      "name": "Jupri"
+    },
+    {
+      "qid": "Q1116248",
+      "name": "János Komlós"
+    },
+    {
+      "qid": "Q55806846",
+      "name": "Kaan Sekban"
+    },
+    {
+      "qid": "Q102425264",
+      "name": "Kacper Ruciński"
+    },
+    {
+      "qid": "Q43389178",
+      "name": "Kae Kurd"
+    },
+    {
+      "qid": "Q116180747",
+      "name": "Kai Samra"
+    },
+    {
+      "qid": "Q90834104",
+      "name": "Kaitin Allende"
+    },
+    {
+      "qid": "Q111086800",
+      "name": "Kaja Grozina"
+    },
+    {
+      "qid": "Q18686350",
+      "name": "Kanan Gill"
+    },
+    {
+      "qid": "Q111586581",
+      "name": "Karsten Blomvik"
+    },
+    {
+      "qid": "Q24572200",
+      "name": "Kaseem Bentley"
+    },
+    {
+      "qid": "Q69918731",
+      "name": "Kaseran Pillay"
+    },
+    {
+      "qid": "Q51128117",
+      "name": "Kasper Gross"
+    },
+    {
+      "qid": "Q11737040",
+      "name": "Katarzyna Piasecka"
+    },
+    {
+      "qid": "Q15072678",
+      "name": "Kate Smurthwaite"
+    },
+    {
+      "qid": "Q104445296",
+      "name": "Katerina Vrana"
+    },
+    {
+      "qid": "Q98177027",
+      "name": "Kathleen McGee"
+    },
+    {
+      "qid": "Q51011911",
+      "name": "Katiuska Molotov"
+    },
+    {
+      "qid": "Q108849162",
+      "name": "Kawus Kalantar"
+    },
+    {
+      "qid": "Q40064322",
+      "name": "Keara Murphy"
+    },
+    {
+      "qid": "Q6384690",
+      "name": "Keith Malley"
+    },
+    {
+      "qid": "Q16404277",
+      "name": "Keiu Must"
+    },
+    {
+      "qid": "Q130516279",
+      "name": "Kell Fire"
+    },
+    {
+      "qid": "Q97924377",
+      "name": "Kelly Pryce"
+    },
+    {
+      "qid": "Q135681685",
+      "name": "Kelsey Cook"
+    },
+    {
+      "qid": "Q17410649",
+      "name": "Kemal Palevi"
+    },
+    {
+      "qid": "Q22087259",
+      "name": "Ken Cheng"
+    },
+    {
+      "qid": "Q1738596",
+      "name": "Ken Dodd"
+    },
+    {
+      "qid": "Q6387689",
+      "name": "Ken Goodwin"
+    },
+    {
+      "qid": "Q56394451",
+      "name": "Ken Radhiq"
+    },
+    {
+      "qid": "Q56085526",
+      "name": "Kenneth Sebastian"
+    },
+    {
+      "qid": "Q56222462",
+      "name": "Kenneth Sebastian"
+    },
+    {
+      "qid": "Q75574265",
+      "name": "Kenneth Yannick"
+    },
+    {
+      "qid": "Q6318554",
+      "name": "Kerry Godliman"
+    },
+    {
+      "qid": "Q4941433",
+      "name": "Kerstin Bäck"
+    },
+    {
+      "qid": "Q2202755",
+      "name": "Kev Adams"
+    },
+    {
+      "qid": "Q137715146",
+      "name": "Kev Mud"
+    },
+    {
+      "qid": "Q124750945",
+      "name": "Kevin Avery"
+    },
+    {
+      "qid": "Q6395897",
+      "name": "Kevin Bridges"
+    },
+    {
+      "qid": "Q6396124",
+      "name": "Kevin Day"
+    },
+    {
+      "qid": "Q618352",
+      "name": "Kevin Hart"
+    },
+    {
+      "qid": "Q6396880",
+      "name": "Kevin McAleer"
+    },
+    {
+      "qid": "Q136771193",
+      "name": "Kevin Seccia"
+    },
+    {
+      "qid": "Q138378916",
+      "name": "Kgomotso Momo Matsunyane"
+    },
+    {
+      "qid": "Q131822605",
+      "name": "Khairul Umam"
+    },
+    {
+      "qid": "Q3196131",
+      "name": "Kheiron"
+    },
+    {
+      "qid": "Q137999666",
+      "name": "Khetag Khugayev"
+    },
+    {
+      "qid": "Q97198487",
+      "name": "Kiky Saputri"
+    },
+    {
+      "qid": "Q30069861",
+      "name": "Kiri Pritchard-McLean"
+    },
+    {
+      "qid": "Q6415432",
+      "name": "Kirk Fox"
+    },
+    {
+      "qid": "Q6416101",
+      "name": "Kirsten O'Brien"
+    },
+    {
+      "qid": "Q61314702",
+      "name": "Kit Hollerbach"
+    },
+    {
+      "qid": "Q4322725",
+      "name": "Klara Novikova"
+    },
+    {
+      "qid": "Q121267693",
+      "name": "Klemen Mauhler"
+    },
+    {
+      "qid": "Q16132524",
+      "name": "Kobi Maymon"
+    },
+    {
+      "qid": "Q2915340",
+      "name": "Koen De Poorter"
+    },
+    {
+      "qid": "Q136298467",
+      "name": "Koiyocabe"
+    },
+    {
+      "qid": "Q63243746",
+      "name": "Konrad Pižorn"
+    },
+    {
+      "qid": "Q82746147",
+      "name": "Kostas Papageorgiou"
+    },
+    {
+      "qid": "Q117714409",
+      "name": "KPY Anand Kumar"
+    },
+    {
+      "qid": "Q105296215",
+      "name": "Kris Van Spitael"
+    },
+    {
+      "qid": "Q509247",
+      "name": "Krisse Salminen"
+    },
+    {
+      "qid": "Q110434700",
+      "name": "Krystyna Hutchinson"
+    },
+    {
+      "qid": "Q139782158",
+      "name": "Kuah Jenhan"
+    },
+    {
+      "qid": "Q113657955",
+      "name": "Kukuh Adi"
+    },
+    {
+      "qid": "Q6443390",
+      "name": "Kumail Nanjiani"
+    },
+    {
+      "qid": "Q21621073",
+      "name": "Kurtis Conner"
+    },
+    {
+      "qid": "Q3200883",
+      "name": "Kyan Khojandi"
+    },
+    {
+      "qid": "Q6451237",
+      "name": "Kyle Kinane"
+    },
+    {
+      "qid": "Q83688411",
+      "name": "Lahna Turner"
+    },
+    {
+      "qid": "Q111805012",
+      "name": "Lambros Fisfis"
+    },
+    {
+      "qid": "Q48780586",
+      "name": "Larry Dean"
+    },
+    {
+      "qid": "Q134696066",
+      "name": "Larry Strauss"
+    },
+    {
+      "qid": "Q331728",
+      "name": "Larry the Cable Guy"
+    },
+    {
+      "qid": "Q100527642",
+      "name": "Lashonda Lester"
+    },
+    {
+      "qid": "Q56249793",
+      "name": "Lauren Pattison"
+    },
+    {
+      "qid": "Q6500540",
+      "name": "Laurence Clark"
+    },
+    {
+      "qid": "Q6501630",
+      "name": "Laurie Kilmartin"
+    },
+    {
+      "qid": "Q124375659",
+      "name": "Le Filip"
+    },
+    {
+      "qid": "Q3228613",
+      "name": "Lea DeLaria"
+    },
+    {
+      "qid": "Q29789426",
+      "name": "Leah Lev"
+    },
+    {
+      "qid": "Q725412",
+      "name": "Lee Evans"
+    },
+    {
+      "qid": "Q2405844",
+      "name": "Lee Mack"
+    },
+    {
+      "qid": "Q20709483",
+      "name": "Lee Ridley"
+    },
+    {
+      "qid": "Q23008780",
+      "name": "Lee Wilson"
+    },
+    {
+      "qid": "Q117811578",
+      "name": "LeLe Farley"
+    },
+    {
+      "qid": "Q1125124",
+      "name": "Lella Costa"
+    },
+    {
+      "qid": "Q3175896",
+      "name": "Lenny Henry"
+    },
+    {
+      "qid": "Q2892279",
+      "name": "Leo Harlem"
+    },
+    {
+      "qid": "Q124611613",
+      "name": "Leo Reich"
+    },
+    {
+      "qid": "Q4538670",
+      "name": "Leonid Yarmolnik"
+    },
+    {
+      "qid": "Q6529406",
+      "name": "Les Dawson"
+    },
+    {
+      "qid": "Q106879441",
+      "name": "Levi Ofsanusi"
+    },
+    {
+      "qid": "Q102145939",
+      "name": "Lew Lefton"
+    },
+    {
+      "qid": "Q180252",
+      "name": "Lewis Black"
+    },
+    {
+      "qid": "Q6536458",
+      "name": "Lewis Costello"
+    },
+    {
+      "qid": "Q104527816",
+      "name": "Lewis Spears"
+    },
+    {
+      "qid": "Q47464435",
+      "name": "Li Dan"
+    },
+    {
+      "qid": "Q23306997",
+      "name": "Liam Williams"
+    },
+    {
+      "qid": "Q19746125",
+      "name": "Liant Lin"
+    },
+    {
+      "qid": "Q132639210",
+      "name": "Libor Macháček"
+    },
+    {
+      "qid": "Q21067271",
+      "name": "Lil Rel Howery"
+    },
+    {
+      "qid": "Q6549617",
+      "name": "Limmy"
+    },
+    {
+      "qid": "Q107900745",
+      "name": "Linda Therez Gerstenmayer"
+    },
+    {
+      "qid": "Q117041445",
+      "name": "Lindsay Glazer"
+    },
+    {
+      "qid": "Q4198604",
+      "name": "Lion Izmaylov"
+    },
+    {
+      "qid": "Q19746135",
+      "name": "Liongky Nugraha"
+    },
+    {
+      "qid": "Q123578573",
+      "name": "Lior Duvdevany"
+    },
+    {
+      "qid": "Q104827377",
+      "name": "Lisa Allen-Agostini"
+    },
+    {
+      "qid": "Q123469250",
+      "name": "Lisa Delmoitiez"
+    },
+    {
+      "qid": "Q1598750",
+      "name": "Lisa Feller"
+    },
+    {
+      "qid": "Q6558133",
+      "name": "Lisa K. Wyatt"
+    },
+    {
+      "qid": "Q1930275",
+      "name": "Lisa Lampanelli"
+    },
+    {
+      "qid": "Q6899431",
+      "name": "Lital Swartz"
+    },
+    {
+      "qid": "Q133270076",
+      "name": "Liz Miele"
+    },
+    {
+      "qid": "Q15072794",
+      "name": "Lloyd Langford"
+    },
+    {
+      "qid": "Q6667108",
+      "name": "Logan Murray"
+    },
+    {
+      "qid": "Q27505523",
+      "name": "Lolly Adefope"
+    },
+    {
+      "qid": "Q19728541",
+      "name": "Lolox"
+    },
+    {
+      "qid": "Q100934456",
+      "name": "Londale Theus Jr."
+    },
+    {
+      "qid": "Q11876261",
+      "name": "Lotta Backlund"
+    },
+    {
+      "qid": "Q128211676",
+      "name": "Lou Moon"
+    },
+    {
+      "qid": "Q15079",
+      "name": "Louis C.K."
+    },
+    {
+      "qid": "Q97450393",
+      "name": "Louis Patsalides"
+    },
+    {
+      "qid": "Q120648781",
+      "name": "Louisa Ní Éideáin"
+    },
+    {
+      "qid": "Q124337147",
+      "name": "Lovello Telesford"
+    },
+    {
+      "qid": "Q18180913",
+      "name": "Loyiso Gola"
+    },
+    {
+      "qid": "Q105222162",
+      "name": "Luca Ravenna"
+    },
+    {
+      "qid": "Q115775348",
+      "name": "Lucie Macháčková"
+    },
+    {
+      "qid": "Q21063453",
+      "name": "Lucy Beaumont"
+    },
+    {
+      "qid": "Q6698467",
+      "name": "Lucy Porter"
+    },
+    {
+      "qid": "Q111086795",
+      "name": "Luka Korenčič"
+    },
+    {
+      "qid": "Q133818241",
+      "name": "Luke Kidgell"
+    },
+    {
+      "qid": "Q18421336",
+      "name": "M. Fauzi Saleh"
+    },
+    {
+      "qid": "Q12325604",
+      "name": "Mads Brynnum"
+    },
+    {
+      "qid": "Q6729451",
+      "name": "Maff Brown"
+    },
+    {
+      "qid": "Q73852170",
+      "name": "Mahamad Habane"
+    },
+    {
+      "qid": "Q124286717",
+      "name": "Mahesh Kumar M. C."
+    },
+    {
+      "qid": "Q6735600",
+      "name": "Maija DiGiorgio"
+    },
+    {
+      "qid": "Q56604126",
+      "name": "Majid Berhila"
+    },
+    {
+      "qid": "Q134514941",
+      "name": "Malgorzata Rozalska"
+    },
+    {
+      "qid": "Q49251553",
+      "name": "Mamat Alkatiri"
+    },
+    {
+      "qid": "Q85678860",
+      "name": "Mammito Eunice"
+    },
+    {
+      "qid": "Q30143788",
+      "name": "Mandy Colleran"
+    },
+    {
+      "qid": "Q64667821",
+      "name": "Manel Vidal Boix"
+    },
+    {
+      "qid": "Q3288246",
+      "name": "Marc Maron"
+    },
+    {
+      "qid": "Q137351655",
+      "name": "Marcello Mariano"
+    },
+    {
+      "qid": "Q3404283",
+      "name": "Marcus Brigstocke"
+    },
+    {
+      "qid": "Q6758867",
+      "name": "Marek Larwood"
+    },
+    {
+      "qid": "Q257243",
+      "name": "Margaret Cho"
+    },
+    {
+      "qid": "Q12409525",
+      "name": "Mariano Idelman"
+    },
+    {
+      "qid": "Q114048910",
+      "name": "Marina Orsag"
+    },
+    {
+      "qid": "Q47393836",
+      "name": "Marina Rollman"
+    },
+    {
+      "qid": "Q141168428",
+      "name": "Marius Thorkildsen"
+    },
+    {
+      "qid": "Q123267415",
+      "name": "Marjolein Robertson"
+    },
+    {
+      "qid": "Q6766482",
+      "name": "Mark Acheson"
+    },
+    {
+      "qid": "Q720782",
+      "name": "Mark Billingham"
+    },
+    {
+      "qid": "Q123271711",
+      "name": "Mark Bittlestone"
+    },
+    {
+      "qid": "Q5623183",
+      "name": "Mark Dolan"
+    },
+    {
+      "qid": "Q24088824",
+      "name": "Mark Haapala"
+    },
+    {
+      "qid": "Q58062048",
+      "name": "Mark Normand"
+    },
+    {
+      "qid": "Q106991385",
+      "name": "Mark Sergienko"
+    },
+    {
+      "qid": "Q111086789",
+      "name": "Marko Kumer - Murč"
+    },
+    {
+      "qid": "Q106361437",
+      "name": "Marko Žerjal"
+    },
+    {
+      "qid": "Q50896535",
+      "name": "Markus Barth"
+    },
+    {
+      "qid": "Q6771579",
+      "name": "Marla Lukofsky"
+    },
+    {
+      "qid": "Q141288327",
+      "name": "Marlene Sharp"
+    },
+    {
+      "qid": "Q97307169",
+      "name": "Marshel Widianto"
+    },
+    {
+      "qid": "Q3039809",
+      "name": "Martijn Koning"
+    },
+    {
+      "qid": "Q127698852",
+      "name": "Martin Buchgraber"
+    },
+    {
+      "qid": "Q6775743",
+      "name": "Martin Høgsted"
+    },
+    {
+      "qid": "Q132798822",
+      "name": "Martin Jirman"
+    },
+    {
+      "qid": "Q18586655",
+      "name": "Martin Nørgaard"
+    },
+    {
+      "qid": "Q12326318",
+      "name": "Martin Veltz"
+    },
+    {
+      "qid": "Q15072778",
+      "name": "Martin White"
+    },
+    {
+      "qid": "Q135392099",
+      "name": "Martina Catuzzi"
+    },
+    {
+      "qid": "Q111086799",
+      "name": "Martina Ipša"
+    },
+    {
+      "qid": "Q106982863",
+      "name": "Martita de Graná"
+    },
+    {
+      "qid": "Q24293017",
+      "name": "Maryum Ali"
+    },
+    {
+      "qid": "Q130376459",
+      "name": "Matan Peretz"
+    },
+    {
+      "qid": "Q112534738",
+      "name": "Matej Adámy"
+    },
+    {
+      "qid": "Q111086774",
+      "name": "Matej Pušnik"
+    },
+    {
+      "qid": "Q111311222",
+      "name": "Mateusz Socha"
+    },
+    {
+      "qid": "Q111086786",
+      "name": "Matevž Baloh"
+    },
+    {
+      "qid": "Q6787022",
+      "name": "Mathew Horne"
+    },
+    {
+      "qid": "Q3298694",
+      "name": "Mathieu Cyr"
+    },
+    {
+      "qid": "Q142237647",
+      "name": "Mathieu Ducrez"
+    },
+    {
+      "qid": "Q3298810",
+      "name": "Mathieu Madénian"
+    },
+    {
+      "qid": "Q111086768",
+      "name": "Matic Kokošar"
+    },
+    {
+      "qid": "Q124422189",
+      "name": "Matt Edwards"
+    },
+    {
+      "qid": "Q6788657",
+      "name": "Matt Forde"
+    },
+    {
+      "qid": "Q6788723",
+      "name": "Matt Green"
+    },
+    {
+      "qid": "Q6788911",
+      "name": "Matt Kirshen"
+    },
+    {
+      "qid": "Q16866741",
+      "name": "Matt McGorry"
+    },
+    {
+      "qid": "Q21063802",
+      "name": "Matt Parker"
+    },
+    {
+      "qid": "Q6790367",
+      "name": "Matthew Crosby"
+    },
+    {
+      "qid": "Q56256814",
+      "name": "Matthew Welch"
+    },
+    {
+      "qid": "Q97191662",
+      "name": "Matti Paalanen"
+    },
+    {
+      "qid": "Q57269562",
+      "name": "Maude Landry"
+    },
+    {
+      "qid": "Q847124",
+      "name": "Maurice LaMarche"
+    },
+    {
+      "qid": "Q42951420",
+      "name": "Max Bird"
+    },
+    {
+      "qid": "Q116740056",
+      "name": "Max Gottfried"
+    },
+    {
+      "qid": "Q559485",
+      "name": "Maxim Galkin"
+    },
+    {
+      "qid": "Q125767525",
+      "name": "May Sayag"
+    },
+    {
+      "qid": "Q6808626",
+      "name": "Megan Amram"
+    },
+    {
+      "qid": "Q108322249",
+      "name": "Megan Gailey"
+    },
+    {
+      "qid": "Q56393879",
+      "name": "Meggy Wiyatna"
+    },
+    {
+      "qid": "Q107858534",
+      "name": "Mekki Leeper"
+    },
+    {
+      "qid": "Q26924494",
+      "name": "Melissa Villaseñor"
+    },
+    {
+      "qid": "Q51879359",
+      "name": "Melvin Kakooza"
+    },
+    {
+      "qid": "Q105011828",
+      "name": "Meni Ozeri"
+    },
+    {
+      "qid": "Q130564360",
+      "name": "Merwane Benlazar"
+    },
+    {
+      "qid": "Q6832173",
+      "name": "Michael Legge"
+    },
+    {
+      "qid": "Q114746710",
+      "name": "Michael Mathioudakis"
+    },
+    {
+      "qid": "Q2546628",
+      "name": "Michael McIntyre"
+    },
+    {
+      "qid": "Q314945",
+      "name": "Michael Richards"
+    },
+    {
+      "qid": "Q115597578",
+      "name": "Michael Sani Amanesi"
+    },
+    {
+      "qid": "Q114347807",
+      "name": "Michael Szatmary"
+    },
+    {
+      "qid": "Q11778914",
+      "name": "Michał Koterski"
+    },
+    {
+      "qid": "Q54861496",
+      "name": "Michelle Buteau"
+    },
+    {
+      "qid": "Q6838912",
+      "name": "Micky Flanagan"
+    },
+    {
+      "qid": "Q11882652",
+      "name": "Mikael Rejström"
+    },
+    {
+      "qid": "Q5576465",
+      "name": "Mike Birbiglia"
+    },
+    {
+      "qid": "Q17305986",
+      "name": "Mike Gunn"
+    },
+    {
+      "qid": "Q3313416",
+      "name": "Mike MacDonald"
+    },
+    {
+      "qid": "Q2410319",
+      "name": "Mike Reid"
+    },
+    {
+      "qid": "Q6849337",
+      "name": "Mike Wozniak"
+    },
+    {
+      "qid": "Q6849465",
+      "name": "Mikey Mileos"
+    },
+    {
+      "qid": "Q4150900",
+      "name": "Mikhail Grushevsky"
+    },
+    {
+      "qid": "Q4172918",
+      "name": "Mikhail Yevdokimov"
+    },
+    {
+      "qid": "Q2622688",
+      "name": "Mikhail Zadornov"
+    },
+    {
+      "qid": "Q7049167",
+      "name": "Miki Geva"
+    },
+    {
+      "qid": "Q54093019",
+      "name": "Mikkel Klint Thorius"
+    },
+    {
+      "qid": "Q12037625",
+      "name": "Miloš Čermák"
+    },
+    {
+      "qid": "Q2514675",
+      "name": "Milton Jones"
+    },
+    {
+      "qid": "Q1938212",
+      "name": "Mirja Regensburg"
+    },
+    {
+      "qid": "Q114322141",
+      "name": "Misha Ilyin"
+    },
+    {
+      "qid": "Q2314865",
+      "name": "Mitch Hedberg"
+    },
+    {
+      "qid": "Q47030003",
+      "name": "Mo Alexander"
+    },
+    {
+      "qid": "Q229169",
+      "name": "Mo'Nique"
+    },
+    {
+      "qid": "Q19746290",
+      "name": "Mohamad Ali Sidik"
+    },
+    {
+      "qid": "Q77247530",
+      "name": "Mohanad ElShieky"
+    },
+    {
+      "qid": "Q116195806",
+      "name": "Mohsen Jafari Rad"
+    },
+    {
+      "qid": "Q101586487",
+      "name": "Mojak Lehoko"
+    },
+    {
+      "qid": "Q63058876",
+      "name": "Molly Thornhill"
+    },
+    {
+      "qid": "Q141242633",
+      "name": "Moran Kal"
+    },
+    {
+      "qid": "Q15072696",
+      "name": "Morgana Robinson"
+    },
+    {
+      "qid": "Q104198047",
+      "name": "Morgane Cadignan"
+    },
+    {
+      "qid": "Q16128945",
+      "name": "Moshe Ashkenazi"
+    },
+    {
+      "qid": "Q106879451",
+      "name": "Muhammad Kadavi"
+    },
+    {
+      "qid": "Q120643667",
+      "name": "Muhammad Ronaldo"
+    },
+    {
+      "qid": "Q141808051",
+      "name": "Muhinde"
+    },
+    {
+      "qid": "Q59309239",
+      "name": "Márcio Américo"
+    },
+    {
+      "qid": "Q6956879",
+      "name": "Nabil Abdul Rashid"
+    },
+    {
+      "qid": "Q127599615",
+      "name": "Nacer Zorgani"
+    },
+    {
+      "qid": "Q6911882",
+      "name": "Nadav Abuksis"
+    },
+    {
+      "qid": "Q135338800",
+      "name": "Nancy Parker"
+    },
+    {
+      "qid": "Q6964731",
+      "name": "Naor Zion"
+    },
+    {
+      "qid": "Q97070097",
+      "name": "Nastazia Christodoulou"
+    },
+    {
+      "qid": "Q113703694",
+      "name": "Natasha Brock"
+    },
+    {
+      "qid": "Q18191218",
+      "name": "Nathan Brand"
+    },
+    {
+      "qid": "Q136814294",
+      "name": "Nathan Kiboba"
+    },
+    {
+      "qid": "Q142000018",
+      "name": "Nayka Kaziyeva"
+    },
+    {
+      "qid": "Q107095602",
+      "name": "Negah Amiri"
+    },
+    {
+      "qid": "Q128616143",
+      "name": "Neil \"Buster\" Brimson"
+    },
+    {
+      "qid": "Q6988690",
+      "name": "Neil Hamburger"
+    },
+    {
+      "qid": "Q454975",
+      "name": "Nellie McKay"
+    },
+    {
+      "qid": "Q97191554",
+      "name": "Neneng Wulandari"
+    },
+    {
+      "qid": "Q19746680",
+      "name": "Newendi Septian"
+    },
+    {
+      "qid": "Q7027290",
+      "name": "Nick Helm"
+    },
+    {
+      "qid": "Q4241574",
+      "name": "Nick Kroll"
+    },
+    {
+      "qid": "Q105417643",
+      "name": "Nick Mullen"
+    },
+    {
+      "qid": "Q7027801",
+      "name": "Nick Revell"
+    },
+    {
+      "qid": "Q20645632",
+      "name": "Nicky Goldstein"
+    },
+    {
+      "qid": "Q42310265",
+      "name": "Nicole Jäger"
+    },
+    {
+      "qid": "Q56284104",
+      "name": "Nidhi Goyal"
+    },
+    {
+      "qid": "Q135626936",
+      "name": "Nikolai Binner"
+    },
+    {
+      "qid": "Q12328991",
+      "name": "Nikolaj Stokholm"
+    },
+    {
+      "qid": "Q4268943",
+      "name": "Nikolay Lukinsky"
+    },
+    {
+      "qid": "Q130438187",
+      "name": "Nina Cachelin"
+    },
+    {
+      "qid": "Q7037893",
+      "name": "Nina Conti"
+    },
+    {
+      "qid": "Q129259138",
+      "name": "Nizam Jentik-Jentik"
+    },
+    {
+      "qid": "Q54591108",
+      "name": "Noel James"
+    },
+    {
+      "qid": "Q110724899",
+      "name": "Noel V Ginnity"
+    },
+    {
+      "qid": "Q95983227",
+      "name": "Noga Dangeli"
+    },
+    {
+      "qid": "Q106879353",
+      "name": "Nopek Novian"
+    },
+    {
+      "qid": "Q116197725",
+      "name": "Norah Yang"
+    },
+    {
+      "qid": "Q121814954",
+      "name": "Nori Reed"
+    },
+    {
+      "qid": "Q1371229",
+      "name": "Norm Macdonald"
+    },
+    {
+      "qid": "Q7825931",
+      "name": "Norman Maclean"
+    },
+    {
+      "qid": "Q3343832",
+      "name": "Norman Thavaud"
+    },
+    {
+      "qid": "Q4326446",
+      "name": "Novyye Russkiye Babki"
+    },
+    {
+      "qid": "Q105113821",
+      "name": "Noya Mandel"
+    },
+    {
+      "qid": "Q6763050",
+      "name": "Nuli Omer"
+    },
+    {
+      "qid": "Q56394542",
+      "name": "Nur Arifin Ipin"
+    },
+    {
+      "qid": "Q97608134",
+      "name": "Nurlan Saburov"
+    },
+    {
+      "qid": "Q56390878",
+      "name": "Nury Zhafira"
+    },
+    {
+      "qid": "Q7078868",
+      "name": "Ofer Shechter"
+    },
+    {
+      "qid": "Q7079736",
+      "name": "Ofir Lobel"
+    },
+    {
+      "qid": "Q110151954",
+      "name": "Ofir Sgerski"
+    },
+    {
+      "qid": "Q19652467",
+      "name": "Ofira Rahamim"
+    },
+    {
+      "qid": "Q56393565",
+      "name": "Oki Rengga Winata"
+    },
+    {
+      "qid": "Q61268558",
+      "name": "Olaf Falafel"
+    },
+    {
+      "qid": "Q110050662",
+      "name": "Ole Soo"
+    },
+    {
+      "qid": "Q138410620",
+      "name": "Oleg Titov"
+    },
+    {
+      "qid": "Q116945955",
+      "name": "Oleg Šurajev"
+    },
+    {
+      "qid": "Q131305435",
+      "name": "Olesya Ivanchenko"
+    },
+    {
+      "qid": "Q3351447",
+      "name": "Olivier de Benoist"
+    },
+    {
+      "qid": "Q142227250",
+      "name": "Om Bhatt"
+    },
+    {
+      "qid": "Q468241",
+      "name": "Omid Djalili"
+    },
+    {
+      "qid": "Q75156726",
+      "name": "Orel Tsabari"
+    },
+    {
+      "qid": "Q41082611",
+      "name": "Oren Yadger"
+    },
+    {
+      "qid": "Q85637873",
+      "name": "Ori Amir"
+    },
+    {
+      "qid": "Q6730643",
+      "name": "Ori Hizkiah"
+    },
+    {
+      "qid": "Q18121730",
+      "name": "Ori Melamed"
+    },
+    {
+      "qid": "Q542069",
+      "name": "Orlando Jones"
+    },
+    {
+      "qid": "Q7103674",
+      "name": "Orny Adams"
+    },
+    {
+      "qid": "Q7114586",
+      "name": "Owen O'Neill"
+    },
+    {
+      "qid": "Q115465562",
+      "name": "Oyirum"
+    },
+    {
+      "qid": "Q120643684",
+      "name": "Oza Rangkuti"
+    },
+    {
+      "qid": "Q4883318",
+      "name": "Pablo Chiapella"
+    },
+    {
+      "qid": "Q135763673",
+      "name": "Pablo Molinari"
+    },
+    {
+      "qid": "Q7123539",
+      "name": "Paddy McGuinness"
+    },
+    {
+      "qid": "Q271667",
+      "name": "Pamela Hayden"
+    },
+    {
+      "qid": "Q116972420",
+      "name": "Pamela Leiva"
+    },
+    {
+      "qid": "Q30011693",
+      "name": "Panayotis Pascot"
+    },
+    {
+      "qid": "Q11697561",
+      "name": "Pandji Pragiwaksono"
+    },
+    {
+      "qid": "Q106945719",
+      "name": "Pandu Winoto"
+    },
+    {
+      "qid": "Q467863",
+      "name": "Pat Condell"
+    },
+    {
+      "qid": "Q49251592",
+      "name": "Patra Gumala"
+    },
+    {
+      "qid": "Q120060394",
+      "name": "Patricia Galván"
+    },
+    {
+      "qid": "Q123397624",
+      "name": "Patrick Carlin"
+    },
+    {
+      "qid": "Q7146946",
+      "name": "Patrick Kielty"
+    },
+    {
+      "qid": "Q374065",
+      "name": "Patton Oswalt"
+    },
+    {
+      "qid": "Q16210208",
+      "name": "Patty Rosborough"
+    },
+    {
+      "qid": "Q139858504",
+      "name": "Pau Roigé Gargallo"
+    },
+    {
+      "qid": "Q7149829",
+      "name": "Paul Chowdhry"
+    },
+    {
+      "qid": "Q2059493",
+      "name": "Paul F. Tompkins"
+    },
+    {
+      "qid": "Q7150691",
+      "name": "Paul Foot"
+    },
+    {
+      "qid": "Q786637",
+      "name": "Paul Merton"
+    },
+    {
+      "qid": "Q115492422",
+      "name": "Paul Rabliauskas"
+    },
+    {
+      "qid": "Q326939",
+      "name": "Paul Rodriguez"
+    },
+    {
+      "qid": "Q7153629",
+      "name": "Paul Sinha"
+    },
+    {
+      "qid": "Q11886948",
+      "name": "Paul Westlake"
+    },
+    {
+      "qid": "Q3372564",
+      "name": "Paula Poundstone"
+    },
+    {
+      "qid": "Q111028920",
+      "name": "Paula Púa"
+    },
+    {
+      "qid": "Q136945624",
+      "name": "Pavel Babanov"
+    },
+    {
+      "qid": "Q130011084",
+      "name": "Pavel Dedishchev"
+    },
+    {
+      "qid": "Q112434063",
+      "name": "Pavel Tomeš"
+    },
+    {
+      "qid": "Q127608330",
+      "name": "Pelle Lundberg"
+    },
+    {
+      "qid": "Q6093442",
+      "name": "Pelle Sandstrak"
+    },
+    {
+      "qid": "Q125908485",
+      "name": "Per-Owe Helle"
+    },
+    {
+      "qid": "Q111086762",
+      "name": "Perica Jerković"
+    },
+    {
+      "qid": "Q18097962",
+      "name": "Pete Davidson"
+    },
+    {
+      "qid": "Q3701432",
+      "name": "Pete Holmes"
+    },
+    {
+      "qid": "Q712796",
+      "name": "Peter Kay"
+    },
+    {
+      "qid": "Q3376846",
+      "name": "Peter Richardson"
+    },
+    {
+      "qid": "Q131350372",
+      "name": "Peter Werner"
+    },
+    {
+      "qid": "Q7181805",
+      "name": "Phil Cool"
+    },
+    {
+      "qid": "Q59264406",
+      "name": "Phil Cooper"
+    },
+    {
+      "qid": "Q7182061",
+      "name": "Phil Kay"
+    },
+    {
+      "qid": "Q356541",
+      "name": "Phil LaMarr"
+    },
+    {
+      "qid": "Q25189753",
+      "name": "Phil Wang"
+    },
+    {
+      "qid": "Q2086485",
+      "name": "Philip Tägert"
+    },
+    {
+      "qid": "Q2695650",
+      "name": "Philippe Geubels"
+    },
+    {
+      "qid": "Q131350375",
+      "name": "Phillip Devantier"
+    },
+    {
+      "qid": "Q230512",
+      "name": "Phyllis Diller"
+    },
+    {
+      "qid": "Q56394034",
+      "name": "Pian Iswanto"
+    },
+    {
+      "qid": "Q86622124",
+      "name": "Pilat Andriy"
+    },
+    {
+      "qid": "Q111224041",
+      "name": "Piotr Szulowski"
+    },
+    {
+      "qid": "Q119154345",
+      "name": "Piotr Szumowski"
+    },
+    {
+      "qid": "Q97372310",
+      "name": "Piotr Śmigasiewicz"
+    },
+    {
+      "qid": "Q11888202",
+      "name": "Pirjo Heikkilä"
+    },
+    {
+      "qid": "Q56064744",
+      "name": "Popon Kerok"
+    },
+    {
+      "qid": "Q27887364",
+      "name": "Pramada Menon"
+    },
+    {
+      "qid": "Q136389165",
+      "name": "Pranit More"
+    },
+    {
+      "qid": "Q17410942",
+      "name": "Pras Teguh"
+    },
+    {
+      "qid": "Q7243755",
+      "name": "Prince Abdi"
+    },
+    {
+      "qid": "Q7246472",
+      "name": "Priya Marathe"
+    },
+    {
+      "qid": "Q25464174",
+      "name": "Pulung Siswantara"
+    },
+    {
+      "qid": "Q31174500",
+      "name": "Putra Uma"
+    },
+    {
+      "qid": "Q93141147",
+      "name": "Rachel Sennott"
+    },
+    {
+      "qid": "Q138348699",
+      "name": "Rachel Wolfson"
+    },
+    {
+      "qid": "Q140618573",
+      "name": "Rachid Larouz"
+    },
+    {
+      "qid": "Q12507668",
+      "name": "Raditya Dika"
+    },
+    {
+      "qid": "Q127447640",
+      "name": "Radu Isac"
+    },
+    {
+      "qid": "Q60613121",
+      "name": "Rafał Pacześ"
+    },
+    {
+      "qid": "Q111976775",
+      "name": "Rafał Sumowski"
+    },
+    {
+      "qid": "Q110065398",
+      "name": "Rafsan Sabab Khan"
+    },
+    {
+      "qid": "Q25471169",
+      "name": "Rahmat Hidayat"
+    },
+    {
+      "qid": "Q106879431",
+      "name": "Rais Marasabessy"
+    },
+    {
+      "qid": "Q7288344",
+      "name": "Ralphie May"
+    },
+    {
+      "qid": "Q19896540",
+      "name": "Rami Stern"
+    },
+    {
+      "qid": "Q6618753",
+      "name": "Rami Vered"
+    },
+    {
+      "qid": "Q141988141",
+      "name": "Ramil Agdeev"
+    },
+    {
+      "qid": "Q131913529",
+      "name": "Ramos Ambarita"
+    },
+    {
+      "qid": "Q137205181",
+      "name": "Ran Levi"
+    },
+    {
+      "qid": "Q50358376",
+      "name": "Ranko Babić"
+    },
+    {
+      "qid": "Q138666023",
+      "name": "Raquel Sastre"
+    },
+    {
+      "qid": "Q137999512",
+      "name": "Rasul Chabdarov"
+    },
+    {
+      "qid": "Q5648201",
+      "name": "Ray Combs"
+    },
+    {
+      "qid": "Q220836",
+      "name": "Ray Romano"
+    },
+    {
+      "qid": "Q7299012",
+      "name": "Raymond Mearns"
+    },
+    {
+      "qid": "Q2134910",
+      "name": "Rebecca Carrington"
+    },
+    {
+      "qid": "Q61152750",
+      "name": "Rebecca Kohler"
+    },
+    {
+      "qid": "Q7312265",
+      "name": "Remy Munasifi"
+    },
+    {
+      "qid": "Q111086780",
+      "name": "Rene Volker"
+    },
+    {
+      "qid": "Q20858256",
+      "name": "Reno"
+    },
+    {
+      "qid": "Q25466690",
+      "name": "Reno Fenady"
+    },
+    {
+      "qid": "Q2195416",
+      "name": "René van Meurs"
+    },
+    {
+      "qid": "Q31174501",
+      "name": "Rere Rassofyan"
+    },
+    {
+      "qid": "Q12411479",
+      "name": "Reshef Levi"
+    },
+    {
+      "qid": "Q99739158",
+      "name": "Revital Vitelzon Jacobs"
+    },
+    {
+      "qid": "Q7320826",
+      "name": "Rhod Gilbert"
+    },
+    {
+      "qid": "Q7321350",
+      "name": "Rhona Cameron"
+    },
+    {
+      "qid": "Q29054746",
+      "name": "Rhonda Hansome"
+    },
+    {
+      "qid": "Q20744503",
+      "name": "Ria Lina"
+    },
+    {
+      "qid": "Q7322086",
+      "name": "Riaad Moosa"
+    },
+    {
+      "qid": "Q125542669",
+      "name": "Rich Lyons"
+    },
+    {
+      "qid": "Q7324195",
+      "name": "Richard Blackwood"
+    },
+    {
+      "qid": "Q28136502",
+      "name": "Richard Gadd"
+    },
+    {
+      "qid": "Q331587",
+      "name": "Richard Lewis"
+    },
+    {
+      "qid": "Q124663402",
+      "name": "Richard Stott"
+    },
+    {
+      "qid": "Q85797188",
+      "name": "Richie Tozier"
+    },
+    {
+      "qid": "Q141267684",
+      "name": "Rickey Dean"
+    },
+    {
+      "qid": "Q23517",
+      "name": "Ricky Gervais"
+    },
+    {
+      "qid": "Q7332082",
+      "name": "Ricky Grover"
+    },
+    {
+      "qid": "Q31174503",
+      "name": "Ridwan Remin"
+    },
+    {
+      "qid": "Q20278502",
+      "name": "Rigen"
+    },
+    {
+      "qid": "Q25467435",
+      "name": "Rin Hermana"
+    },
+    {
+      "qid": "Q6973383",
+      "name": "Rina Padwa"
+    },
+    {
+      "qid": "Q106879274",
+      "name": "Rio Steven Dumatubun"
+    },
+    {
+      "qid": "Q109437055",
+      "name": "Rita Hamzah"
+    },
+    {
+      "qid": "Q26702650",
+      "name": "River Butcher"
+    },
+    {
+      "qid": "Q141189491",
+      "name": "Riyuka Bunga"
+    },
+    {
+      "qid": "Q18421397",
+      "name": "Rizki Ananta Putra"
+    },
+    {
+      "qid": "Q20278549",
+      "name": "Rizky Firdaus Wijaksana"
+    },
+    {
+      "qid": "Q120203037",
+      "name": "Rizky Prasetya"
+    },
+    {
+      "qid": "Q56394392",
+      "name": "Rizky Teguh"
+    },
+    {
+      "qid": "Q7340074",
+      "name": "Rob Deering"
+    },
+    {
+      "qid": "Q1321271",
+      "name": "Robert Capron"
+    },
+    {
+      "qid": "Q3938417",
+      "name": "Robert Schimmel"
+    },
+    {
+      "qid": "Q7352559",
+      "name": "Robin Ince"
+    },
+    {
+      "qid": "Q83338",
+      "name": "Robin Williams"
+    },
+    {
+      "qid": "Q436386",
+      "name": "Rodney Dangerfield"
+    },
+    {
+      "qid": "Q63041345",
+      "name": "Roger Pelàez"
+    },
+    {
+      "qid": "Q113193987",
+      "name": "Rogério Vilela"
+    },
+    {
+      "qid": "Q6968556",
+      "name": "Roi Levi"
+    },
+    {
+      "qid": "Q128784125",
+      "name": "Roi Tsabari"
+    },
+    {
+      "qid": "Q111086796",
+      "name": "Rok Bohinc"
+    },
+    {
+      "qid": "Q41672906",
+      "name": "Roman Frayssinet"
+    },
+    {
+      "qid": "Q4216344",
+      "name": "Roman Kartsev"
+    },
+    {
+      "qid": "Q136664199",
+      "name": "Roman Kositsyn"
+    },
+    {
+      "qid": "Q4534682",
+      "name": "Roman Yunusov"
+    },
+    {
+      "qid": "Q49252097",
+      "name": "Rommy Hakim"
+    },
+    {
+      "qid": "Q132195565",
+      "name": "Ronald S. Kennedy"
+    },
+    {
+      "qid": "Q124974375",
+      "name": "Roosa Maskonen"
+    },
+    {
+      "qid": "Q16234799",
+      "name": "Rose Matafeo"
+    },
+    {
+      "qid": "Q56192255",
+      "name": "Rosie Jones"
+    },
+    {
+      "qid": "Q272929",
+      "name": "Rosie O'Donnell"
+    },
+    {
+      "qid": "Q14949234",
+      "name": "Rosie Wilby"
+    },
+    {
+      "qid": "Q6013220",
+      "name": "Ross Noble"
+    },
+    {
+      "qid": "Q7009012",
+      "name": "Rotem Abuhav"
+    },
+    {
+      "qid": "Q7372492",
+      "name": "Roy Chubby Brown"
+    },
+    {
+      "qid": "Q6993971",
+      "name": "Rudi Saada"
+    },
+    {
+      "qid": "Q25450735",
+      "name": "RudiRok"
+    },
+    {
+      "qid": "Q59773466",
+      "name": "Rudolfs Kugrens"
+    },
+    {
+      "qid": "Q16226156",
+      "name": "Rufa Mi"
+    },
+    {
+      "qid": "Q3942360",
+      "name": "Rufus Hound"
+    },
+    {
+      "qid": "Q4083049",
+      "name": "Ruslan Bely"
+    },
+    {
+      "qid": "Q296609",
+      "name": "Russell Brand"
+    },
+    {
+      "qid": "Q5814891",
+      "name": "Russell Howard"
+    },
+    {
+      "qid": "Q7382902",
+      "name": "Ruth Bratt"
+    },
+    {
+      "qid": "Q17411161",
+      "name": "Ryan Adriandhy"
+    },
+    {
+      "qid": "Q66347667",
+      "name": "Ryan Cullen"
+    },
+    {
+      "qid": "Q61988948",
+      "name": "Ryan Sickler"
+    },
+    {
+      "qid": "Q471804",
+      "name": "Ryan Stiles"
+    },
+    {
+      "qid": "Q97206434",
+      "name": "Ryma Gembala"
+    },
+    {
+      "qid": "Q137797022",
+      "name": "Saaniya"
+    },
+    {
+      "qid": "Q7397897",
+      "name": "Sadia Azmat"
+    },
+    {
+      "qid": "Q7049856",
+      "name": "Sagit Sol"
+    },
+    {
+      "qid": "Q6600010",
+      "name": "Sagiv Friedman"
+    },
+    {
+      "qid": "Q20020532",
+      "name": "Sakdiyah Ma'ruf"
+    },
+    {
+      "qid": "Q121435215",
+      "name": "Salma Hindy"
+    },
+    {
+      "qid": "Q41694232",
+      "name": "Sam Jay"
+    },
+    {
+      "qid": "Q333505",
+      "name": "Sam Kinison"
+    },
+    {
+      "qid": "Q95886480",
+      "name": "Sam Stone"
+    },
+    {
+      "qid": "Q99732629",
+      "name": "Samay Raina"
+    },
+    {
+      "qid": "Q11892180",
+      "name": "Sami Hedberg"
+    },
+    {
+      "qid": "Q25469014",
+      "name": "Sammy Notaslimboy"
+    },
+    {
+      "qid": "Q63968672",
+      "name": "Sammy Shore"
+    },
+    {
+      "qid": "Q133809662",
+      "name": "Samuel Sibilski"
+    },
+    {
+      "qid": "Q124738408",
+      "name": "Sandamini Rankaduwa"
+    },
+    {
+      "qid": "Q80208932",
+      "name": "Sandra Battaglini"
+    },
+    {
+      "qid": "Q141382763",
+      "name": "Sandro Cappai"
+    },
+    {
+      "qid": "Q12334642",
+      "name": "Sanne Søndergaard"
+    },
+    {
+      "qid": "Q782637",
+      "name": "Sara Blakely"
+    },
+    {
+      "qid": "Q7421735",
+      "name": "Sara Pascoe"
+    },
+    {
+      "qid": "Q7421761",
+      "name": "Sara Schaefer"
+    },
+    {
+      "qid": "Q59263556",
+      "name": "Sarah Breese"
+    },
+    {
+      "qid": "Q4967403",
+      "name": "Sarah Millican"
+    },
+    {
+      "qid": "Q97999955",
+      "name": "Sarah Schubert"
+    },
+    {
+      "qid": "Q83492928",
+      "name": "Sasha Dolgopolov"
+    },
+    {
+      "qid": "Q113453234",
+      "name": "Sasha Ellen"
+    },
+    {
+      "qid": "Q109341567",
+      "name": "Sašo Stare"
+    },
+    {
+      "qid": "Q3952813",
+      "name": "Scott Adsit"
+    },
+    {
+      "qid": "Q1911052",
+      "name": "Sean Lock"
+    },
+    {
+      "qid": "Q134233939",
+      "name": "Sean McLoughlin"
+    },
+    {
+      "qid": "Q131414489",
+      "name": "Sean Patton"
+    },
+    {
+      "qid": "Q7441574",
+      "name": "Seann Walsh"
+    },
+    {
+      "qid": "Q124308891",
+      "name": "Seb Mellia"
+    },
+    {
+      "qid": "Q111976800",
+      "name": "Sebastian Rejent"
+    },
+    {
+      "qid": "Q111086783",
+      "name": "Sebastjan Spital"
+    },
+    {
+      "qid": "Q4168290",
+      "name": "Sergey Drobotenko"
+    },
+    {
+      "qid": "Q4347373",
+      "name": "Sergey Pakhomov"
+    },
+    {
+      "qid": "Q133050265",
+      "name": "Sezgin Güleç"
+    },
+    {
+      "qid": "Q7462488",
+      "name": "Shaista Aziz"
+    },
+    {
+      "qid": "Q12411714",
+      "name": "Shalom Asayag"
+    },
+    {
+      "qid": "Q120728226",
+      "name": "Shane Torres"
+    },
+    {
+      "qid": "Q4346087",
+      "name": "Shappi Khorsandi"
+    },
+    {
+      "qid": "Q141724430",
+      "name": "Sharon Verma"
+    },
+    {
+      "qid": "Q138836574",
+      "name": "Sharon Wanjohi"
+    },
+    {
+      "qid": "Q141835711",
+      "name": "Shaun Eli"
+    },
+    {
+      "qid": "Q4967528",
+      "name": "Shazia Mirza"
+    },
+    {
+      "qid": "Q3482359",
+      "name": "Shirley Souagnon"
+    },
+    {
+      "qid": "Q7053392",
+      "name": "Shlomi Koriat"
+    },
+    {
+      "qid": "Q3975892",
+      "name": "Shmuel Vilozny"
+    },
+    {
+      "qid": "Q136525919",
+      "name": "Shraddha Jain"
+    },
+    {
+      "qid": "Q134985236",
+      "name": "Shuki David"
+    },
+    {
+      "qid": "Q140618272",
+      "name": "Shula Felomina"
+    },
+    {
+      "qid": "Q25470146",
+      "name": "Sigit Hariyo Seno"
+    },
+    {
+      "qid": "Q12000366",
+      "name": "Sigrid Bonde Tusvik"
+    },
+    {
+      "qid": "Q52151542",
+      "name": "Silvia Saige"
+    },
+    {
+      "qid": "Q978769",
+      "name": "Simon Amstell"
+    },
+    {
+      "qid": "Q591596",
+      "name": "Simon Bird"
+    },
+    {
+      "qid": "Q7518705",
+      "name": "Simon Evans"
+    },
+    {
+      "qid": "Q53143845",
+      "name": "Sindhu Vee"
+    },
+    {
+      "qid": "Q17100340",
+      "name": "Siri Kristiansen"
+    },
+    {
+      "qid": "Q19904075",
+      "name": "Siân Gibson"
+    },
+    {
+      "qid": "Q104700925",
+      "name": "Slava Komissarenko"
+    },
+    {
+      "qid": "Q7546591",
+      "name": "Smug Roberts"
+    },
+    {
+      "qid": "Q115596044",
+      "name": "Sneako"
+    },
+    {
+      "qid": "Q131179325",
+      "name": "Snorre Monsson"
+    },
+    {
+      "qid": "Q38132917",
+      "name": "Sofia Moutidou"
+    },
+    {
+      "qid": "Q28971912",
+      "name": "Sofia Niño de Rivera"
+    },
+    {
+      "qid": "Q1032761",
+      "name": "Soma Hajnóczy"
+    },
+    {
+      "qid": "Q95746805",
+      "name": "Sophia Johnson"
+    },
+    {
+      "qid": "Q83978614",
+      "name": "Sophie Buddle"
+    },
+    {
+      "qid": "Q63011331",
+      "name": "Sophie Duker"
+    },
+    {
+      "qid": "Q7576001",
+      "name": "Spencer Brown"
+    },
+    {
+      "qid": "Q111086775",
+      "name": "Srdjan Olman"
+    },
+    {
+      "qid": "Q25471294",
+      "name": "Sri Rahayu"
+    },
+    {
+      "qid": "Q7597559",
+      "name": "Stan Boardman"
+    },
+    {
+      "qid": "Q7597870",
+      "name": "Stan Saanila"
+    },
+    {
+      "qid": "Q4539048",
+      "name": "Stanislav Yarushin"
+    },
+    {
+      "qid": "Q33060506",
+      "name": "Stas Starovoytov"
+    },
+    {
+      "qid": "Q97209719",
+      "name": "Steen Molzen"
+    },
+    {
+      "qid": "Q12337014",
+      "name": "Steen Nielsen"
+    },
+    {
+      "qid": "Q104761449",
+      "name": "Stefano Rapone"
+    },
+    {
+      "qid": "Q58882693",
+      "name": "Steffan Alun"
+    },
+    {
+      "qid": "Q59264512",
+      "name": "Steffan Evans"
+    },
+    {
+      "qid": "Q119559326",
+      "name": "Stelios Anatolitis"
+    },
+    {
+      "qid": "Q83978599",
+      "name": "Steph Tolev"
+    },
+    {
+      "qid": "Q115683857",
+      "name": "Stephan Dipita"
+    },
+    {
+      "qid": "Q137363573",
+      "name": "Stephanie D'Agostini"
+    },
+    {
+      "qid": "Q109425962",
+      "name": "Stephen Buchanan"
+    },
+    {
+      "qid": "Q7612360",
+      "name": "Steve Day"
+    },
+    {
+      "qid": "Q7612456",
+      "name": "Steve Edge"
+    },
+    {
+      "qid": "Q2347009",
+      "name": "Steve Harvey"
+    },
+    {
+      "qid": "Q7612859",
+      "name": "Steve Hofstetter"
+    },
+    {
+      "qid": "Q112863077",
+      "name": "Steve Holmes"
+    },
+    {
+      "qid": "Q28839523",
+      "name": "Steve Simeone"
+    },
+    {
+      "qid": "Q491775",
+      "name": "Steve Zahn"
+    },
+    {
+      "qid": "Q15637979",
+      "name": "Steven Mahieu"
+    },
+    {
+      "qid": "Q7615848",
+      "name": "Stewart Lee"
+    },
+    {
+      "qid": "Q7629072",
+      "name": "Sturla Berg-Johansen"
+    },
+    {
+      "qid": "Q63540555",
+      "name": "Sudha Baragur"
+    },
+    {
+      "qid": "Q101249016",
+      "name": "Sukh Ojla"
+    },
+    {
+      "qid": "Q47035388",
+      "name": "Sumukhi Suresh"
+    },
+    {
+      "qid": "Q4787363",
+      "name": "Susan Calman"
+    },
+    {
+      "qid": "Q98525527",
+      "name": "Susanne M. Riedel"
+    },
+    {
+      "qid": "Q40220",
+      "name": "Susie Essman"
+    },
+    {
+      "qid": "Q7650730",
+      "name": "Suzanna Kempner"
+    },
+    {
+      "qid": "Q7650889",
+      "name": "Suzanne Krull"
+    },
+    {
+      "qid": "Q52004471",
+      "name": "Suzi Ruffell"
+    },
+    {
+      "qid": "Q113461812",
+      "name": "Suzy Bennett"
+    },
+    {
+      "qid": "Q4177616",
+      "name": "Sviatoslav Eshchenko"
+    },
+    {
+      "qid": "Q106933518",
+      "name": "Syed Basit Ali"
+    },
+    {
+      "qid": "Q111086791",
+      "name": "Tadej Cunder"
+    },
+    {
+      "qid": "Q21582977",
+      "name": "Tahnee Schaffarczyk"
+    },
+    {
+      "qid": "Q12407691",
+      "name": "Tal Solomon"
+    },
+    {
+      "qid": "Q74886744",
+      "name": "Talokudo"
+    },
+    {
+      "qid": "Q89218334",
+      "name": "Tania Dutel"
+    },
+    {
+      "qid": "Q7683597",
+      "name": "Tanmay Bhat"
+    },
+    {
+      "qid": "Q7684064",
+      "name": "Tanyalee Davis"
+    },
+    {
+      "qid": "Q110665947",
+      "name": "Tareek"
+    },
+    {
+      "qid": "Q141283452",
+      "name": "Taylor Drew"
+    },
+    {
+      "qid": "Q87370196",
+      "name": "Taylor Tomlinson"
+    },
+    {
+      "qid": "Q7704839",
+      "name": "Terry Mynott"
+    },
+    {
+      "qid": "Q22955304",
+      "name": "Tex de Wit"
+    },
+    {
+      "qid": "Q23772269",
+      "name": "Tez Ilyas"
+    },
+    {
+      "qid": "Q121074096",
+      "name": "Thanos Fotas"
+    },
+    {
+      "qid": "Q102260180",
+      "name": "Thanyia Moore"
+    },
+    {
+      "qid": "Q107901030",
+      "name": "Therese Sandin"
+    },
+    {
+      "qid": "Q118289671",
+      "name": "Thjum Arts"
+    },
+    {
+      "qid": "Q360663",
+      "name": "Thomas F. Wilson"
+    },
+    {
+      "qid": "Q7790021",
+      "name": "Thomas Giertsen"
+    },
+    {
+      "qid": "Q109554142",
+      "name": "Thomas Schmidt"
+    },
+    {
+      "qid": "Q3525620",
+      "name": "Thomas VDB"
+    },
+    {
+      "qid": "Q12339260",
+      "name": "Thomas Wivel"
+    },
+    {
+      "qid": "Q131913474",
+      "name": "Thoriq Al Gadrie"
+    },
+    {
+      "qid": "Q122423708",
+      "name": "Tiago Santineli"
+    },
+    {
+      "qid": "Q20685676",
+      "name": "Tiff Stevenson"
+    },
+    {
+      "qid": "Q11835264",
+      "name": "Tiffany Haddish"
+    },
+    {
+      "qid": "Q7801308",
+      "name": "Tig Notaro"
+    },
+    {
+      "qid": "Q2625326",
+      "name": "Tijl Beckand"
+    },
+    {
+      "qid": "Q2433457",
+      "name": "Till Reiners"
+    },
+    {
+      "qid": "Q135228270",
+      "name": "Tim Bray"
+    },
+    {
+      "qid": "Q118083027",
+      "name": "Tim Hartog"
+    },
+    {
+      "qid": "Q7803772",
+      "name": "Tim Key"
+    },
+    {
+      "qid": "Q7803939",
+      "name": "Tim McGarry"
+    },
+    {
+      "qid": "Q23527",
+      "name": "Tim Minchin"
+    },
+    {
+      "qid": "Q22909705",
+      "name": "Tim Washer"
+    },
+    {
+      "qid": "Q106943854",
+      "name": "Timur Karginov"
+    },
+    {
+      "qid": "Q7807818",
+      "name": "Tin Vodopivec"
+    },
+    {
+      "qid": "Q1775143",
+      "name": "Tino Insana"
+    },
+    {
+      "qid": "Q7811910",
+      "name": "Toby Whithouse"
+    },
+    {
+      "qid": "Q27924985",
+      "name": "Toby Williams"
+    },
+    {
+      "qid": "Q25375511",
+      "name": "Tom Aharon"
+    },
+    {
+      "qid": "Q7814766",
+      "name": "Tom Allen"
+    },
+    {
+      "qid": "Q299282",
+      "name": "Tom Kenny"
+    },
+    {
+      "qid": "Q7817081",
+      "name": "Tom O'Connor"
+    },
+    {
+      "qid": "Q21064096",
+      "name": "Tom Parry"
+    },
+    {
+      "qid": "Q7817418",
+      "name": "Tom Rosenthal"
+    },
+    {
+      "qid": "Q7818104",
+      "name": "Tom Wrigglesworth"
+    },
+    {
+      "qid": "Q23950407",
+      "name": "Tom Yaar"
+    },
+    {
+      "qid": "Q41700083",
+      "name": "Tomer Fishman"
+    },
+    {
+      "qid": "Q7819284",
+      "name": "Tommy Cannon"
+    },
+    {
+      "qid": "Q17108794",
+      "name": "Tommy Steine"
+    },
+    {
+      "qid": "Q19749028",
+      "name": "Topenk"
+    },
+    {
+      "qid": "Q5926000",
+      "name": "Tore Kullgren"
+    },
+    {
+      "qid": "Q108352444",
+      "name": "Tosin Oshin"
+    },
+    {
+      "qid": "Q29353438",
+      "name": "Traci Stumpf"
+    },
+    {
+      "qid": "Q17997694",
+      "name": "Tretan Muslim"
+    },
+    {
+      "qid": "Q15072758",
+      "name": "Trevor Lock"
+    },
+    {
+      "qid": "Q7839350",
+      "name": "Trevor Noah"
+    },
+    {
+      "qid": "Q112613307",
+      "name": "Trond Anfinnsen"
+    },
+    {
+      "qid": "Q136089192",
+      "name": "Tyler Brunetti"
+    },
+    {
+      "qid": "Q7861973",
+      "name": "Tzipi Shavit"
+    },
+    {
+      "qid": "Q135011335",
+      "name": "Udi"
+    },
+    {
+      "qid": "Q4580955",
+      "name": "Ulla Skoog"
+    },
+    {
+      "qid": "Q131930033",
+      "name": "Ulwan Fakhri"
+    },
+    {
+      "qid": "Q95718860",
+      "name": "Urbain"
+    },
+    {
+      "qid": "Q2891446",
+      "name": "Uri Zohar"
+    },
+    {
+      "qid": "Q56240021",
+      "name": "Uroš Kuzman"
+    },
+    {
+      "qid": "Q106342510",
+      "name": "Ursula Herlin"
+    },
+    {
+      "qid": "Q4132834",
+      "name": "Vadim Galygin"
+    },
+    {
+      "qid": "Q6051713",
+      "name": "Vahe Berberian"
+    },
+    {
+      "qid": "Q50360111",
+      "name": "Valeria Ros"
+    },
+    {
+      "qid": "Q116943775",
+      "name": "Valeriia Mandziuk"
+    },
+    {
+      "qid": "Q123739031",
+      "name": "Vanita Kharat"
+    },
+    {
+      "qid": "Q17495827",
+      "name": "Vasu Primlani"
+    },
+    {
+      "qid": "Q121290479",
+      "name": "Vasyl Baidak"
+    },
+    {
+      "qid": "Q251417",
+      "name": "Victor Borge"
+    },
+    {
+      "qid": "Q96432332",
+      "name": "Victor Lander"
+    },
+    {
+      "qid": "Q138333284",
+      "name": "Victor Patrascan"
+    },
+    {
+      "qid": "Q3309588",
+      "name": "Victoria Wood"
+    },
+    {
+      "qid": "Q113557750",
+      "name": "Vidda Priego"
+    },
+    {
+      "qid": "Q12523681",
+      "name": "Vikri Rasta"
+    },
+    {
+      "qid": "Q141737969",
+      "name": "Viktoriya Skladchikova"
+    },
+    {
+      "qid": "Q61717648",
+      "name": "Vince August"
+    },
+    {
+      "qid": "Q112729723",
+      "name": "Vincent Voeten"
+    },
+    {
+      "qid": "Q132314050",
+      "name": "Virginia Demo"
+    },
+    {
+      "qid": "Q140570133",
+      "name": "Vishnu Vaka"
+    },
+    {
+      "qid": "Q7937416",
+      "name": "Viv Groskop"
+    },
+    {
+      "qid": "Q104145683",
+      "name": "Vlad Ilich"
+    },
+    {
+      "qid": "Q70250881",
+      "name": "Vladimir Rayevsky"
+    },
+    {
+      "qid": "Q2452298",
+      "name": "Vladimir Vinokur"
+    },
+    {
+      "qid": "Q3564241",
+      "name": "Vérino"
+    },
+    {
+      "qid": "Q7959393",
+      "name": "Waen Shepherd"
+    },
+    {
+      "qid": "Q56394163",
+      "name": "Wahyu Togog"
+    },
+    {
+      "qid": "Q9316055",
+      "name": "Wang Zijian"
+    },
+    {
+      "qid": "Q56486601",
+      "name": "Wendy Wason"
+    },
+    {
+      "qid": "Q96749857",
+      "name": "Whitney Chitwood"
+    },
+    {
+      "qid": "Q1699902",
+      "name": "Will Hay"
+    },
+    {
+      "qid": "Q8003106",
+      "name": "Will Smith"
+    },
+    {
+      "qid": "Q8006639",
+      "name": "William Caulfield"
+    },
+    {
+      "qid": "Q18421477",
+      "name": "Wisben Antoro"
+    },
+    {
+      "qid": "Q135703240",
+      "name": "Won So-yun"
+    },
+    {
+      "qid": "Q122830446",
+      "name": "Wouter Monden"
+    },
+    {
+      "qid": "Q100354384",
+      "name": "Xavier Daura"
+    },
+    {
+      "qid": "Q139077561",
+      "name": "Xiaopa"
+    },
+    {
+      "qid": "Q137027100",
+      "name": "Xiha"
+    },
+    {
+      "qid": "Q108443565",
+      "name": "Xrysa Katsarini"
+    },
+    {
+      "qid": "Q6967241",
+      "name": "Yaakov Cohen"
+    },
+    {
+      "qid": "Q6981592",
+      "name": "Yael Levental"
+    },
+    {
+      "qid": "Q7030509",
+      "name": "Yair Orbach"
+    },
+    {
+      "qid": "Q20278561",
+      "name": "Yan Al Ridho"
+    },
+    {
+      "qid": "Q106398514",
+      "name": "Yang Li"
+    },
+    {
+      "qid": "Q114418339",
+      "name": "Yannick Gagnon"
+    },
+    {
+      "qid": "Q7040482",
+      "name": "Yaron Berlad"
+    },
+    {
+      "qid": "Q104200006",
+      "name": "Yassine Hitch"
+    },
+    {
+      "qid": "Q952032",
+      "name": "Yevgeny Petrosyan"
+    },
+    {
+      "qid": "Q138342057",
+      "name": "Yevgeny Zitev"
+    },
+    {
+      "qid": "Q16129942",
+      "name": "Yoel Ripel"
+    },
+    {
+      "qid": "Q20796440",
+      "name": "Yohay Sponder"
+    },
+    {
+      "qid": "Q109923025",
+      "name": "Yoko Yamada"
+    },
+    {
+      "qid": "Q25491891",
+      "name": "Yona Rozenkier"
+    },
+    {
+      "qid": "Q6979180",
+      "name": "Yonatan Barak"
+    },
+    {
+      "qid": "Q113661817",
+      "name": "Yono Bakrie"
+    },
+    {
+      "qid": "Q126946039",
+      "name": "Yosiel Neeman"
+    },
+    {
+      "qid": "Q17523667",
+      "name": "Yossi Gavni"
+    },
+    {
+      "qid": "Q12407969",
+      "name": "Yossi Tarablus"
+    },
+    {
+      "qid": "Q27990208",
+      "name": "Yossi Zabari"
+    },
+    {
+      "qid": "Q111335780",
+      "name": "Youngmi Mayer"
+    },
+    {
+      "qid": "Q56393903",
+      "name": "Yudha barendo"
+    },
+    {
+      "qid": "Q18421482",
+      "name": "Yudha Keling"
+    },
+    {
+      "qid": "Q25467374",
+      "name": "Yudha Khan"
+    },
+    {
+      "qid": "Q25464034",
+      "name": "Yudhit Ciphardian"
+    },
+    {
+      "qid": "Q25466598",
+      "name": "Yulyanikasih"
+    },
+    {
+      "qid": "Q4132905",
+      "name": "Yuri Galtsev"
+    },
+    {
+      "qid": "Q138380731",
+      "name": "Yuri Kasimtsev"
+    },
+    {
+      "qid": "Q24572520",
+      "name": "Yuriko Kotani"
+    },
+    {
+      "qid": "Q116541768",
+      "name": "Zabrina Douglas"
+    },
+    {
+      "qid": "Q141259517",
+      "name": "Zacharias Tufte Halkjelsvik"
+    },
+    {
+      "qid": "Q4584657",
+      "name": "Zahid Ali"
+    },
+    {
+      "qid": "Q6776652",
+      "name": "Zahy Ben-Zion"
+    },
+    {
+      "qid": "Q89804770",
+      "name": "Zainab Johnson"
+    },
+    {
+      "qid": "Q112565631",
+      "name": "Zbyněk Vičar"
+    },
+    {
+      "qid": "Q35864513",
+      "name": "Zeinab Mousavi"
+    },
+    {
+      "qid": "Q8071030",
+      "name": "Zhou Libo"
+    },
+    {
+      "qid": "Q94131127",
+      "name": "Zissis Roumbos"
+    },
+    {
+      "qid": "Q4026164",
+      "name": "Zvika Hadar"
+    },
+    {
+      "qid": "Q138792389",
+      "name": "Ánte Siri"
+    },
+    {
+      "qid": "Q274656",
+      "name": "Élie Semoun"
+    },
+    {
+      "qid": "Q74999",
+      "name": "Özz Nûjen"
+    },
+    {
+      "qid": "Q12011846",
+      "name": "Ørjan Burøe"
+    },
+    {
+      "qid": "Q17102275",
+      "name": "Øyvind Loven"
+    },
+    {
+      "qid": "Q111086776",
+      "name": "Žan Papič"
+    },
+    {
+      "qid": "Q111086781",
+      "name": "Žiga Kladošek"
+    },
+    {
+      "qid": "Q111086778",
+      "name": "Žiga Kočar"
+    }
+  ],
+  "works": [
+    {
+      "qid": "Q101552469",
+      "name": "Na stojáka",
+      "imdb": "tt1368427",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q102043523",
+      "name": "Comedy Club",
+      "imdb": "tt13938896",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q107231499",
+      "name": "Joe Lycett: That's the Way, A-Ha, A-Ha, Joe Lycett",
+      "imdb": "tt6629178",
+      "tmdb": "427056"
+    },
+    {
+      "qid": "Q107380226",
+      "name": "Iliza Shlesinger: Unveiled",
+      "imdb": "tt11163008",
+      "tmdb": "642738"
+    },
+    {
+      "qid": "Q107856455",
+      "name": "Shayne Smith: Prison for Wizards",
+      "imdb": "tt11962358",
+      "tmdb": "507975"
+    },
+    {
+      "qid": "Q110709333",
+      "name": "Aziz Ansari: Nightclub Comedian",
+      "imdb": "tt17005888",
+      "tmdb": "926179"
+    },
+    {
+      "qid": "Q110734703",
+      "name": "Kapil Sharma: I'm Not Done Yet",
+      "imdb": "tt14174040",
+      "tmdb": "926057"
+    },
+    {
+      "qid": "Q111253479",
+      "name": "",
+      "imdb": "tt18254596",
+      "tmdb": "940336"
+    },
+    {
+      "qid": "Q111253768",
+      "name": "",
+      "imdb": "tt31516129",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q111306755",
+      "name": "Standing Up",
+      "imdb": "tt18260550",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q111329780",
+      "name": "Jeff Foxworthy: The Good Old Days",
+      "imdb": "tt18314220",
+      "tmdb": "945457"
+    },
+    {
+      "qid": "Q111387701",
+      "name": "Mike Epps: Indiana Mike",
+      "imdb": "tt18314226",
+      "tmdb": "945455"
+    },
+    {
+      "qid": "Q111519820",
+      "name": "Michela Giraud: The Truth, I Swear!",
+      "imdb": "tt18396984",
+      "tmdb": "946251"
+    },
+    {
+      "qid": "Q114311254",
+      "name": "Jerrod Carmichael: Rothaniel",
+      "imdb": "tt18949702",
+      "tmdb": "952326"
+    },
+    {
+      "qid": "Q114602859",
+      "name": "Hasan Minhaj: The King’s Jester",
+      "imdb": "tt21994438",
+      "tmdb": "1023901"
+    },
+    {
+      "qid": "Q114680663",
+      "name": "DEAW#13 Udom Taephanich Stand Up Comedy Show",
+      "imdb": "tt22055118",
+      "tmdb": "1025455"
+    },
+    {
+      "qid": "Q115595698",
+      "name": "",
+      "imdb": "",
+      "tmdb": "1399425"
+    },
+    {
+      "qid": "Q117843156",
+      "name": "Cold Lasagne Hate Myself 1999",
+      "imdb": "tt13446472",
+      "tmdb": "763274"
+    },
+    {
+      "qid": "Q119411072",
+      "name": "Stand Out: An LGBTQ+ Celebration",
+      "imdb": "tt20723644",
+      "tmdb": "982783"
+    },
+    {
+      "qid": "Q12134721",
+      "name": "Word of Mouth",
+      "imdb": "tt0354522",
+      "tmdb": "32447"
+    },
+    {
+      "qid": "Q12301352",
+      "name": "Anden paa coke?",
+      "imdb": "tt0949330",
+      "tmdb": "16884"
+    },
+    {
+      "qid": "Q12301442",
+      "name": "Anders Matthesen: ...vender tilbage",
+      "imdb": "tt1515730",
+      "tmdb": "24879"
+    },
+    {
+      "qid": "Q12304750",
+      "name": "Bytte Bytte Købmand",
+      "imdb": "tt1757696",
+      "tmdb": "46178"
+    },
+    {
+      "qid": "Q12308248",
+      "name": "Den ægte vare",
+      "imdb": "tt0344606",
+      "tmdb": "32943"
+    },
+    {
+      "qid": "Q12310916",
+      "name": "Jan Gintberg: Fremtid.nu",
+      "imdb": "tt1741637",
+      "tmdb": "33616"
+    },
+    {
+      "qid": "Q12311186",
+      "name": "Fem på flugt",
+      "imdb": "tt0369422",
+      "tmdb": "49405"
+    },
+    {
+      "qid": "Q12330322",
+      "name": "Jan Gintberg: Op på fars Jihad",
+      "imdb": "tt0349490",
+      "tmdb": "46234"
+    },
+    {
+      "qid": "Q12338743",
+      "name": "Anders Matthesen: Tal For Dig Selv",
+      "imdb": "tt0425509",
+      "tmdb": "45783"
+    },
+    {
+      "qid": "Q12338806",
+      "name": "TarTar",
+      "imdb": "tt0412243",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q12339141",
+      "name": "The Uffe Holm Show 2",
+      "imdb": "tt0486501",
+      "tmdb": "25071"
+    },
+    {
+      "qid": "Q123998465",
+      "name": "",
+      "imdb": "",
+      "tmdb": "1399427"
+    },
+    {
+      "qid": "Q124338406",
+      "name": "Dave Chappelle: The Dreamer",
+      "imdb": "tt18278698",
+      "tmdb": "1215439"
+    },
+    {
+      "qid": "Q126891508",
+      "name": "Hannah Gadsby's Gender Agenda",
+      "imdb": "tt31259230",
+      "tmdb": "1244801"
+    },
+    {
+      "qid": "Q127687203",
+      "name": "Hannah Berner: We Ride at Dawn",
+      "imdb": "tt31021953",
+      "tmdb": "1312232"
+    },
+    {
+      "qid": "Q1287649",
+      "name": "Showder Klub",
+      "imdb": "tt2152566",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q130257447",
+      "name": "James Acaster: Make a New Tomorrow",
+      "imdb": "tt28075825",
+      "tmdb": "806045"
+    },
+    {
+      "qid": "Q130456127",
+      "name": "Ellen DeGeneres: For Your Approval",
+      "imdb": "tt32359444",
+      "tmdb": "1315601"
+    },
+    {
+      "qid": "Q131190087",
+      "name": "India's Got Latent",
+      "imdb": "tt33094114",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q132732967",
+      "name": "",
+      "imdb": "tt9657544",
+      "tmdb": "620778"
+    },
+    {
+      "qid": "Q133505281",
+      "name": "One Night Stand: Blake Clark",
+      "imdb": "tt0666143",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133520495",
+      "name": "Live! From London",
+      "imdb": "tt0234122",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133547233",
+      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
+      "imdb": "tt0334249",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133547849",
+      "name": "One Night Stand: Bob Nelson",
+      "imdb": "tt0666142",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133548068",
+      "name": "Whoopi Goldberg: Fontaine... Why Am I Straight",
+      "imdb": "tt0428045",
+      "tmdb": "365141"
+    },
+    {
+      "qid": "Q133548215",
+      "name": "On Location: Women Of The Night II",
+      "imdb": "tt1670263",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133570953",
+      "name": "Gilbert Gottfried: Command Performance",
+      "imdb": "tt0666191",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133571543",
+      "name": "Kevin Pollak: Stop With the Kicking",
+      "imdb": "tt12815584",
+      "tmdb": "1444144"
+    },
+    {
+      "qid": "Q133571692",
+      "name": "One Night Stand: Damon Wayans",
+      "imdb": "tt0666150",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133573226",
+      "name": "Women of the Night III",
+      "imdb": "tt0282265",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q133573274",
+      "name": "One Night Stand: Bill Maher",
+      "imdb": "tt0666146",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q137753087",
+      "name": "",
+      "imdb": "tt39177776",
+      "tmdb": "1603423"
+    },
+    {
+      "qid": "Q138106781",
+      "name": "",
+      "imdb": "tt16148616",
+      "tmdb": "921802"
+    },
+    {
+      "qid": "Q13979",
+      "name": "Saturday Night Live",
+      "imdb": "tt0072562",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q140681235",
+      "name": "Rory Scovel Tries Stand-Up for the First Time",
+      "imdb": "tt7044010",
+      "tmdb": "461634"
+    },
+    {
+      "qid": "Q142076080",
+      "name": "Jim Jefferies: Two Limb Policy",
+      "imdb": "tt37649515",
+      "tmdb": "1517042"
+    },
+    {
+      "qid": "Q142260559",
+      "name": "Al Murray: The Only Way Is Epic Tour",
+      "imdb": "tt4293980",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q15379045",
+      "name": "I'm Here to Help",
+      "imdb": "tt2523852",
+      "tmdb": "178946"
+    },
+    {
+      "qid": "Q16156145",
+      "name": "Fear of a Brown Planet Returns",
+      "imdb": "tt7787618",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q16158083",
+      "name": "It's Bad for Ya",
+      "imdb": "tt0963207",
+      "tmdb": "13643"
+    },
+    {
+      "qid": "Q16158390",
+      "name": "Joe Rogan: Talking Monkeys in Space",
+      "imdb": "tt1530890",
+      "tmdb": "35581"
+    },
+    {
+      "qid": "Q16158443",
+      "name": "John Hodgman: Ragnarok",
+      "imdb": "tt3014262",
+      "tmdb": "203059"
+    },
+    {
+      "qid": "Q16158743",
+      "name": "Kevin Hart: Let Me Explain",
+      "imdb": "tt2609912",
+      "tmdb": "181330"
+    },
+    {
+      "qid": "Q16324709",
+      "name": "The Uffe Holm Show",
+      "imdb": "tt0386090",
+      "tmdb": "25068"
+    },
+    {
+      "qid": "Q17021577",
+      "name": "HBO Comedy Half-Hour",
+      "imdb": "tt0251512",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q17507160",
+      "name": "Broken Lizard Stands Up",
+      "imdb": "tt1725936",
+      "tmdb": "45286"
+    },
+    {
+      "qid": "Q1754912",
+      "name": "Eddie Murphy Raw",
+      "imdb": "tt0092948",
+      "tmdb": "17159"
+    },
+    {
+      "qid": "Q18150000",
+      "name": "The Fluffy Movie",
+      "imdb": "tt3532608",
+      "tmdb": "256273"
+    },
+    {
+      "qid": "Q18384455",
+      "name": "SNL Québec",
+      "imdb": "tt12888246",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q18563331",
+      "name": "Bill Cosby 77",
+      "imdb": "tt3958474",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q18643792",
+      "name": "Uganda Be Kidding Me: Live",
+      "imdb": "tt4079776",
+      "tmdb": "297098"
+    },
+    {
+      "qid": "Q18713563",
+      "name": "Carlos Mencia: New Territory",
+      "imdb": "tt2129950",
+      "tmdb": "81378"
+    },
+    {
+      "qid": "Q19627362",
+      "name": "Aziz Ansari: Live at Madison Square Garden",
+      "imdb": "tt4530184",
+      "tmdb": "326665"
+    },
+    {
+      "qid": "Q1973970",
+      "name": "Comedy Club",
+      "imdb": "tt5188404",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q19865208",
+      "name": "Aziz Ansari: Buried Alive",
+      "imdb": "tt2836450",
+      "tmdb": "230158"
+    },
+    {
+      "qid": "Q19867095",
+      "name": "Dangerously Delicious",
+      "imdb": "tt2302529",
+      "tmdb": "96924"
+    },
+    {
+      "qid": "Q20926268",
+      "name": "Kevin Hart: What Now?",
+      "imdb": "tt4669186",
+      "tmdb": "339927"
+    },
+    {
+      "qid": "Q23763096",
+      "name": "Just Being Honest",
+      "imdb": "tt4512444",
+      "tmdb": "359244"
+    },
+    {
+      "qid": "Q2622271",
+      "name": "Def Comedy Jam",
+      "imdb": "tt0435566",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q2748714",
+      "name": "Morecambe and Wise",
+      "imdb": "tt0063930",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q27703227",
+      "name": "Kevin Hart: I'm a Grown Little Man",
+      "imdb": "tt1420554",
+      "tmdb": "27866"
+    },
+    {
+      "qid": "Q28134896",
+      "name": "I'ma Be Me",
+      "imdb": "tt1511514",
+      "tmdb": "26250"
+    },
+    {
+      "qid": "Q28167417",
+      "name": "Anders",
+      "imdb": "tt3387076",
+      "tmdb": "235224"
+    },
+    {
+      "qid": "Q28457773",
+      "name": "Sick and Tired",
+      "imdb": "tt0865538",
+      "tmdb": "26251"
+    },
+    {
+      "qid": "Q2913388",
+      "name": "Richard Pryor: Live in Concert",
+      "imdb": "tt0079807",
+      "tmdb": "22975"
+    },
+    {
+      "qid": "Q29469301",
+      "name": "Amy Schumer: Live at the Apollo",
+      "imdb": "tt4909348",
+      "tmdb": "355178"
+    },
+    {
+      "qid": "Q30049991",
+      "name": "Hasan Minhaj: Homecoming King",
+      "imdb": "tt6900644",
+      "tmdb": "458310"
+    },
+    {
+      "qid": "Q30101323",
+      "name": "Make Happy",
+      "imdb": "tt5192124",
+      "tmdb": "400608"
+    },
+    {
+      "qid": "Q30632756",
+      "name": "Amy Schumer: The Leather Special",
+      "imdb": "tt6616074",
+      "tmdb": "444513"
+    },
+    {
+      "qid": "Q31020363",
+      "name": "Uffe Holm: Uforbederlig?",
+      "imdb": "",
+      "tmdb": "75729"
+    },
+    {
+      "qid": "Q3213682",
+      "name": "La Vie normale",
+      "imdb": "tt0299201",
+      "tmdb": "30271"
+    },
+    {
+      "qid": "Q3296572",
+      "name": "Eddie Murphy Delirious",
+      "imdb": "tt0085474",
+      "tmdb": "15251"
+    },
+    {
+      "qid": "Q3988576",
+      "name": "The Original Kings of Comedy",
+      "imdb": "tt0236388",
+      "tmdb": "23618"
+    },
+    {
+      "qid": "Q4036438",
+      "name": "Comedy Woman",
+      "imdb": "tt3433050",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q41019687",
+      "name": "Jerry Before Seinfeld",
+      "imdb": "tt7310906",
+      "tmdb": "473812"
+    },
+    {
+      "qid": "Q4146411",
+      "name": "God Said Ha!",
+      "imdb": "tt0119207",
+      "tmdb": "82865"
+    },
+    {
+      "qid": "Q4765024",
+      "name": "Animals",
+      "imdb": "tt0397612",
+      "tmdb": "198306"
+    },
+    {
+      "qid": "Q48672679",
+      "name": "700 Sundays",
+      "imdb": "tt3383040",
+      "tmdb": "265832"
+    },
+    {
+      "qid": "Q4906881",
+      "name": "Bigger & Blacker",
+      "imdb": "tt0206636",
+      "tmdb": "17870"
+    },
+    {
+      "qid": "Q4908575",
+      "name": "Bill Cosby: Himself",
+      "imdb": "tt0083652",
+      "tmdb": "20120"
+    },
+    {
+      "qid": "Q4922408",
+      "name": "Black on Broadway",
+      "imdb": "tt0414224",
+      "tmdb": "37801"
+    },
+    {
+      "qid": "Q4928986",
+      "name": "Blue Collar Comedy Tour: One for the Road",
+      "imdb": "tt0807745",
+      "tmdb": "31341"
+    },
+    {
+      "qid": "Q4928988",
+      "name": "Blue Collar Comedy Tour: The Movie",
+      "imdb": "tt0330069",
+      "tmdb": "23626"
+    },
+    {
+      "qid": "Q4928989",
+      "name": "Blue Collar Comedy Tour Rides Again",
+      "imdb": "tt0423871",
+      "tmdb": "22427"
+    },
+    {
+      "qid": "Q5072301",
+      "name": "Channel 4's Comedy Gala 2010",
+      "imdb": "tt1638951",
+      "tmdb": "204503"
+    },
+    {
+      "qid": "Q5107907",
+      "name": "Chris Rock: Bring the Pain",
+      "imdb": "tt0200529",
+      "tmdb": "18128"
+    },
+    {
+      "qid": "Q51089117",
+      "name": "",
+      "imdb": "",
+      "tmdb": "164273"
+    },
+    {
+      "qid": "Q5121382",
+      "name": "Circle",
+      "imdb": "tt0342317",
+      "tmdb": "13587"
+    },
+    {
+      "qid": "Q5121720",
+      "name": "Circumcise Me",
+      "imdb": "tt7662688",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q5151413",
+      "name": "Comedy's Dirtiest Dozen",
+      "imdb": "tt0188516",
+      "tmdb": "70770"
+    },
+    {
+      "qid": "Q5151435",
+      "name": "Comedy Central Presents",
+      "imdb": "tt0497480",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q5156387",
+      "name": "Complaints and Grievances",
+      "imdb": "tt0287460",
+      "tmdb": "20679"
+    },
+    {
+      "qid": "Q5245537",
+      "name": "Deadbeat Hero",
+      "imdb": "tt0814086",
+      "tmdb": "34507"
+    },
+    {
+      "qid": "Q5251584",
+      "name": "Definite Article",
+      "imdb": "tt0116066",
+      "tmdb": "13588"
+    },
+    {
+      "qid": "Q5255214",
+      "name": "Demetri Martin. Person.",
+      "imdb": "tt0954327",
+      "tmdb": "108177"
+    },
+    {
+      "qid": "Q52715726",
+      "name": "Stand-Up Confidential",
+      "imdb": "tt0158687",
+      "tmdb": "223468"
+    },
+    {
+      "qid": "Q5307057",
+      "name": "Dress to Kill",
+      "imdb": "tt0184424",
+      "tmdb": "13589"
+    },
+    {
+      "qid": "Q5319411",
+      "name": "Dysfunktional Family",
+      "imdb": "tt0337996",
+      "tmdb": "17995"
+    },
+    {
+      "qid": "Q5364809",
+      "name": "Ellen DeGeneres: Here and Now",
+      "imdb": "tt0365156",
+      "tmdb": "19511"
+    },
+    {
+      "qid": "Q5383737",
+      "name": "Epitome of Hyperbole",
+      "imdb": "tt1284973",
+      "tmdb": "19626"
+    },
+    {
+      "qid": "Q54020464",
+      "name": "Knock Knock, It's Tig Notaro",
+      "imdb": "tt4497142",
+      "tmdb": "324281"
+    },
+    {
+      "qid": "Q5432868",
+      "name": "Fame",
+      "imdb": "tt0993779",
+      "tmdb": "198308"
+    },
+    {
+      "qid": "Q5537685",
+      "name": "George Carlin at USC",
+      "imdb": "tt0249854",
+      "tmdb": "70086"
+    },
+    {
+      "qid": "Q5537686",
+      "name": "George Carlin: Again!",
+      "imdb": "tt0249853",
+      "tmdb": "57837"
+    },
+    {
+      "qid": "Q55387562",
+      "name": "The Comedy Lineup",
+      "imdb": "tt8687584",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q5541825",
+      "name": "George Lopez Why You Crying?",
+      "imdb": "tt6344974",
+      "tmdb": "38612"
+    },
+    {
+      "qid": "Q5561522",
+      "name": "Gilda Live",
+      "imdb": "tt0080790",
+      "tmdb": "97415"
+    },
+    {
+      "qid": "Q55624617",
+      "name": "Nanette",
+      "imdb": "tt8465676",
+      "tmdb": "529531"
+    },
+    {
+      "qid": "Q5571525",
+      "name": "Glorious",
+      "imdb": "tt0195753",
+      "tmdb": "13590"
+    },
+    {
+      "qid": "Q55762054",
+      "name": "Reno: Rebel without a Pause",
+      "imdb": "tt0334231",
+      "tmdb": "292899"
+    },
+    {
+      "qid": "Q57391702",
+      "name": "Kid Gorgeous at Radio City",
+      "imdb": "tt8271714",
+      "tmdb": "520594"
+    },
+    {
+      "qid": "Q57606522",
+      "name": "If You Quit Listening, I’ll Shut Up",
+      "imdb": "tt9060534",
+      "tmdb": "550302"
+    },
+    {
+      "qid": "Q57897497",
+      "name": "Pataas",
+      "imdb": "tt9191002",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q58030177",
+      "name": "The Degenerates",
+      "imdb": "tt9077196",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q59386567",
+      "name": "Bumping Mics with Jeff Ross & Dave Attell",
+      "imdb": "tt9203078",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q59503171",
+      "name": "Ellen DeGeneres: Relatable",
+      "imdb": "tt7157574",
+      "tmdb": "535358"
+    },
+    {
+      "qid": "Q59551574",
+      "name": "Russell Brand: Re:Birth",
+      "imdb": "tt9349942",
+      "tmdb": "566674"
+    },
+    {
+      "qid": "Q5966832",
+      "name": "I'm Swiss",
+      "imdb": "tt0473006",
+      "tmdb": "21578"
+    },
+    {
+      "qid": "Q5966849",
+      "name": "I'm Telling You for the Last Time",
+      "imdb": "tt0500140",
+      "tmdb": "23319"
+    },
+    {
+      "qid": "Q6005777",
+      "name": "Tek Kisilik Dev Kadro",
+      "imdb": "tt1565438",
+      "tmdb": "80982"
+    },
+    {
+      "qid": "Q60561928",
+      "name": "Comedians of the World",
+      "imdb": "tt8685446",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q6084632",
+      "name": "CM101MMXI Fundamentals",
+      "imdb": "tt2592910",
+      "tmdb": "161803"
+    },
+    {
+      "qid": "Q60931295",
+      "name": "Todo lo que sería Lucas Lauriente",
+      "imdb": "tt7607452",
+      "tmdb": "516535"
+    },
+    {
+      "qid": "Q6146905",
+      "name": "Jamie Foxx: Straight from the Foxxhole",
+      "imdb": "tt0445475",
+      "tmdb": "71366"
+    },
+    {
+      "qid": "Q6146906",
+      "name": "Jamie Foxx: I Might Need Security",
+      "imdb": "tt0330472",
+      "tmdb": "32556"
+    },
+    {
+      "qid": "Q6147962",
+      "name": "Jammin' in New York",
+      "imdb": "tt0246643",
+      "tmdb": "25161"
+    },
+    {
+      "qid": "Q6173759",
+      "name": "Jeff Dunham: Spark of Insanity",
+      "imdb": "tt1143143",
+      "tmdb": "14540"
+    },
+    {
+      "qid": "Q6396451",
+      "name": "Kevin Hart: Laugh at My Pain",
+      "imdb": "tt1999192",
+      "tmdb": "74510"
+    },
+    {
+      "qid": "Q64032767",
+      "name": "Anders Matthesen: 9 års jubilæum",
+      "imdb": "tt0352127",
+      "tmdb": "31452"
+    },
+    {
+      "qid": "Q6423177",
+      "name": "Know Your History: Jesus Is Black; So Was Cleopatra",
+      "imdb": "tt0867339",
+      "tmdb": "36749"
+    },
+    {
+      "qid": "Q64866098",
+      "name": "Mike Epps: Under Rated & Never Faded",
+      "imdb": "tt1636817",
+      "tmdb": "31771"
+    },
+    {
+      "qid": "Q64906856",
+      "name": "Kevin Hart: Seriously Funny",
+      "imdb": "tt1714196",
+      "tmdb": "42189"
+    },
+    {
+      "qid": "Q64918170",
+      "name": "Bill Burr: Let It Go",
+      "imdb": "tt1717578",
+      "tmdb": "46967"
+    },
+    {
+      "qid": "Q65032648",
+      "name": "Aziz Ansari: Right Now",
+      "imdb": "tt10575038",
+      "tmdb": "613999"
+    },
+    {
+      "qid": "Q65048631",
+      "name": "Mike Birbiglia: My Girlfriend's Boyfriend",
+      "imdb": "tt2937390",
+      "tmdb": "216652"
+    },
+    {
+      "qid": "Q65100350",
+      "name": "Anthony Jeselnik: Thoughts and Prayers",
+      "imdb": "tt5087554",
+      "tmdb": "364089"
+    },
+    {
+      "qid": "Q65100398",
+      "name": "Iliza Shlesinger: Confirmed Kills",
+      "imdb": "tt6081882",
+      "tmdb": "416867"
+    },
+    {
+      "qid": "Q6544888",
+      "name": "Life Is Worth Losing",
+      "imdb": "tt0484855",
+      "tmdb": "13015"
+    },
+    {
+      "qid": "Q65589653",
+      "name": "Jim Jefferies: BARE",
+      "imdb": "tt3958494",
+      "tmdb": "289333"
+    },
+    {
+      "qid": "Q65595994",
+      "name": "Jo Koy: Live from Seattle",
+      "imdb": "tt6720442",
+      "tmdb": "449359"
+    },
+    {
+      "qid": "Q65598257",
+      "name": "W. Kamau Bell: Private School Negro",
+      "imdb": "tt8467788",
+      "tmdb": "532162"
+    },
+    {
+      "qid": "Q65598470",
+      "name": "Jim Norton: Mouthful of Shame 2017",
+      "imdb": "tt6664120",
+      "tmdb": "446048"
+    },
+    {
+      "qid": "Q65617341",
+      "name": "Kurt Braunohler: Trust Me",
+      "imdb": "tt6141048",
+      "tmdb": "419037"
+    },
+    {
+      "qid": "Q65617734",
+      "name": "Jim Jefferies: Freedumb",
+      "imdb": "tt5849950",
+      "tmdb": "404022"
+    },
+    {
+      "qid": "Q65677531",
+      "name": "Katherine Ryan: Glitter Room",
+      "imdb": "tt10438648",
+      "tmdb": "580846"
+    },
+    {
+      "qid": "Q65929193",
+      "name": "Gone Madigan",
+      "imdb": "tt1820451",
+      "tmdb": "67952"
+    },
+    {
+      "qid": "Q65996632",
+      "name": "Jena Friedman: American Cunt",
+      "imdb": "tt6297574",
+      "tmdb": "429779"
+    },
+    {
+      "qid": "Q66305406",
+      "name": "Mike Epps: Only One Mike",
+      "imdb": "tt10376958",
+      "tmdb": "610619"
+    },
+    {
+      "qid": "Q66305407",
+      "name": "Adam DeVine: Best Time of Our Lives",
+      "imdb": "tt10376844",
+      "tmdb": "609660"
+    },
+    {
+      "qid": "Q66305417",
+      "name": "Jo Koy: Comin' in Hot",
+      "imdb": "tt10377036",
+      "tmdb": "604130"
+    },
+    {
+      "qid": "Q6654640",
+      "name": "Live & Smokin'",
+      "imdb": "tt0089918",
+      "tmdb": "45103"
+    },
+    {
+      "qid": "Q6656561",
+      "name": "Live at the Ambassadors",
+      "imdb": "tt0107429",
+      "tmdb": "16212"
+    },
+    {
+      "qid": "Q6656601",
+      "name": "Live at the Beacon Theater",
+      "imdb": "tt2112999",
+      "tmdb": "80379"
+    },
+    {
+      "qid": "Q6656673",
+      "name": "Live at the El Rey",
+      "imdb": "tt0838284",
+      "tmdb": "25687"
+    },
+    {
+      "qid": "Q66686171",
+      "name": "Tiffany Haddish Presents: They Ready",
+      "imdb": "tt10085386",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q66764376",
+      "name": "Mike Epps: Don't Take It Personal",
+      "imdb": "tt5339586",
+      "tmdb": "371084"
+    },
+    {
+      "qid": "Q66764379",
+      "name": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "imdb": "tt10050780",
+      "tmdb": "593489"
+    },
+    {
+      "qid": "Q66764383",
+      "name": "Bill Burr: You People Are All the Same",
+      "imdb": "tt2290153",
+      "tmdb": "191489"
+    },
+    {
+      "qid": "Q66764385",
+      "name": "Iliza Shlesinger: War Paint",
+      "imdb": "tt2836376",
+      "tmdb": "220153"
+    },
+    {
+      "qid": "Q66764387",
+      "name": "Iliza Shlesinger: Freezing Hot",
+      "imdb": "tt4073952",
+      "tmdb": "320996"
+    },
+    {
+      "qid": "Q66828711",
+      "name": "Iliza Shlesinger: Elder Millennial",
+      "imdb": "tt8697266",
+      "tmdb": "535340"
+    },
+    {
+      "qid": "Q67015685",
+      "name": "Daniel Sosa: Maleducado",
+      "imdb": "tt10438652",
+      "tmdb": "611710"
+    },
+    {
+      "qid": "Q67015695",
+      "name": "Daniel Sosa: Sosafado",
+      "imdb": "tt6502534",
+      "tmdb": "439031"
+    },
+    {
+      "qid": "Q67173425",
+      "name": "Donald Glover: Weirdo",
+      "imdb": "tt2345525",
+      "tmdb": "84154"
+    },
+    {
+      "qid": "Q67207210",
+      "name": "Dave Chappelle: Sticks & Stones",
+      "imdb": "tt10810424",
+      "tmdb": "624932"
+    },
+    {
+      "qid": "Q6775975",
+      "name": "Martin Lawrence Live: Runteldat",
+      "imdb": "tt0327036",
+      "tmdb": "20337"
+    },
+    {
+      "qid": "Q68586917",
+      "name": "Roy Wood Jr.: Father Figure",
+      "imdb": "tt6665988",
+      "tmdb": "419160"
+    },
+    {
+      "qid": "Q68587802",
+      "name": "Ari Shaffir: Paid Regular",
+      "imdb": "tt4414858",
+      "tmdb": "318974"
+    },
+    {
+      "qid": "Q68588409",
+      "name": "Ari Shaffir: Passive Aggressive",
+      "imdb": "tt2604846",
+      "tmdb": "166218"
+    },
+    {
+      "qid": "Q68588829",
+      "name": "Heather McDonald: I Don't Mean to Brag",
+      "imdb": "tt3921854",
+      "tmdb": "294280"
+    },
+    {
+      "qid": "Q68589677",
+      "name": "Todd Oliver: Funny Dog",
+      "imdb": "tt11014874",
+      "tmdb": "271349"
+    },
+    {
+      "qid": "Q69392519",
+      "name": "Trevor Noah: Afraid of the Dark",
+      "imdb": "tt6562866",
+      "tmdb": "440767"
+    },
+    {
+      "qid": "Q69989338",
+      "name": "Jim Norton: Contextually Inadequate",
+      "imdb": "tt4660086",
+      "tmdb": "337405"
+    },
+    {
+      "qid": "Q69990105",
+      "name": "Louis C.K.: Chewed Up",
+      "imdb": "tt1190722",
+      "tmdb": "30969"
+    },
+    {
+      "qid": "Q69990532",
+      "name": "Jim Norton: American Degenerate",
+      "imdb": "tt3234126",
+      "tmdb": "216553"
+    },
+    {
+      "qid": "Q69991305",
+      "name": "Craig Ferguson: A Wee Bit o' Revolution",
+      "imdb": "tt1395034",
+      "tmdb": "17485"
+    },
+    {
+      "qid": "Q69991886",
+      "name": "Bill Burr: Why Do I Do This?",
+      "imdb": "tt1254947",
+      "tmdb": "32836"
+    },
+    {
+      "qid": "Q7004252",
+      "name": "Never Scared",
+      "imdb": "tt0405832",
+      "tmdb": "17871"
+    },
+    {
+      "qid": "Q7044863",
+      "name": "No Refunds",
+      "imdb": "tt1047610",
+      "tmdb": "18362"
+    },
+    {
+      "qid": "Q7147995",
+      "name": "Patriot Act: A Jeffrey Ross Home Movie",
+      "imdb": "tt0475359",
+      "tmdb": "163624"
+    },
+    {
+      "qid": "Q7152576",
+      "name": "Paul Mooney: Analyzing White America",
+      "imdb": "tt0347752",
+      "tmdb": "34521"
+    },
+    {
+      "qid": "Q7203379",
+      "name": "Playin' with Your Head",
+      "imdb": "tt0199554",
+      "tmdb": "34163"
+    },
+    {
+      "qid": "Q7225169",
+      "name": "Politics",
+      "imdb": "tt0439784",
+      "tmdb": "198307"
+    },
+    {
+      "qid": "Q7240459",
+      "name": "Premium Blend",
+      "imdb": "tt0156228",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q7310954",
+      "name": "Relentless",
+      "imdb": "tt0148668",
+      "tmdb": "34505"
+    },
+    {
+      "qid": "Q7328525",
+      "name": "Richard Pryor: Here and Now",
+      "imdb": "tt0086194",
+      "tmdb": "21921"
+    },
+    {
+      "qid": "Q7328528",
+      "name": "Richard Pryor: Live on the Sunset Strip",
+      "imdb": "tt0084597",
+      "tmdb": "21923"
+    },
+    {
+      "qid": "Q7381571",
+      "name": "Russell Howard's Good News",
+      "imdb": "tt1564698",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q740148",
+      "name": "Does Humor Belong in Music?",
+      "imdb": "tt0089035",
+      "tmdb": "74413"
+    },
+    {
+      "qid": "Q7422770",
+      "name": "Sarah Silverman: Jesus Is Magic",
+      "imdb": "tt0422528",
+      "tmdb": "16156"
+    },
+    {
+      "qid": "Q7433481",
+      "name": "Science",
+      "imdb": "tt1815899",
+      "tmdb": "198391"
+    },
+    {
+      "qid": "Q7458572",
+      "name": "Sexie",
+      "imdb": "tt0408730",
+      "tmdb": "13592"
+    },
+    {
+      "qid": "Q7601965",
+      "name": "Stark Raving Black",
+      "imdb": "tt1500505",
+      "tmdb": "39337"
+    },
+    {
+      "qid": "Q7658379",
+      "name": "Swimming to Cambodia",
+      "imdb": "tt0094089",
+      "tmdb": "42015"
+    },
+    {
+      "qid": "Q7738650",
+      "name": "The Half Hour",
+      "imdb": "tt2148200",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q7746320",
+      "name": "The Late Show",
+      "imdb": "tt0103468",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q7755379",
+      "name": "The Original Latin Kings of Comedy",
+      "imdb": "tt0332720",
+      "tmdb": "34107"
+    },
+    {
+      "qid": "Q7759030",
+      "name": "The Queens of Comedy",
+      "imdb": "tt0279353",
+      "tmdb": "35155"
+    },
+    {
+      "qid": "Q77955712",
+      "name": "Lugar de Mulher",
+      "imdb": "tt11215186",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q7897381",
+      "name": "Unrepeatable",
+      "imdb": "tt0111562",
+      "tmdb": "13591"
+    },
+    {
+      "qid": "Q7990961",
+      "name": "What Am I Doing in New Jersey?",
+      "imdb": "tt0246644",
+      "tmdb": "34512"
+    },
+    {
+      "qid": "Q8056840",
+      "name": "You Are All Diseased",
+      "imdb": "tt0246645",
+      "tmdb": "34513"
+    },
+    {
+      "qid": "Q8057117",
+      "name": "You Can Tell 'Em I Said It",
+      "imdb": "tt1772263",
+      "tmdb": "57518"
+    },
+    {
+      "qid": "Q8057517",
+      "name": "You So Crazy",
+      "imdb": "tt0111804",
+      "tmdb": "38129"
+    },
+    {
+      "qid": "Q8063803",
+      "name": "Zach Galifianakis: Live at the Purple Onion",
+      "imdb": "tt0804558",
+      "tmdb": "16453"
+    },
+    {
+      "qid": "Q90350923",
+      "name": "Ladies Up",
+      "imdb": "tt11942100",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q96246160",
+      "name": "8:46",
+      "imdb": "tt12498618",
+      "tmdb": "714842"
+    },
+    {
+      "qid": "Q96412996",
+      "name": "Uptown Comedy Club",
+      "imdb": "tt0108458",
+      "tmdb": ""
+    },
+    {
+      "qid": "Q96985068",
+      "name": "Katt Williams Presents: Katthouse Comedy",
+      "imdb": "tt1320271",
+      "tmdb": "20930"
+    },
+    {
+      "qid": "Q96985084",
+      "name": "Maz Jobrani: Brown and Friendly",
+      "imdb": "tt1621819",
+      "tmdb": "72926"
+    },
+    {
+      "qid": "Q96985086",
+      "name": "Problem Child: Leslie Jones",
+      "imdb": "tt2450366",
+      "tmdb": "109460"
+    },
+    {
+      "qid": "Q96985089",
+      "name": "Lavell Crawford: Can a Brother Get Some Love?",
+      "imdb": "tt2084872",
+      "tmdb": "71950"
+    },
+    {
+      "qid": "Q96985134",
+      "name": "Felipe Esparza: They're Not Going to Laugh at You",
+      "imdb": "tt2153394",
+      "tmdb": "123224"
+    },
+    {
+      "qid": "Q96985142",
+      "name": "Katt Williams: Kattpacalypse",
+      "imdb": "tt2370686",
+      "tmdb": "129415"
+    },
+    {
+      "qid": "Q96985151",
+      "name": "Joan Rivers: Don't Start with Me",
+      "imdb": "tt2519318",
+      "tmdb": "176354"
+    },
+    {
+      "qid": "Q96985177",
+      "name": "Marc Maron: Thinky Pain",
+      "imdb": "tt3004634",
+      "tmdb": "226632"
+    }
+  ],
+  "wikidata_refreshed": "2026-11-23",
+  "searched_performers": {
+    "ari matti": "2026-11-23",
+    "bobby lee": "2026-11-23",
+    "casey rocket": "2026-11-23",
+    "cristina mariani": "2026-11-23",
+    "hans kim": "2026-11-23",
+    "joe derosa": "2026-11-23",
+    "kam patterson": "2026-11-23",
+    "maddie wiener": "2026-11-23",
+    "william montgomery": "2026-11-23",
+    "": "2026-11-23",
+    " ": "2026-11-23",
+    "2020": "2026-11-23",
+    "aakash gupta": "2026-11-23",
+    "aamer rahman": "2026-11-23",
+    "aaron branch": "2026-11-23",
+    "aaron chen": "2026-11-23",
+    "aashish solanki": "2026-11-23",
+    "abby howells": "2026-11-23",
+    "abby schachner": "2026-11-23",
+    "abby stein": "2026-11-23",
+    "abby wambaugh": "2026-11-23",
+    "abdullah afzal": "2026-11-23",
+    "abdur arsyad": "2026-11-23",
+    "abhay nadkarni": "2026-11-23",
+    "abhineet mishra": "2026-11-23",
+    "abhishek upmanyu": "2026-11-23",
+    "abish mathew": "2026-11-23",
+    "aci resti": "2026-11-23",
+    "adam  noah": "2026-11-23",
+    "adam carolla": "2026-11-23",
+    "adam conover": "2026-11-23",
+    "adam devine": "2026-11-23",
+    "adam flood": "2026-11-23",
+    "adam hills": "2026-11-23",
+    "adam morrison jones": "2026-11-23",
+    "adam pally": "2026-11-23",
+    "adam ray": "2026-11-23",
+    "adam sandler": "2026-11-23",
+    "ade aluko": "2026-11-23",
+    "adi ashkenazi": "2026-11-23",
+    "adil ray": "2026-11-23",
+    "adir miller": "2026-11-23",
+    "aditi mittal": "2026-11-23",
+    "aditya kulshreshtha": "2026-11-23",
+    "admir baltic": "2026-11-23",
+    "adrian marcelo": "2026-11-23",
+    "adriano qalbi": "2026-11-23",
+    "adrienne truscott": "2026-11-23",
+    "afonso padilha": "2026-11-23",
+    "agung motivamor": "2026-11-23",
+    "agung widodo": "2026-11-23",
+    "agustin aristaran": "2026-11-23",
+    "ahir shah": "2026-11-23",
+    "ahmed mamow": "2026-11-23",
+    "aida rodriguez": "2026-11-23",
+    "aidan fealy": "2026-11-23",
+    "aisha alfa": "2026-11-23",
+    "akau daniel jambo poundak": "2026-11-23",
+    "akbar eghbali": "2026-11-23",
+    "al murray": "2026-11-23",
+    "al murray the pub landlord": "2026-11-23",
+    "al pitcher": "2026-11-23",
+    "aladdin gedik jameel": "2026-11-23",
+    "alan carr": "2026-11-23",
+    "alan cumming": "2026-11-23",
+    "alan watt": "2026-11-23",
+    "alasdair beckettking": "2026-11-23",
+    "alaska thunderfuck": "2026-11-23",
+    "alban ivanov": "2026-11-23",
+    "albert roig": "2026-11-23",
+    "ale mchaddo": "2026-11-23",
+    "alec baldwin": "2026-11-23",
+    "alejandro garcia villalon virulo": "2026-11-23",
+    "alejandro hangahano": "2026-11-23",
+    "aleksandar perisic": "2026-11-23",
+    "aleksander okland": "2026-11-23",
+    "aleksandr popov": "2026-11-23",
+    "aleksandra szczesniak": "2026-11-23",
+    "alen borisek": "2026-11-23",
+    "ales novak": "2026-11-23",
+    "alex agnew": "2026-11-23",
+    "alex edelman": "2026-11-23",
+    "alex fabry": "2026-11-23",
+    "alex hamel": "2026-11-23",
+    "alex lutz": "2026-11-23",
+    "alex ploeg": "2026-11-23",
+    "alex thelander": "2026-11-23",
+    "alex vizorek": "2026-11-23",
+    "alex xiasong": "2026-11-23",
+    "alexa zuart": "2026-11-23",
+    "alexander babu": "2026-11-23",
+    "alexander bennett": "2026-11-23",
+    "alexandros tsouvelas": "2026-11-23",
+    "alexis renato arroyo mendoza": "2026-11-23",
+    "alfie brown": "2026-11-23",
+    "alfie moore": "2026-11-23",
+    "ali akbar": "2026-11-23",
+    "ali asgar": "2026-11-23",
+    "ali b": "2026-11-23",
+    "ali jahangiri": "2026-11-23",
+    "ali quandil": "2026-11-23",
+    "ali siddiq": "2026-11-23",
+    "ali wong": "2026-11-23",
+    "alia janine": "2026-11-23",
+    "alice wetterlund": "2026-11-23",
+    "alicia tobin": "2026-11-23",
+    "alif baihaki": "2026-11-23",
+    "alif rivelino": "2026-11-23",
+    "alison arngrim": "2026-11-23",
+    "alison mandel": "2026-11-23",
+    "alison stevenson": "2026-11-23",
+    "alison victoria": "2026-11-23",
+    "alison wheeler": "2026-11-23",
+    "alistair barrie": "2026-11-23",
+    "ally beardsley": "2026-11-23",
+    "alok": "2026-11-23",
+    "alon neuman": "2026-11-23",
+    "alphi sugoi": "2026-11-23",
+    "alun cochrane": "2026-11-23",
+    "alzbeta strkulova": "2026-11-23"
+  },
+  "checked_works": {
+    "Q101552469": "2026-11-23",
+    "Q102043523": "2026-11-23",
+    "Q107231499": "2026-11-23",
+    "Q107380226": "2026-11-23",
+    "Q107856455": "2026-11-23",
+    "Q110709333": "2026-11-23",
+    "Q110734703": "2026-11-23",
+    "Q111253479": "2026-11-23",
+    "Q111253768": "2026-11-23",
+    "Q111306755": "2026-11-23",
+    "Q111329780": "2026-11-23",
+    "Q111387701": "2026-11-23",
+    "Q111519820": "2026-11-23",
+    "Q114311254": "2026-11-23",
+    "Q114602859": "2026-11-23",
+    "Q114680663": "2026-11-23",
+    "Q115595698": "2026-11-23",
+    "Q117843156": "2026-11-23",
+    "Q119411072": "2026-11-23",
+    "Q12134721": "2026-11-23",
+    "Q12301352": "2026-11-23",
+    "Q12301442": "2026-11-23",
+    "Q12304750": "2026-11-23",
+    "Q12308248": "2026-11-23",
+    "Q12310916": "2026-11-23",
+    "Q12311186": "2026-11-23",
+    "Q12330322": "2026-11-23",
+    "Q12338743": "2026-11-23",
+    "Q12338806": "2026-11-23",
+    "Q12339141": "2026-11-23",
+    "Q123998465": "2026-11-23",
+    "Q124338406": "2026-11-23",
+    "Q126891508": "2026-11-23",
+    "Q127687203": "2026-11-23",
+    "Q1287649": "2026-11-23",
+    "Q130257447": "2026-11-23",
+    "Q130456127": "2026-11-23",
+    "Q131190087": "2026-11-23",
+    "Q132732967": "2026-11-23",
+    "Q133505281": "2026-11-23",
+    "Q133520495": "2026-11-23",
+    "Q133547233": "2026-11-23",
+    "Q133547849": "2026-11-23",
+    "Q133548068": "2026-11-23",
+    "Q133548215": "2026-11-23",
+    "Q133570953": "2026-11-23",
+    "Q133571543": "2026-11-23",
+    "Q133571692": "2026-11-23",
+    "Q133573226": "2026-11-23",
+    "Q133573274": "2026-11-23",
+    "Q137753087": "2026-11-23",
+    "Q138106781": "2026-11-23",
+    "Q13979": "2026-11-23",
+    "Q140681235": "2026-11-23",
+    "Q142076080": "2026-11-23",
+    "Q142260559": "2026-11-23",
+    "Q15379045": "2026-11-23",
+    "Q16156145": "2026-11-23",
+    "Q16158083": "2026-11-23",
+    "Q16158390": "2026-11-23",
+    "Q16158443": "2026-11-23",
+    "Q16158743": "2026-11-23",
+    "Q16324709": "2026-11-23",
+    "Q17021577": "2026-11-23",
+    "Q17507160": "2026-11-23",
+    "Q1754912": "2026-11-23",
+    "Q18150000": "2026-11-23",
+    "Q18384455": "2026-11-23",
+    "Q18563331": "2026-11-23",
+    "Q18643792": "2026-11-23",
+    "Q18713563": "2026-11-23",
+    "Q19627362": "2026-11-23",
+    "Q1973970": "2026-11-23",
+    "Q19865208": "2026-11-23",
+    "Q19867095": "2026-11-23",
+    "Q20926268": "2026-11-23",
+    "Q23763096": "2026-11-23",
+    "Q2622271": "2026-11-23",
+    "Q2748714": "2026-11-23",
+    "Q27703227": "2026-11-23",
+    "Q28134896": "2026-11-23",
+    "Q28167417": "2026-11-23",
+    "Q28457773": "2026-11-23",
+    "Q2913388": "2026-11-23",
+    "Q29469301": "2026-11-23",
+    "Q30049991": "2026-11-23",
+    "Q30101323": "2026-11-23",
+    "Q30632756": "2026-11-23",
+    "Q31020363": "2026-11-23",
+    "Q3213682": "2026-11-23",
+    "Q3296572": "2026-11-23",
+    "Q3988576": "2026-11-23",
+    "Q4036438": "2026-11-23",
+    "Q41019687": "2026-11-23",
+    "Q4146411": "2026-11-23",
+    "Q4765024": "2026-11-23",
+    "Q48672679": "2026-11-23",
+    "Q4906881": "2026-11-23",
+    "Q4908575": "2026-11-23",
+    "Q4922408": "2026-11-23",
+    "Q4928986": "2026-11-23",
+    "Q4928988": "2026-11-23",
+    "Q4928989": "2026-11-23",
+    "Q5072301": "2026-11-23",
+    "Q5107907": "2026-11-23",
+    "Q51089117": "2026-11-23",
+    "Q5121382": "2026-11-23",
+    "Q5121720": "2026-11-23",
+    "Q5151413": "2026-11-23",
+    "Q5151435": "2026-11-23",
+    "Q5156387": "2026-11-23",
+    "Q5245537": "2026-11-23",
+    "Q5251584": "2026-11-23",
+    "Q5255214": "2026-11-23",
+    "Q52715726": "2026-11-23",
+    "Q5307057": "2026-11-23",
+    "Q5319411": "2026-11-23",
+    "Q5364809": "2026-11-23",
+    "Q5383737": "2026-11-23",
+    "Q54020464": "2026-11-23"
+  },
+  "last_run": "2026-11-23",
+  "last_discovery": {
+    "wikidata_people": 1499,
+    "wikidata_works": 235,
+    "performers_searched": 120,
+    "total_tmdb_candidates": 1784
+  }
+}
