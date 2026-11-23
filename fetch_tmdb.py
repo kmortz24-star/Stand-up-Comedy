@@ -100,6 +100,7 @@ def movie_record(api: TMDB, movie_id: int) -> dict:
         "release_date": movie.get("release_date", ""),
         "poster_path": movie.get("poster_path"),
         "popularity": movie.get("popularity", 0),
+        "original_language": movie.get("original_language", ""),
         "vote_average": movie.get("vote_average", 0),
         "vote_count": movie.get("vote_count", 0),
         "tags": [],

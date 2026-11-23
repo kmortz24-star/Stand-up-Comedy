@@ -114,6 +114,80 @@ def take_distinct_performers(records: list[dict], limit: int, salt: str, today: 
     return chosen
 
 
+ROULETTE_TIERS = ("well_known", "b_tier", "classic_older", "discovery")
+
+
+def weekly_roulette(records: list[dict], config: dict, today: date) -> tuple[list[dict], dict]:
+    """Pick a balanced 15/15/15/15 weekly mix, then shuffle without tier blocks.
+
+    The first three tier pools are intentionally curated by comedian, not by
+    special release year. Discovery pulls from other well-rated performers.
+    Missing TMDB performers are reported instead of inventing unavailable titles.
+    """
+    pools = config.get("roulette_groups")
+    if not pools:
+        # Backward compatibility for older configurations and test fixtures.
+        selected = take_distinct_performers(records, config["weekly_roulette_count"], "roulette", today)
+        return selected, {}
+
+    group_size = int(config.get("roulette_group_size", 15))
+    requested = int(config.get("weekly_roulette_count", 4 * group_size))
+    if group_size < 1 or requested != 4 * group_size:
+        raise ValueError("weekly_roulette_count must equal four times roulette_group_size")
+
+    membership = {}
+    for tier in ROULETTE_TIERS:
+        for performer in pools.get(tier, []):
+            name = performer_sort_name(performer)
+            if name in membership and membership[name] != tier:
+                raise ValueError(f"Comedian {performer!r} appears in two Roulette tiers")
+            membership[name] = tier
+
+    by_tier = {tier: [] for tier in ROULETTE_TIERS}
+    available_by_tier = {tier: set() for tier in ROULETTE_TIERS}
+    for record in records:
+        name = performer_sort_name(record.get("performer", ""))
+        if not name:
+            continue
+        tier = membership.get(name)
+        if tier is None:
+            # New, unreviewed performers are eligible for discovery only when
+            # TMDB explicitly identifies the special as English-language.
+            # Older cached records without language metadata must be curated.
+            if record.get("original_language") != "en":
+                continue
+            tier = "discovery"
+        if tier == "discovery" and (
+            float(record.get("vote_average") or 0) < config.get("roulette_discovery_min_rating", 6.5)
+            or int(record.get("vote_count") or 0) < config.get("roulette_discovery_min_votes", 5)
+        ):
+            continue
+        by_tier[tier].append(record)
+        available_by_tier[tier].add(name)
+
+    chosen = []
+    details = {}
+    for tier in ROULETTE_TIERS:
+        picks = take_distinct_performers(by_tier[tier], group_size, f"roulette-{tier}", today)
+        chosen.extend(picks)
+        details[tier] = {
+            "target": group_size,
+            "selected": len(picks),
+            "available_comedians": len(available_by_tier[tier]),
+            "selected_comedians": [r["performer"] for r in picks],
+        }
+        if tier != "discovery":
+            details[tier]["not_yet_indexed"] = sorted(
+                name for name in pools.get(tier, [])
+                if performer_sort_name(name) not in available_by_tier[tier]
+            )
+
+    week = today.isocalendar()
+    seed = hashlib.sha256(f"{week.year}-W{week.week}-roulette-final-shuffle".encode()).digest()
+    random.Random(int.from_bytes(seed, "big")).shuffle(chosen)
+    return chosen, details
+
+
 def month_window_start(today: date, months: int) -> date:
     year = today.year
     month = today.month - months
@@ -166,7 +240,7 @@ def categories(records: list[dict], config: dict, today: date | None = None):
         and float(r.get("vote_average", 0)) >= config["hidden_gems_min_rating"]
         and int(r.get("vote_count", 0)) >= config["hidden_gems_min_votes"]
     ]
-    roulette = take_distinct_performers(accepted, config["weekly_roulette_count"], "roulette", today)
+    roulette, _ = weekly_roulette(accepted, config, today)
     hidden = take_distinct_performers(gems, config["weekly_hidden_gems_count"], "hidden", today)
 
     # Seeded rising performers include Kill Tony alumni and comics discovered
@@ -249,8 +323,20 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             write_json(catalog_path / name, {"metas": items})
         # Some clients explicitly ask for skip=0.
         write_json(catalog_path / identifier / "skip=0.json", {"metas": [meta_preview(r) for r in records_in_catalog[:PAGE_SIZE]]})
+        # Explicit end-of-catalog page: some clients continue requesting the
+        # next skip even after the last partial page. Return an empty list,
+        # not a GitHub Pages 404 (which can leave a spinner retrying).
+        terminal_skip = ((len(records_in_catalog) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
+        if terminal_skip:
+            write_json(catalog_path / identifier / f"skip={terminal_skip}.json", {"metas": []})
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if config.get("roulette_groups"):
+        # Every alphabet row already contains validated, eligible performers.
+        eligible = [record for identifier, _, items in groups
+                    if identifier.startswith("comedians-") for record in items]
+        _, breakdown = weekly_roulette(eligible, config, today or date.today())
+        report["roulette_mix"] = breakdown
     write_json(out_dir / "build_report.json", report)
     return report
 
