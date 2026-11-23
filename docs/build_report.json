@@ -1,17 +1,19 @@
 {
   "counts": {
-    "Comedy Roulette": 60,
     "New Specials": 322,
+    "Top 150 Rated": 150,
+    "150 Fan Favorites": 150,
+    "Comedy Roulette": 60,
     "Hidden Gems": 30,
     "Comedy Legends": 24,
     "Viral & Rising Comedians": 4,
+    "Roasts & Comedy Events": 5,
     "Comedians ABCD": 331,
     "EFGH": 143,
     "IJKL": 322,
     "MNOP": 244,
     "QRST": 265,
-    "UVWXYZ": 56,
-    "Roasts & Comedy Events": 5
+    "UVWXYZ": 56
   },
   "total_unique_records": 1562,
   "needs_review": [
@@ -2577,6 +2579,13 @@
       "last_checked": "2026-11-21"
     }
   ],
+  "rankings": {
+    "source": "TMDB audience vote_average + vote_count",
+    "top_150_rated": "TMDB user average rating, minimum 20 votes",
+    "fan_favorites": "(TMDB average rating - 5) x sqrt(TMDb vote count): audience consensus/popularity proxy, NOT a dedicated funniest poll",
+    "overlap_allowed": true,
+    "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed"
+  },
   "roulette_mix": {
     "well_known": {
       "target": 15,
