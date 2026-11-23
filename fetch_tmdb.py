@@ -18,12 +18,15 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-from build_catalogs import ROOT, read_json, write_json
+from build_catalogs import ROOT, norm, read_json, write_json
+from discovery_sources import refresh_wikidata
 
 
 API_BASE = "https://api.themoviedb.org/3"
 DATA_PATH = ROOT / "data" / "specials.json"
 USER_ADDITIONS = ROOT / "data" / "manual_additions.json"
+STATE_PATH = ROOT / "data" / "discovery_state.json"
+CONFIG_PATH = ROOT / "config.json"
 
 
 class TMDB:
@@ -63,13 +66,113 @@ class TMDB:
         raise RuntimeError("Unreachable API retry path")
 
 
-def lookup_keyword(api: TMDB) -> int:
-    found = api.get("/search/keyword", query="stand-up comedy", page=1).get("results", [])
-    for result in found:
-        if result.get("name", "").lower().replace(" ", "-") in ("stand-up-comedy", "standup-comedy"):
-            return int(result["id"])
-    raise RuntimeError("TMDB has no recognizable stand-up comedy keyword; stop instead of loading generic comedies.")
+# These are TMDB *metadata labels*, not a manually maintained comedian list.
+KEYWORD_ALIASES = {"standupcomedy", "standupspecial", "comedyspecial"}
+TITLE_QUERIES = ("stand-up comedy", "stand up comedy", "comedy special", "roast of", "roast battle")
 
+
+def normalized_label(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", value.casefold())
+
+
+def keyword_strengths(api: TMDB) -> dict[int, bool]:
+    """Map discovered TMDB keyword IDs to whether the tag is stand-up-specific."""
+    ids = {}
+    for query in ("stand-up comedy", "stand-up special", "comedy special"):
+        for row in api.get("/search/keyword", query=query, page=1).get("results", []):
+            label = normalized_label(row.get("name", ""))
+            if label in KEYWORD_ALIASES:
+                ids[int(row["id"])] = ids.get(int(row["id"]), False) or label != "comedyspecial"
+    if not ids:
+        raise RuntimeError("No recognizable stand-up keywords; refusing generic comedy discovery")
+    return ids
+
+
+def lookup_keywords(api: TMDB) -> set[int]:
+    """Compatibility helper: exact stand-up-related TMDB keyword IDs."""
+    return set(keyword_strengths(api))
+
+
+def name_prefix(title: str, name: str) -> bool:
+    """A strong title match such as 'Mitch Fatel Is Magical' or 'Dave: Live'."""
+    if not name or len(name) < 4:
+        return False
+    return bool(re.match(r"^" + re.escape(name) + r"(?=$|\s*[:–—-]\s*|['’]s\b|\s+(?:is|live|stand.?up|special|at|in|on)\b)",
+                         title, flags=re.IGNORECASE))
+
+
+def titled_special(result: dict, performer: str | None = None) -> bool:
+    title = str(result.get("title") or result.get("original_title") or "")
+    overview = str(result.get("overview") or "")
+    if performer and name_prefix(title, performer):
+        # Require either distinctive special wording or a description explicitly
+        # describing stand-up, so a biopic isn't accepted just by a name match.
+        return bool(re.search(r"(?i)stand.?up|comedy special|live (?:at|in|from)|one.man.show|comic|comedian", title + " " + overview))
+    return bool(re.search(r"(?i)\bstand[ -]?up\b|\bcomedy special\b|\broast (?:battle|of)\b", title)
+                and re.search(r"(?i)stand.?up|comedian|comedians|live performance|roast|comedy special", overview))
+
+
+def search_performer_ids(api: TMDB, performer: str) -> set[int]:
+    ids = set()
+    # A person's name is searched in the actual TMDB title index. This catches
+    # credits without a stand-up keyword, with conservative title/overview checks.
+    for query in (performer, f"{performer} stand-up"):
+        first = api.get("/search/movie", query=query, page=1, include_adult="false")
+        pages = min(2, int(first.get("total_pages", 1)))
+        for page in range(1, pages + 1):
+            rows = first if page == 1 else api.get("/search/movie", query=query, page=page, include_adult="false")
+            ids.update(int(row["id"]) for row in rows.get("results", []) if titled_special(row, performer))
+    return ids
+
+
+def discovery_names(config: dict, state: dict, cache: dict) -> tuple[list[str], set[str]]:
+    curated = set(config.get("legends_comedians", [])) | set(config.get("viral_rising_comedians", []))
+    for values in config.get("roulette_groups", {}).values():
+        curated.update(values)
+    # Adds people known from existing TMDB metadata and the full Wikidata roster.
+    all_names = curated | {r["name"] for r in state.get("roster", []) if r.get("name")}
+    all_names |= {r["performer"] for r in cache.values() if r.get("performer")}
+    # De-duplicate punctuation/case variants.
+    unique = {}
+    for name in sorted(all_names, key=lambda v: (len(v), v.casefold())):
+        if 3 <= len(name) <= 80:
+            unique.setdefault(norm(name), name)
+    return list(unique.values()), {norm(x) for x in curated}
+
+
+def scheduled_names(names: list[str], curated: set[str], state: dict, cache: dict,
+                    *, today: date, max_searches: int) -> list[str]:
+    checked = state.setdefault("searched_performers", {})
+    known = {norm(r["performer"]) for r in cache.values() if r.get("performer")}
+    def score(name: str):
+        previous = checked.get(norm(name), "")
+        # Previously unknown curated names get priority, then the entire Wikidata
+        # roster rotates by oldest check (not just the few named examples).
+        priority = 0 if norm(name) in curated and norm(name) not in known else 1
+        return previous, priority, norm(name)
+    # Only repeat a person's search after 45 days, unless there's no record.
+    cutoff = (today - timedelta(days=45)).isoformat()
+    due = [name for name in names if checked.get(norm(name), "") <= cutoff]
+    return sorted(due, key=score)[:max_searches]
+
+
+def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
+                      today: date, max_checks: int = 120) -> set[int]:
+    result = set()
+    checked = state.setdefault("checked_works", {})
+    deadline = (today - timedelta(days=90)).isoformat()
+    works = [r for r in state.get("works", []) if checked.get(r["qid"], "") <= deadline]
+    works.sort(key=lambda row: (checked.get(row["qid"], ""), row["qid"]))
+    for row in works[:max_checks]:
+        qid = row["qid"]
+        movie_id = int(row["tmdb"]) if row.get("tmdb", "").isdigit() else None
+        if movie_id is not None:
+            result.add(movie_id)
+        elif row.get("imdb"):
+            movies = api.get(f"/find/{row['imdb']}", external_source="imdb_id").get("movie_results", [])
+            result.update(int(item["id"]) for item in movies)
+        checked[qid] = today.isoformat()
+    return result - known_ids
 
 def likely_performer(title: str, cast: list[dict]) -> str | None:
     """Prefer explicit 'Comedian: Special' title; otherwise credited self performer."""
@@ -109,23 +212,53 @@ def movie_record(api: TMDB, movie_id: int) -> dict:
     return record
 
 
-def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days: int) -> dict:
-    keyword = lookup_keyword(api)
+def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days: int,
+              *, config: dict, state: dict, max_performer_searches: int = 120) -> dict:
+    today = date.today()
+    state = refresh_wikidata(state, today=today)
+    keyword_kinds = keyword_strengths(api)
     ids = set()
     for year in range(from_year, to_year + 1):
-        first = api.get("/discover/movie", with_keywords=keyword, primary_release_year=year,
-                        sort_by="primary_release_date.asc", page=1, include_adult="false")
-        pages = min(int(first.get("total_pages", 1)), 500)
-        for result in first.get("results", []):
-            ids.add(int(result["id"]))
-        for page in range(2, pages + 1):
-            response = api.get("/discover/movie", with_keywords=keyword, primary_release_year=year,
-                               sort_by="primary_release_date.asc", page=page, include_adult="false")
-            for result in response.get("results", []):
-                ids.add(int(result["id"]))
-        print(f"{year}: {len(first.get('results', []))} first-page items, {pages} pages", flush=True)
+        for keyword in sorted(keyword_kinds):
+            first = api.get("/discover/movie", with_keywords=keyword, primary_release_year=year,
+                            sort_by="primary_release_date.asc", page=1, include_adult="false")
+            pages = min(int(first.get("total_pages", 1)), 500)
+            ids.update(int(r["id"]) for r in first.get("results", [])
+                       if keyword_kinds[keyword] or titled_special(r))
+            for page in range(2, pages + 1):
+                response = api.get("/discover/movie", with_keywords=keyword, primary_release_year=year,
+                                   sort_by="primary_release_date.asc", page=page, include_adult="false")
+                ids.update(int(r["id"]) for r in response.get("results", [])
+                           if keyword_kinds[keyword] or titled_special(r))
+    print(f"TMDB multi-keyword candidates: {len(ids)}", flush=True)
 
-    # Cache existing records; new TMDB entries are enriched with cast and IMDb IDs.
+    # Search title text independently, but only accept strong title/description matches.
+    for query in TITLE_QUERIES:
+        first = api.get("/search/movie", query=query, page=1, include_adult="false")
+        pages = min(5, int(first.get("total_pages", 1)))
+        for page in range(1, pages + 1):
+            rows = first if page == 1 else api.get("/search/movie", query=query, page=page, include_adult="false")
+            ids.update(int(r["id"]) for r in rows.get("results", []) if titled_special(r))
+
+    names, curated = discovery_names(config, state, cache)
+    due = scheduled_names(names, curated, state, cache, today=today,
+                          max_searches=max_performer_searches)
+    performer_hints = {}
+    for index, name in enumerate(due, 1):
+        for movie_id in search_performer_ids(api, name):
+            ids.add(movie_id)
+            performer_hints.setdefault(movie_id, name)
+        state["searched_performers"][norm(name)] = today.isoformat()
+        if index % 30 == 0:
+            print(f"Searched {index}/{len(due)} individual comedians across the rotating roster", flush=True)
+
+    # Independently cataloged Wikidata works with TMDB/IMDb identifiers.
+    ids.update(discover_work_ids(api, state, ids, today=today))
+    state["last_run"] = today.isoformat()
+    state["last_discovery"] = {"wikidata_people": len(state.get("roster", [])),
+                               "wikidata_works": len(state.get("works", [])),
+                               "performers_searched": len(due), "total_tmdb_candidates": len(ids)}
+    # Preserve existing entries and their tags; refresh metadata periodically.
     old_by_tmdb = {int(r["tmdb_id"]): r for r in cache.values() if r.get("tmdb_id") is not None}
     refreshed = 0
     for index, movie_id in enumerate(sorted(ids)):
@@ -135,36 +268,53 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
                 last_checked = date.fromisoformat(previous.get("last_checked", ""))
             except ValueError:
                 last_checked = date(1900, 1, 1)
-            # Titles with uncertain performer metadata get retried more often.
             interval = 7 if not previous.get("performer") else refresh_days
-            if date.today() - last_checked < timedelta(days=interval):
+            if today - last_checked < timedelta(days=interval):
+                # Backfill previously unidentified performer only if its title
+                # strongly proves the name; no guessing from a random cast member.
+                hint = performer_hints.get(movie_id)
+                if hint and not previous.get("performer") and name_prefix(previous.get("title", ""), hint):
+                    previous["performer"] = hint
                 continue
-        record = movie_record(api, movie_id)
+        try:
+            record = movie_record(api, movie_id)
+        except HTTPError as exc:
+            if exc.code == 404:
+                print(f"Skipping missing TMDB movie {movie_id}", flush=True)
+                continue
+            raise
+        hint = performer_hints.get(movie_id)
+        if not record.get("performer") and hint and name_prefix(record["title"], hint):
+            record["performer"] = hint
         if previous:
             cache.pop(previous["id"], None)
             record = {**previous, **record}
         cache[record["id"]] = record
         refreshed += 1
-        if refreshed % 25 == 0:
-            print(f"Checked metadata: {refreshed} titles ({index + 1}/{len(ids)} candidates)", flush=True)
-    print(f"TMDB candidates: {len(ids)}; metadata fetched: {refreshed}; cached unique records: {len(cache)}", flush=True)
+        if refreshed % 40 == 0:
+            print(f"Refreshed {refreshed} movie records ({index + 1}/{len(ids)} candidates)", flush=True)
+    print(f"TMDB candidates: {len(ids)}; fetched: {refreshed}; unique: {len(cache)}", flush=True)
     return cache
-
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--from-year", type=int, default=1960)
     parser.add_argument("--to-year", type=int, default=date.today().year)
     parser.add_argument("--refresh-days", type=int, default=30)
+    parser.add_argument("--max-comedians", type=int, default=120)
     args = parser.parse_args()
-    if args.from_year > args.to_year or args.refresh_days < 1:
+    if args.from_year > args.to_year or args.refresh_days < 1 or args.max_comedians < 0:
         raise SystemExit("Invalid year range")
     existing = {r["id"]: r for r in read_json(DATA_PATH, []) if r.get("id")}
-    fresh = fetch_all(TMDB(), args.from_year, args.to_year, existing, args.refresh_days)
+    state = read_json(STATE_PATH, {})
+    config = read_json(CONFIG_PATH, {})
+    fresh = fetch_all(TMDB(), args.from_year, args.to_year, existing, args.refresh_days,
+                      config=config, state=state, max_performer_searches=args.max_comedians)
     for item in read_json(USER_ADDITIONS, []):
         if item.get("id"):
             fresh[item["id"]] = {**fresh.get(item["id"], {}), **item}
-    write_json(DATA_PATH, list(fresh.values()))
+    write_json(DATA_PATH, sorted(fresh.values(), key=lambda r: (str(r.get("tmdb_id") or ""), r["id"])))
+    write_json(STATE_PATH, state)
 
 
 if __name__ == "__main__":

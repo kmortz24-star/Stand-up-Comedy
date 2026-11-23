@@ -80,6 +80,44 @@ def unique_records(records: list[dict]) -> list[dict]:
     return list(by_id.values())
 
 
+def dedupe_same_special(records: list[dict]) -> list[dict]:
+    """Remove two TMDB records for the exact same performer/title/year.
+
+    Prefer a catalog-compatible IMDb id and the more widely rated record; do
+    not merge separate specials merely because their release dates match.
+    """
+    by_work = {}
+    for record in unique_records(records):
+        title = norm(record.get("title", ""))
+        performer = norm(record.get("performer", ""))
+        year = str(record.get("release_date", ""))[:4]
+        if not (title and performer and year):
+            by_work[("id", record["id"])] = record
+            continue
+        key = (performer, title, year)
+        previous = by_work.get(key)
+        def rank(item):
+            return (str(item["id"]).startswith("tt"), int(item.get("vote_count") or 0),
+                    bool(item.get("poster_path") or item.get("poster")))
+        if previous is None or rank(record) > rank(previous):
+            by_work[key] = record
+    return list(by_work.values())
+
+
+def too_poorly_rated(record: dict, config: dict) -> bool:
+    """Only exclude clearly unpopular entries with a meaningful vote sample.
+
+    Unrated works and classics with just one or two votes stay visible.
+    """
+    votes = int(record.get("vote_count") or 0)
+    rating = float(record.get("vote_average") or 0)
+    if not votes or not rating:
+        return False
+    return ((votes >= int(config.get("alphabet_quality_min_votes", 15)) and
+             rating < float(config.get("alphabet_min_rating", 4.0))) or
+            (votes >= 5 and rating < 2.5))
+
+
 def display_title(record: dict) -> str:
     return str(record.get("title", "")).strip() or "Untitled Special"
 
@@ -254,6 +292,32 @@ def month_window_start(today: date, months: int) -> date:
     return date(year, month, day)
 
 
+def recognizable_performer(title: str, config: dict) -> str | None:
+    """Repair obvious missing credits using validated roster names and titles.
+
+    In particular, 'Comedy Central Presents: Dave Attell' is a Dave Attell
+    special, not a special by a performer named 'Comedy Central Presents'.
+    No fuzzy matching is used, so unrelated titles cannot acquire a comedian.
+    """
+    names = set(config.get("legends_comedians", [])) | set(config.get("viral_rising_comedians", []))
+    for roster in config.get("roulette_groups", {}).values():
+        names.update(roster)
+    match = re.match(r"(?i)^(?:comedy central|hbo|netflix) presents:\s*(.+)$", title)
+    if match:
+        suffix = norm(match.group(1).strip())
+        for name in sorted(names, key=len, reverse=True):
+            if suffix == norm(name):
+                return name
+    return None
+
+
+def is_event_record(record: dict, config: dict) -> bool:
+    title = display_title(record).casefold()
+    terms = tuple(config.get("roast_title_terms", []))
+    return bool(set(record.get("tags") or []) & {"roast", "event"} or
+                any(term.casefold() in title for term in terms))
+
+
 def categories(records: list[dict], config: dict, today: date | None = None):
     today = today or date.today()
     groups = config["alphabet_groups"]
@@ -263,13 +327,19 @@ def categories(records: list[dict], config: dict, today: date | None = None):
     tag_overrides = config.get("tag_overrides", {})
     accepted, unassigned = [], []
 
-    for source in unique_records(records):
+    for source in dedupe_same_special(records):
         record = dict(source)
-        if record["id"] in excluded or release_date(record) > today:
+        if record["id"] in excluded or release_date(record) > today or too_poorly_rated(record, config):
             continue
         if record["id"] in overrides:
             record["performer"] = overrides[record["id"]]
         record["tags"] = sorted(set(record.get("tags") or []) | set(tag_overrides.get(record["id"], [])))
+        if not record.get("performer"):
+            record["performer"] = recognizable_performer(display_title(record), config)
+        # Roasts and group comedy events have their own catalog; they shouldn't
+        # be mistaken for a specific performer's solo stand-up special.
+        if is_event_record(record, config):
+            continue
         if not record.get("performer") or bucket_for(record["performer"], groups) is None:
             unassigned.append(record)
         else:
@@ -306,15 +376,10 @@ def categories(records: list[dict], config: dict, today: date | None = None):
     viral = take_distinct_performers(
         viral_candidates, config.get("weekly_viral_rising_count", 30), "viral-rising", today
     )
-    roast_terms = tuple(config.get("roast_title_terms", []))
     roasts = [
-        r for r in unique_records(records)
+        r for r in dedupe_same_special(records)
         if r.get("id") not in excluded and release_date(r) <= today
-        and (
-            "roast" in (r.get("tags") or [])
-            or "event" in (r.get("tags") or [])
-            or any(term in display_title(r).casefold() for term in roast_terms)
-        )
+        and is_event_record(r, config)
     ]
     roasts.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
 

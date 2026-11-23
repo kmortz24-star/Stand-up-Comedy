@@ -1,70 +1,87 @@
-# Stand-Up Comedy — Nuvio / BingeCat catalog prototype
+# Stand-Up Comedy — Nuvio catalog
 
-An automatically refreshed catalog of stand-up comedy specials, with the section layout Kevin chose. This is a **catalog only**, not a streaming source: it does **not** replace Comet, Meteor, TorBox, or anyone's playback settings.
+A GitHub Pages-hosted, Stremio-compatible **metadata catalog** for Nuvio. It does **not** provide streams, replace Meteor/Comet, or change the Nuvio collection order.
 
-## The sections
+## Current rows (14)
 
-1. **Comedy Roulette** — 35 weekly rotating picks; at most one per comedian
-2. **New Specials** — last 18 months, newest first
-3. **Hidden Gems** — 30 weekly rotating lower-popularity, well-rated specials
-4. **Comedy Legends** — initially Carlin, Pryor, Dice, Murphy, Kinison, and the earlier stand-up generation
-5. **Viral & Rising Comedians** — weekly rotating picks from a curated roster of Kill Tony standouts and comics who broke through online
-6. **Comedians ABCD**
-7. **EFGH**
-8. **IJKL**
-9. **MNOP**
-10. **QRST**
-11. **UVWXYZ**
-12. **Roasts & Comedy Events**
+1. New Specials
+2. Top Rated — up to 150 TMDB-rated specials
+3. Fan Favorites — up to 150 audience favorites; overlap with Top Rated is allowed
+4. Comedy Roulette — 60 weekly picks, targeting 15 different comedians per tier (well known / B-tier / classic / discovery)
+5. Hidden Gems — 30 weekly picks
+6. Comedy Legends
+7. Viral & Rising Comedians
+8. Roasts & Comedy Events
+9–14. Six alphabetical rows, with names sorted by **first / stage name** and specials from **oldest to newest**
 
-The alphabet uses a comic's **first/stage name**. Inside each alphabet section, each comedian's specials appear **oldest to newest**. Legends is a manually chosen generation of comics, but each selected comic's new specials appear there automatically when indexed. The Original Kings of Comedy and Blue Collar Comedy Tour are not in Legends by default; their group specials can appear under Comedy Events. After the first real data import, inspect `docs/build_report.json` to rebalance `alphabet_groups` in `config.json` if one section is much larger than another. IDs are stable, so changing the letter boundaries won't break the catalogs.
+The six alphabet IDs stay stable when we rebalance letter groups later. **No Nuvio JSON import is needed** for updates to these GitHub-hosted catalogs.
 
-## What updates by itself?
+## How automatic discovery works (new)
 
-The GitHub Actions task checks TMDB daily for newly indexed stand-up titles, updates existing records periodically, chooses weekly Roulette/Hidden Gems, builds 12 catalog endpoints, and publishes them to GitHub Pages.
+`fetch_tmdb.py` now discovers leads from several independent paths:
 
-It isn't a magic complete census: some YouTube specials aren't on TMDB; others have missing performer credits or are not tagged stand-up. Such titles may need manual corrections in `config.json` or entries in `data/manual_additions.json` (using real IDs). The review list is in `docs/build_report.json`. The Viral & Rising Comedians roster refreshes its choices weekly from available TMDB records; it does **not yet** search social media or enforce a YouTube video's 10+ minute length.
+- Multiple TMDB stand-up-specific **keywords** rather than a single tag.
+- TMDB **title search** for stand-up, specials, and roasts, with cautious title/description matching.
+- A rotating **Wikidata stand-up comedian roster**, obtained by *occupation*, not by a fixed list of names. Up to 120 comedians are searched by name per daily run, and each is retried after 45 days. The rotating roster also includes existing/curated performers as a fallback.
+- **Wikidata stand-up genre titles**, matched to TMDB using their published TMDB movie IDs or IMDb identifiers via TMDB's `/find/{id}` endpoint. This is cross-referencing, not unauthorized IMDb site scraping.
 
-YouTube-only playback through **YouStream** and the 10+ minute official-set discovery/filtering are a **separate next phase**; nothing in this package installs YouTube or its API key.
+Wikidata sources are cached in `data/discovery_state.json`. The script refreshes the roster/works at most weekly and keeps the previous cached results when Wikidata is unavailable. Existing `data/specials.json` titles are never discarded just because a third-party service is down.
 
-## First-time setup
+This will not find *every* special in every catalog, and some sources may lack person credits. Each daily run expands or refreshes the searchable data over time. New matches need the configured TMDB token for the GitHub Actions run; the ZIP alone cannot perform a live refresh without that secret.
 
-1. Make a [TMDB account](https://www.themoviedb.org/signup) and request its free, noncommercial API access under **Account Settings → API**. Obtain the **API Read Access Token**. **Do not post the token publicly or in chat.**
-2. Create a new **public** GitHub repository, e.g. `Standup-Comedy`. Upload the **contents of this folder to the repository root**, preserving `.github/workflows/refresh.yml`. (You can use GitHub Desktop or Git locally to preserve the hidden `.github` folder.)
-3. In that repository open **Settings → Secrets and variables → Actions → New repository secret**. Name it `TMDB_READ_ACCESS_TOKEN` and paste your token as the value.
-4. Open **Settings → Pages** and under **Build and deployment → Source** choose **GitHub Actions**.
-5. Open **Actions → Refresh Stand-Up Comedy Catalogs → Run workflow**. The first run downloads TMDB entries, generates the catalogs, and publishes the site. The initial discovery may take several minutes.
-6. After the workflow finishes, visit `https://kmortz24-star.github.io/Standup-Comedy/manifest.json` (adjust if you used a different repo name). Use that **manifest URL** to install the catalog as a Stremio-compatible addon in Nuvio/BingeCat, where supported. Check that Nuvio displays all 12 rows.
+## Clean-up safeguards
 
-If an account already has the addon installed, a later refresh updates its lists at the same address. Playback still comes from the account's own installed stream providers.
+`build_catalogs.py` now:
 
-**Important:** the entire published catalog is public. Keep passwords, API tokens and TorBox information *out* of data files. The secret belongs only in GitHub Actions settings.
+- Removes exact same-performer/title/year duplicates, preferring IMDb-compatible IDs and stronger ratings metadata.
+- Keeps unrated titles and older classics with very small vote samples. Entries with reliable, very poor ratings are excluded from the published alphabeticals.
+- Repairs explicit performer labels such as `Comedy Central Presents: Dave Attell`, where that performer is known.
+- Places roasts/group events in their dedicated row, not automatically into a comedian's solo alphabetical list.
+- Preserves the 60-item weekly Roulette layout, 150 Top Rated and 150 Fan Favorites rows and stable alphabet/catalog IDs.
 
-## How to rebalance sections or add specials
+The underlying TMDB data remains available in `data/specials.json` for reconsideration; low ratings do not permanently delete it.
 
-- `config.json`: `alphabet_groups` labels and boundaries, curated Viral & Rising roster, hidden gem thresholds, omitted IDs, and performer/tag corrections.
-- `data/manual_additions.json`: extra records, or corrected versions of TMDB records. Use an actual IMDb ID (for example `tt...`) when available for easier matching to metadata/playback. Records require `id`, `title`, `performer`, and `release_date` (`YYYY-MM-DD`).
-- `data/specials.json`: automatically managed discovered records. Don't edit it directly; add corrections to `manual_additions.json`.
-- `docs/build_report.json`: counts per row and specials with uncertain comedian names.
+## YouTube: candidate discovery, not playback (new)
 
-By default, the first alphabet section is called `Comedians {letters}`; the other alphabet headers are just their letter ranges. The six catalog IDs stay unchanged when the ranges change.
+`fetch_youtube.py` optionally uses `YOUTUBE_API_KEY` in GitHub Actions to find promising public **full specials and sets at least 10 minutes long**. It searches broad comedy-related phrases plus a rotating set of comedian names, uses `videos.list` to check the actual length, and removes obvious trailers, podcasts, reactions and interviews. A publisher/channel clue is recorded but cannot prove an upload is official.
 
-## Run or test locally
+Candidates go into **`data/youtube_candidates.json` only**. YouTube IDs are **not yet added to the installed Nuvio catalogs**: their playback needs to be tested with an appropriate stream provider first. This avoids a folder full of unplayable entries. If the API key is absent, the YouTube stage simply skips, and TMDB catalogs continue to publish. Do **not** store the key in this repository or in any JSON; add it to GitHub's **Settings → Secrets and variables → Actions** with the name `YOUTUBE_API_KEY`.
 
-Python 3.10+ is enough; no third-party packages are needed.
+## GitHub Actions and publishing
 
-```bash
+`.github/workflows/refresh.yml` runs each day and can also be triggered manually:
+
+1. Offline tests (no key required).
+2. Multi-source TMDB / Wikidata discovery (requires existing `TMDB_READ_ACCESS_TOKEN` Actions secret).
+3. Optional YouTube candidate collection (`YOUTUBE_API_KEY` Actions secret).
+4. Generate and publish the static catalog in `docs/` to GitHub Pages.
+
+The already installed addon address stays the same: `https://kmortz24-star.github.io/Stand-up-Comedy/manifest.json`.
+
+If creating the repo from scratch: make a public GitHub repository, preserve the `.github/workflows` directory, configure both Actions secrets (TMDB required, YouTube optional), and select **GitHub Actions** as the Pages publishing source.
+
+## Files
+
+- `config.json`: category settings, exclusion/tag/performer overrides, alphabetical boundaries, Roulette tiers, rating floors.
+- `fetch_tmdb.py`: TMDB metadata fetcher and rolling search scheduler.
+- `discovery_sources.py`: independently retrieved Wikidata people/works.
+- `fetch_youtube.py`: optional YouTube **candidate-only** retrieval.
+- `data/specials.json`: existing indexed TMDB/IMDb records (updated by Action).
+- `data/manual_additions.json`: hand corrections and extra entries. **Never place API keys here.**
+- `data/discovery_state.json`: generated, scheduled discovery cache; created at first run.
+- `data/youtube_candidates.json`: generated YouTube review leads; not in Nuvio catalogs.
+- `docs/build_report.json`: catalog sizes and unidentified performers for review.
+- `docs/`: generated manifest and paginated catalogs.
+
+Python 3.10+ with no third-party packages:
+
+```sh
 python3 -m unittest discover -s tests -v
-TMDB_READ_ACCESS_TOKEN=your_private_token python3 fetch_tmdb.py
+TMDB_READ_ACCESS_TOKEN=YOUR_TOKEN python3 fetch_tmdb.py
+YOUTUBE_API_KEY=YOUR_KEY python3 fetch_youtube.py  # optional
 python3 build_catalogs.py
 ```
 
-The local token example is only an illustration. On GitHub, use the repository secret and let the workflow pass it in. `docs/manifest.json` and `docs/catalog/movie/...` are the generated Stremio-compatible output.
-
 ## Attribution
 
-This product uses the TMDB API but is not endorsed or certified by TMDB.
-
-TMDB: <https://www.themoviedb.org>. Published catalog metadata and artwork are sourced from TMDB. This project uses their API for noncommercial purposes; check TMDB's terms and attribution requirements before wider distribution.
-
-Built against the [Stremio addon protocol](https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/protocol.md). Streaming sources are independent.
+This product uses the TMDB API but is not endorsed or certified by TMDB. Movie metadata and poster art: [TMDB](https://www.themoviedb.org). Other discovery leads: [Wikidata](https://www.wikidata.org) (CC0). Video metadata: [YouTube Data API](https://developers.google.com/youtube/v3). A stream provider is a separate component from the metadata catalog. Verify applicable API terms before broader distribution.

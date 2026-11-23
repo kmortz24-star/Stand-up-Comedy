@@ -250,5 +250,7 @@
   "top_rated_min_votes": 20,
   "fan_favorites_min_votes": 10,
   "fan_favorites_min_rating": 6.5,
-  "rankings_english_only": true
+  "rankings_english_only": true,
+  "alphabet_quality_min_votes": 15,
+  "alphabet_min_rating": 4.0
 }
