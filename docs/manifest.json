@@ -1,6 +1,6 @@
 {
   "id": "com.kevin.standup.autocatalog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Stand-Up Comedy",
   "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
   "resources": [
@@ -25,7 +25,7 @@
     {
       "id": "top-150-rated",
       "type": "movie",
-      "name": "Top 150 Rated",
+      "name": "Top Rated",
       "pageSize": 50,
       "extra": [
         {
@@ -37,7 +37,7 @@
     {
       "id": "fan-favorites-150",
       "type": "movie",
-      "name": "150 Fan Favorites",
+      "name": "Fan Favorites",
       "pageSize": 50,
       "extra": [
         {
