@@ -1,19 +1,19 @@
 {
   "counts": {
-    "Comedy Roulette": 35,
-    "New Specials": 321,
+    "Comedy Roulette": 60,
+    "New Specials": 322,
     "Hidden Gems": 30,
     "Comedy Legends": 24,
     "Viral & Rising Comedians": 4,
     "Comedians ABCD": 331,
     "EFGH": 143,
     "IJKL": 322,
-    "MNOP": 243,
+    "MNOP": 244,
     "QRST": 265,
     "UVWXYZ": 56,
     "Roasts & Comedy Events": 5
   },
-  "total_unique_records": 1561,
+  "total_unique_records": 1562,
   "needs_review": [
     {
       "id": "tt0949330",
@@ -2576,5 +2576,123 @@
       "tags": [],
       "last_checked": "2026-11-21"
     }
-  ]
+  ],
+  "roulette_mix": {
+    "well_known": {
+      "target": 15,
+      "selected": 15,
+      "available_comedians": 32,
+      "selected_comedians": [
+        "Chris Rock",
+        "Chelsea Handler",
+        "Russell Peters",
+        "Jim Gaffigan",
+        "Bill Burr",
+        "Amy Schumer",
+        "John Mulaney",
+        "Jimmy Carr",
+        "Katt Williams",
+        "Gabriel Iglesias",
+        "Taylor Tomlinson",
+        "Jerry Seinfeld",
+        "Shane Gillis",
+        "Ali Wong",
+        "Ricky Gervais"
+      ],
+      "not_yet_indexed": []
+    },
+    "b_tier": {
+      "target": 15,
+      "selected": 15,
+      "available_comedians": 40,
+      "selected_comedians": [
+        "Nick Kroll",
+        "Judah Friedlander",
+        "Chad Daniels",
+        "Theo Von",
+        "Hasan Minhaj",
+        "Neal Brennan",
+        "Jessica Kirson",
+        "Ralph Barbosa",
+        "Hannibal Buress",
+        "Jimmy O. Yang",
+        "Dan Soder",
+        "Ronny Chieng",
+        "Fortune Feimster",
+        "Andrew Santino",
+        "Iliza Shlesinger"
+      ],
+      "not_yet_indexed": [
+        "Ari Shaffir",
+        "Bobby Lee",
+        "Joe DeRosa",
+        "Joe List",
+        "Josh Wolf",
+        "Kurt Metzger",
+        "Sam Tallent",
+        "Tom Papa"
+      ]
+    },
+    "classic_older": {
+      "target": 15,
+      "selected": 15,
+      "available_comedians": 36,
+      "selected_comedians": [
+        "Dom Irrera",
+        "Lee Mack",
+        "Lewis Black",
+        "Craig Ferguson",
+        "Richard Pryor",
+        "Paul Rodriguez",
+        "David Cross",
+        "Denis Leary",
+        "Norm Macdonald",
+        "Joe Rogan",
+        "Jim Norton",
+        "Eddie Izzard",
+        "Lisa Lampanelli",
+        "Jeff Dunham",
+        "George Carlin"
+      ],
+      "not_yet_indexed": [
+        "Andrew Dice Clay",
+        "Artie Lange",
+        "Bob Saget",
+        "Bobcat Goldthwait",
+        "Brian Regan",
+        "Dave Attell",
+        "Greg Giraldo",
+        "Jim Breuer",
+        "John Pinette",
+        "Mitch Fatel",
+        "Mitch Hedberg",
+        "Rich Vos",
+        "Robert Kelly",
+        "Robert Schimmel",
+        "Steven Wright"
+      ]
+    },
+    "discovery": {
+      "target": 15,
+      "selected": 15,
+      "available_comedians": 40,
+      "selected_comedians": [
+        "Ramy Youssef",
+        "Frankie Boyle",
+        "Zach Galifianakis",
+        "Chris D'Elia",
+        "Demi Adejuyigbe",
+        "Ed Gamble",
+        "Mo Gilligan",
+        "Vir Das",
+        "Billy Connolly",
+        "Kumail Nanjiani",
+        "Alex Edelman",
+        "Marcello Hernández",
+        "Natasha Leggero",
+        "Kevin Bridges",
+        "Michael McIntyre"
+      ]
+    }
+  }
 }

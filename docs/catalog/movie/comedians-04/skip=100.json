@@ -8,6 +8,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt49794576",
+      "type": "movie",
+      "name": "Mike Ward: Modest",
+      "poster": "https://image.tmdb.org/t/p/w500/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1295266",
       "type": "movie",
       "name": "Mikkel Klint Thorius: 100% Måske",
@@ -340,13 +347,6 @@
       "name": "Niels Hausgaard: Finer Han Kanten",
       "poster": "https://image.tmdb.org/t/p/w500/cf6tUdVBbDCAYAoApQvinU75ZB7.jpg",
       "releaseInfo": "2003"
-    },
-    {
-      "id": "tt0410306",
-      "type": "movie",
-      "name": "Niels Hausgaard: Med hudfarvet hud",
-      "poster": "https://image.tmdb.org/t/p/w500/58vfC8Ekst166N9SVnUAmVVPkyN.jpg",
-      "releaseInfo": "2004"
     }
   ]
 }

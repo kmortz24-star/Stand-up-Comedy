@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt39981243",
+      "type": "movie",
+      "name": "Shane Mauss: Trips: First Dose",
+      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1634149",
       "type": "movie",
       "name": "Cotonou Comedy Festival",
@@ -339,13 +346,6 @@
       "type": "movie",
       "name": "Flo & Joan: Sweet Release",
       "poster": "https://image.tmdb.org/t/p/w500/dzYnBeltN5KpyUki7PcMEtlYjRe.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38711471",
-      "type": "movie",
-      "name": "Aparna Nancherla: Hopeful Potato",
-      "poster": "https://image.tmdb.org/t/p/w500/smxXLZkK7tp6Q0a9jmcRLWuezKi.jpg",
       "releaseInfo": "2025"
     }
   ]
