@@ -4,6 +4,11 @@ on:
     - cron: "23 9 * * *"
   workflow_dispatch:
 
+# Prevent manual and scheduled refreshes from fighting over the same branch.
+concurrency:
+  group: stand-up-catalog-refresh
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
@@ -26,16 +31,37 @@ jobs:
         env:
           TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
         run: python3 fetch_tmdb.py
+      - name: Discover Comedy Central Presents and other stand-up TV episodes (review only)
+        env:
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: python3 fetch_tv_sets.py
+      - name: Find YouTube review candidates (optional)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 fetch_youtube.py
       - name: Generate Nuvio catalog pages
         run: python3 build_catalogs.py
       - name: Commit updated data and catalogs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/specials.json docs
+          git add data/specials.json data/discovery_state.json docs
+          if [ -f data/tv_episode_candidates.json ]; then
+            git add data/tv_episode_candidates.json
+          fi
+          if [ -f data/youtube_candidates.json ]; then
+            git add data/youtube_candidates.json
+          fi
           if ! git diff --cached --quiet; then
             git commit -m "Update stand-up catalogs"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                exit 0
+              fi
+              git pull --rebase origin main
+            done
+            echo "Could not push refreshed catalogs after 3 attempts" >&2
+            exit 1
           fi
       - name: Upload current catalogs for GitHub Pages
         uses: actions/upload-pages-artifact@v3
