@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt29865781",
+      "type": "movie",
+      "name": "Chris D'Elia: Grow or Die",
+      "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1660803",
       "type": "movie",
       "name": "Chris D'Elia: The 'B Side' Special",
@@ -55,6 +62,12 @@
       "name": "Chris Grace: As Scarlett Johansson",
       "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1285138",
+      "type": "movie",
+      "name": "Chris Martin: Above Ground Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/lcUBtHX3CwmkNUgmXZWlrbXtWMz.jpg"
     },
     {
       "id": "tmdb:1401447",
@@ -334,20 +347,6 @@
       "name": "Colin Jost & Michael Che Present: New York After Dark",
       "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1543968",
-      "type": "movie",
-      "name": "Count Arthur Strong: And It's Goodnight from Him!",
-      "poster": "https://image.tmdb.org/t/p/w500/5w4PcPNTLZawXDJiMByz9uKciND.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1395034",
-      "type": "movie",
-      "name": "Craig Ferguson: A Wee Bit o' Revolution",
-      "poster": "https://image.tmdb.org/t/p/w500/r3TbM1Hv41Z1Zc9SM39P78v2re.jpg",
-      "releaseInfo": "2009"
     }
   ]
 }

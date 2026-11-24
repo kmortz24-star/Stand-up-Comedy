@@ -139,6 +139,12 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "tt2493240",
+      "type": "movie",
+      "name": "Cash Levy: Crowd Control",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt0363503",
       "type": "movie",
       "name": "Catch A Rising Star: 10th Anniversary Special",
@@ -339,13 +345,6 @@
       "name": "Chris D'Elia: No Pain",
       "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt29865781",
-      "type": "movie",
-      "name": "Chris D'Elia: Grow or Die",
-      "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

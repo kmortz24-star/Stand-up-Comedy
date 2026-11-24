@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 351,
+    "New Specials": 352,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -9,13 +9,13 @@
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 61,
     "Comedians AB": 385,
-    "CDEFG": 451,
-    "HIJ": 362,
-    "KLM": 376,
-    "NOPQR": 345,
-    "STUVWXYZ": 347
+    "CDEFG": 458,
+    "HIJ": 374,
+    "KLM": 384,
+    "NOPQR": 347,
+    "STUVWXYZ": 349
   },
-  "total_unique_records": 2530,
+  "total_unique_records": 2561,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -2706,20 +2706,20 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 93,
+      "available_comedians": 94,
       "selected_comedians": [
         "Christopher Titus",
         "D.L. Hughley",
-        "Micky Flanagan",
+        "Michael McIntyre",
         "Hank Green",
-        "Mike Epps",
+        "Micky Flanagan",
+        "Ray Romano",
         "Romesh Ranganathan",
-        "Rory Scovel",
         "Billy Crystal",
-        "Margaret Cho",
-        "Paul Mooney",
-        "Zach Galifianakis",
         "Marcello Hernández",
+        "Paul F. Tompkins",
+        "Zach Galifianakis",
+        "Leslie Jones",
         "Demi Adejuyigbe",
         "Adele Givens",
         "Jeff Foxworthy"

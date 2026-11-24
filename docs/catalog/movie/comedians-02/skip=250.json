@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt2150006",
+      "type": "movie",
+      "name": "Doug Stanhope: Before Turning the Gun on Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/uGCIYLnI6ViZaCYlTkqQ7Y9AbC0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2833398",
+      "type": "movie",
+      "name": "Doug Stanhope: Beer Hall Putsch",
+      "poster": "https://image.tmdb.org/t/p/w500/anOxh3XYLBmeZyzaYheeSg4uUWi.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5841088",
+      "type": "movie",
+      "name": "Doug Stanhope: No Place Like Home",
+      "poster": "https://image.tmdb.org/t/p/w500/eAgCMsjh45Ln7IqLh8sjjbv7jh1.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt6678722",
+      "type": "movie",
+      "name": "Doug Stanhope: The Comedians' Comedian's Comedians",
+      "poster": "https://image.tmdb.org/t/p/w500/bGJG2kcpE0D3Zxwot5MauUfArdp.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tmdb:537132",
       "type": "movie",
       "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
@@ -316,34 +344,6 @@
       "name": "Eddie Pence: The (Un)special Comedy Special",
       "poster": "https://image.tmdb.org/t/p/w500/d2852w9VO2wCWzm3KDJmp4tWros.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt37499050",
-      "type": "movie",
-      "name": "Eddie Pepitone: The Collapse",
-      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt43467994",
-      "type": "movie",
-      "name": "Edy Modica: I'm Just Like You (And It Sucks)",
-      "poster": "https://image.tmdb.org/t/p/w500/jiYm7mtbcJKd7NyZnixc467r849.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0389960",
-      "type": "movie",
-      "name": "Elayne Boosler: Party of One",
-      "poster": "https://image.tmdb.org/t/p/w500/ekzsyRbJXBzyBymSO4QLaKvtS1b.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0462213",
-      "type": "movie",
-      "name": "Elayne Boosler: Broadway Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/tFJKiXFdjUZ85BzxBK7lIcDaKIL.jpg",
-      "releaseInfo": "1987"
     }
   ]
 }

@@ -1,6 +1,55 @@
 {
   "metas": [
     {
+      "id": "tt10222676",
+      "type": "movie",
+      "name": "Jeff Dunham: Talking Heads",
+      "poster": "https://image.tmdb.org/t/p/w500/canWC7bnPpazySwLRt1fc6KVUgk.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt10847194",
+      "type": "movie",
+      "name": "Jeff Dunham: Beside Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/vOEVIc3b5SVeHPSThos7YbYLCSc.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt13444348",
+      "type": "movie",
+      "name": "Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/4arRLeXYOpg3KFTllfYlbWqfwqs.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt23318056",
+      "type": "movie",
+      "name": "Jeff Dunham: Me the People",
+      "poster": "https://image.tmdb.org/t/p/w500/kEaVVOuwLudLPp5dA8teacReGlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt31013184",
+      "type": "movie",
+      "name": "Jeff Dunham: I'm with Cupid",
+      "poster": "https://image.tmdb.org/t/p/w500/orK8fCKLh2RBwmXzAojlPErehD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1302725",
+      "type": "movie",
+      "name": "Jeff Dunham - Election 2024 - Biden vs. Trump How Did We Get Here... Again",
+      "poster": "https://image.tmdb.org/t/p/w500/eVQNLZlB0JjrBA3PIadCu1Sy8HS.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33746385",
+      "type": "movie",
+      "name": "Jeff Dunham's Scrooged-Up Holiday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oE9faryVTtq78Qbr9izE3lGq1SA.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1734155",
       "type": "movie",
       "name": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
@@ -298,55 +347,6 @@
       "name": "Jethro: I Told It My Way",
       "poster": "https://image.tmdb.org/t/p/w500/gfptGn9JSkoI5eSraxTqRPbngWZ.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:376924",
-      "type": "movie",
-      "name": "Jethro Live: 40 Years The Joker",
-      "poster": "https://image.tmdb.org/t/p/w500/gjWPA3C4zwofgu6LpZsr2Gy2dmg.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt38129252",
-      "type": "movie",
-      "name": "Jiaoying Summers: What Specie Are You?",
-      "poster": "https://image.tmdb.org/t/p/w500/t1s7a4HhSZIjH0qLFD9M2gnyXL4.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1078120",
-      "type": "movie",
-      "name": "Jim Bowen: You Can't Tell These Anymore!",
-      "poster": "https://image.tmdb.org/t/p/w500/lPdW3Pv7QedLoikr7FIu5shN2l0.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt0318387",
-      "type": "movie",
-      "name": "Jim Breuer: Hardcore",
-      "poster": "https://image.tmdb.org/t/p/w500/4Ss8zHQACUk2r5KeeEyUf3dfAdW.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt1659208",
-      "type": "movie",
-      "name": "Jim Breuer: Let's Clear the Air",
-      "poster": "https://image.tmdb.org/t/p/w500/rDE5AfiF7SBgrtsGl04F7z7Jv7U.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt2663380",
-      "type": "movie",
-      "name": "Jim Breuer: And Laughter for All",
-      "poster": "https://image.tmdb.org/t/p/w500/15Fi5AVVENEgVvgZFrLxlRK8xTE.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4693878",
-      "type": "movie",
-      "name": "Jim Breuer: Comic Frenzy",
-      "poster": "https://image.tmdb.org/t/p/w500/cHwXrTOLWmFGDyq6LFbUwiWofbJ.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

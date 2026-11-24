@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt37499050",
+      "type": "movie",
+      "name": "Eddie Pepitone: The Collapse",
+      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt43467994",
+      "type": "movie",
+      "name": "Edy Modica: I'm Just Like You (And It Sucks)",
+      "poster": "https://image.tmdb.org/t/p/w500/jiYm7mtbcJKd7NyZnixc467r849.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0389960",
+      "type": "movie",
+      "name": "Elayne Boosler: Party of One",
+      "poster": "https://image.tmdb.org/t/p/w500/ekzsyRbJXBzyBymSO4QLaKvtS1b.jpg",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt0462213",
+      "type": "movie",
+      "name": "Elayne Boosler: Broadway Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/tFJKiXFdjUZ85BzxBK7lIcDaKIL.jpg",
+      "releaseInfo": "1987"
+    },
+    {
       "id": "tt8421854",
       "type": "movie",
       "name": "Elayne Boosler: Top Tomata",
@@ -321,34 +349,6 @@
       "name": "Flip Wilson... Of Course",
       "poster": "https://image.tmdb.org/t/p/w500/60jMOI4220uJul0JOmeIq7rs3yp.jpg",
       "releaseInfo": "1974"
-    },
-    {
-      "id": "tmdb:1599901",
-      "type": "movie",
-      "name": "Flo & Joan: Sweet Release",
-      "poster": "https://image.tmdb.org/t/p/w500/dzYnBeltN5KpyUki7PcMEtlYjRe.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt11853618",
-      "type": "movie",
-      "name": "Florence Foresti : Epilogue",
-      "poster": "https://image.tmdb.org/t/p/w500/nfXfGuDhmHy88AS9cAuTZ1uBwE7.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt31962790",
-      "type": "movie",
-      "name": "Florence Foresti : Boys Boys Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/vGzv7gRpxz1gC7zkx6MZ6InFJTw.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt3777282",
-      "type": "movie",
-      "name": "Fortune Feimster: The Half Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/q7XMOdNrS0PvsHJLEsvj0dVrqPW.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

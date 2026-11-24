@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt32014001",
+      "type": "movie",
+      "name": "My Next Guest with David Letterman and John Mulaney",
+      "poster": "https://image.tmdb.org/t/p/w500/6PXwk83W4BBQs0aSujZ2fqpoESK.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1256166",
+      "type": "movie",
+      "name": "David Lucas: Uncancellable",
+      "poster": "https://image.tmdb.org/t/p/w500/g2YIupgDDS9zMI0apio1VcDUBjl.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1717841",
+      "type": "movie",
+      "name": "David Minerba - Dopeman",
+      "poster": "https://image.tmdb.org/t/p/w500/lc1Ks5M4Z6A8lKixDEBiKtSgGP.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0233528",
+      "type": "movie",
+      "name": "David Spade: Take the Hit",
+      "poster": "https://image.tmdb.org/t/p/w500/bYfiNPOGLVseQQcZPQwbDQagdqH.jpg",
+      "releaseInfo": "1998"
+    },
+    {
       "id": "tt3740404",
       "type": "movie",
       "name": "David Spade: My Fake Problems",
@@ -316,34 +344,6 @@
       "name": "Doug Stanhope: Oslo - Burning the Bridge to Nowhere",
       "poster": "https://image.tmdb.org/t/p/w500/iTozlSb4eYv0XcwWVdBGZp5Yk9s.jpg",
       "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2150006",
-      "type": "movie",
-      "name": "Doug Stanhope: Before Turning the Gun on Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/uGCIYLnI6ViZaCYlTkqQ7Y9AbC0.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt2833398",
-      "type": "movie",
-      "name": "Doug Stanhope: Beer Hall Putsch",
-      "poster": "https://image.tmdb.org/t/p/w500/anOxh3XYLBmeZyzaYheeSg4uUWi.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt5841088",
-      "type": "movie",
-      "name": "Doug Stanhope: No Place Like Home",
-      "poster": "https://image.tmdb.org/t/p/w500/eAgCMsjh45Ln7IqLh8sjjbv7jh1.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt6678722",
-      "type": "movie",
-      "name": "Doug Stanhope: The Comedians' Comedian's Comedians",
-      "poster": "https://image.tmdb.org/t/p/w500/bGJG2kcpE0D3Zxwot5MauUfArdp.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

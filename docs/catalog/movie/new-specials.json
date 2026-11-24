@@ -71,6 +71,12 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1819665",
+      "type": "movie",
+      "name": "Grace Petrie: This Is No Time To Panic",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt46068179",
       "type": "movie",
       "name": "Mike Tyson: Return of the Mike",
@@ -340,13 +346,6 @@
       "type": "movie",
       "name": "Rhys Darby: 25 Years",
       "poster": "https://image.tmdb.org/t/p/w500/vZe5kcHSegOYt00dgFviMtFqMZ4.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43698006",
-      "type": "movie",
-      "name": "Kelsey Cook: Happy Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
       "releaseInfo": "2026"
     }
   ]

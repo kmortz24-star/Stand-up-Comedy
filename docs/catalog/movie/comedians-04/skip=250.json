@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt8260354",
+      "type": "movie",
+      "name": "Mathieu Madénian - One man show au Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/gdc7LRhKrrSNAodO5J59Wv1vLVP.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:1296848",
+      "type": "movie",
+      "name": "Matt Green: That Guy",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt28546549",
       "type": "movie",
       "name": "Matt McCusker: The Speed of Light",
@@ -334,20 +347,6 @@
       "name": "Michael Schøt: Kunstigt Intelligent",
       "poster": "https://image.tmdb.org/t/p/w500/pH2fN5TuxFyS1errgYcyHvQ3b1M.jpg",
       "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:401575",
-      "type": "movie",
-      "name": "Michael Schøt: YtringsPligt",
-      "poster": "https://image.tmdb.org/t/p/w500/8BEQcb9EbP6Nb51Fnf6OnChghNn.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:485830",
-      "type": "movie",
-      "name": "Michael Schøt: Ulykkeligt Vidende",
-      "poster": "https://image.tmdb.org/t/p/w500/nzO4puSPzA9LIGNrnqtpR146FFn.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

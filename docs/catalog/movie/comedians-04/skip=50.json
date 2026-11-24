@@ -257,6 +257,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tmdb:1192352",
+      "type": "movie",
+      "name": "Kurtis Conner: Keep Busy",
+      "poster": "https://image.tmdb.org/t/p/w500/bS5vgyUL3xyIEdPPJ2PKXFJzFPT.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt35712596",
       "type": "movie",
       "name": "Mandam",
@@ -339,13 +346,6 @@
       "name": "Lalo Elizarrarás: Nuevos éxitos solo para adultos",
       "poster": "https://image.tmdb.org/t/p/w500/8vNg3G7QK84n9F1aFPwXwDI6jv7.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt36355176",
-      "type": "movie",
-      "name": "Lara Beitz: Stoppable",
-      "poster": "https://image.tmdb.org/t/p/w500/t1VIC9rR4elAjIV215dlQ3szH6a.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

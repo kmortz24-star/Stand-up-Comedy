@@ -1,6 +1,11 @@
 {
   "metas": [
     {
+      "id": "tmdb:167061",
+      "type": "movie",
+      "name": "Nadav Abuksis"
+    },
+    {
       "id": "tmdb:802046",
       "type": "movie",
       "name": "Nanutria: El ciclo de la vida",
@@ -341,13 +346,6 @@
       "name": "Nikolaj Stokholm: Jeg er stadig Nikolaj Stokholm",
       "poster": "https://image.tmdb.org/t/p/w500/mTWRwoTxu9UcmM9zojlhXiKYjc8.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt15237684",
-      "type": "movie",
-      "name": "#patel2016",
-      "poster": "https://image.tmdb.org/t/p/w500/assUJYuVFCT6TZrSP632Tf6sZj8.jpg",
-      "releaseInfo": "2016"
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1061543",
+      "type": "movie",
+      "name": "Waly Dia : Ensemble ou rien",
+      "poster": "https://image.tmdb.org/t/p/w500/l8PUsV2sAmZ3QInaXUFtGra8sQe.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1597201",
+      "type": "movie",
+      "name": "Waly Dia - Une heure à tuer",
+      "poster": "https://image.tmdb.org/t/p/w500/6FyyIK8K0fWS7xBvq7PmefYHpGN.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt0391525",
       "type": "movie",
       "name": "Wanda Sykes: Tongue Untied",

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1224060",
+      "type": "movie",
+      "name": "Rayen Panday: Trigger",
+      "poster": "https://image.tmdb.org/t/p/w500/rRrc31kloNTtZX6CByD0QQ5WjUj.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1406849",
       "type": "movie",
       "name": "Rayen Panday: Focus",
@@ -341,13 +348,6 @@
       "name": "Robert Klein: Unfair & Unbalanced",
       "poster": "https://image.tmdb.org/t/p/w500/7dJWS6T9CleY0FYUiVy2TIpCP2o.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tt0253594",
-      "type": "movie",
-      "name": "Robert Schimmel: Unprotected",
-      "poster": "https://image.tmdb.org/t/p/w500/8Xk2XKecRk4DspQNC2uoia7xA7G.jpg",
-      "releaseInfo": "1999"
     }
   ]
 }

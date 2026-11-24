@@ -173,6 +173,13 @@
       "releaseInfo": "1978"
     },
     {
+      "id": "tt15727548",
+      "type": "movie",
+      "name": "Simon Bird: Debrief",
+      "poster": "https://image.tmdb.org/t/p/w500/yVUGKcksJ5Lcsb9oGz5A1N82hJz.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tt4385538",
       "type": "movie",
       "name": "Simon Evans - Live At The Theatre Royal",
@@ -263,6 +270,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt39368333",
+      "type": "movie",
+      "name": "Slava Komissarenko: Neat, Fresh and Clean",
+      "poster": "https://image.tmdb.org/t/p/w500/c844EvV3tlhGfboL598AiYRKK2a.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tt20723742",
       "type": "movie",
       "name": "Snoop Dogg's F*cn Around Comedy Special",
@@ -331,20 +345,6 @@
       "name": "Sommore: The Reign Continues",
       "poster": "https://image.tmdb.org/t/p/w500/dSQDcBiWDAOfEVPFhpZiYwatpXu.jpg",
       "releaseInfo": "2015"
-    },
-    {
-      "id": "tt8469818",
-      "type": "movie",
-      "name": "Sommore: A Queen With No Spades",
-      "poster": "https://image.tmdb.org/t/p/w500/kc2bGWlyMkANT1qbgBy7mGDJM1x.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt21033382",
-      "type": "movie",
-      "name": "Sommore: Queen Chandelier",
-      "poster": "https://image.tmdb.org/t/p/w500/ouMuf3zRQZ61Utj9ZjHN8eQOQER.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }
