@@ -106,6 +106,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tmdb:1595240",
+      "type": "movie",
+      "name": "Jan Gintberg: MIRAKLET",
+      "poster": "https://image.tmdb.org/t/p/w500/mWVN1XWcIoMRy8F7TwgxuUJbyXg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1329961",
       "type": "movie",
       "name": "Gabbers",
@@ -340,13 +347,6 @@
       "name": "Jeff Dunham: Unhinged in Hollywood",
       "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
       "releaseInfo": "2015"
-    },
-    {
-      "id": "tt7364706",
-      "type": "movie",
-      "name": "Jeff Dunham: Relative Disaster",
-      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

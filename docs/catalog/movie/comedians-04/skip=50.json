@@ -161,6 +161,19 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:688190",
+      "type": "movie",
+      "name": "Kiri Pritchard-McLean: Hysterical Woman",
+      "poster": "https://image.tmdb.org/t/p/w500/fbLCjn3WEJBPYQQFJL9q4F4bZvU.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:1109942",
+      "type": "movie",
+      "name": "Kiri Pritchard-McLean: Empathy Pains",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt31925522",
       "type": "movie",
       "name": "Kirill Selegey: AAAAAA",
@@ -331,20 +344,6 @@
       "type": "movie",
       "name": "Kyle Kinane: Vermont Comedy Club",
       "poster": "https://image.tmdb.org/t/p/w500/tUtk2TWdMulSirw6miZEi0DT0vb.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1630891",
-      "type": "movie",
-      "name": "Lalo Elizarrarás: Me Partieron La Mandarina En Gajos",
-      "poster": "https://image.tmdb.org/t/p/w500/AfBJeWbZsVr3A9quig18kdlk3ep.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1705313",
-      "type": "movie",
-      "name": "Lalo Elizarrarás: Nuevos éxitos solo para adultos",
-      "poster": "https://image.tmdb.org/t/p/w500/8vNg3G7QK84n9F1aFPwXwDI6jv7.jpg",
       "releaseInfo": "2026"
     }
   ]

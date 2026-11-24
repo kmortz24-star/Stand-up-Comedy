@@ -64,6 +64,12 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tmdb:1802948",
+      "type": "movie",
+      "name": "Chris Hardwick: The Middle Ages",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1285138",
       "type": "movie",
       "name": "Chris Martin: Above Ground Comedian",
@@ -340,13 +346,6 @@
       "type": "movie",
       "name": "Cojo Feliz: Última Vida",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33319975",
-      "type": "movie",
-      "name": "Colin Jost & Michael Che Present: New York After Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

@@ -90,6 +90,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tmdb:1572982",
+      "type": "movie",
+      "name": "Brian Mørk: Langt over grænsen",
+      "poster": "https://image.tmdb.org/t/p/w500/31lJVKcCG5ELYYjeKoxwHCIPkkH.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt2226050",
       "type": "movie",
       "name": "Brian Posehn: The Fartist",

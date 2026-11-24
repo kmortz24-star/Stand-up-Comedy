@@ -216,6 +216,12 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1802948",
+      "type": "movie",
+      "name": "Chris Hardwick: The Middle Ages",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1789573",
       "type": "movie",
       "name": "Bron Lewis - Chaos",
@@ -262,6 +268,13 @@
       "type": "movie",
       "name": "Nimesh Patel: Buy The Dip",
       "poster": "https://image.tmdb.org/t/p/w500/dBPlzg2HNhKxJgzKjPqGjytwBm0.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43679244",
+      "type": "movie",
+      "name": "Zakir Khan: Papa Yaar",
+      "poster": "https://image.tmdb.org/t/p/w500/layTkFN24JouxXQpYyMIn8WxBrB.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -332,20 +345,6 @@
       "type": "movie",
       "name": "Stamptown",
       "poster": "https://image.tmdb.org/t/p/w500/2ZPVi4ThvB3EhAKCYUMQTLTzEbf.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt45326135",
-      "type": "movie",
-      "name": "Sergey Orlov. Pink Leopard",
-      "poster": "https://image.tmdb.org/t/p/w500/yBBhAZpPYqmcTpcLsZWvPtYXnxx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1752536",
-      "type": "movie",
-      "name": "Rhys Darby: 25 Years",
-      "poster": "https://image.tmdb.org/t/p/w500/vZe5kcHSegOYt00dgFviMtFqMZ4.jpg",
       "releaseInfo": "2026"
     }
   ]

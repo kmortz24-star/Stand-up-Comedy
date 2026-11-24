@@ -7,7 +7,7 @@
     "priority_comedians_without_movie_records": 9,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 58,
-    "catalog_movie_records": 2561,
+    "catalog_movie_records": 2610,
     "tv_review_leads": 383,
     "youtube_review_candidates": 103
   },
@@ -954,16 +954,6 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
-      "name": "Josh Wolf",
-      "priority": "established",
-      "movie_special_records": 1,
-      "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
       "name": "Judah Friedlander",
       "priority": "established",
       "movie_special_records": 1,
@@ -1175,6 +1165,16 @@
     },
     {
       "name": "Joe Lycett",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Josh Wolf",
       "priority": "established",
       "movie_special_records": 2,
       "tv_episode_review_leads": 0,

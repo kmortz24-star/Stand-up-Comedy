@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1532680",
+      "type": "movie",
+      "name": "Finlay Christie: Aura Farmer",
+      "poster": "https://image.tmdb.org/t/p/w500/uxgLxxQGXVqnGyF5m2KHpNFUsAJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1796485",
+      "type": "movie",
+      "name": "Flip Wilson... Of Course",
+      "poster": "https://image.tmdb.org/t/p/w500/60jMOI4220uJul0JOmeIq7rs3yp.jpg",
+      "releaseInfo": "1974"
+    },
+    {
       "id": "tmdb:1599901",
       "type": "movie",
       "name": "Flo & Joan: Sweet Release",
@@ -334,20 +348,6 @@
       "name": "Gary Owen: Black Famous",
       "poster": "https://image.tmdb.org/t/p/w500/yZQqmRViQKDbZicWKysuVlfRa5u.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tt36625651",
-      "type": "movie",
-      "name": "Gary Owen: No \"S\"",
-      "poster": "https://image.tmdb.org/t/p/w500/rxbKiubqCLcn18A6KMrrcoSIqvR.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1648740",
-      "type": "movie",
-      "name": "Gary Owen: No Hard Feelings",
-      "poster": "https://image.tmdb.org/t/p/w500/kAR9bFerk7aOpB37JEIpRmGMEem.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

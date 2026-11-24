@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt11045806",
+      "type": "movie",
+      "name": "Eddie Pence: The (Un)special Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/d2852w9VO2wCWzm3KDJmp4tWros.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt37499050",
       "type": "movie",
       "name": "Eddie Pepitone: The Collapse",
@@ -41,6 +48,13 @@
       "name": "Elayne Boosler: Live Nude Girls",
       "poster": "https://image.tmdb.org/t/p/w500/qMm3uO4Yq95cppuh9uzICiu4Twh.jpg",
       "releaseInfo": "1991"
+    },
+    {
+      "id": "tmdb:1178077",
+      "type": "movie",
+      "name": "Elf Lyons: Swan",
+      "poster": "https://image.tmdb.org/t/p/w500/renzTocQOFx7MowBrYyWJeo2hq7.jpg",
+      "releaseInfo": "2017"
     },
     {
       "id": "tt8400808",
@@ -335,20 +349,6 @@
       "name": "Fin Taylor: Ask Your Mother",
       "poster": "https://image.tmdb.org/t/p/w500/c6iPsQqcn3knVsLU5R3qM7wo0vU.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1532680",
-      "type": "movie",
-      "name": "Finlay Christie: Aura Farmer",
-      "poster": "https://image.tmdb.org/t/p/w500/uxgLxxQGXVqnGyF5m2KHpNFUsAJ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1796485",
-      "type": "movie",
-      "name": "Flip Wilson... Of Course",
-      "poster": "https://image.tmdb.org/t/p/w500/60jMOI4220uJul0JOmeIq7rs3yp.jpg",
-      "releaseInfo": "1974"
     }
   ]
 }

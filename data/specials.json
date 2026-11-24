@@ -457,6 +457,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt26928331",
+    "tmdb_id": 1031870,
+    "title": "Michael Schøt: DÆMONKRATI",
+    "performer": "Michael Schøt",
+    "release_date": "2022-10-05",
+    "poster_path": "/sBjVs4fF4ezEafVliSrVqcazNjF.jpg",
+    "popularity": 0.1794,
+    "original_language": "da",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1031882",
     "tmdb_id": 1031882,
     "title": "Tiff Stevenson: Sexy Brain",
@@ -1939,6 +1953,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1109942",
+    "tmdb_id": 1109942,
+    "title": "Kiri Pritchard-McLean: Empathy Pains",
+    "performer": "Kiri Pritchard-McLean",
+    "release_date": "2022-08-01",
+    "poster_path": null,
+    "popularity": 0.2273,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt27562244",
     "tmdb_id": 1110678,
     "title": "Danila Poperechny: FUN/LIFE",
@@ -3173,6 +3201,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1177155",
+    "tmdb_id": 1177155,
+    "title": "Ruben Søltoft: Hvorfor er der ikke nogen, der har sagt noget?",
+    "performer": "Ruben Søltoft",
+    "release_date": "2025-06-10",
+    "poster_path": "/hrzcUVcgXFubWRqV2ViFNuIPL8T.jpg",
+    "popularity": 0.4923,
+    "original_language": "da",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1177331",
     "tmdb_id": 1177331,
     "title": "Ardal O'Hanlon - Live",
@@ -3225,6 +3267,34 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1178077",
+    "tmdb_id": 1178077,
+    "title": "Elf Lyons: Swan",
+    "performer": "Elf Lyons",
+    "release_date": "2017-08-25",
+    "poster_path": "/renzTocQOFx7MowBrYyWJeo2hq7.jpg",
+    "popularity": 0.0974,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1178967",
+    "tmdb_id": 1178967,
+    "title": "Noel James - Llive at Llanelli",
+    "performer": "Noel James",
+    "release_date": "",
+    "poster_path": "/qF2le32SREuokntiApEB1H3WT5k.jpg",
+    "popularity": 0.0091,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1799109",
@@ -5443,6 +5513,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1271735",
+    "tmdb_id": 1271735,
+    "title": "Martin Nørgaard: Sådan er det bare",
+    "performer": "Martin Nørgaard",
+    "release_date": "2024-03-31",
+    "poster_path": "/7sWAWsGdinAOMuvGpm7M1A7Y225.jpg",
+    "popularity": 0.2393,
+    "original_language": "da",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1272486",
     "tmdb_id": 1272486,
     "title": "Charlie Baker: 24 Hour Pasty People",
@@ -7449,6 +7533,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1367580",
+    "tmdb_id": 1367580,
+    "title": "Rasul Chabdarov: Rolls Royce Among Comedians",
+    "performer": "Rasul Chabdarov",
+    "release_date": "2024-08-21",
+    "poster_path": null,
+    "popularity": 0.1104,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1367584",
     "tmdb_id": 1367584,
     "title": "Roman Kositsyn: Loneliness in the Square",
@@ -7943,6 +8041,20 @@
     "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1399244",
+    "tmdb_id": 1399244,
+    "title": "Simon Talbot: Ekstra Extra",
+    "performer": "Simon Talbot",
+    "release_date": "2025-03-05",
+    "poster_path": "/9Hy4FuPQE5WyTDGEPoTQfFfYiuQ.jpg",
+    "popularity": 0.4748,
+    "original_language": "da",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1399425",
@@ -8955,6 +9067,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1429318",
+    "tmdb_id": 1429318,
+    "title": "Linda P: Slutty Mary",
+    "performer": "Linda P",
+    "release_date": "2025-02-05",
+    "poster_path": "/h9HAX3CkpYSLYUF7xxI6ARlY0KP.jpg",
+    "popularity": 0.3663,
+    "original_language": "da",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt32140888",
     "tmdb_id": 1429616,
     "title": "Iliza Shlesinger: A Different Animal",
@@ -9073,6 +9199,20 @@
     "vote_count": 20,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt42667831",
+    "tmdb_id": 1433785,
+    "title": "Michael Schøt: Jubelpessimist",
+    "performer": "Michael Schøt",
+    "release_date": "2025-10-23",
+    "poster_path": "/thUYVgonY4PQR5aCsRHO6x3Rwhr.jpg",
+    "popularity": 0.2389,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1434918",
@@ -10282,6 +10422,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1495970",
+    "tmdb_id": 1495970,
+    "title": "Martin Nørgaard: Ironisk?",
+    "performer": "Martin Nørgaard",
+    "release_date": "2025-06-13",
+    "poster_path": "/kwhWWGqCGd1jj8lR7CXzRjv1d2G.jpg",
+    "popularity": 0.2197,
+    "original_language": "da",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt27526703",
     "tmdb_id": 1496244,
     "title": "Goran Vincic: Usual Suspect",
@@ -10346,6 +10500,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1498115",
+    "tmdb_id": 1498115,
+    "title": "Morten Wichmann: Helt Sikkert",
+    "performer": "Morten Wichmann",
+    "release_date": "2025-07-06",
+    "poster_path": "/28SkLz2Dr5dAKWBgPUl3izztAmu.jpg",
+    "popularity": 0.2928,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt37244693",
@@ -11243,6 +11411,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt2825716",
+    "tmdb_id": 154315,
+    "title": "Simon Amstell: Numb - Live at the BBC",
+    "performer": "Simon Amstell",
+    "release_date": "2012-12-31",
+    "poster_path": "/zARBaztCjtngzG0s8qLmKO5EGKP.jpg",
+    "popularity": 0.214,
+    "original_language": "en",
+    "vote_average": 7.2,
+    "vote_count": 13,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1638952",
     "tmdb_id": 15432,
     "title": "Frank Skinner: Stand-Up",
@@ -11717,6 +11899,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1562029",
+    "tmdb_id": 1562029,
+    "title": "Kasper Porsdal - 23 minutter og 55 sekunder ish på Comedy Zoo",
+    "performer": null,
+    "release_date": "2025-07-04",
+    "poster_path": null,
+    "popularity": 0.1754,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1562035",
     "tmdb_id": 1562035,
     "title": "Olav Lundsgaard - Komikeren, der vil vide, hvem der har lavet lort i hans liv",
@@ -11858,6 +12054,34 @@
     "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1565224",
+    "tmdb_id": 1565224,
+    "title": "Heino Hansens første afskedsshow",
+    "performer": null,
+    "release_date": "2024-09-13",
+    "poster_path": "/tIHxFU8aJQJCP3wvT0fJcNaL7Mf.jpg",
+    "popularity": 0.45,
+    "original_language": "da",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1565226",
+    "tmdb_id": 1565226,
+    "title": "Thomas Hartmann: Når det så er sagt",
+    "performer": "Thomas Hartmann",
+    "release_date": "2025-03-26",
+    "poster_path": "/qKwIkxhBttJ19MGGdXRkG48zSxg.jpg",
+    "popularity": 0.3296,
+    "original_language": "da",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt13247050",
@@ -12028,6 +12252,20 @@
     "vote_count": 38,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1572982",
+    "tmdb_id": 1572982,
+    "title": "Brian Mørk: Langt over grænsen",
+    "performer": "Brian Mørk",
+    "release_date": "2024-09-28",
+    "poster_path": "/31lJVKcCG5ELYYjeKoxwHCIPkkH.jpg",
+    "popularity": 0.3809,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1573250",
@@ -12397,6 +12635,20 @@
     "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1583125",
+    "tmdb_id": 1583125,
+    "title": "Lars Hjortshøj - Plat & Krone",
+    "performer": null,
+    "release_date": "2025-04-10",
+    "poster_path": "/ni0K6K1U6YTc3hcOkEOC77jcyPF.jpg",
+    "popularity": 0.3749,
+    "original_language": "da",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt0283259",
@@ -12848,6 +13100,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1595240",
+    "tmdb_id": 1595240,
+    "title": "Jan Gintberg: MIRAKLET",
+    "performer": "Jan Gintberg",
+    "release_date": "2025-01-30",
+    "poster_path": "/mWVN1XWcIoMRy8F7TwgxuUJbyXg.jpg",
+    "popularity": 0.3956,
+    "original_language": "da",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1595348",
     "tmdb_id": 1595348,
     "title": "Grande figlio di p*****a",
@@ -13057,6 +13323,34 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1599980",
+    "tmdb_id": 1599980,
+    "title": "Phillip Devantier - PHILLIPSOFI",
+    "performer": null,
+    "release_date": "2025-12-13",
+    "poster_path": "/oq07vZe7rgW23sttEOPdylRl1un.jpg",
+    "popularity": 0.0719,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1599991",
+    "tmdb_id": 1599991,
+    "title": "Pelle Lundberg - Et Comedy Show",
+    "performer": null,
+    "release_date": "2025-11-16",
+    "poster_path": "/wpbZN45LMDO3oqJshsN9FYWyN5v.jpg",
+    "popularity": 0.1031,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt39227597",
     "tmdb_id": 1601195,
     "title": "Dave Chappelle: The Unstoppable...",
@@ -13068,6 +13362,34 @@
     "vote_count": 75,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1602346",
+    "tmdb_id": 1602346,
+    "title": "Glenn Moore: Will You Still Need Me, Will You Still Feed Me, Glenn I'm Sixty Moore",
+    "performer": "Glenn Moore",
+    "release_date": "2025-12-21",
+    "poster_path": "/9rVPw4kZumFB8s9SPS8tN6GD1O.jpg",
+    "popularity": 0.342,
+    "original_language": "en",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1602582",
+    "tmdb_id": 1602582,
+    "title": "Rune Klan: Idiot",
+    "performer": "Rune Klan",
+    "release_date": "2025-02-20",
+    "poster_path": "/vQiI9n4Ex3v13CuyJHQee3Ak9VV.jpg",
+    "popularity": 0.2456,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt38974602",
@@ -13094,6 +13416,20 @@
     "vote_count": 8,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1604028",
+    "tmdb_id": 1604028,
+    "title": "Mick Øgendahl: Bad Boy",
+    "performer": "Mick Øgendahl",
+    "release_date": "2024-09-06",
+    "poster_path": "/5TN59BcRJYlLIu7iSpkDq2B7sIg.jpg",
+    "popularity": 0.5289,
+    "original_language": "da",
+    "vote_average": 6.5,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1604478",
@@ -13225,6 +13561,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1608958",
+    "tmdb_id": 1608958,
+    "title": "Liam O’Connor: Nu som Komiker",
+    "performer": "Liam O’Connor",
+    "release_date": "2025-04-24",
+    "poster_path": "/cNUnJucjPDGzoqiAj9jPXTmiDap.jpg",
+    "popularity": 0.5385,
+    "original_language": "da",
+    "vote_average": 8.0,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1609450",
@@ -13886,6 +14236,20 @@
     "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1631576",
+    "tmdb_id": 1631576,
+    "title": "Victor Lander – En Skønne Dag",
+    "performer": null,
+    "release_date": "2025-03-06",
+    "poster_path": "/ApowQkuyTMUPC32W6It2eWl1qFn.jpg",
+    "popularity": 0.446,
+    "original_language": "da",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt39900868",
@@ -16806,6 +17170,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt44464871",
+    "tmdb_id": 1754336,
+    "title": "Prashasti Singh: Divine Feminine",
+    "performer": "Prashasti Singh",
+    "release_date": "2026-08-20",
+    "poster_path": "/bpB3uSIM9skq6V9SBI76P0KCsJI.jpg",
+    "popularity": 0.2291,
+    "original_language": "hi",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1760144",
     "tmdb_id": 1760144,
     "title": "When Everybody Laughs",
@@ -16817,6 +17195,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt43679244",
+    "tmdb_id": 1760576,
+    "title": "Zakir Khan: Papa Yaar",
+    "performer": "Zakir Khan",
+    "release_date": "2026-09-18",
+    "poster_path": "/layTkFN24JouxXQpYyMIn8WxBrB.jpg",
+    "popularity": 1.0853,
+    "original_language": "hi",
+    "vote_average": 8.9,
+    "vote_count": 5,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt0787052",
@@ -17173,6 +17565,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1787403",
+    "tmdb_id": 1787403,
+    "title": "Masoud Vahedi - Christiania Comedy Club 2022",
+    "performer": null,
+    "release_date": "2024-09-04",
+    "poster_path": null,
+    "popularity": 0.1205,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1787517",
     "tmdb_id": 1787517,
     "title": "Emilie Nørby - Prinsessen På Pladsen",
@@ -17180,6 +17586,34 @@
     "release_date": "2026-06-27",
     "poster_path": "/itkgWFInrCZeHAeu290GnGDNIaA.jpg",
     "popularity": 0.1953,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1787521",
+    "tmdb_id": 1787521,
+    "title": "Jonas Kjærsgaard - Feberdrøm",
+    "performer": null,
+    "release_date": "2026-09-23",
+    "poster_path": "/kX54ZwdqLn7kUSxciCfYiNFnA6N.jpg",
+    "popularity": 0.0975,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1787529",
+    "tmdb_id": 1787529,
+    "title": "Simon Riemann - BUFF",
+    "performer": null,
+    "release_date": "2025-12-09",
+    "poster_path": null,
+    "popularity": 0.0824,
     "original_language": "da",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -17425,6 +17859,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1802948",
+    "tmdb_id": 1802948,
+    "title": "Chris Hardwick: The Middle Ages",
+    "performer": "Chris Hardwick",
+    "release_date": "2026-10-05",
+    "poster_path": null,
+    "popularity": 0.3718,
+    "original_language": "en",
+    "vote_average": 2.5,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt46068179",
@@ -17674,6 +18122,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1815395",
+    "tmdb_id": 1815395,
+    "title": "Wulff & Venner 2026",
+    "performer": null,
+    "release_date": "2026-10-23",
+    "poster_path": "/ibUU6PEGiaj5bH7LHyU213YbM6j.jpg",
+    "popularity": 0.1725,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt8746682",
@@ -18802,6 +19264,20 @@
     "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tmdb:227770",
+    "tmdb_id": 227770,
+    "title": "Özz Nûjen: Dålig stämning",
+    "performer": "Özz Nûjen",
+    "release_date": "2012-02-14",
+    "poster_path": "/6dy3v0z3BokYRfdtXFwsxCKMko.jpg",
+    "popularity": 0.239,
+    "original_language": "sv",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1426486",
@@ -20732,6 +21208,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt3693492",
+    "tmdb_id": 295532,
+    "title": "Ralphie May: Filthy Animal Tour",
+    "performer": "Ralphie May",
+    "release_date": "2014-08-19",
+    "poster_path": "/fJhNiOPnTLSvK9UpHE11Dr8mbPT.jpg",
+    "popularity": 0.372,
+    "original_language": "en",
+    "vote_average": 4.4,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt3741146",
     "tmdb_id": 295891,
     "title": "Jerrod Carmichael: Love at the Store",
@@ -21663,6 +22153,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt4454406",
+    "tmdb_id": 327953,
+    "title": "Ralphie May: Unruly",
+    "performer": "Ralphie May",
+    "release_date": "2015-02-27",
+    "poster_path": "/xLI352gMy7oLIdvZKuFWFTYsE8x.jpg",
+    "popularity": 0.3526,
+    "original_language": "en",
+    "vote_average": 5.0,
+    "vote_count": 20,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0409675",
     "tmdb_id": 32833,
     "title": "Al Murray, The Pub Landlord - My Gaff, My Rules",
@@ -22569,6 +23073,20 @@
     "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt1326167",
+    "tmdb_id": 36608,
+    "title": "Ralphie May: Austin-Tatious",
+    "performer": "Ralphie May",
+    "release_date": "2008-11-09",
+    "poster_path": "/97j6ZOPgsGrzb4vZeoASHq6h0Rj.jpg",
+    "popularity": 0.3907,
+    "original_language": "en",
+    "vote_average": 6.2,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt4872998",
@@ -23753,6 +24271,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt0399237",
+    "tmdb_id": 40756,
+    "title": "Ralphie May: Just Correct",
+    "performer": "Ralphie May",
+    "release_date": "2004-02-10",
+    "poster_path": "/oWqXdsC7jPUxgFnIzvzkGmiICJ0.jpg",
+    "popularity": 0.2773,
+    "original_language": "en",
+    "vote_average": 6.8,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5912600",
     "tmdb_id": 407613,
     "title": "Brian Posehn: Criminally Posehn",
@@ -23805,6 +24337,34 @@
     "vote_count": 5,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt1116040",
+    "tmdb_id": 41259,
+    "title": "Ralphie May: Prime Cut",
+    "performer": "Ralphie May",
+    "release_date": "2007-11-03",
+    "poster_path": "/7TZZXMIg55AVqKieT1S7uBMUicf.jpg",
+    "popularity": 0.3329,
+    "original_language": "en",
+    "vote_average": 6.5,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt2074488",
+    "tmdb_id": 413131,
+    "title": "Will Smith: Live in Concert",
+    "performer": "Will Smith",
+    "release_date": "2005-06-14",
+    "poster_path": "/4lTEZfXUNON6wxh6CWYcJrO0Sv6.jpg",
+    "popularity": 0.3713,
+    "original_language": "en",
+    "vote_average": 5.8,
+    "vote_count": 10,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:414242",
@@ -25645,6 +26205,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:487063",
+    "tmdb_id": 487063,
+    "title": "Ruben Søltoft: Ting fra min mund",
+    "performer": "Ruben Søltoft",
+    "release_date": "2019-06-16",
+    "poster_path": "/53DxPrxyUHHCVAuTTu3RkWpoTPN.jpg",
+    "popularity": 0.3646,
+    "original_language": "da",
+    "vote_average": 8.5,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt8152462",
     "tmdb_id": 487077,
     "title": "Carsten Bang: Alter Ego",
@@ -25860,6 +26434,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:494288",
+    "tmdb_id": 494288,
+    "title": "Martin Nørgaard: Indebrændt",
+    "performer": "Martin Nørgaard",
+    "release_date": "2017-12-24",
+    "poster_path": "/ybpLGsQMSggZXgrleI93JzfxuUj.jpg",
+    "popularity": 0.188,
+    "original_language": "da",
+    "vote_average": 6.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt7807000",
     "tmdb_id": 494368,
     "title": "Dave Chappelle: The Bird Revelation",
@@ -26031,6 +26619,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt2121810",
+    "tmdb_id": 50061,
+    "title": "Simon Amstell: Do Nothing - Live",
+    "performer": "Simon Amstell",
+    "release_date": "2010-11-22",
+    "poster_path": "/bR3v9ANTzjUJ8gVwiMmBfq1A7tI.jpg",
+    "popularity": 0.2816,
+    "original_language": "en",
+    "vote_average": 7.6,
+    "vote_count": 16,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1781798",
@@ -28554,6 +29156,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt10687642",
+    "tmdb_id": 624078,
+    "title": "Simon Amstell: Set Free",
+    "performer": "Simon Amstell",
+    "release_date": "2019-08-20",
+    "poster_path": "/nYKDiU7ZZDj0tVs07IHrK7pGeBt.jpg",
+    "popularity": 0.6198,
+    "original_language": "en",
+    "vote_average": 6.1,
+    "vote_count": 25,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt10907772",
     "tmdb_id": 624488,
     "title": "Paul Chowdhry: Live Innit",
@@ -29114,6 +29730,20 @@
     "vote_count": 5,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:652377",
+    "tmdb_id": 652377,
+    "title": "Martin Nørgaard: HYGGE",
+    "performer": "Martin Nørgaard",
+    "release_date": "2019-11-20",
+    "poster_path": "/sq8r5gRM1oUMsEuJ2ybDZaR83EQ.jpg",
+    "popularity": 0.1238,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:652620",
@@ -29798,6 +30428,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:688190",
+    "tmdb_id": 688190,
+    "title": "Kiri Pritchard-McLean: Hysterical Woman",
+    "performer": "Kiri Pritchard-McLean",
+    "release_date": "2017-10-26",
+    "poster_path": "/fbLCjn3WEJBPYQQFJL9q4F4bZvU.jpg",
+    "popularity": 0.3796,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt12149186",
     "tmdb_id": 689065,
     "title": "Fabrice Éboué - Plus rien à perdre",
@@ -29961,6 +30605,20 @@
     "vote_count": 37,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt10835892",
+    "tmdb_id": 696815,
+    "title": "Josh Wolf: Father of the Year",
+    "performer": "Josh Wolf",
+    "release_date": "2019-06-06",
+    "poster_path": "/xvPJtkau4NcP1sa3CaFAQsluf04.jpg",
+    "popularity": 0.3504,
+    "original_language": "en",
+    "vote_average": 6.4,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt3096720",
@@ -30961,6 +31619,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tmdb:75868",
+    "tmdb_id": 75868,
+    "title": "Lucy Porter: The Good Life",
+    "performer": "Lucy Porter",
+    "release_date": "2008-06-01",
+    "poster_path": "/pFfyGWdVbdJQ1EOAU6JVXANSs9g.jpg",
+    "popularity": 0.2798,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:759474",
@@ -32171,6 +32843,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:81928",
+    "tmdb_id": 81928,
+    "title": "Rufus Hound: Being Rude",
+    "performer": "Rufus Hound",
+    "release_date": "2011-07-11",
+    "poster_path": null,
+    "popularity": 0.2729,
+    "original_language": "en",
+    "vote_average": 4.2,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt12566386",

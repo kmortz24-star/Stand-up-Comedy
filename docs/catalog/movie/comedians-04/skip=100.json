@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1630891",
+      "type": "movie",
+      "name": "Lalo Elizarrarás: Me Partieron La Mandarina En Gajos",
+      "poster": "https://image.tmdb.org/t/p/w500/AfBJeWbZsVr3A9quig18kdlk3ep.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1705313",
+      "type": "movie",
+      "name": "Lalo Elizarrarás: Nuevos éxitos solo para adultos",
+      "poster": "https://image.tmdb.org/t/p/w500/8vNg3G7QK84n9F1aFPwXwDI6jv7.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt36355176",
       "type": "movie",
       "name": "Lara Beitz: Stoppable",
@@ -320,32 +334,18 @@
       "poster": "https://image.tmdb.org/t/p/w500/nASBbdi8IocWHtoU28yQ5JHH5lO.jpg"
     },
     {
+      "id": "tmdb:1608958",
+      "type": "movie",
+      "name": "Liam O’Connor: Nu som Komiker",
+      "poster": "https://image.tmdb.org/t/p/w500/cNUnJucjPDGzoqiAj9jPXTmiDap.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt11210886",
       "type": "movie",
       "name": "Lil Rel Howery: Live in Crenshaw",
       "poster": "https://image.tmdb.org/t/p/w500/iZBH7BSduV1eodHU8At5Ioy1HAZ.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt23196592",
-      "type": "movie",
-      "name": "Lil Rel Howery: I Said It. Y'all Thinking It.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TxeTfeSyqyBAIt3ZATHW4DTrOS.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt37971267",
-      "type": "movie",
-      "name": "Lil Rel Howery: Rel Talk",
-      "poster": "https://image.tmdb.org/t/p/w500/hzDeMDRtTi40T5ForwXazy0qtHU.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt2117912",
-      "type": "movie",
-      "name": "Linda P: Rommen er en tøjte",
-      "poster": "https://image.tmdb.org/t/p/w500/ii4oTP38lWD0ngua7xXQErwvELF.jpg",
-      "releaseInfo": "2010"
     }
   ]
 }

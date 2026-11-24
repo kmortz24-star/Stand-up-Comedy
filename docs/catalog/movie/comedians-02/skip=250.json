@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt1935193",
+      "type": "movie",
+      "name": "Doug Stanhope: Oslo - Burning the Bridge to Nowhere",
+      "poster": "https://image.tmdb.org/t/p/w500/iTozlSb4eYv0XcwWVdBGZp5Yk9s.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt2150006",
       "type": "movie",
       "name": "Doug Stanhope: Before Turning the Gun on Himself",
@@ -337,13 +344,6 @@
       "name": "Eddie Murphy: One Night Only",
       "poster": "https://image.tmdb.org/t/p/w500/kpUFMbVTAhZWrcYYJCU5Gn1WJAv.jpg",
       "releaseInfo": "2012"
-    },
-    {
-      "id": "tt11045806",
-      "type": "movie",
-      "name": "Eddie Pence: The (Un)special Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/d2852w9VO2wCWzm3KDJmp4tWros.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

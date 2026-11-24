@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt1853533",
+      "type": "movie",
+      "name": "Daniel Tosh: Happy Thoughts",
+      "poster": "https://image.tmdb.org/t/p/w500/5yJ0UHbkzcHe2wGNZKqgkeY3RAs.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt5652620",
       "type": "movie",
       "name": "Daniel Tosh: People Pleaser",
@@ -339,13 +346,6 @@
       "name": "David Cross: The End of the Beginning of the End",
       "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1324683",
-      "type": "movie",
-      "name": "David Gborie: Gbirth of a Nation",
-      "poster": "https://image.tmdb.org/t/p/w500/fu7lW6EXRXxQWu8tBt3WRDr9iQl.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1699130",
+      "type": "movie",
+      "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
+      "poster": "https://image.tmdb.org/t/p/w500/elkpNoanC6K4gk19PVYC5N6DE2N.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1800258",
+      "type": "movie",
+      "name": "Hazel Brugger: Still Awake",
+      "poster": "https://image.tmdb.org/t/p/w500/zLyWqqrnA2HSJB2VdhdQUwavbVK.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt42172944",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Ugly Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/ux1fYlc6rtnBLc2GBpZ6efMWjRW.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt39368705",
       "type": "movie",
       "name": "Patton Oswalt: Tea & Scotch",
@@ -325,27 +346,6 @@
       "type": "movie",
       "name": "James Acaster: Cinemagoers Welcome",
       "poster": "https://image.tmdb.org/t/p/w500/hS1uG8IIIH2HoMI9zp4gGbGZydD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1647134",
-      "type": "movie",
-      "name": "Gad Elmaleh : Lui-même",
-      "poster": "https://image.tmdb.org/t/p/w500/eyWjavMEW0vJ4RzSuSInQSB3W6V.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39379814",
-      "type": "movie",
-      "name": "Bruce Bruce: I Ain't Playin'",
-      "poster": "https://image.tmdb.org/t/p/w500/evZxpA5suqQpfO5Mh2MRakMkQyz.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39765131",
-      "type": "movie",
-      "name": "Chris Fleming: Live at The Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
       "releaseInfo": "2026"
     }
   ]

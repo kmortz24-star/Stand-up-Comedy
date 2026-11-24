@@ -173,6 +173,27 @@
       "releaseInfo": "1978"
     },
     {
+      "id": "tt2121810",
+      "type": "movie",
+      "name": "Simon Amstell: Do Nothing - Live",
+      "poster": "https://image.tmdb.org/t/p/w500/bR3v9ANTzjUJ8gVwiMmBfq1A7tI.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2825716",
+      "type": "movie",
+      "name": "Simon Amstell: Numb - Live at the BBC",
+      "poster": "https://image.tmdb.org/t/p/w500/zARBaztCjtngzG0s8qLmKO5EGKP.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt10687642",
+      "type": "movie",
+      "name": "Simon Amstell: Set Free",
+      "poster": "https://image.tmdb.org/t/p/w500/nYKDiU7ZZDj0tVs07IHrK7pGeBt.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tt15727548",
       "type": "movie",
       "name": "Simon Bird: Debrief",
@@ -233,6 +254,13 @@
       "name": "Simon Talbot: Optur",
       "poster": "https://image.tmdb.org/t/p/w500/dHA1ACdAaJ6AxZGJcTvUYVs8lLQ.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1399244",
+      "type": "movie",
+      "name": "Simon Talbot: Ekstra Extra",
+      "poster": "https://image.tmdb.org/t/p/w500/9Hy4FuPQE5WyTDGEPoTQfFfYiuQ.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt0292690",
@@ -317,34 +345,6 @@
       "name": "Sofie Hagen: The Bumswing",
       "poster": "https://image.tmdb.org/t/p/w500/sxeZFS5EcQCS1WDuo9nvXd19sMa.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:934158",
-      "type": "movie",
-      "name": "Sofie Hagen: Generation Boyband Fan",
-      "poster": "https://image.tmdb.org/t/p/w500/lq8uDD5epKabAKYKmHt2257JlCW.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt0368833",
-      "type": "movie",
-      "name": "Latham Entertainment Presents: An All New Comedy Experience",
-      "poster": "https://image.tmdb.org/t/p/w500/7gX0c69YyO9K5kXfkCNx91VpbCq.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt1305823",
-      "type": "movie",
-      "name": "Sommore: The Queen Stands Alone",
-      "poster": "https://image.tmdb.org/t/p/w500/z7tb2ACzcp5qdsTd5t7bPWkbRF1.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt4172758",
-      "type": "movie",
-      "name": "Sommore: The Reign Continues",
-      "poster": "https://image.tmdb.org/t/p/w500/dSQDcBiWDAOfEVPFhpZiYwatpXu.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

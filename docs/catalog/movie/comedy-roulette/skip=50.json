@@ -43,18 +43,18 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tt2229095",
+      "id": "tt39132072",
       "type": "movie",
-      "name": "D.L. Hughley: Reset",
-      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
-      "releaseInfo": "2012"
+      "name": "Marcello Hernández: American Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+      "releaseInfo": "2026"
     },
     {
-      "id": "tt0279353",
+      "id": "tt0175844",
       "type": "movie",
-      "name": "The Queens of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/AszKkf027Nen8tfNUayA2QwiMZm.jpg",
-      "releaseInfo": "2001"
+      "name": "Lenny Bruce: Swear to Tell the Truth",
+      "poster": "https://image.tmdb.org/t/p/w500/c25HajWlwZyUoWAurRtEJ4YtE3a.jpg",
+      "releaseInfo": "1998"
     },
     {
       "id": "tt21242916",
@@ -64,11 +64,11 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt0804558",
+      "id": "tt6665988",
       "type": "movie",
-      "name": "Zach Galifianakis: Live at the Purple Onion",
-      "poster": "https://image.tmdb.org/t/p/w500/96plQO27AHyfxjVbSewKTtUkohv.jpg",
-      "releaseInfo": "2007"
+      "name": "Roy Wood Jr.: Father Figure",
+      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

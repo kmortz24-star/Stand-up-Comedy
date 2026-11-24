@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1647134",
+      "type": "movie",
+      "name": "Gad Elmaleh : Lui-même",
+      "poster": "https://image.tmdb.org/t/p/w500/eyWjavMEW0vJ4RzSuSInQSB3W6V.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39379814",
+      "type": "movie",
+      "name": "Bruce Bruce: I Ain't Playin'",
+      "poster": "https://image.tmdb.org/t/p/w500/evZxpA5suqQpfO5Mh2MRakMkQyz.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39765131",
+      "type": "movie",
+      "name": "Chris Fleming: Live at The Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt38841295",
       "type": "movie",
       "name": "One Night Out with Alan Cumming",
@@ -327,27 +348,6 @@
       "name": "Trevor Noah: The LOST South African Show",
       "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1596196",
-      "type": "movie",
-      "name": "The KoolPals Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/4caT2LiKsvVrvKjgNJfrwtD4FXE.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39214430",
-      "type": "movie",
-      "name": "CMXXIV",
-      "poster": "https://image.tmdb.org/t/p/w500/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt32767869",
-      "type": "movie",
-      "name": "Ricky Gervais: Mortality",
-      "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

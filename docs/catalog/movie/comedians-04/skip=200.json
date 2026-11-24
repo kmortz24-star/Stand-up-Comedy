@@ -1,6 +1,40 @@
 {
   "metas": [
     {
+      "id": "tt38625479",
+      "type": "movie",
+      "name": "Hallberg och Betnér - Bränner ner huset",
+      "poster": "https://image.tmdb.org/t/p/w500/nOLapKrMHfvxsmngJbIOL46oCXi.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1044149",
+      "type": "movie",
+      "name": "Mahamad Habane: Ham Der Komikeren",
+      "poster": "https://image.tmdb.org/t/p/w500/cE3uUq3IaUMA6Cp0TXi73Tyofp9.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt38527658",
+      "type": "movie",
+      "name": "Mal Hall: What Are We Doing Today?!",
+      "poster": "https://image.tmdb.org/t/p/w500/vhpJTp6axTGFo2V8XbczGsdNHJj.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt14426518",
+      "type": "movie",
+      "name": "Malik Bentalha : Encore",
+      "poster": "https://image.tmdb.org/t/p/w500/fRB9jIyCbr2oekoPlyBdQYOi2Un.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1265451",
+      "type": "movie",
+      "name": "Manan Desai: Jati Rehje",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:649554",
       "type": "movie",
       "name": "Manu Payet : Emmanuel",
@@ -285,6 +319,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:494288",
+      "type": "movie",
+      "name": "Martin Nørgaard: Indebrændt",
+      "poster": "https://image.tmdb.org/t/p/w500/ybpLGsQMSggZXgrleI93JzfxuUj.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tmdb:546392",
       "type": "movie",
       "name": "Zulu Comedy Festival: Standup showet",
@@ -292,59 +333,17 @@
       "releaseInfo": "2018"
     },
     {
-      "id": "tt0218428",
+      "id": "tmdb:652377",
       "type": "movie",
-      "name": "Martin Short: Concert for the North Americas",
-      "poster": "https://image.tmdb.org/t/p/w500/csdTbd7fKeojhDqOaxPmZciCpUq.jpg",
-      "releaseInfo": "1985"
+      "name": "Martin Nørgaard: HYGGE",
+      "poster": "https://image.tmdb.org/t/p/w500/sq8r5gRM1oUMsEuJ2ybDZaR83EQ.jpg",
+      "releaseInfo": "2019"
     },
     {
-      "id": "tt0431092",
+      "id": "tmdb:1271735",
       "type": "movie",
-      "name": "Goodnight, We Love You",
-      "poster": "https://image.tmdb.org/t/p/w500/mwx3azv4QGBZdAcCHeZambOVDvY.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt31691955",
-      "type": "movie",
-      "name": "Mary Beth Barone: Thought Provoking",
-      "poster": "https://image.tmdb.org/t/p/w500/AbtkE0MhLtUGCfsN0mPsVKf7pXr.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt38843957",
-      "type": "movie",
-      "name": "Mary Beth Barone: Galaxy Brain",
-      "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1450659",
-      "type": "movie",
-      "name": "Master P's Hood Stars of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/1IsyovGYPWOtcMyKFWPHDXBQvAa.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt29579157",
-      "type": "movie",
-      "name": "Mateusz Socha: Masochist",
-      "poster": "https://image.tmdb.org/t/p/w500/ejP4cwnPOgKI27dUQn9yQ8ESV9d.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt29579207",
-      "type": "movie",
-      "name": "Mateusz Socha: How much can one take",
-      "poster": "https://image.tmdb.org/t/p/w500/cIPzTQSSGNSmiOBdWSZHvzDSbt0.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1730969",
-      "type": "movie",
-      "name": "Mateusz Socha: Mr. Mateusz",
-      "poster": "https://image.tmdb.org/t/p/w500/d2LLSYypwPeWBqW7x23cjgeTh34.jpg",
+      "name": "Martin Nørgaard: Sådan er det bare",
+      "poster": "https://image.tmdb.org/t/p/w500/7sWAWsGdinAOMuvGpm7M1A7Y225.jpg",
       "releaseInfo": "2024"
     }
   ]

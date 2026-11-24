@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1324683",
+      "type": "movie",
+      "name": "David Gborie: Gbirth of a Nation",
+      "poster": "https://image.tmdb.org/t/p/w500/fu7lW6EXRXxQWu8tBt3WRDr9iQl.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt32014001",
       "type": "movie",
       "name": "My Next Guest with David Letterman and John Mulaney",
@@ -337,13 +344,6 @@
       "name": "Doug Stanhope: No Refunds",
       "poster": "https://image.tmdb.org/t/p/w500/leh2zShssPQ3M8wlIt1SPaFIFkW.jpg",
       "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1935193",
-      "type": "movie",
-      "name": "Doug Stanhope: Oslo - Burning the Bridge to Nowhere",
-      "poster": "https://image.tmdb.org/t/p/w500/iTozlSb4eYv0XcwWVdBGZp5Yk9s.jpg",
-      "releaseInfo": "2011"
     }
   ]
 }

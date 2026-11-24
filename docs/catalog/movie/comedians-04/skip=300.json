@@ -1,6 +1,69 @@
 {
   "metas": [
     {
+      "id": "tmdb:110134",
+      "type": "movie",
+      "name": "Michael McIntyre's Comedy Roadshow",
+      "poster": "https://image.tmdb.org/t/p/w500/q8fPt3MQr3zW6RXo5gbez8bz0Yv.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2586604",
+      "type": "movie",
+      "name": "Michael McIntyre: Showtime",
+      "poster": "https://image.tmdb.org/t/p/w500/7OBraY5BZePbszoc1ghPxG22GdR.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4362718",
+      "type": "movie",
+      "name": "Michael McIntyre's Very Christmassy Christmas Show",
+      "poster": "https://image.tmdb.org/t/p/w500/3OpZdLg2aYfx11oiodKQVbD5HmD.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt11860624",
+      "type": "movie",
+      "name": "Michael McIntyre: Showman",
+      "poster": "https://image.tmdb.org/t/p/w500/gbw1UhjNyfQR9DGdXfDC81E6WAN.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt35650331",
+      "type": "movie",
+      "name": "Michael McIntyre: In His Own Words",
+      "poster": "https://image.tmdb.org/t/p/w500/69Z9GYJiIxkDkmx684qGaEWMNu2.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt35667834",
+      "type": "movie",
+      "name": "Michael McIntyre's 25th Year Stand-Up Special",
+      "poster": "https://image.tmdb.org/t/p/w500/kzvSygtYZ39J1XCwYelVlsTJXmY.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:52509",
+      "type": "movie",
+      "name": "Michael Schøt: Upolitisk Korrekt",
+      "poster": "https://image.tmdb.org/t/p/w500/78rgzzLY6iO4f3kfkESylNGh4hK.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tmdb:52510",
+      "type": "movie",
+      "name": "Michael Schøt: Mere Upolitisk Korrekt",
+      "poster": "https://image.tmdb.org/t/p/w500/1YheBOJf089LmRAngj5mwYfdAvG.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tmdb:246977",
+      "type": "movie",
+      "name": "Michael Schøt: Kunstigt Intelligent",
+      "poster": "https://image.tmdb.org/t/p/w500/pH2fN5TuxFyS1errgYcyHvQ3b1M.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "tmdb:401575",
       "type": "movie",
       "name": "Michael Schøt: YtringsPligt",
@@ -13,6 +76,20 @@
       "name": "Michael Schøt: Ulykkeligt Vidende",
       "poster": "https://image.tmdb.org/t/p/w500/nzO4puSPzA9LIGNrnqtpR146FFn.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt26928331",
+      "type": "movie",
+      "name": "Michael Schøt: DÆMONKRATI",
+      "poster": "https://image.tmdb.org/t/p/w500/sBjVs4fF4ezEafVliSrVqcazNjF.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt42667831",
+      "type": "movie",
+      "name": "Michael Schøt: Jubelpessimist",
+      "poster": "https://image.tmdb.org/t/p/w500/thUYVgonY4PQR5aCsRHO6x3Rwhr.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt18396984",
@@ -83,6 +160,13 @@
       "name": "Mick Øgendahl: FEST",
       "poster": "https://image.tmdb.org/t/p/w500/kWDJu1xPCg8ohdyF6opBQMEqkF.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:1604028",
+      "type": "movie",
+      "name": "Mick Øgendahl: Bad Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/5TN59BcRJYlLIu7iSpkDq2B7sIg.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt2137119",
@@ -262,90 +346,6 @@
       "type": "movie",
       "name": "Mike Hanford: LIVE IN TORONTO",
       "poster": "https://image.tmdb.org/t/p/w500/qY0oft7PSXx3wnvdjVYSTdpI3No.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt31864115",
-      "type": "movie",
-      "name": "Mike Recine: I’m Normal",
-      "poster": "https://image.tmdb.org/t/p/w500/4Z5CsEAHmJocRWxaxhmkdYtEdmk.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt3149108",
-      "type": "movie",
-      "name": "Mike Reid: Live - Uncensored",
-      "poster": "https://image.tmdb.org/t/p/w500/aqftcLXkKu6yPFnGnOs9D9cvSo2.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt3149142",
-      "type": "movie",
-      "name": "Mike Reid Live at the Queen Vic",
-      "poster": "https://image.tmdb.org/t/p/w500/8DVuegJcJmTYzWm8yoH0Bxvaqp0.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0305829",
-      "type": "movie",
-      "name": "Mike Reid: Live at the London Palladium",
-      "poster": "https://image.tmdb.org/t/p/w500/92EImysNonJxXmDEU10fepSleqb.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tt0305828",
-      "type": "movie",
-      "name": "Mike Reid - Alive & Kidding",
-      "poster": "https://image.tmdb.org/t/p/w500/mZ5XZD3GEniNnLORKRyNYId0UGg.jpg",
-      "releaseInfo": "1998"
-    },
-    {
-      "id": "tmdb:247096",
-      "type": "movie",
-      "name": "Mike Reid: The Guv'nors Last Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/qYknkOZJy6pv75mYeyDlcYZtFOv.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tmdb:1727661",
-      "type": "movie",
-      "name": "Mike Reid - Seriously Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/oirCXFatTasjWVavgV5qzkvy042.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt46068179",
-      "type": "movie",
-      "name": "Mike Tyson: Return of the Mike",
-      "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt27241591",
-      "type": "movie",
-      "name": "Mike Vecchione: The Attractives",
-      "poster": "https://image.tmdb.org/t/p/w500/bLsSEMSWbFHAjV5PaxyKNa2nu0l.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt37357426",
-      "type": "movie",
-      "name": "Mike Vecchione: Low Income White",
-      "poster": "https://image.tmdb.org/t/p/w500/a3WkZynxYnZ5Ac3L0cNnCkjplhT.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1641904",
-      "type": "movie",
-      "name": "Mike Vecchione: Live from the Stress Factory",
-      "poster": "https://image.tmdb.org/t/p/w500/yfO0GthfkM0koCPMYSLW17Yjnrl.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt49794576",
-      "type": "movie",
-      "name": "Mike Ward: Modest",
-      "poster": "https://image.tmdb.org/t/p/w500/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
       "releaseInfo": "2026"
     }
   ]
