@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt39177776",
+      "type": "movie",
+      "name": "Mens Rea",
+      "poster": "https://image.tmdb.org/t/p/w500/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1777082",
+      "type": "movie",
+      "name": "Crowyokan",
+      "poster": "https://image.tmdb.org/t/p/w500/kjVVAsN0Zy6uMiIF9pUXCIZlT86.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt21093386",
       "type": "movie",
       "name": "Panti Bliss: High Heels in Low Places",
@@ -330,20 +344,6 @@
       "name": "Peppermint: So-SIGH-ety Effects",
       "poster": "https://image.tmdb.org/t/p/w500/lWB0cya1mn24xchTU2YVH0ns3uc.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt11474156",
-      "type": "movie",
-      "name": "Pete Davidson: Alive from New York",
-      "poster": "https://image.tmdb.org/t/p/w500/9pY930ZfwF5WnDG4X6IBfxAcQeq.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt9184886",
-      "type": "movie",
-      "name": "Pete Holmes: Dirty Clean",
-      "poster": "https://image.tmdb.org/t/p/w500/eYeeWMMXGDOplQBDc9IYJof77Ye.jpg",
-      "releaseInfo": "2018"
     }
   ]
 }

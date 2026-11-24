@@ -7,9 +7,9 @@
     "priority_comedians_without_movie_records": 9,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 58,
-    "catalog_movie_records": 2610,
+    "catalog_movie_records": 2662,
     "tv_review_leads": 383,
-    "youtube_review_candidates": 103
+    "youtube_review_candidates": 124
   },
   "comedians": [
     {
@@ -540,7 +540,7 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 3,
       "independent_unmatched_works": [
         {
           "title": "A Night at the Met",

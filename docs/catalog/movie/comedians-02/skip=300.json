@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:315634",
+      "type": "movie",
+      "name": "Eddie Izzard - Stripped : Tout en français",
+      "poster": "https://image.tmdb.org/t/p/w500/uKMNYeppcFlgJ8GiBvK9m9Q3Ugc.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt0085474",
+      "type": "movie",
+      "name": "Eddie Murphy: Delirious",
+      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0092948",
+      "type": "movie",
+      "name": "Eddie Murphy Raw",
+      "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+      "releaseInfo": "1987"
+    },
+    {
+      "id": "tt2488254",
+      "type": "movie",
+      "name": "Eddie Murphy: One Night Only",
+      "poster": "https://image.tmdb.org/t/p/w500/kpUFMbVTAhZWrcYYJCU5Gn1WJAv.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt11045806",
       "type": "movie",
       "name": "Eddie Pence: The (Un)special Comedy Special",
@@ -321,34 +349,6 @@
       "name": "Fern Brady: Male Comedienne",
       "poster": "https://image.tmdb.org/t/p/w500/bD5bqZbrArOysVQ18DHujvFCzCb.jpg",
       "releaseInfo": "2017"
-    },
-    {
-      "id": "tt14606118",
-      "type": "movie",
-      "name": "Fern Brady: Power & Chaos",
-      "poster": "https://image.tmdb.org/t/p/w500/9NlEKMGvTqKETJniYpAFl9RZF1q.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt31852892",
-      "type": "movie",
-      "name": "Fern Brady: Autistic Bikini Queen",
-      "poster": "https://image.tmdb.org/t/p/w500/k1FPFt4m645GqhA1p5NzE6SH3si.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1049810",
-      "type": "movie",
-      "name": "Fin Taylor: So My Wife...",
-      "poster": "https://image.tmdb.org/t/p/w500/baJ0zs0PssW7ei00vf67kiKP4Nf.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1511157",
-      "type": "movie",
-      "name": "Fin Taylor: Ask Your Mother",
-      "poster": "https://image.tmdb.org/t/p/w500/c6iPsQqcn3knVsLU5R3qM7wo0vU.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

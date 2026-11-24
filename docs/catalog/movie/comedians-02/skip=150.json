@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1341801",
+      "type": "movie",
+      "name": "Daniel Sosa En Vivo Desde El Woko",
+      "poster": "https://image.tmdb.org/t/p/w500/wpE72YEVSmUW55NrixJRhhdHqlu.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1329616",
+      "type": "movie",
+      "name": "Ya me quiero ir a mi casa",
+      "poster": "https://image.tmdb.org/t/p/w500/qFPDrFeIhQfKmGAgJt4EVCVwL0t.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1054478",
+      "type": "movie",
+      "name": "Daniel Tosh: Completely Serious",
+      "poster": "https://image.tmdb.org/t/p/w500/mD1uqbeD8dQcqFOyFZiXGyGhLmr.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "tt1853533",
       "type": "movie",
       "name": "Daniel Tosh: Happy Thoughts",
@@ -125,6 +146,13 @@
       "name": "Darienne Lake: Altered Boy",
       "poster": "https://image.tmdb.org/t/p/w500/gdapEQlUiFcq5aYjvatkah0EtRb.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt11443254",
+      "type": "movie",
+      "name": "Dave Allen Live ...On Life",
+      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
+      "releaseInfo": "1998"
     },
     {
       "id": "tt0777178",
@@ -318,34 +346,6 @@
       "name": "Last Laugh '04",
       "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
       "releaseInfo": "2004"
-    },
-    {
-      "id": "tt5943936",
-      "type": "movie",
-      "name": "David Cross: Making America Great Again",
-      "poster": "https://image.tmdb.org/t/p/w500/56PQtVg4SGhttbMBPHJobCWQEXJ.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt9547338",
-      "type": "movie",
-      "name": "David Cross: Oh Come On",
-      "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt31512903",
-      "type": "movie",
-      "name": "David Cross: Worst Daddy in the World",
-      "poster": "https://image.tmdb.org/t/p/w500/a6R8pizZUzCVMGF4eyX1o1DxJRZ.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt40544688",
-      "type": "movie",
-      "name": "David Cross: The End of the Beginning of the End",
-      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

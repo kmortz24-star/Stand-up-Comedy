@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 362,
+    "New Specials": 363,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -8,14 +8,17 @@
     "Comedy Legends": 65,
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 61,
-    "Comedians AB": 386,
-    "CDEFG": 461,
-    "HIJ": 376,
-    "KLM": 397,
-    "NOPQR": 362,
-    "STUVWXYZ": 357
+    "Comedians AB": 387,
+    "CDEFG": 465,
+    "HIJ": 385,
+    "KLM": 412,
+    "NOPQR": 366,
+    "STUVWXYZ": 375,
+    "Viral & Rising — YouTube Sets (Preview)": 27,
+    "Hidden Gems — YouTube Sets (Preview)": 10,
+    "Full Stand-Up Specials — YouTube (Preview)": 41
   },
-  "total_unique_records": 2610,
+  "total_unique_records": 2662,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -2402,6 +2405,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tmdb:662892",
+      "tmdb_id": 662892,
+      "title": "Annika Aakjær med Humor og Håb",
+      "performer": null,
+      "release_date": "2019-12-23",
+      "poster_path": "/pxeaXUZa9JxpqsBmh5MDuMStvm.jpg",
+      "popularity": 0.131,
+      "original_language": "da",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:673820",
       "tmdb_id": 673820,
       "title": "Stand Up",
@@ -2719,6 +2736,16 @@
       "last_checked": "2026-11-19"
     }
   ],
+  "youtube_preview": {
+    "type": "youtube",
+    "requires": "YouStream addon",
+    "unverified_playback": true,
+    "counts": {
+      "youtube-viral-rising": 27,
+      "youtube-hidden-gems": 10,
+      "youtube-full-specials": 41
+    }
+  },
   "rankings": {
     "source": "TMDB audience vote_average + vote_count",
     "top_150_rated": "TMDB user average rating, minimum 20 votes",
@@ -2804,23 +2831,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 96,
+      "available_comedians": 99,
       "selected_comedians": [
-        "Frank Zappa",
-        "Marcello Hernández",
-        "D.L. Hughley",
-        "Doug Stanhope",
-        "Billy Crystal",
-        "Romesh Ranganathan",
+        "Joan Rivers",
+        "Bryan Callen",
+        "Peter Kay",
+        "Dylan Moran",
+        "Jeff Foxworthy",
         "Joe Pera",
-        "Hank Green",
-        "Margaret Cho",
-        "Demi Adejuyigbe",
-        "Roy Wood Jr.",
         "Mike Epps",
-        "Micky Flanagan",
-        "Lenny Bruce",
-        "Adele Givens"
+        "Chris Porter",
+        "James Acaster",
+        "Billy Crystal",
+        "D.L. Hughley",
+        "Ralphie May",
+        "Josh Widdicombe",
+        "Them Idiots",
+        "Matteo Lane"
       ]
     }
   }

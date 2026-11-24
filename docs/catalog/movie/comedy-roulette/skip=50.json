@@ -43,18 +43,18 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tt39132072",
+      "id": "tt2363109",
       "type": "movie",
-      "name": "Marcello Hernández: American Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026"
+      "name": "Bryan Callen: Man Class",
+      "poster": "https://image.tmdb.org/t/p/w500/urpGQaAqID8WueLxjT91BDbsqjE.jpg",
+      "releaseInfo": "2012"
     },
     {
-      "id": "tt0175844",
+      "id": "tt2302925",
       "type": "movie",
-      "name": "Lenny Bruce: Swear to Tell the Truth",
-      "poster": "https://image.tmdb.org/t/p/w500/c25HajWlwZyUoWAurRtEJ4YtE3a.jpg",
-      "releaseInfo": "1998"
+      "name": "Them Idiots: Whirled Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/3pobUQRgz9c0WNKWOsmxKvuWiA6.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tt21242916",
@@ -64,11 +64,11 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt6665988",
+      "id": "tt2229095",
       "type": "movie",
-      "name": "Roy Wood Jr.: Father Figure",
-      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
-      "releaseInfo": "2017"
+      "name": "D.L. Hughley: Reset",
+      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
+      "releaseInfo": "2012"
     }
   ]
 }

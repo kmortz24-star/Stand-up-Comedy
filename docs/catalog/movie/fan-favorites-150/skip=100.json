@@ -22,6 +22,13 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "tt0251156",
+      "type": "movie",
+      "name": "Jim Carrey: Unnatural Act",
+      "poster": "https://image.tmdb.org/t/p/w500/jZMUqa0yt3GfinzoJ4L41oMElwO.jpg",
+      "releaseInfo": "1991"
+    },
+    {
       "id": "tt0116066",
       "type": "movie",
       "name": "Eddie Izzard: Definite Article",
@@ -342,13 +349,6 @@
       "name": "Wanda Sykes: Not Normal",
       "poster": "https://image.tmdb.org/t/p/w500/rgP8ZrffMCWZE3XKf5NpTuO5YX7.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt1188112",
-      "type": "movie",
-      "name": "Mike Birbiglia: What I Should Have Said Was Nothing",
-      "poster": "https://image.tmdb.org/t/p/w500/jRPrSOkeR2KPsmBaskxDqeaDXW1.jpg",
-      "releaseInfo": "2008"
     }
   ]
 }

@@ -1,13 +1,14 @@
 {
   "id": "com.kevin.standup.autocatalog",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "name": "Stand-Up Comedy",
-  "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
+  "description": "Automatically organized stand-up comedy catalogs; YouTube rows are unverified previews via YouStream.",
   "resources": [
     "catalog"
   ],
   "types": [
-    "movie"
+    "movie",
+    "youtube"
   ],
   "catalogs": [
     {
@@ -170,6 +171,42 @@
       "id": "comedians-06",
       "type": "movie",
       "name": "STUVWXYZ",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "youtube-viral-rising",
+      "type": "youtube",
+      "name": "Viral & Rising — YouTube Sets (Preview)",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "youtube-hidden-gems",
+      "type": "youtube",
+      "name": "Hidden Gems — YouTube Sets (Preview)",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "youtube-full-specials",
+      "type": "youtube",
+      "name": "Full Stand-Up Specials — YouTube (Preview)",
       "pageSize": 50,
       "extra": [
         {

@@ -10,7 +10,9 @@
     "url": "https://www.youtube.com/watch?v=2CmRK88vIHk",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "vGdvW4-brJ0",
@@ -23,7 +25,30 @@
     "url": "https://www.youtube.com/watch?v=vGdvW4-brJ0",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
+  },
+  {
+    "video_id": "sEk7AA9xUDw",
+    "title": "The Most Introverted Comedian You’ll Ever Meet | Paul Snyder FULL SPECIAL",
+    "channel": "Dry Bar Comedy",
+    "channel_id": "UCvlVuntLjdURVD3b3Hx7kxw",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 1570,
+    "published_at": "2026-11-21T14:00:13Z",
+    "url": "https://www.youtube.com/watch?v=sEk7AA9xUDw",
+    "publisher_match": true,
+    "review_status": "candidate_only",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "4EHRqje1DQ0",
@@ -36,7 +61,9 @@
     "url": "https://www.youtube.com/watch?v=4EHRqje1DQ0",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "dVmwB1UQUSM",
@@ -49,7 +76,12 @@
     "url": "https://www.youtube.com/watch?v=dVmwB1UQUSM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "72ddEna5ozQ",
@@ -62,7 +94,12 @@
     "url": "https://www.youtube.com/watch?v=72ddEna5ozQ",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "Dmq-jl1xUU0",
@@ -75,7 +112,12 @@
     "url": "https://www.youtube.com/watch?v=Dmq-jl1xUU0",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "XMcscgQcB14",
@@ -88,7 +130,9 @@
     "url": "https://www.youtube.com/watch?v=XMcscgQcB14",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "XDVAUwIN1z0",
@@ -101,7 +145,12 @@
     "url": "https://www.youtube.com/watch?v=XDVAUwIN1z0",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "922I084tNqw",
@@ -114,7 +163,12 @@
     "url": "https://www.youtube.com/watch?v=922I084tNqw",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "iQLmVm7f5aI",
@@ -127,7 +181,12 @@
     "url": "https://www.youtube.com/watch?v=iQLmVm7f5aI",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "JvI-WxBf6Q0",
@@ -140,7 +199,12 @@
     "url": "https://www.youtube.com/watch?v=JvI-WxBf6Q0",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "EfJr5vLk56c",
@@ -153,7 +217,12 @@
     "url": "https://www.youtube.com/watch?v=EfJr5vLk56c",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "0gdIZ4nz3iE",
@@ -166,7 +235,9 @@
     "url": "https://www.youtube.com/watch?v=0gdIZ4nz3iE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "GGQpv-4k3II",
@@ -179,7 +250,12 @@
     "url": "https://www.youtube.com/watch?v=GGQpv-4k3II",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "IZ0wg6oxIO0",
@@ -192,7 +268,12 @@
     "url": "https://www.youtube.com/watch?v=IZ0wg6oxIO0",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "FEnEutR31B4",
@@ -205,7 +286,12 @@
     "url": "https://www.youtube.com/watch?v=FEnEutR31B4",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "DW44LzeGyiI",
@@ -218,7 +304,12 @@
     "url": "https://www.youtube.com/watch?v=DW44LzeGyiI",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "OCaY4tobtxk",
@@ -231,7 +322,9 @@
     "url": "https://www.youtube.com/watch?v=OCaY4tobtxk",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "j4zekUJ24fI",
@@ -244,7 +337,12 @@
     "url": "https://www.youtube.com/watch?v=j4zekUJ24fI",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "FBEeo1-mONs",
@@ -257,7 +355,12 @@
     "url": "https://www.youtube.com/watch?v=FBEeo1-mONs",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "8MjDcvrSkN8",
@@ -270,7 +373,27 @@
     "url": "https://www.youtube.com/watch?v=8MjDcvrSkN8",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "xBDumvuWMJQ",
+    "title": "Aries Spears’ UNFILTERED Stand-Up Comedy: Comedy Blueprint | Full Episode",
+    "channel": "Popcorn",
+    "channel_id": "UCVjh0oZ3Ug5-s3WX1awxblQ",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3642,
+    "published_at": "2026-10-16T15:30:01Z",
+    "url": "https://www.youtube.com/watch?v=xBDumvuWMJQ",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "MUYOB5LosSA",
@@ -283,7 +406,12 @@
     "url": "https://www.youtube.com/watch?v=MUYOB5LosSA",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "xZ585-VtB0s",
@@ -296,7 +424,12 @@
     "url": "https://www.youtube.com/watch?v=xZ585-VtB0s",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "5ROMM_V-hyE",
@@ -309,7 +442,45 @@
     "url": "https://www.youtube.com/watch?v=5ROMM_V-hyE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "Mj-xwClgrLk",
+    "title": "An Unforgettable Night At The Met | Robin Williams | Stand-up Comedy",
+    "channel": "LaughCastAX",
+    "channel_id": "UCWEgDsaUeqi48dh0hx4oxvg",
+    "performer_search": "Robin Williams",
+    "matched_special_title": "A Night at the Met",
+    "seconds": 709,
+    "published_at": "2026-10-07T21:30:04Z",
+    "url": "https://www.youtube.com/watch?v=Mj-xwClgrLk",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
+  },
+  {
+    "video_id": "m6S2SMZGGZw",
+    "title": "Chris Porter: A Man From Kansas (Full Show) | Stand-Up Comedy Special",
+    "channel": "Punchline",
+    "channel_id": "UCKk1DfbCOBm_42PMyz7HqEA",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3501,
+    "published_at": "2026-10-07T15:00:02Z",
+    "url": "https://www.youtube.com/watch?v=m6S2SMZGGZw",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "K8-GCc_Tpow",
@@ -322,7 +493,9 @@
     "url": "https://www.youtube.com/watch?v=K8-GCc_Tpow",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "_eIhU898UMo",
@@ -335,7 +508,9 @@
     "url": "https://www.youtube.com/watch?v=_eIhU898UMo",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "vRgD2XaAzzQ",
@@ -348,7 +523,30 @@
     "url": "https://www.youtube.com/watch?v=vRgD2XaAzzQ",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
+  },
+  {
+    "video_id": "U1gXsnGDIiA",
+    "title": "James Austin Johnson | He'll Yeah (Full Comedy Special)",
+    "channel": "800 Pound Gorilla Media",
+    "channel_id": "UCJ9hfZ2sU7jFT9isA2rN58Q",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3373,
+    "published_at": "2026-09-23T00:00:09Z",
+    "url": "https://www.youtube.com/watch?v=U1gXsnGDIiA",
+    "publisher_match": true,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "KZihf18RyC8",
@@ -361,7 +559,9 @@
     "url": "https://www.youtube.com/watch?v=KZihf18RyC8",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "8Kf0YSmxtlM",
@@ -374,7 +574,12 @@
     "url": "https://www.youtube.com/watch?v=8Kf0YSmxtlM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "UzAT_KfANSE",
@@ -387,7 +592,30 @@
     "url": "https://www.youtube.com/watch?v=UzAT_KfANSE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
+  },
+  {
+    "video_id": "RTOL0SPoGSk",
+    "title": "The Craziest Night at the MET | Robin Williams | Stand-up Comedy",
+    "channel": "LaughHub1123",
+    "channel_id": "UCfRjSsSbB6VrDFbBWXktTeg",
+    "performer_search": "Robin Williams",
+    "matched_special_title": "A Night at the Met",
+    "seconds": 607,
+    "published_at": "2026-09-16T21:30:28Z",
+    "url": "https://www.youtube.com/watch?v=RTOL0SPoGSk",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "jmY1CJWO2rE",
@@ -400,7 +628,27 @@
     "url": "https://www.youtube.com/watch?v=jmY1CJWO2rE",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "Nr-_QHKGheM",
+    "title": "Aries Spears: Comedy Blueprint (Full Show) | Unfiltered Stand-Up Comedy Special",
+    "channel": "Punchline",
+    "channel_id": "UCKk1DfbCOBm_42PMyz7HqEA",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3642,
+    "published_at": "2026-08-21T15:00:10Z",
+    "url": "https://www.youtube.com/watch?v=Nr-_QHKGheM",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "xwfGIBItvKI",
@@ -413,7 +661,9 @@
     "url": "https://www.youtube.com/watch?v=xwfGIBItvKI",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "aSYSQg23qhE",
@@ -426,7 +676,9 @@
     "url": "https://www.youtube.com/watch?v=aSYSQg23qhE",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "7w9Aqb8wcKM",
@@ -439,7 +691,9 @@
     "url": "https://www.youtube.com/watch?v=7w9Aqb8wcKM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "NqK1gyTYt8M",
@@ -452,7 +706,12 @@
     "url": "https://www.youtube.com/watch?v=NqK1gyTYt8M",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "nlw57OEJEzs",
@@ -465,7 +724,27 @@
     "url": "https://www.youtube.com/watch?v=nlw57OEJEzs",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "ijFQCbulaWs",
+    "title": "Sam Morril - \"You've Changed\" Full Special (2024)",
+    "channel": "Sam Morril",
+    "channel_id": "UCTrOYaMDI7QiPnRzwWdYK6Q",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 2990,
+    "published_at": "2026-07-09T12:00:26Z",
+    "url": "https://www.youtube.com/watch?v=ijFQCbulaWs",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "R9Oh3X-r6o8",
@@ -478,7 +757,9 @@
     "url": "https://www.youtube.com/watch?v=R9Oh3X-r6o8",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "BMxzz2jPHaA",
@@ -491,7 +772,9 @@
     "url": "https://www.youtube.com/watch?v=BMxzz2jPHaA",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "EkI0X8kcKO0",
@@ -504,7 +787,12 @@
     "url": "https://www.youtube.com/watch?v=EkI0X8kcKO0",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "XiSewRUOVyg",
@@ -517,7 +805,12 @@
     "url": "https://www.youtube.com/watch?v=XiSewRUOVyg",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "jZvexe8IvRI",
@@ -530,7 +823,27 @@
     "url": "https://www.youtube.com/watch?v=jZvexe8IvRI",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "14ps_hS1NiQ",
+    "title": "Dusty Slay: Workin' Man | Full Comedy Special",
+    "channel": "Dusty Slay",
+    "channel_id": "UC0v2M5bPNyQqti4xTyq0h6A",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 4155,
+    "published_at": "2026-05-26T23:00:06Z",
+    "url": "https://www.youtube.com/watch?v=14ps_hS1NiQ",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "DvgYAxIQbKM",
@@ -543,7 +856,9 @@
     "url": "https://www.youtube.com/watch?v=DvgYAxIQbKM",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "EnXHVWtCmAg",
@@ -556,7 +871,9 @@
     "url": "https://www.youtube.com/watch?v=EnXHVWtCmAg",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "IXDA3HHcq5E",
@@ -569,7 +886,48 @@
     "url": "https://www.youtube.com/watch?v=IXDA3HHcq5E",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
+  },
+  {
+    "video_id": "CDhlx3jyQLE",
+    "title": "Still Trippin' | Steve Harvey Full Stand-Up Special",
+    "channel": "The Official Steve Harvey",
+    "channel_id": "UCNnnebGhmIJ8MQ4X1HwphRw",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 4202,
+    "published_at": "2026-04-09T15:25:21Z",
+    "url": "https://www.youtube.com/watch?v=CDhlx3jyQLE",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
+  },
+  {
+    "video_id": "qzsHolR05hg",
+    "title": "Pete Holmes | Silly Silly Fun Boy (Full Comedy Special)",
+    "channel": "800 Pound Gorilla Media",
+    "channel_id": "UCJ9hfZ2sU7jFT9isA2rN58Q",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3349,
+    "published_at": "2026-03-25T00:00:06Z",
+    "url": "https://www.youtube.com/watch?v=qzsHolR05hg",
+    "publisher_match": true,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "H4mmyueKtrc",
@@ -582,7 +940,9 @@
     "url": "https://www.youtube.com/watch?v=H4mmyueKtrc",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "JHbgA38R1OM",
@@ -595,7 +955,12 @@
     "url": "https://www.youtube.com/watch?v=JHbgA38R1OM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "H3zH2UCeK5g",
@@ -608,7 +973,9 @@
     "url": "https://www.youtube.com/watch?v=H3zH2UCeK5g",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "ghT0siURh2E",
@@ -621,7 +988,9 @@
     "url": "https://www.youtube.com/watch?v=ghT0siURh2E",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "g_amSN_xbGw",
@@ -634,7 +1003,9 @@
     "url": "https://www.youtube.com/watch?v=g_amSN_xbGw",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "gJns8wDwWno",
@@ -647,7 +1018,9 @@
     "url": "https://www.youtube.com/watch?v=gJns8wDwWno",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "pZgGSYtmSHI",
@@ -660,7 +1033,9 @@
     "url": "https://www.youtube.com/watch?v=pZgGSYtmSHI",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "jTFJuvfN0tU",
@@ -673,7 +1048,27 @@
     "url": "https://www.youtube.com/watch?v=jTFJuvfN0tU",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "q_4pEVD6Y3k",
+    "title": "Ian Edwards: Untitled | The Comedy Special You Didn't Know You Needed",
+    "channel": "Ian Edwards",
+    "channel_id": "UCDIyoa6iIwwzfPxnE_sOVNA",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3167,
+    "published_at": "2025-09-23T13:00:06Z",
+    "url": "https://www.youtube.com/watch?v=q_4pEVD6Y3k",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "sB9eWtzTOq0",
@@ -686,7 +1081,12 @@
     "url": "https://www.youtube.com/watch?v=sB9eWtzTOq0",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "ezxMsqbAW2I",
@@ -699,7 +1099,9 @@
     "url": "https://www.youtube.com/watch?v=ezxMsqbAW2I",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "UAnC64Ktsy8",
@@ -712,7 +1114,9 @@
     "url": "https://www.youtube.com/watch?v=UAnC64Ktsy8",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "7Wl-Zgy1EKM",
@@ -725,7 +1129,9 @@
     "url": "https://www.youtube.com/watch?v=7Wl-Zgy1EKM",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "kzzz9k4KCAU",
@@ -738,7 +1144,9 @@
     "url": "https://www.youtube.com/watch?v=kzzz9k4KCAU",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "qXQR_eqfFUg",
@@ -751,7 +1159,9 @@
     "url": "https://www.youtube.com/watch?v=qXQR_eqfFUg",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "IWGLTf_u3MA",
@@ -764,7 +1174,27 @@
     "url": "https://www.youtube.com/watch?v=IWGLTf_u3MA",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "n3fzRcHgHfs",
+    "title": "The Stuttering Comedian | Drew Lynch | Full Comedy Special",
+    "channel": "Drew Lynch",
+    "channel_id": "UCqBvyjQOrXPcwSpvfovjREg",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3780,
+    "published_at": "2025-06-27T19:00:07Z",
+    "url": "https://www.youtube.com/watch?v=n3fzRcHgHfs",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "yRMgKJov5_U",
@@ -777,7 +1207,12 @@
     "url": "https://www.youtube.com/watch?v=yRMgKJov5_U",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "VVpbu49dFoU",
@@ -790,7 +1225,9 @@
     "url": "https://www.youtube.com/watch?v=VVpbu49dFoU",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "TSi5zOfEaQE",
@@ -803,7 +1240,9 @@
     "url": "https://www.youtube.com/watch?v=TSi5zOfEaQE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "48LLtaINmnA",
@@ -816,7 +1255,9 @@
     "url": "https://www.youtube.com/watch?v=48LLtaINmnA",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "NFlg-SL5iOY",
@@ -829,7 +1270,30 @@
     "url": "https://www.youtube.com/watch?v=NFlg-SL5iOY",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
+  },
+  {
+    "video_id": "JoqvzOZcQZk",
+    "title": "DANE COOK - ABOVE IT ALL (FULL SPECIAL)",
+    "channel": "Dane Cook",
+    "channel_id": "UCQEwtFuFVb16Uo6sv5L9gsg",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3461,
+    "published_at": "2024-11-28T16:00:06Z",
+    "url": "https://www.youtube.com/watch?v=JoqvzOZcQZk",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "FQnzM1sVtm4",
@@ -842,7 +1306,27 @@
     "url": "https://www.youtube.com/watch?v=FQnzM1sVtm4",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "XBrdMrbmz1c",
+    "title": "Ryan Long - Problem Solved  (FULL STANDUP SPECIAL)",
+    "channel": "Ryan Long",
+    "channel_id": "UCzKFvBRI6VT3jYJq6a820nA",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3625,
+    "published_at": "2024-10-09T16:00:37Z",
+    "url": "https://www.youtube.com/watch?v=XBrdMrbmz1c",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "O1MCuWqiEFU",
@@ -855,7 +1339,9 @@
     "url": "https://www.youtube.com/watch?v=O1MCuWqiEFU",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "wSwUN41_d-U",
@@ -868,7 +1354,9 @@
     "url": "https://www.youtube.com/watch?v=wSwUN41_d-U",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "fw1lug9UPoM",
@@ -881,7 +1369,9 @@
     "url": "https://www.youtube.com/watch?v=fw1lug9UPoM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "vhbv4gB8SdI",
@@ -894,7 +1384,9 @@
     "url": "https://www.youtube.com/watch?v=vhbv4gB8SdI",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "RzisHAg7OMc",
@@ -907,7 +1399,9 @@
     "url": "https://www.youtube.com/watch?v=RzisHAg7OMc",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "BUI0sGnx9Us",
@@ -920,7 +1414,9 @@
     "url": "https://www.youtube.com/watch?v=BUI0sGnx9Us",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "-vgA3_HgKBc",
@@ -933,7 +1429,9 @@
     "url": "https://www.youtube.com/watch?v=-vgA3_HgKBc",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "v69-181zzk8",
@@ -946,7 +1444,12 @@
     "url": "https://www.youtube.com/watch?v=v69-181zzk8",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "matched_special_title": "",
+    "discovered_by": "search",
+    "embeddable": true
   },
   {
     "video_id": "w7IdsLvLAEw",
@@ -959,7 +1462,9 @@
     "url": "https://www.youtube.com/watch?v=w7IdsLvLAEw",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "-gbxzkU80HI",
@@ -972,7 +1477,9 @@
     "url": "https://www.youtube.com/watch?v=-gbxzkU80HI",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "v8D2v2beSY8",
@@ -985,7 +1492,9 @@
     "url": "https://www.youtube.com/watch?v=v8D2v2beSY8",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "K-ZwTpeBLzo",
@@ -998,7 +1507,9 @@
     "url": "https://www.youtube.com/watch?v=K-ZwTpeBLzo",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "haS7smbYYvM",
@@ -1011,7 +1522,27 @@
     "url": "https://www.youtube.com/watch?v=haS7smbYYvM",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "DybW0Nf5g2g",
+    "title": "Don't Judge a Book By Its Cover (Full Comedy Special)  | ALI SIDDIQ - Stand Up Comedy",
+    "channel": "Ali Siddiq",
+    "channel_id": "UCp1m5biWDhP6ogRCpD-qKpw",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 5103,
+    "published_at": "2023-11-20T00:00:08Z",
+    "url": "https://www.youtube.com/watch?v=DybW0Nf5g2g",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "Vy96iuq94Ko",
@@ -1024,7 +1555,9 @@
     "url": "https://www.youtube.com/watch?v=Vy96iuq94Ko",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "exUKjQp_xo4",
@@ -1037,7 +1570,9 @@
     "url": "https://www.youtube.com/watch?v=exUKjQp_xo4",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "mfjnDLbCroQ",
@@ -1050,7 +1585,9 @@
     "url": "https://www.youtube.com/watch?v=mfjnDLbCroQ",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "X0AxrJwJNUQ",
@@ -1063,7 +1600,9 @@
     "url": "https://www.youtube.com/watch?v=X0AxrJwJNUQ",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "LNUfe1aMEDA",
@@ -1076,7 +1615,9 @@
     "url": "https://www.youtube.com/watch?v=LNUfe1aMEDA",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "IQgP0IyIdtg",
@@ -1089,7 +1630,9 @@
     "url": "https://www.youtube.com/watch?v=IQgP0IyIdtg",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "D3HAdwAb_zs",
@@ -1102,7 +1645,9 @@
     "url": "https://www.youtube.com/watch?v=D3HAdwAb_zs",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "Lx4ELE8leC4",
@@ -1115,7 +1660,27 @@
     "url": "https://www.youtube.com/watch?v=Lx4ELE8leC4",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "rCZkp023MdY",
+    "title": "Andrew Schulz - INFAMOUS (2022) FULL SPECIAL",
+    "channel": "The Andrew Schulz",
+    "channel_id": "UCLZc32yrTEMxH1ZO-6fKOzA",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3590,
+    "published_at": "2022-09-25T14:22:09Z",
+    "url": "https://www.youtube.com/watch?v=rCZkp023MdY",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "yTsGxPRVZX0",
@@ -1128,7 +1693,9 @@
     "url": "https://www.youtube.com/watch?v=yTsGxPRVZX0",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "sGEAqq16gYU",
@@ -1141,7 +1708,9 @@
     "url": "https://www.youtube.com/watch?v=sGEAqq16gYU",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "YntBaJ8FiK0",
@@ -1154,7 +1723,9 @@
     "url": "https://www.youtube.com/watch?v=YntBaJ8FiK0",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "9mc0ZIfokaE",
@@ -1167,7 +1738,45 @@
     "url": "https://www.youtube.com/watch?v=9mc0ZIfokaE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
+  },
+  {
+    "video_id": "_wuUxJ3UFvI",
+    "title": "Robin Williams Live at the Roxy, 1978",
+    "channel": "stark23x",
+    "channel_id": "UCxVzxZPeHKaPppPuJ0_04uQ",
+    "performer_search": "Robin Williams",
+    "matched_special_title": "A Night at the Met",
+    "seconds": 4022,
+    "published_at": "2022-07-17T16:42:45Z",
+    "url": "https://www.youtube.com/watch?v=_wuUxJ3UFvI",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
+  },
+  {
+    "video_id": "s-ONlhskCrA",
+    "title": "Dave Chappelle Full Stand Up || Deep In The Heart Of Texas",
+    "channel": "Comedy Club",
+    "channel_id": "UCg1sJ_FeQo3rjCm61YQmkaw",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3646,
+    "published_at": "2022-03-29T23:34:37Z",
+    "url": "https://www.youtube.com/watch?v=s-ONlhskCrA",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "pvc_XDDrwgc",
@@ -1180,7 +1789,9 @@
     "url": "https://www.youtube.com/watch?v=pvc_XDDrwgc",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "Ol_ZSYdUAik",
@@ -1193,7 +1804,9 @@
     "url": "https://www.youtube.com/watch?v=Ol_ZSYdUAik",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "UQGgar2Tfxs",
@@ -1206,7 +1819,9 @@
     "url": "https://www.youtube.com/watch?v=UQGgar2Tfxs",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "r8YOn9vgtCk",
@@ -1219,7 +1834,9 @@
     "url": "https://www.youtube.com/watch?v=r8YOn9vgtCk",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "faQ8nau344M",
@@ -1232,7 +1849,27 @@
     "url": "https://www.youtube.com/watch?v=faQ8nau344M",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "zKUpf1Vx0vs",
+    "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+    "channel": "Gilly and Keeves",
+    "channel_id": "UCxY70x2COyMICgCfEwgVcJg",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 2885,
+    "published_at": "2021-09-07T14:00:22Z",
+    "url": "https://www.youtube.com/watch?v=zKUpf1Vx0vs",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "SRIRmlo4OR8",
@@ -1245,7 +1882,9 @@
     "url": "https://www.youtube.com/watch?v=SRIRmlo4OR8",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "6XizKz6y0LU",
@@ -1258,7 +1897,9 @@
     "url": "https://www.youtube.com/watch?v=6XizKz6y0LU",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "LNa6KeKJT7o",
@@ -1271,7 +1912,9 @@
     "url": "https://www.youtube.com/watch?v=LNa6KeKJT7o",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "tcqiJAqjoxE",
@@ -1284,7 +1927,9 @@
     "url": "https://www.youtube.com/watch?v=tcqiJAqjoxE",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "Lqhqaw2Hbrk",
@@ -1297,7 +1942,9 @@
     "url": "https://www.youtube.com/watch?v=Lqhqaw2Hbrk",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
   },
   {
     "video_id": "odtAJ2kPdqc",
@@ -1310,7 +1957,9 @@
     "url": "https://www.youtube.com/watch?v=odtAJ2kPdqc",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   },
   {
     "video_id": "NnEM2Gk16t8",
@@ -1323,7 +1972,27 @@
     "url": "https://www.youtube.com/watch?v=NnEM2Gk16t8",
     "publisher_match": true,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "standup_set",
+    "suggested_catalog_after_review": "Hidden Gems"
+  },
+  {
+    "video_id": "Vn6MHmDo_Ck",
+    "title": "Bill Burr - Breaking bad | Full standup special",
+    "channel": "Uncensored TV",
+    "channel_id": "UCB09fCOaLqJEbteD7iIT7VQ",
+    "performer_search": "",
+    "matched_special_title": "",
+    "seconds": 3123,
+    "published_at": "2018-06-14T13:51:00Z",
+    "url": "https://www.youtube.com/watch?v=Vn6MHmDo_Ck",
+    "publisher_match": false,
+    "review_status": "candidate_only",
+    "candidate_kind": "full_special",
+    "suggested_catalog_after_review": "Comedian alphabeticals",
+    "discovered_by": "search",
+    "embeddable": true,
+    "last_checked": "2026-11-24"
   },
   {
     "video_id": "uCJDLgQ6xFk",
@@ -1336,6 +2005,8 @@
     "url": "https://www.youtube.com/watch?v=uCJDLgQ6xFk",
     "publisher_match": false,
     "review_status": "candidate_only",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-23",
+    "candidate_kind": "long_form",
+    "suggested_catalog_after_review": "Comedian alphabeticals"
   }
 ]

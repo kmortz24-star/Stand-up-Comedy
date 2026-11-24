@@ -21,6 +21,20 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt2550782",
+      "type": "movie",
+      "name": "Ian Harvie: Superhero",
+      "poster": "https://image.tmdb.org/t/p/w500/qjw9gFiKYIaZ67AQS9J46ixyr5l.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt6170268",
+      "type": "movie",
+      "name": "Ian Harvie: May the Best Cock Win",
+      "poster": "https://image.tmdb.org/t/p/w500/nJ4vQIZijEiabu3oA8GMaWlSOb2.jpg",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tt23650190",
       "type": "movie",
       "name": "Ian Lara: Romantic Comedy",
@@ -150,6 +164,13 @@
       "name": "Az élet császára - Dombóvári István önálló estje",
       "poster": "https://image.tmdb.org/t/p/w500/adRBte1H5LpHueoU7Z7Af92icbh.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:714444",
+      "type": "movie",
+      "name": "Ivan Abramov: The Solo Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/vPe6Elh9gt9T3n0l6C3Rw0WCtf2.jpg",
+      "releaseInfo": "2017"
     },
     {
       "id": "tmdb:1418455",
@@ -325,26 +346,6 @@
       "name": "Jake Johannsen: This'll Take About An Hour",
       "poster": "https://image.tmdb.org/t/p/w500/zUKBT9wSf1U6jwvlJdzx2dBHYgh.jpg",
       "releaseInfo": "1992"
-    },
-    {
-      "id": "tt1566355",
-      "type": "movie",
-      "name": "Jake Johannsen: I Love You",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt38744571",
-      "type": "movie",
-      "name": "jake schick: something",
-      "poster": "https://image.tmdb.org/t/p/w500/gj9mJAD99W3WzzkOwUiuJVFeXx8.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:986289",
-      "type": "movie",
-      "name": "Jakob Thrane: Hurtig",
-      "poster": "https://image.tmdb.org/t/p/w500/7XBMat1X5CON1UOIR7I6f0zMTHc.jpg",
-      "releaseInfo": "2022"
     }
   ]
 }

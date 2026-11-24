@@ -280,6 +280,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1617827",
+      "type": "movie",
+      "name": "Catherine Bohart: Again, With Feelings",
+      "poster": "https://image.tmdb.org/t/p/w500/6a5Z1vwwJneHDQg7X47lY0o5KQe.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt39367866",
       "type": "movie",
       "name": "Bob the Drag Queen: This is Wild",
@@ -340,13 +347,6 @@
       "type": "movie",
       "name": "Varun Grover: Nothing Makes Sense",
       "poster": "https://image.tmdb.org/t/p/w500/b7iAwOZx0c6DezvJaYteDRVQtkF.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1614256",
-      "type": "movie",
-      "name": "Trevor Noah: The LOST South African Show",
-      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
       "releaseInfo": "2026"
     }
   ]

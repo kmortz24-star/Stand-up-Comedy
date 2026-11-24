@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1614256",
+      "type": "movie",
+      "name": "Trevor Noah: The LOST South African Show",
+      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1596196",
       "type": "movie",
       "name": "The KoolPals Comedy Special",
@@ -339,13 +346,6 @@
       "type": "movie",
       "name": "Liz Miele: Space Camp",
       "poster": "https://image.tmdb.org/t/p/w500/wCFuEjuOLfWeeGXh89iGYrDv7rM.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39160848",
-      "type": "movie",
-      "name": "Jonatan Unge solo",
-      "poster": "https://image.tmdb.org/t/p/w500/qW8KFAHy8OKNYZZeDpGosDJsHp4.jpg",
       "releaseInfo": "2025"
     }
   ]

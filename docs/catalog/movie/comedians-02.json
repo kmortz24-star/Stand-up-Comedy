@@ -152,6 +152,13 @@
       "releaseInfo": "1982"
     },
     {
+      "id": "tmdb:1617827",
+      "type": "movie",
+      "name": "Catherine Bohart: Again, With Feelings",
+      "poster": "https://image.tmdb.org/t/p/w500/6a5Z1vwwJneHDQg7X47lY0o5KQe.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt18254596",
       "type": "movie",
       "name": "Catherine Cohen: The Twist...? She's Gorgeous",
@@ -338,13 +345,6 @@
       "name": "Chris D'Elia: Man on Fire",
       "poster": "https://image.tmdb.org/t/p/w500/fn0tN4xEv8rdfWLOe7gU0eoC94Q.jpg",
       "releaseInfo": "2017"
-    },
-    {
-      "id": "tt11987296",
-      "type": "movie",
-      "name": "Chris D'Elia: No Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

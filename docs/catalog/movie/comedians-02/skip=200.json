@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt5943936",
+      "type": "movie",
+      "name": "David Cross: Making America Great Again",
+      "poster": "https://image.tmdb.org/t/p/w500/56PQtVg4SGhttbMBPHJobCWQEXJ.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt9547338",
+      "type": "movie",
+      "name": "David Cross: Oh Come On",
+      "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt31512903",
+      "type": "movie",
+      "name": "David Cross: Worst Daddy in the World",
+      "poster": "https://image.tmdb.org/t/p/w500/a6R8pizZUzCVMGF4eyX1o1DxJRZ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt40544688",
+      "type": "movie",
+      "name": "David Cross: The End of the Beginning of the End",
+      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1324683",
       "type": "movie",
       "name": "David Gborie: Gbirth of a Nation",
@@ -318,32 +346,6 @@
       "name": "Donald Glover: Weirdo",
       "poster": "https://image.tmdb.org/t/p/w500/yWNAh2aJ4pgXXrC926gtOoeWam.jpg",
       "releaseInfo": "2012"
-    },
-    {
-      "id": "tmdb:1007161",
-      "type": "movie",
-      "name": "Doug Stanhope: From Across The Street"
-    },
-    {
-      "id": "tt0354522",
-      "type": "movie",
-      "name": "Doug Stanhope: Word of Mouth",
-      "poster": "https://image.tmdb.org/t/p/w500/dSa2s4UJG9hOPzYeIHskyE1yq4a.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt0814086",
-      "type": "movie",
-      "name": "Doug Stanhope: Deadbeat Hero",
-      "poster": "https://image.tmdb.org/t/p/w500/z4fWyhl3A6AtNygPMoAdifGXkHv.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1047610",
-      "type": "movie",
-      "name": "Doug Stanhope: No Refunds",
-      "poster": "https://image.tmdb.org/t/p/w500/leh2zShssPQ3M8wlIt1SPaFIFkW.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

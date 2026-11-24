@@ -1,6 +1,55 @@
 {
   "metas": [
     {
+      "id": "tt1143143",
+      "type": "movie",
+      "name": "Jeff Dunham: Spark of Insanity",
+      "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1295909",
+      "type": "movie",
+      "name": "Jeff Dunham's Very Special Christmas Special",
+      "poster": "https://image.tmdb.org/t/p/w500/l7W6hvdj7B3fguhxRVqps4Hgw0h.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2058636",
+      "type": "movie",
+      "name": "Jeff Dunham: Controlled Chaos",
+      "poster": "https://image.tmdb.org/t/p/w500/8LPGtz6m4g1JB9ZdkpmEcwRXNbn.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2134080",
+      "type": "movie",
+      "name": "Jeff Dunham: Birth of a Dummy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TPThkmYKUM5fNSyZT6h6guRVUG.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2461736",
+      "type": "movie",
+      "name": "Jeff Dunham: Minding the Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/ra1UaHU8bKBesaQ6BqIOaSvRk07.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4209802",
+      "type": "movie",
+      "name": "Jeff Dunham: All Over the Map",
+      "poster": "https://image.tmdb.org/t/p/w500/9o97CIpO5FgNXBYoXYxfgoV4lrz.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5038776",
+      "type": "movie",
+      "name": "Jeff Dunham: Unhinged in Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "tt7364706",
       "type": "movie",
       "name": "Jeff Dunham: Relative Disaster",
@@ -298,55 +347,6 @@
       "name": "Jerry Seinfeld: 23 Hours to Kill",
       "poster": "https://image.tmdb.org/t/p/w500/qvAymJkltRoaxvievYiJfXGusD3.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt13649688",
-      "type": "movie",
-      "name": "Best of Stand-Up 2020",
-      "poster": "https://image.tmdb.org/t/p/w500/y778t7hIPMjyY5NNHcJRTs6FJ1w.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt35699057",
-      "type": "movie",
-      "name": "Jessica Kirson: I'm the Man",
-      "poster": "https://image.tmdb.org/t/p/w500/w4cBtYKz8oQy7zGvW571qDIol6b.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt21327638",
-      "type": "movie",
-      "name": "Entre Nos Presents: Jesus Sepulveda: Mr. Tough Life",
-      "poster": "https://image.tmdb.org/t/p/w500/kz7Kb3KUBGH5kLDMQuXfo1RQVxY.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1622325",
-      "type": "movie",
-      "name": "Befor We Start",
-      "poster": "https://image.tmdb.org/t/p/w500/9BySXsyt129wvZrqTZFtQOye74k.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tmdb:931327",
-      "type": "movie",
-      "name": "Jethro - From Behind the Bushes",
-      "poster": "https://image.tmdb.org/t/p/w500/woM5PBWB01fidkVZFljR79xbqjw.jpg",
-      "releaseInfo": "1994"
-    },
-    {
-      "id": "tt1799109",
-      "type": "movie",
-      "name": "Jethro: Ready For Battle",
-      "poster": "https://image.tmdb.org/t/p/w500/9dWgjM7M8RT4ZimCAekp4Eeun24.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tmdb:144683",
-      "type": "movie",
-      "name": "Jethro: Off The Wall - Live",
-      "poster": "https://image.tmdb.org/t/p/w500/40b6hK8K5vmgN7Ry3rSf4V5I53Q.jpg",
-      "releaseInfo": "2004"
     }
   ]
 }

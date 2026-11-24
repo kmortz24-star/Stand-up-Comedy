@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:884900",
+      "type": "movie",
+      "name": "Sofie Hagen: The Bumswing",
+      "poster": "https://image.tmdb.org/t/p/w500/sxeZFS5EcQCS1WDuo9nvXd19sMa.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tmdb:934158",
       "type": "movie",
       "name": "Sofie Hagen: Generation Boyband Fan",
@@ -340,13 +347,6 @@
       "type": "movie",
       "name": "Stewart Lee vs The Man-Wulf",
       "poster": "https://image.tmdb.org/t/p/w500/wtmavNaI0fgtbuPPNwoQQVx0HLI.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt33086225",
-      "type": "movie",
-      "name": "Stewart Lee, Basic Lee: Live at The Lowry",
-      "poster": "https://image.tmdb.org/t/p/w500/nwVzrYjZoESzPbIdIQkm6RAFIYa.jpg",
       "releaseInfo": "2024"
     }
   ]
