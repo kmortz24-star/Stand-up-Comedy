@@ -1,90 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1315539",
-      "type": "movie",
-      "name": "Prashasti Singh: Door Khadi Sharmaaye",
-      "poster": "https://image.tmdb.org/t/p/w500/VclytQBBPI5eiHiJsIagISLElX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt22475344",
-      "type": "movie",
-      "name": "Raanan Hershberg: Jokes from the Underground",
-      "poster": "https://image.tmdb.org/t/p/w500/TWua7MbJ2VnpCLa5Qt529y80c6.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt39310623",
-      "type": "movie",
-      "name": "Raanan Hershberg: Morbidly Jewish",
-      "poster": "https://image.tmdb.org/t/p/w500/hmtqBTeqIOuuBGTaARWGuhmBkx8.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1518266",
-      "type": "movie",
-      "name": "Rafał Pacześ - ProkuraTOUR'A",
-      "poster": "https://image.tmdb.org/t/p/w500/y0KAw7265X3mCpAEbaRY2IOmkt4.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt14180214",
-      "type": "movie",
-      "name": "Rahul Dua: Oh Hello!",
-      "poster": "https://image.tmdb.org/t/p/w500/oqdVlZkwxlgTQd1Dv6dYoViKScN.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt8060054",
-      "type": "movie",
-      "name": "Rahul Subramanian: Kal Main Udega",
-      "poster": "https://image.tmdb.org/t/p/w500/qqIiGJg1nXhNnfHbgfe1Zw5JNqy.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt26249174",
-      "type": "movie",
-      "name": "Rahul Talks to People",
-      "poster": "https://image.tmdb.org/t/p/w500/a93lOhTAqt1XiTJIYKlSreCRZoU.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt33187843",
-      "type": "movie",
-      "name": "Rajiv Satyal: All Over the Place",
-      "poster": "https://image.tmdb.org/t/p/w500/hGT9mgv47qjYFjqcLJG1BH1jExf.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36421934",
-      "type": "movie",
-      "name": "Ralph Barbosa: Planet Bosa",
-      "poster": "https://image.tmdb.org/t/p/w500/pba4mTD4WyYtaSe2WI8aB04xHIa.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0399237",
-      "type": "movie",
-      "name": "Ralphie May: Just Correct",
-      "poster": "https://image.tmdb.org/t/p/w500/oWqXdsC7jPUxgFnIzvzkGmiICJ0.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1116040",
-      "type": "movie",
-      "name": "Ralphie May: Prime Cut",
-      "poster": "https://image.tmdb.org/t/p/w500/7TZZXMIg55AVqKieT1S7uBMUicf.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1326167",
-      "type": "movie",
-      "name": "Ralphie May: Austin-Tatious",
-      "poster": "https://image.tmdb.org/t/p/w500/97j6ZOPgsGrzb4vZeoASHq6h0Rj.jpg",
-      "releaseInfo": "2008"
-    },
-    {
       "id": "tt3693492",
       "type": "movie",
       "name": "Ralphie May: Filthy Animal Tour",
@@ -174,34 +90,6 @@
       "name": "Redd Foxx: Video in a Plain Brown Wrapper",
       "poster": "https://image.tmdb.org/t/p/w500/736bCjtJXmSLBtD1kBWtbthc2S1.jpg",
       "releaseInfo": "1983"
-    },
-    {
-      "id": "tt5600326",
-      "type": "movie",
-      "name": "Stand Up Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/7iawovuxzAurX1OGhG5NtikU042.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt31498817",
-      "type": "movie",
-      "name": "Redouane Bougheraba : On m'appelle Marseille",
-      "poster": "https://image.tmdb.org/t/p/w500/7cStEth2n2sfLX7v9Ihq6VskCRz.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:667843",
-      "type": "movie",
-      "name": "Renato Albani - Alguém Me Explica O Mundo",
-      "poster": "https://image.tmdb.org/t/p/w500/s73YezrsvOwKPgb4vYiyhtTeOs9.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1705615",
-      "type": "movie",
-      "name": "Renato Albani: Zona de Conforto",
-      "poster": "https://image.tmdb.org/t/p/w500/2aiWj3jP11EaRI8PU31dLD2yOm7.jpg",
-      "releaseInfo": "2026"
     },
     {
       "id": "tt31024095",
@@ -349,6 +237,118 @@
       "name": "Richard Herring: 10",
       "poster": "https://image.tmdb.org/t/p/w500/uQnUO5uzpsDxWmNAzyHr3LvxbYh.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tt4260232",
+      "type": "movie",
+      "name": "Richard Herring: We're All Going to Die",
+      "poster": "https://image.tmdb.org/t/p/w500/8Oip2rqWY7DbjHNY0DhSkH9jXH5.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:433603",
+      "type": "movie",
+      "name": "Richard Herring: Happy Now",
+      "poster": "https://image.tmdb.org/t/p/w500/tZDpAQNyrvyA1cap4I136mm36uE.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:1636888",
+      "type": "movie",
+      "name": "Richard Herring: Can I Have My Ball Back?",
+      "poster": "https://image.tmdb.org/t/p/w500/9twZOesEfQoIKUrUyEVVLED0Le0.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0283571",
+      "type": "movie",
+      "name": "Richard Lewis: I'm In Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/hQmvGZzjBz3JdeEuJofy2eeVXyX.jpg",
+      "releaseInfo": "1985"
+    },
+    {
+      "id": "tt0236683",
+      "type": "movie",
+      "name": "Richard Lewis: The Magical Misery Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/fVOhtrvKopEMR94sVd26onvLKNO.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0089918",
+      "type": "movie",
+      "name": "Richard Pryor: Live and Smokin'",
+      "poster": "https://image.tmdb.org/t/p/w500/pdq8rXPK7vMLGL7124HVxioaggZ.jpg",
+      "releaseInfo": "1971"
+    },
+    {
+      "id": "tt0079807",
+      "type": "movie",
+      "name": "Richard Pryor: Live in Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/zguG43yzPkiiNOyR9P1HglVNYOl.jpg",
+      "releaseInfo": "1979"
+    },
+    {
+      "id": "tt0084597",
+      "type": "movie",
+      "name": "Richard Pryor: Live on the Sunset Strip",
+      "poster": "https://image.tmdb.org/t/p/w500/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "releaseInfo": "1982"
+    },
+    {
+      "id": "tt0086194",
+      "type": "movie",
+      "name": "Richard Pryor: Here and Now",
+      "poster": "https://image.tmdb.org/t/p/w500/rgTgRmiMVbpWp9asrEvjj8Xdhwx.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt12636452",
+      "type": "movie",
+      "name": "The Last Days of Richard Pryor",
+      "poster": "https://image.tmdb.org/t/p/w500/fAYMQ2Hei9ULzFQnXWnik3vdbvA.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt4853120",
+      "type": "movie",
+      "name": "Gabriel Iglesias Presents Rick Gutierrez: I'm Not Mad, I'm Just a Parent",
+      "poster": "https://image.tmdb.org/t/p/w500/nvtOD0Lh2WP9oBHgalrK8tSWCTy.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt39132188",
+      "type": "movie",
+      "name": "Rick Mercer: Stand Up for Canada",
+      "poster": "https://image.tmdb.org/t/p/w500/lHEjHM1vSA4jkegMkiaADGmY3l5.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1320293",
+      "type": "movie",
+      "name": "Ricky Gervais: Out of England",
+      "poster": "https://image.tmdb.org/t/p/w500/npxyEJIrs4MIOtSm2nfzof1YlOi.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1783772",
+      "type": "movie",
+      "name": "Ricky Gervais: Out of England 2",
+      "poster": "https://image.tmdb.org/t/p/w500/isHC02m4tNp9elnrA9e2XU4E3Gi.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tmdb:307171",
+      "type": "movie",
+      "name": "Ricky Gervais on Derek with Joy Behar: Live at the Paley Center",
+      "poster": "https://image.tmdb.org/t/p/w500/vwx9FlVVrWefxu9tTiQhlkhnKMp.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt7830574",
+      "type": "movie",
+      "name": "Ricky Gervais: Humanity",
+      "poster": "https://image.tmdb.org/t/p/w500/mTGuQL74RnxHvTUmBTIAR4h2xmL.jpg",
+      "releaseInfo": "2018"
     }
   ]
 }

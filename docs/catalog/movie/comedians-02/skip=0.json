@@ -36,27 +36,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt13424356",
-      "type": "movie",
-      "name": "Carl Stanley: Ärligt talat",
-      "poster": "https://image.tmdb.org/t/p/w500/siDceSobpBD2Y7OE5vOCw4ibhGc.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt13417126",
-      "type": "movie",
-      "name": "Carl Stanley: Född 1996",
-      "poster": "https://image.tmdb.org/t/p/w500/jj7Y0OBrqsv3yzuvRHd0Gp1myJe.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt28971168",
-      "type": "movie",
-      "name": "Carl Stanley - Akta huet",
-      "poster": "https://image.tmdb.org/t/p/w500/dBAtm5lHSOI0pjEsRMPrOohSANI.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt1207643",
       "type": "movie",
       "name": "Carlos Mencia: The Best of 'Funny is Funny'",
@@ -139,34 +118,6 @@
       "name": "Cedric the Entertainer: Live from the Ville",
       "poster": "https://image.tmdb.org/t/p/w500/apBNv9j45oCHCoogMWiHlPcinYZ.jpg",
       "releaseInfo": "2016"
-    },
-    {
-      "id": "tt0382568",
-      "type": "movie",
-      "name": "Cem Yılmaz: One Taste One Texture",
-      "poster": "https://image.tmdb.org/t/p/w500/bzxLq2Th1zCobk7WE3psDHAF6rE.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt2592910",
-      "type": "movie",
-      "name": "CM101MMXI Fundamentals",
-      "poster": "https://image.tmdb.org/t/p/w500/nwmoYBOPJ2tLthK4z8rgfnHLu5D.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt16444502",
-      "type": "movie",
-      "name": "Cem Yılmaz: Diamond Elite Platinum Plus",
-      "poster": "https://image.tmdb.org/t/p/w500/d7pspvBSo0OLvyfPHU21qjhOWMj.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt39214430",
-      "type": "movie",
-      "name": "CMXXIV",
-      "poster": "https://image.tmdb.org/t/p/w500/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tt6317936",
@@ -276,13 +227,6 @@
       "releaseInfo": "2014"
     },
     {
-      "id": "tt32809505",
-      "type": "movie",
-      "name": "Chirayu Mistry: Mistry Solved",
-      "poster": "https://image.tmdb.org/t/p/w500/u7j1dBhDIftyTa6gOMWg19DMsFT.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "standupyt_DW44LzeGyiI",
       "type": "movie",
       "name": "EYES DOWN HERE - Chloe Radcliffe - Full Special [YouTube]",
@@ -355,6 +299,61 @@
       "name": "Chris Distefano: Speshy Weshy",
       "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33517417",
+      "type": "movie",
+      "name": "Chris Distefano: It's Just Unfortunate",
+      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt14100856",
+      "type": "movie",
+      "name": "Chris Fairbanks - Rescue Cactus; A Stand-Up Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/5Jnz49fMkSHGqufV446nYAF21Ql.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt39765131",
+      "type": "movie",
+      "name": "Chris Fleming: Live at The Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt32323285",
+      "type": "movie",
+      "name": "Chris Grace: As Scarlett Johansson",
+      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1802948",
+      "type": "movie",
+      "name": "Chris Hardwick: The Middle Ages",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3041030",
+      "type": "movie",
+      "name": "Chris Porter: Ugly and Angry",
+      "poster": "https://image.tmdb.org/t/p/w500/8Zlmi9O1uZRWALvGgBAYmo0FYd5.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8880188",
+      "type": "movie",
+      "name": "Chris Porter: A Man From Kansas",
+      "poster": "https://image.tmdb.org/t/p/w500/sEVnH08nVphSB4qUzcV1hEOEdp6.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt27604897",
+      "type": "movie",
+      "name": "Chris Porter: There's No Money In Babies",
+      "poster": "https://image.tmdb.org/t/p/w500/pxfQ0544Ir0cYcLSBld3PQf9aSF.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

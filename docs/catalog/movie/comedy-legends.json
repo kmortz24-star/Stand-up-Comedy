@@ -300,12 +300,6 @@
       "releaseInfo": "1998"
     },
     {
-      "id": "tmdb:1355277",
-      "type": "movie",
-      "name": "Lenny Bruce",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt2170618",
       "type": "movie",
       "name": "Redd Foxx: Video in a Plain Brown Wrapper",
@@ -346,6 +340,12 @@
       "name": "The Last Days of Richard Pryor",
       "poster": "https://image.tmdb.org/t/p/w500/fAYMQ2Hei9ULzFQnXWnik3vdbvA.jpg",
       "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:750386",
+      "type": "movie",
+      "name": "Robin Williams: Comic Genius",
+      "poster": "https://image.tmdb.org/t/p/w500/obGbYLtCttdEw8mxkBUfeiAndJC.jpg"
     }
   ]
 }

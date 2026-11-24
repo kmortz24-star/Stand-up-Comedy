@@ -1,61 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt33517417",
-      "type": "movie",
-      "name": "Chris Distefano: It's Just Unfortunate",
-      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt14100856",
-      "type": "movie",
-      "name": "Chris Fairbanks - Rescue Cactus; A Stand-Up Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/5Jnz49fMkSHGqufV446nYAF21Ql.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt39765131",
-      "type": "movie",
-      "name": "Chris Fleming: Live at The Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt32323285",
-      "type": "movie",
-      "name": "Chris Grace: As Scarlett Johansson",
-      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1802948",
-      "type": "movie",
-      "name": "Chris Hardwick: The Middle Ages",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt3041030",
-      "type": "movie",
-      "name": "Chris Porter: Ugly and Angry",
-      "poster": "https://image.tmdb.org/t/p/w500/8Zlmi9O1uZRWALvGgBAYmo0FYd5.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt8880188",
-      "type": "movie",
-      "name": "Chris Porter: A Man From Kansas",
-      "poster": "https://image.tmdb.org/t/p/w500/sEVnH08nVphSB4qUzcV1hEOEdp6.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt27604897",
-      "type": "movie",
-      "name": "Chris Porter: There's No Money In Babies",
-      "poster": "https://image.tmdb.org/t/p/w500/pxfQ0544Ir0cYcLSBld3PQf9aSF.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tmdb:510872",
       "type": "movie",
       "name": "Is That… Chris Ramsey?",
@@ -159,61 +104,6 @@
       "name": "Christel de Laat: Zijn daar nog vragen over?",
       "poster": "https://image.tmdb.org/t/p/w500/AmeVAkPOzR7zqSZ8NTOBJgodlC7.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1516518",
-      "type": "movie",
-      "name": "Christian Fuhlendorff -  My First One Man Show",
-      "poster": "https://image.tmdb.org/t/p/w500/1IrpTVxsO2UDSd10jmneXHnPa3O.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt6884258",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - Outstanding",
-      "poster": "https://image.tmdb.org/t/p/w500/gxmT3gc0eVBLRxedc9xxm3gQCZr.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tmdb:241399",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - Stort Set",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt10960410",
-      "type": "movie",
-      "name": "Christian Fuhlendorff : To make a short story long",
-      "poster": "https://image.tmdb.org/t/p/w500/A9DdoAFj9ypmqWYwYB3QsK0Si3l.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt13080902",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - Det er ligegyldigt hva' andre tænker, ikk'?",
-      "poster": "https://image.tmdb.org/t/p/w500/AauKtKMt244F9VKsoNZFbpG9N6n.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt13081040",
-      "type": "movie",
-      "name": "Christian Fuhlendorff: Går over i Historien - Del 1",
-      "poster": "https://image.tmdb.org/t/p/w500/98s8umJQSMHkMb3mrBfsm9JGBgV.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:962709",
-      "type": "movie",
-      "name": "Christian Fuhlendorff: Det Sjovt",
-      "poster": "https://image.tmdb.org/t/p/w500/f0zivqrjmhFgNwIHPRYCFq93WpF.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1420054",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - Ærlig talt",
-      "poster": "https://image.tmdb.org/t/p/w500/gtNFxYVhiGDRRc3zPfIzvuROOFq.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tt0414324",
@@ -346,6 +236,122 @@
       "name": "Cristela Alonzo: Middle Classy",
       "poster": "https://image.tmdb.org/t/p/w500/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt37966885",
+      "type": "movie",
+      "name": "Cristela Alonzo: Upper Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0331981",
+      "type": "movie",
+      "name": "Damon Wayans: The Last Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/5U7Zb8IP6fuQ8EH3wvR3zHG5Ghl.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt5198614",
+      "type": "movie",
+      "name": "Damon Wayans: Still Standing",
+      "poster": "https://image.tmdb.org/t/p/w500/jyBBM9wa3MAkoo0omPZSrASSjrD.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt5737882",
+      "type": "movie",
+      "name": "Dan Soder: Not Special",
+      "poster": "https://image.tmdb.org/t/p/w500/rSx8v3crqE61NvAIxNxrLjP1aFD.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt11265724",
+      "type": "movie",
+      "name": "Dan Soder: Son of a Gary",
+      "poster": "https://image.tmdb.org/t/p/w500/ljlEiK6NKLb4WbK2OebBHguVcjO.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt31529613",
+      "type": "movie",
+      "name": "Dan Soder: On the Road",
+      "poster": "https://image.tmdb.org/t/p/w500/2wxEdFsNGz2CbG0fkAIfICatRkF.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1391890",
+      "type": "movie",
+      "name": "Dana Gould: Let Me Put My Thoughts in You",
+      "poster": "https://image.tmdb.org/t/p/w500/bzyxSY7vPR2RSGU1Ka9KtcP7O1m.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2946084",
+      "type": "movie",
+      "name": "Dana Gould: I Know It's Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/wTfKr423JEsNGedeyK4EyqWQUTd.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt34541625",
+      "type": "movie",
+      "name": "Dana Gould: Perfectly Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/4cOeQmJw3baIYF6mwCaFxeIPK9W.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0867149",
+      "type": "movie",
+      "name": "Dane Cook: Vicious Circle",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtk8WElH17WJP40B4Ch9MdXKtx.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1161447",
+      "type": "movie",
+      "name": "Dane Cook: Rough Around the Edges",
+      "poster": "https://image.tmdb.org/t/p/w500/hD1HC6GLmkC0Sen1s3WmZzrWGNc.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1402207",
+      "type": "movie",
+      "name": "Dane Cook: Isolated Incident",
+      "poster": "https://image.tmdb.org/t/p/w500/zCrNfLflTcXaou9kw6eiFV8yGyy.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4129180",
+      "type": "movie",
+      "name": "Dane Cook: Troublemaker",
+      "poster": "https://image.tmdb.org/t/p/w500/rXJHq7yQ92IuTAIxAYKUILvjVLU.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt22092546",
+      "type": "movie",
+      "name": "Dane Cook: Above It All",
+      "poster": "https://image.tmdb.org/t/p/w500/zw55KFcOvgdYeHlcKQixdsR6AIk.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "standupyt_JoqvzOZcQZk",
+      "type": "movie",
+      "name": "DANE COOK - ABOVE IT ALL (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
+      "description": "Dane Cook · 57 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_iQLmVm7f5aI",
+      "type": "movie",
+      "name": "DANE COOK - TROUBLEMAKER (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     }
   ]
 }

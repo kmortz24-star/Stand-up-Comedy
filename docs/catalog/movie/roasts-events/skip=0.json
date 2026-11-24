@@ -85,13 +85,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt30758718",
-      "type": "movie",
-      "name": "The Roast of Paul Taylor : 10 Years On Stage",
-      "poster": "https://image.tmdb.org/t/p/w500/xUHWcTAoPBhW3iKdC0B7XXUgDkA.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt27898706",
       "type": "movie",
       "name": "The Roast of Whitney Cummings",
@@ -189,13 +182,6 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tmdb:931516",
-      "type": "movie",
-      "name": "The Roast of Ali B",
-      "poster": "https://image.tmdb.org/t/p/w500/gPTxw04ZPz78fyDdzHo53pDoOLh.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt10520800",
       "type": "movie",
       "name": "Comedy Central Roast of Alec Baldwin",
@@ -256,13 +242,6 @@
       "name": "Seth Rogen's Hilarity for Charity",
       "poster": "https://image.tmdb.org/t/p/w500/xoRYL6uuS9qvGeJ4o0hbmQji7hm.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tt7899978",
-      "type": "movie",
-      "name": "The Roast of Gordon",
-      "poster": "https://image.tmdb.org/t/p/w500/5LXkMnMIY18qnTxcx082GF4A6pB.jpg",
-      "releaseInfo": "2016"
     },
     {
       "id": "tt6038506",
@@ -327,13 +306,6 @@
       "releaseInfo": "2011"
     },
     {
-      "id": "tt7618050",
-      "type": "movie",
-      "name": "Marrakech du rire",
-      "poster": "https://image.tmdb.org/t/p/w500/2Oy7ITA1lK4B0JpjRGU76jElITf.jpg",
-      "releaseInfo": "2011"
-    },
-    {
       "id": "tt1865333",
       "type": "movie",
       "name": "Comedy Central Roast of Donald Trump",
@@ -346,6 +318,34 @@
       "name": "Ring Roasts III: The Roast of Jim Cornette",
       "poster": "https://image.tmdb.org/t/p/w500/cqfMm8Ed5KajSZm1bFsKuMcST1J.jpg",
       "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1694505",
+      "type": "movie",
+      "name": "Comedy Central Roast of David Hasselhoff",
+      "poster": "https://image.tmdb.org/t/p/w500/sX66iM4rds1pkLBbNYOVWSTcMZR.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1413788",
+      "type": "movie",
+      "name": "Comedy Central Roast of Joan Rivers",
+      "poster": "https://image.tmdb.org/t/p/w500/2OB9QIYb5CkpzqiyFQqlzy7am6A.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1380790",
+      "type": "movie",
+      "name": "Comedy Central Roast of Larry the Cable Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/ymGDZIlcaTvxv5Cq3tZIxWUAyLw.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1037714",
+      "type": "movie",
+      "name": "Comedy Central Roast of Flavor Flav",
+      "poster": "https://image.tmdb.org/t/p/w500/hRn7mICSwQfmsDwA9tkPpWbY4uu.jpg",
+      "releaseInfo": "2007"
     }
   ]
 }

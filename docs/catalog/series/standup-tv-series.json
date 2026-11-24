@@ -1,14 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:85418",
-      "type": "series",
-      "name": "COMEDIANS of the world",
-      "releaseInfo": "2019",
-      "poster": "https://image.tmdb.org/t/p/w500/stqF0UyUVhN4g6mqKGoPxMJP6c4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pfeOdl8QKS85lOi3xAdZqSWcTKR.jpg"
-    },
-    {
       "id": "tmdb:4787",
       "type": "series",
       "name": "Comedy Central Presents",

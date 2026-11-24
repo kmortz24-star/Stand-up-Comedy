@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt11168100",
-      "type": "movie",
-      "name": "Seth Meyers: Lobby Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/cOkN2Mfw76HkZRvS3kQqDeTqhrf.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt33749189",
-      "type": "movie",
-      "name": "Seth Meyers: Dad Man Walking",
-      "poster": "https://image.tmdb.org/t/p/w500/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt15456166",
-      "type": "movie",
-      "name": "Shane Gillis: Live in Austin",
-      "poster": "https://image.tmdb.org/t/p/w500/hfp9MdtDSj8mVwCvEpWGtDLTE9W.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt28741830",
-      "type": "movie",
-      "name": "Shane Gillis: Beautiful Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt39981243",
       "type": "movie",
       "name": "Shane Mauss: Trips: First Dose",
@@ -195,13 +167,6 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tmdb:1399244",
-      "type": "movie",
-      "name": "Simon Talbot: Ekstra Extra",
-      "poster": "https://image.tmdb.org/t/p/w500/9Hy4FuPQE5WyTDGEPoTQfFfYiuQ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt0292690",
       "type": "movie",
       "name": "Sinbad: Brain Damaged",
@@ -228,27 +193,6 @@
       "name": "Sinbad: Nothin' but the Funk",
       "poster": "https://image.tmdb.org/t/p/w500/1jCLrDVXsn7hWlrPpILrM2BKuvK.jpg",
       "releaseInfo": "1997"
-    },
-    {
-      "id": "tt39368333",
-      "type": "movie",
-      "name": "Slava Komissarenko: Neat, Fresh and Clean",
-      "poster": "https://image.tmdb.org/t/p/w500/c844EvV3tlhGfboL598AiYRKK2a.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt5886430",
-      "type": "movie",
-      "name": "Sofía Niño de Rivera: Exposed",
-      "poster": "https://image.tmdb.org/t/p/w500/wPQVMCrwB40D9bRwmGvoL7fmeFu.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt17377638",
-      "type": "movie",
-      "name": "Sofía Niño de Rivera: Lo Volvería a Hacer",
-      "poster": "https://image.tmdb.org/t/p/w500/n45icRqKEw8OMTwhDXYWMB6VH3o.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt7003972",
@@ -347,6 +291,63 @@
       "name": "Stavros Halkias: Uncle Stav",
       "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tt36999013",
+      "type": "movie",
+      "name": "Steph Tolev: Filth Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0838284",
+      "type": "movie",
+      "name": "Stephen Lynch: Live at the El Rey",
+      "poster": "https://image.tmdb.org/t/p/w500/qEbpA7uDKTfhM8gASjayHGEk9ZY.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt2121359",
+      "type": "movie",
+      "name": "Stephen Merchant: Hello Ladies... Live!",
+      "poster": "https://image.tmdb.org/t/p/w500/gF1IIMKd8bXNhV3v0kypDPwMjU8.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt0894116",
+      "type": "movie",
+      "name": "Steve Harvey - HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/jSmtWaBsqWtbR1IvyjMrcKMLTt0.jpg",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tmdb:62612",
+      "type": "movie",
+      "name": "Steve Harvey: Still Trippin'",
+      "poster": "https://image.tmdb.org/t/p/w500/uBstNbVHc27Bb0yKDYoGtaXJmyi.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2345308",
+      "type": "movie",
+      "name": "Steve Harvey's Grand Finale",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "standupyt_CDhlx3jyQLE",
+      "type": "movie",
+      "name": "Still Trippin' | Steve Harvey Full Stand-Up Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/CDhlx3jyQLE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/CDhlx3jyQLE/hqdefault.jpg",
+      "description": "Steve Harvey · 70 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5671762",
+      "type": "movie",
+      "name": "Steve Hofstetter: Ginger Kid",
+      "poster": "https://image.tmdb.org/t/p/w500/fNhq58FVvbR7MoArmc70ZsRQDak.jpg",
+      "releaseInfo": "2015"
     }
   ]
 }

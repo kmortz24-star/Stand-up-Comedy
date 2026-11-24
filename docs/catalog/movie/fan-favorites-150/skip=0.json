@@ -134,13 +134,6 @@
       "releaseInfo": "2017"
     },
     {
-      "id": "tt2592910",
-      "type": "movie",
-      "name": "CM101MMXI Fundamentals",
-      "poster": "https://image.tmdb.org/t/p/w500/nwmoYBOPJ2tLthK4z8rgfnHLu5D.jpg",
-      "releaseInfo": "2013"
-    },
-    {
       "id": "tt6736782",
       "type": "movie",
       "name": "Louis C.K. 2017",
@@ -309,13 +302,6 @@
       "releaseInfo": "1998"
     },
     {
-      "id": "tt9182404",
-      "type": "movie",
-      "name": "Blanche Gardin: I Talk to Myself",
-      "poster": "https://image.tmdb.org/t/p/w500/qfQSBFfxZbdjKhoMJYFfUqT7jXE.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt1714196",
       "type": "movie",
       "name": "Kevin Hart: Seriously Funny",
@@ -349,6 +335,20 @@
       "name": "Kevin Hart: Laugh at My Pain",
       "poster": "https://image.tmdb.org/t/p/w500/jk7C5sIDHSGiJjBQz6bmPNP1WOF.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt6184894",
+      "type": "movie",
+      "name": "Bill Burr: Walk Your Way Out",
+      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt6562866",
+      "type": "movie",
+      "name": "Trevor Noah: Afraid of the Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/hXbNEZWoK9SeTPwZCXqx9fYrYDF.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

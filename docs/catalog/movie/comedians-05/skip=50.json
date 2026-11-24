@@ -42,20 +42,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1078137",
-      "type": "movie",
-      "name": "Oliver Stanescu: Kronisk Sjov",
-      "poster": "https://image.tmdb.org/t/p/w500/jQK3oWYIItHys1aAzDJg3FJ9ZBf.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1459079",
-      "type": "movie",
-      "name": "Oliver Stanescu: Mit Show Jo!",
-      "poster": "https://image.tmdb.org/t/p/w500/gIwAtEWGCCtpeADIYg7xYUqy2qo.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt0486448",
       "type": "movie",
       "name": "Omar Marzouk - War, terror and other funny stuff",
@@ -144,13 +130,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tmdb:227770",
-      "type": "movie",
-      "name": "Özz Nûjen: Dålig stämning",
-      "poster": "https://image.tmdb.org/t/p/w500/6dy3v0z3BokYRfdtXFwsxCKMko.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tmdb:990628",
       "type": "movie",
       "name": "Pablo Mira dit des choses contre de l'argent",
@@ -163,34 +142,6 @@
       "name": "Paddy McGuinness - Live!",
       "poster": "https://image.tmdb.org/t/p/w500/6vy3RvkrHT0raZei35FPvWbQtdq.jpg",
       "releaseInfo": "2006"
-    },
-    {
-      "id": "tt22872766",
-      "type": "movie",
-      "name": "Panayotis Pascot: Almost",
-      "poster": "https://image.tmdb.org/t/p/w500/jWLp40JN7GeV9zdvMxxq0n3C7Gg.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt39177776",
-      "type": "movie",
-      "name": "Mens Rea",
-      "poster": "https://image.tmdb.org/t/p/w500/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1777082",
-      "type": "movie",
-      "name": "Crowyokan",
-      "poster": "https://image.tmdb.org/t/p/w500/kjVVAsN0Zy6uMiIF9pUXCIZlT86.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt10840002",
-      "type": "movie",
-      "name": "Pata Nahi Par Bolna Hai: A Comedy Special by Karunesh Talwar",
-      "poster": "https://image.tmdb.org/t/p/w500/6osASKH2pIa0N30BDS1G8D1OQsn.jpg",
-      "releaseInfo": "2019"
     },
     {
       "id": "tt32981860",
@@ -345,6 +296,54 @@
       "name": "Paul F. Tompkins: Driven to Drink",
       "poster": "https://image.tmdb.org/t/p/w500/6vd0zMxx0iLJ2sAUEPEUb29DqKU.jpg",
       "releaseInfo": "1999"
+    },
+    {
+      "id": "tt1672099",
+      "type": "movie",
+      "name": "Paul F. Tompkins: You Should Have Told Me",
+      "poster": "https://image.tmdb.org/t/p/w500/4frkjcaT1zK555KP1dWm7MXWCDM.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2380123",
+      "type": "movie",
+      "name": "Paul F. Tompkins: Laboring Under Delusions",
+      "poster": "https://image.tmdb.org/t/p/w500/znpyfFakWuYuD14AEmiHh7H7MuT.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tmdb:1516563",
+      "type": "movie",
+      "name": "Paul Foot: Dissolve",
+      "poster": "https://image.tmdb.org/t/p/w500/sCJVw5TOvccSqnMeoTkFLSKJXNO.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0347752",
+      "type": "movie",
+      "name": "Paul Mooney: Analyzing White America",
+      "poster": "https://image.tmdb.org/t/p/w500/eRdHUA6NUVnrdy9zSlmiRRQNlDk.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0867339",
+      "type": "movie",
+      "name": "Paul Mooney: Know Your History - Jesus Is Black... So Was Cleopatra",
+      "poster": "https://image.tmdb.org/t/p/w500/8lZSTctMabsQTiQ4NmhBHTcpxPt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1563677",
+      "type": "movie",
+      "name": "Paul Mooney: It's the End of the World",
+      "poster": "https://image.tmdb.org/t/p/w500/9U6hOJyqGEhmiOmaRLrZLltvSQD.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2221825",
+      "type": "movie",
+      "name": "Paul Mooney: The Godfather of Comedy",
+      "releaseInfo": "2012"
     }
   ]
 }

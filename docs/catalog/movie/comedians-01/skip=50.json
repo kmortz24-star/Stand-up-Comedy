@@ -1,104 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1403297",
-      "type": "movie",
-      "name": "Al Pitcher - My Happy Place",
-      "poster": "https://image.tmdb.org/t/p/w500/5VOEIgICBUIhJQx1lBy6NOijev4.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt1175487",
-      "type": "movie",
-      "name": "Alan Carr: Tooth Fairy Live",
-      "poster": "https://image.tmdb.org/t/p/w500/dXc27Th9cEYj62GAjG06VjNBoqJ.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt2112889",
-      "type": "movie",
-      "name": "Alan Carr: Spexy Beast",
-      "poster": "https://image.tmdb.org/t/p/w500/jSbEAsDbnd5LFudrs26xX5v7FY8.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt37279440",
-      "type": "movie",
-      "name": "Alan Carr: Yap, Yap, Yap!",
-      "poster": "https://image.tmdb.org/t/p/w500/fXtvnZGNIekhm138dRGfd8jBEqB.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt31249499",
-      "type": "movie",
-      "name": "Alan Carr: Regional Trinket",
-      "poster": "https://image.tmdb.org/t/p/w500/ob4HZjoz2oLNzcPs6AnSAROhvXl.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt38841295",
-      "type": "movie",
-      "name": "One Night Out with Alan Cumming",
-      "poster": "https://image.tmdb.org/t/p/w500/28zeLpd82Nmx04q3CZschj3j0o.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt2761184",
-      "type": "movie",
-      "name": "Alex Agnew: Ka-Boom!",
-      "poster": "https://image.tmdb.org/t/p/w500/ez0DZcuZVyNg25015GQheRcWgT4.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt5610094",
-      "type": "movie",
-      "name": "Alex Agnew: More Human Than Human",
-      "poster": "https://image.tmdb.org/t/p/w500/AgSU2xRnOzJ0EVPznis2yEKXdnK.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:136064",
-      "type": "movie",
-      "name": "Alex Agnew: Interesting Times",
-      "poster": "https://image.tmdb.org/t/p/w500/smtHh5oj2uZabivb24ZUs1lUMaT.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:1378485",
-      "type": "movie",
-      "name": "Alex Edelman: Until Now",
-      "poster": "https://image.tmdb.org/t/p/w500/wNppVqss6P2VcXzYz20msYeiipm.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt31727542",
-      "type": "movie",
-      "name": "Alex Edelman: Just for Us",
-      "poster": "https://image.tmdb.org/t/p/w500/kUFBY1vF4sCHVTv1Oy9s23269Or.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:693369",
-      "type": "movie",
-      "name": "Alex Ploeg: Ultimatum",
-      "poster": "https://image.tmdb.org/t/p/w500/w6LKUFaz2TvcB6dNA1Rgza4hSqr.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1406917",
-      "type": "movie",
-      "name": "Alex Vizorek : Ad vitam",
-      "poster": "https://image.tmdb.org/t/p/w500/ifY76ExZUOCX6gyCCkpnjA9rGVZ.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt10915930",
-      "type": "movie",
-      "name": "Alexander Babu: Alex in Wonderland",
-      "poster": "https://image.tmdb.org/t/p/w500/2J5xWR727bJyPGNDeU7naVi4Zmc.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt21962168",
       "type": "movie",
       "name": "Alexander Bennett: Housewive's Favourite",
@@ -270,20 +172,6 @@
       "releaseInfo": "1975"
     },
     {
-      "id": "tt0348127",
-      "type": "movie",
-      "name": "Amin Jensen: Stort",
-      "poster": "https://image.tmdb.org/t/p/w500/p1Tn8jODG7gRWykT6zm0EKhGT6w.jpg",
-      "releaseInfo": "2001"
-    },
-    {
-      "id": "tt0381876",
-      "type": "movie",
-      "name": "Amin Jensen: 150 kg over bæltestedet",
-      "poster": "https://image.tmdb.org/t/p/w500/gYUJjJfRW7lSQfoqag8DPUTwLjD.jpg",
-      "releaseInfo": "2003"
-    },
-    {
       "id": "tmdb:1646076",
       "type": "movie",
       "name": "Amy Matthews: I Feel Like I'm Made of Spiders",
@@ -340,18 +228,133 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt0346508",
+      "id": "tt0168459",
       "type": "movie",
-      "name": "Anders Matthesen: Hva' snakker du om?",
-      "poster": "https://image.tmdb.org/t/p/w500/xkyrTejVK59IB67aZ4RiZUob8jL.jpg",
-      "releaseInfo": "2001"
+      "name": "Andrew Dice Clay: The Diceman Cometh",
+      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
+      "releaseInfo": "1988"
     },
     {
-      "id": "tt0352127",
+      "id": "tt0101726",
       "type": "movie",
-      "name": "Anders Matthesen: 9 Års Jubilæum",
-      "poster": "https://image.tmdb.org/t/p/w500/a9QazWZXpUmaMbGGI8YX0cfeXf1.jpg",
-      "releaseInfo": "2003"
+      "name": "Andrew Dice Clay: Dice Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0249353",
+      "type": "movie",
+      "name": "Andrew Dice Clay: For Ladies Only",
+      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0249355",
+      "type": "movie",
+      "name": "Andrew Dice Clay: No Apologies",
+      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0249352",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Assume the Position",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0201680",
+      "type": "movie",
+      "name": "Andrew Dice Clay: I'm Over Here Now",
+      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt2605244",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Indestructible",
+      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt5875632",
+      "type": "movie",
+      "name": "Andrew Santino: Homefield Advantage",
+      "poster": "https://image.tmdb.org/t/p/w500/jFvA7qkcgNyv54BPJHlVRLCt9Ul.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt24640480",
+      "type": "movie",
+      "name": "Cheeseburger",
+      "poster": "https://image.tmdb.org/t/p/w500/r4rzop9rUbmJ3C9Oqk7wO62STcL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt34381932",
+      "type": "movie",
+      "name": "Andrew Santino: White Noise",
+      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_UzAT_KfANSE",
+      "type": "movie",
+      "name": "Andrew Santino | Full Special: CHEESEBURGER (2023) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
+      "description": "Andrew Santino · 58 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:818650",
+      "type": "movie",
+      "name": "Andrew Schulz: 4:4:1",
+      "poster": "https://image.tmdb.org/t/p/w500/mgK2KbvcZDJxZu1zySu1fIImsI2.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:652620",
+      "type": "movie",
+      "name": "Andrew Schulz: The Crowd Work Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oKngzrx3DBtu8FNScfAEqEC37Rk.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt15445790",
+      "type": "movie",
+      "name": "Andrew Schulz: Infamous",
+      "poster": "https://image.tmdb.org/t/p/w500/xAaSnjYMrqKxyi4N0P0F1W2NW9e.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt35705915",
+      "type": "movie",
+      "name": "Andrew Schulz: LIFE",
+      "poster": "https://image.tmdb.org/t/p/w500/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_rCZkp023MdY",
+      "type": "movie",
+      "name": "Andrew Schulz - INFAMOUS (2022) FULL SPECIAL [YouTube]",
+      "poster": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
+      "description": "Andrew Schulz · 59 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0777179",
+      "type": "movie",
+      "name": "The 2nd Annual HBO Young Comedians Show",
+      "poster": "https://image.tmdb.org/t/p/w500/5zke4yr04Nkmc78VNMhDS19Gy9u.jpg",
+      "releaseInfo": "1977"
+    },
+    {
+      "id": "tt1562276",
+      "type": "movie",
+      "name": "Andy Parsons: Britain's Got Idiots",
+      "poster": "https://image.tmdb.org/t/p/w500/hCtIJNwecC9RBgLsj7lUj7XJYx1.jpg",
+      "releaseInfo": "2009"
     }
   ]
 }

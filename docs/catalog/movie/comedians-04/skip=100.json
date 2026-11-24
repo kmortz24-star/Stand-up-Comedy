@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1808123",
-      "type": "movie",
-      "name": "Kyle Kinane: Whidbey Island Center for the Arts",
-      "poster": "https://image.tmdb.org/t/p/w500/ApmTYNPGGOwn2gyElQZ43NMTpgI.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1810577",
-      "type": "movie",
-      "name": "Kyle Kinane: Vermont Comedy Club",
-      "poster": "https://image.tmdb.org/t/p/w500/tUtk2TWdMulSirw6miZEi0DT0vb.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt36355176",
-      "type": "movie",
-      "name": "Lara Beitz: Stoppable",
-      "poster": "https://image.tmdb.org/t/p/w500/t1VIC9rR4elAjIV215dlQ3szH6a.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1363862",
-      "type": "movie",
-      "name": "Lara Ricote: GRL/LATNX/DEF",
-      "poster": "https://image.tmdb.org/t/p/w500/pmZsPmEZpREuHlBgftjnCPDokhA.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1699130",
-      "type": "movie",
-      "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
-      "poster": "https://image.tmdb.org/t/p/w500/elkpNoanC6K4gk19PVYC5N6DE2N.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1471846",
-      "type": "movie",
-      "name": "Larry the Cable Guy: Tailgate Party",
-      "poster": "https://image.tmdb.org/t/p/w500/pZTWPaGGmSNIzLvkzjtHjLjEGNl.jpg",
-      "releaseInfo": "2010"
-    },
-    {
       "id": "tt37916276",
       "type": "movie",
       "name": "Larry the Cable Guy: It's a Gift",
@@ -225,12 +183,6 @@
       "releaseInfo": "1998"
     },
     {
-      "id": "tmdb:1355277",
-      "type": "movie",
-      "name": "Lenny Bruce",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt0242595",
       "type": "movie",
       "name": "Lenny Go Home",
@@ -337,18 +289,67 @@
       "poster": "https://image.tmdb.org/t/p/w500/nASBbdi8IocWHtoU28yQ5JHH5lO.jpg"
     },
     {
-      "id": "tmdb:1608958",
-      "type": "movie",
-      "name": "Liam O’Connor: Nu som Komiker",
-      "poster": "https://image.tmdb.org/t/p/w500/cNUnJucjPDGzoqiAj9jPXTmiDap.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt11210886",
       "type": "movie",
       "name": "Lil Rel Howery: Live in Crenshaw",
       "poster": "https://image.tmdb.org/t/p/w500/iZBH7BSduV1eodHU8At5Ioy1HAZ.jpg",
       "releaseInfo": "2019"
+    },
+    {
+      "id": "tt23196592",
+      "type": "movie",
+      "name": "Lil Rel Howery: I Said It. Y'all Thinking It.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TxeTfeSyqyBAIt3ZATHW4DTrOS.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt37971267",
+      "type": "movie",
+      "name": "Lil Rel Howery: Rel Talk",
+      "poster": "https://image.tmdb.org/t/p/w500/hzDeMDRtTi40T5ForwXazy0qtHU.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38687274",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0777244",
+      "type": "movie",
+      "name": "Lisa Lampanelli: The Queen of Mean",
+      "poster": "https://image.tmdb.org/t/p/w500/w9JoGSgRwxongfJj56Y7LzO0ALk.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0777243",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Take It Like a Man",
+      "poster": "https://image.tmdb.org/t/p/w500/uQkrB0wylAyMLWlXk6ItrYJAf9g.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1340783",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Long Live The Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/tFykMHzwkpnhOJAd8PUwXo2W3JQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1842404",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Tough Love",
+      "poster": "https://image.tmdb.org/t/p/w500/1ZH00b2d1wtWt7KLa9vCPGJGgL9.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt4566712",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Back to the Drawing Board",
+      "poster": "https://image.tmdb.org/t/p/w500/lazS9AjavbK57L0GhBv3F3r7RaC.jpg",
+      "releaseInfo": "2015"
     }
   ]
 }

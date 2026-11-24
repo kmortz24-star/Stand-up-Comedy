@@ -8,13 +8,6 @@
       "releaseInfo": "1985"
     },
     {
-      "id": "tt2592910",
-      "type": "movie",
-      "name": "CM101MMXI Fundamentals",
-      "poster": "https://image.tmdb.org/t/p/w500/nwmoYBOPJ2tLthK4z8rgfnHLu5D.jpg",
-      "releaseInfo": "2013"
-    },
-    {
       "id": "tt0196055",
       "type": "movie",
       "name": "Robin Williams: An Evening at the Met",
@@ -162,13 +155,6 @@
       "releaseInfo": "1999"
     },
     {
-      "id": "tt22872766",
-      "type": "movie",
-      "name": "Panayotis Pascot: Almost",
-      "poster": "https://image.tmdb.org/t/p/w500/jWLp40JN7GeV9zdvMxxq0n3C7Gg.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt2471940",
       "type": "movie",
       "name": "Jim Jefferies: Contraband",
@@ -202,13 +188,6 @@
       "name": "Louis C.K.: Hilarious",
       "poster": "https://image.tmdb.org/t/p/w500/8mJMrrT4tkfZLMFvKQ0Hq6jlXbp.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tt9182404",
-      "type": "movie",
-      "name": "Blanche Gardin: I Talk to Myself",
-      "poster": "https://image.tmdb.org/t/p/w500/qfQSBFfxZbdjKhoMJYFfUqT7jXE.jpg",
-      "releaseInfo": "2017"
     },
     {
       "id": "tt0116066",
@@ -288,13 +267,6 @@
       "releaseInfo": "2002"
     },
     {
-      "id": "tt9884204",
-      "type": "movie",
-      "name": "Kyan Khojandi : Pulsions",
-      "poster": "https://image.tmdb.org/t/p/w500/xZBQgUL1R0Ld6H0armtoEzpN98E.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt1172061",
       "type": "movie",
       "name": "Jimmy Carr: Comedian",
@@ -348,6 +320,34 @@
       "type": "movie",
       "name": "Dave Chappelle: Deep in the Heart of Texas",
       "poster": "https://image.tmdb.org/t/p/w500/jaHuxnzJy616w4Muv2NxZgQ9fUu.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt7830574",
+      "type": "movie",
+      "name": "Ricky Gervais: Humanity",
+      "poster": "https://image.tmdb.org/t/p/w500/mTGuQL74RnxHvTUmBTIAR4h2xmL.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt2290153",
+      "type": "movie",
+      "name": "Bill Burr: You People Are All The Same",
+      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0287460",
+      "type": "movie",
+      "name": "George Carlin: Complaints & Grievances",
+      "poster": "https://image.tmdb.org/t/p/w500/qUMJgSvji7ZFI8RxiGRumW0UJKs.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt6648926",
+      "type": "movie",
+      "name": "Dave Chappelle: The Age of Spin",
+      "poster": "https://image.tmdb.org/t/p/w500/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg",
       "releaseInfo": "2017"
     }
   ]

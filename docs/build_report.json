@@ -1,22 +1,22 @@
 {
   "counts": {
-    "New Specials": 237,
+    "New Specials": 221,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
-    "Comedy Legends": 65,
+    "Comedy Legends": 64,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 77,
-    "Comedians AB": 318,
-    "CDEFG": 445,
-    "HIJ": 331,
-    "KLM": 374,
-    "NOPQR": 337,
-    "STUVWXYZ": 323,
-    "Stand-Up TV Shows": 26
+    "Roasts & Comedy Events": 73,
+    "Comedians AB": 276,
+    "CDEFG": 405,
+    "HIJ": 301,
+    "KLM": 330,
+    "NOPQR": 307,
+    "STUVWXYZ": 288,
+    "Stand-Up TV Shows": 25
   },
-  "total_unique_records": 3002,
+  "total_unique_records": 3006,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -164,20 +164,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1114092",
-      "tmdb_id": 1114092,
-      "title": "STAND UP COMEDY RADITYA DIKA (SUCRD)",
-      "performer": null,
-      "release_date": "",
-      "poster_path": "/joLuI89hvuryQaGOtbpG6gR9meh.jpg",
-      "popularity": 0.1695,
-      "original_language": "id",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tmdb:1116322",
       "tmdb_id": 1116322,
       "title": "Grin til Gavn 2022",
@@ -271,20 +257,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1165667",
-      "tmdb_id": 1165667,
-      "title": "Stand Up Story",
-      "performer": null,
-      "release_date": "2023-09-07",
-      "poster_path": "/45lCF8xiTzk8BLEI8iXL8XvmFQZ.jpg",
-      "popularity": 0.4503,
-      "original_language": "cn",
-      "vote_average": 8.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tt35422746",
       "tmdb_id": 1171007,
       "title": "It's Dark and Patel Is Hot",
@@ -352,20 +324,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt29762866",
-      "tmdb_id": 1199425,
-      "title": "Stand-Up - My Life Is A Joke",
-      "performer": null,
-      "release_date": "2023-11-23",
-      "poster_path": "/l71rsjzVquKGC804vStfriovwZT.jpg",
-      "popularity": 0.3793,
-      "original_language": "pt",
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tmdb:1201381",
       "tmdb_id": 1201381,
       "title": "Beyond a Joke",
@@ -377,20 +335,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1212864",
-      "tmdb_id": 1212864,
-      "title": "Rosszfiúk 2. - Orosz György, Németh Kristóf közös stand up comedy műsora",
-      "performer": null,
-      "release_date": "2023-03-19",
-      "poster_path": "/cFmTtceF8uTVOz5TLgwkpwERUYc.jpg",
-      "popularity": 0.1097,
-      "original_language": "hu",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tmdb:1215557",
@@ -484,20 +428,6 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1270361",
-      "tmdb_id": 1270361,
-      "title": "Argentinian Stand Up",
-      "performer": null,
-      "release_date": "2024-04-21",
-      "poster_path": "/u3zsBggBCT9Upj61fKXsc9wYKtc.jpg",
-      "popularity": 0.3299,
-      "original_language": "es",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tt4235918",
@@ -959,20 +889,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1541806",
-      "tmdb_id": 1541806,
-      "title": "Stand-Up",
-      "performer": null,
-      "release_date": "2022-06-23",
-      "poster_path": "/mrwhRRSupAiT0kOSGr1ksUEkqOk.jpg",
-      "popularity": 0.2903,
-      "original_language": "sk",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tt34233233",
       "tmdb_id": 1547521,
       "title": "Got Milf? Sketch Comedy Special",
@@ -1039,20 +955,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1562029",
-      "tmdb_id": 1562029,
-      "title": "Kasper Porsdal - 23 minutter og 55 sekunder ish på Comedy Zoo",
-      "performer": null,
-      "release_date": "2025-07-04",
-      "poster_path": null,
-      "popularity": 0.1754,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tmdb:1562035",
       "tmdb_id": 1562035,
       "title": "Olav Lundsgaard - Komikeren, der vil vide, hvem der har lavet lort i hans liv",
@@ -1092,20 +994,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1565224",
-      "tmdb_id": 1565224,
-      "title": "Heino Hansens første afskedsshow",
-      "performer": null,
-      "release_date": "2024-09-13",
-      "poster_path": "/tIHxFU8aJQJCP3wvT0fJcNaL7Mf.jpg",
-      "popularity": 0.45,
-      "original_language": "da",
-      "vote_average": 4.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tmdb:1566858",
       "tmdb_id": 1566858,
       "title": "Ya no sé ni lo que digo",
@@ -1130,20 +1018,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1583125",
-      "tmdb_id": 1583125,
-      "title": "Lars Hjortshøj - Plat & Krone",
-      "performer": null,
-      "release_date": "2025-04-10",
-      "poster_path": "/ni0K6K1U6YTc3hcOkEOC77jcyPF.jpg",
-      "popularity": 0.3749,
-      "original_language": "da",
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-24"
     },
     {
       "id": "tmdb:1586683",
@@ -1379,20 +1253,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:164273",
-      "tmdb_id": 164273,
-      "title": "Dieter Nuhr - Nuhr vom Feinsten",
-      "performer": null,
-      "release_date": "2004-05-03",
-      "poster_path": "/58Prw6chKM8x2qLNlGs3ydvQK8c.jpg",
-      "popularity": 0.1871,
-      "original_language": "de",
-      "vote_average": 6.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tmdb:1643147",
@@ -1759,76 +1619,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1787403",
-      "tmdb_id": 1787403,
-      "title": "Masoud Vahedi - Christiania Comedy Club 2022",
-      "performer": null,
-      "release_date": "2024-09-04",
-      "poster_path": null,
-      "popularity": 0.1205,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1787412",
-      "tmdb_id": 1787412,
-      "title": "Comedy Mod Cancer 2026",
-      "performer": null,
-      "release_date": "2026-04-19",
-      "poster_path": "/h5f56tQAfIAWVW3RYgRLN6uJeDX.jpg",
-      "popularity": 0.4218,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1787517",
-      "tmdb_id": 1787517,
-      "title": "Emilie Nørby - Prinsessen På Pladsen",
-      "performer": null,
-      "release_date": "2026-06-27",
-      "poster_path": "/itkgWFInrCZeHAeu290GnGDNIaA.jpg",
-      "popularity": 0.1953,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1787521",
-      "tmdb_id": 1787521,
-      "title": "Jonas Kjærsgaard - Feberdrøm",
-      "performer": null,
-      "release_date": "2026-09-23",
-      "poster_path": "/kX54ZwdqLn7kUSxciCfYiNFnA6N.jpg",
-      "popularity": 0.0975,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1787529",
-      "tmdb_id": 1787529,
-      "title": "Simon Riemann - BUFF",
-      "performer": null,
-      "release_date": "2025-12-09",
-      "poster_path": null,
-      "popularity": 0.0824,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tmdb:1789299",
       "tmdb_id": 1789299,
       "title": "Printing Engineering Standup Comedy by Samay Raina",
@@ -1882,20 +1672,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1815395",
-      "tmdb_id": 1815395,
-      "title": "Wulff & Venner 2026",
-      "performer": null,
-      "release_date": "2026-10-23",
-      "poster_path": "/ibUU6PEGiaj5bH7LHyU213YbM6j.jpg",
-      "popularity": 0.1725,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tt8746682",
       "tmdb_id": 1817770,
       "title": "Stitches",
@@ -1946,6 +1722,62 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-21"
+    },
+    {
+      "id": "tmdb:1841946",
+      "tmdb_id": 1841946,
+      "title": "West End Big Boys - Shoot From The Hip Full Comedy Special",
+      "performer": null,
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
+      "id": "tmdb:1841954",
+      "tmdb_id": 1841954,
+      "title": "Huge - Shoot From The Hip Full Comedy Special",
+      "performer": null,
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
+      "id": "tmdb:1841983",
+      "tmdb_id": 1841983,
+      "title": "Jingle Boys - Shoot From The Hip Full Comedy Special",
+      "performer": null,
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
+      "id": "tmdb:1842037",
+      "tmdb_id": 1842037,
+      "title": "Edinburgh Big Boys - Shoot From The Hip Full Comedy Special",
+      "performer": null,
+      "release_date": "",
+      "poster_path": null,
+      "popularity": 0.0,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tt1092633",
@@ -2123,20 +1955,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt0116741",
-      "tmdb_id": 30700,
-      "title": "Kalle Blomkvist Lives Dangerously",
-      "performer": null,
-      "release_date": "1996-12-21",
-      "poster_path": "/3qIT6ycHgGn759FMy2Y6agHGoqW.jpg",
-      "popularity": 0.8558,
-      "original_language": "sv",
-      "vote_average": 7.4,
-      "vote_count": 21,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
       "id": "tmdb:375412",
       "tmdb_id": 375412,
       "title": "Comedy Aid 2015",
@@ -2174,7 +1992,8 @@
       "vote_average": 6.0,
       "vote_count": 21,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:432603",
@@ -2214,20 +2033,6 @@
       "vote_count": 6,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt0369422",
-      "tmdb_id": 49405,
-      "title": "Fem På Flugt",
-      "performer": null,
-      "release_date": "2003-03-31",
-      "poster_path": "/18e139jKWbsepeN74NLRVNuZ8mC.jpg",
-      "popularity": 0.1555,
-      "original_language": "da",
-      "vote_average": 8.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tmdb:494247",
@@ -2336,19 +2141,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt9476490",
-      "tmdb_id": 571721,
-      "title": "The Last Hangover",
-      "performer": null,
-      "release_date": "2018-12-21",
-      "poster_path": "/dpn54Lws2Ovbg3UOksEUpuvCO0X.jpg",
-      "popularity": 0.4227,
-      "vote_average": 6.6,
-      "vote_count": 84,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt5803530",
       "tmdb_id": 578935,
       "title": "#DigitalLivesMatter",
@@ -2375,34 +2167,6 @@
       "vote_count": 137,
       "tags": [],
       "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:621158",
-      "tmdb_id": 621158,
-      "title": "DEAW #7.5 Stand Up Comedy Show",
-      "performer": null,
-      "release_date": "2008-07-19",
-      "poster_path": "/kbRqSuUqlceoxxgmZ1XuB2T9dTA.jpg",
-      "popularity": 0.1792,
-      "original_language": "th",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:621160",
-      "tmdb_id": 621160,
-      "title": "DEAW #9.5 Stand Up Comedy Show",
-      "performer": null,
-      "release_date": "2011-09-16",
-      "poster_path": "/dNtUNc4t4v5iXqaVb89UDYK7xbk.jpg",
-      "popularity": 0.0401,
-      "original_language": "th",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tt10294440",
@@ -2445,34 +2209,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:662892",
-      "tmdb_id": 662892,
-      "title": "Annika Aakjær med Humor og Håb",
-      "performer": null,
-      "release_date": "2019-12-23",
-      "poster_path": "/pxeaXUZa9JxpqsBmh5MDuMStvm.jpg",
-      "popularity": 0.131,
-      "original_language": "da",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:673820",
-      "tmdb_id": 673820,
-      "title": "Stand Up",
-      "performer": null,
-      "release_date": "",
-      "poster_path": "/cQtw0nnquxXACvl6ywpFvB7RhSt.jpg",
-      "popularity": 0.1175,
-      "original_language": "tl",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tmdb:674036",
       "tmdb_id": 674036,
       "title": "Victor Lander flygter hjemmefra",
@@ -2484,20 +2220,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt10372162",
-      "tmdb_id": 683431,
-      "title": "Stand Up",
-      "performer": null,
-      "release_date": "2019-12-13",
-      "poster_path": "/vsat7Hs21Pydv4txlMKAtfMpHJp.jpg",
-      "popularity": 0.251,
-      "original_language": "ml",
-      "vote_average": 6.0,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tmdb:684796",
@@ -2536,7 +2258,8 @@
       "vote_average": 7.327,
       "vote_count": 84,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:748014",
@@ -2563,20 +2286,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:765692",
-      "tmdb_id": 765692,
-      "title": "Partiu Stand Up",
-      "performer": null,
-      "release_date": "2016-10-15",
-      "poster_path": "/y7YZxovX9zXNXKqXMiv4liRcbP1.jpg",
-      "popularity": 0.2046,
-      "original_language": "pt",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tt2121253",
@@ -2668,20 +2377,6 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt14806338",
-      "tmdb_id": 928618,
-      "title": "Stand Up Rahul",
-      "performer": null,
-      "release_date": "2022-03-18",
-      "poster_path": "/fBlZzBubOXpbbUqnnfB4V73pwSX.jpg",
-      "popularity": 0.5037,
-      "original_language": "te",
-      "vote_average": 6.3,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tt14672692",
@@ -2780,25 +2475,24 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2697,
-    "remaining_alphabetical_movies": 2086,
-    "unrated_movies_hidden": 611,
-    "unrated_established_movies_kept": 216
+    "original_alphabetical_movies": 2359,
+    "remaining_alphabetical_movies": 1865,
+    "unrated_movies_hidden": 494,
+    "unrated_established_movies_kept": 213
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 5,
     "rating_below": 6.0,
-    "low_rated_movies_hidden": 11,
-    "low_rated_established_movies_kept": 155,
+    "low_rated_movies_hidden": 6,
+    "low_rated_established_movies_kept": 150,
     "reversible": true,
     "tv_series_untouched": true
   },
   "tv_series": {
-    "series_count": 26,
-    "episode_count": 1336,
+    "series_count": 25,
+    "episode_count": 1289,
     "episodes_by_show": {
-      "COMEDIANS of the world": 47,
       "Comedy Central Presents": 286,
       "Comedy Central Stand-Up Presents": 34,
       "Comedy Now!": 6,
@@ -2922,24 +2616,35 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 117,
+      "available_comedians": 126,
       "selected_comedians": [
-        "Mo Gilligan",
-        "Rory Scovel",
-        "Josh Johnson",
         "Tiffany Haddish",
-        "Stephen Lynch",
-        "Joan Rivers",
-        "Russell Howard",
-        "Michael McIntyre",
-        "Joe Lycett",
-        "Chris Porter",
-        "Roy Wood Jr.",
-        "James Acaster",
-        "Donald Glover",
         "Frankie Boyle",
-        "Billy Connolly"
+        "Simon Amstell",
+        "Romesh Ranganathan",
+        "Bill Maher",
+        "Jon Richardson Live",
+        "Ramy Youssef",
+        "Sinbad",
+        "Jeff Arcuri",
+        "Lee Evans",
+        "Frank Zappa",
+        "Chris D'Elia",
+        "Micky Flanagan",
+        "Matteo Lane",
+        "Stephen Lynch"
       ]
     }
+  },
+  "english_language_policy": {
+    "status": "Known non-English excluded; unknown language needs confirmation",
+    "known_non_english_source_records": 269,
+    "unknown_language_source_records": 1211,
+    "unknown_language_alphabetical_records": 631,
+    "known_non_english_published_movie_records": 0,
+    "multilingual_tv_shows_excluded": [
+      "COMEDIANS of the world"
+    ],
+    "note": "TMDB original_language is production metadata, not verified spoken audio. Unknowns remain eligible pending automated metadata backfill; YouTube uploads without audio-language metadata require review."
   }
 }

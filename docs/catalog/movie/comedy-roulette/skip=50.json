@@ -43,18 +43,18 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tt6051412",
-      "type": "movie",
-      "name": "Rory Scovel: The Charleston Special",
-      "poster": "https://image.tmdb.org/t/p/w500/oVs3HrnwZNPviYlAQmhXDGvyM6t.jpg",
-      "releaseInfo": "2015"
-    },
-    {
       "id": "tt2710694",
       "type": "movie",
       "name": "Frankie Boyle: The Last Days of Sodom",
       "poster": "https://image.tmdb.org/t/p/w500/2vbv0X6byXr9p0aIfeH9l8HBeBU.jpg",
       "releaseInfo": "2012"
+    },
+    {
+      "id": "tt23843036",
+      "type": "movie",
+      "name": "Matteo Lane: The Advice Special",
+      "poster": "https://image.tmdb.org/t/p/w500/rE5YUufool0izsw0ecL55TzVqxD.jpg",
+      "releaseInfo": "2022"
     },
     {
       "id": "tt21242916",
@@ -64,11 +64,11 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt6665988",
+      "id": "tt0089035",
       "type": "movie",
-      "name": "Roy Wood Jr.: Father Figure",
-      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
-      "releaseInfo": "2017"
+      "name": "Frank Zappa: Does Humor Belong in Music?",
+      "poster": "https://image.tmdb.org/t/p/w500/d8WiX7iLInFpp1IjrsBKRrvfEl5.jpg",
+      "releaseInfo": "1985"
     }
   ]
 }

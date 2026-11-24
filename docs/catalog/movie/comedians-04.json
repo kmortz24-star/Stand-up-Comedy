@@ -36,13 +36,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt14174040",
-      "type": "movie",
-      "name": "Kapil Sharma: I'm Not Done Yet",
-      "poster": "https://image.tmdb.org/t/p/w500/lRY6WhMVQATZqLFuXuTUQU7DYAN.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt22050660",
       "type": "movie",
       "name": "Kate Berlant: Cinnamon in the Wind",
@@ -350,6 +343,13 @@
       "type": "movie",
       "name": "Kevin Bridges: Live at the Commonwealth",
       "poster": "https://image.tmdb.org/t/p/w500/lKnpPa0tToCfZeh9Or05VJznhTU.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt4088138",
+      "type": "movie",
+      "name": "Kevin Bridges: Live at the Referendum",
+      "poster": "https://image.tmdb.org/t/p/w500/4o1Qf8u7vgFhxuU0dLrpwWcWJKl.jpg",
       "releaseInfo": "2014"
     }
   ]

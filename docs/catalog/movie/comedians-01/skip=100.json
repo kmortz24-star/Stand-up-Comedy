@@ -1,190 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0425509",
-      "type": "movie",
-      "name": "Anders Matthesen: Tal for dig selv",
-      "poster": "https://image.tmdb.org/t/p/w500/kPb3oTHqmdNhzQ6yBc9hfbS5LaK.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0949330",
-      "type": "movie",
-      "name": "Anders Matthesen - Anden på coke?",
-      "poster": "https://image.tmdb.org/t/p/w500/lyk3QbRp9KWsidzGvUd4BvTL7Ak.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1515730",
-      "type": "movie",
-      "name": "Anders Matthesen: ...vender tilbage",
-      "poster": "https://image.tmdb.org/t/p/w500/j9szUQAMLs7O4McIlgdFD7Xi9cf.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt6387190",
-      "type": "movie",
-      "name": "Anders Matthesen: Shhh",
-      "poster": "https://image.tmdb.org/t/p/w500/52kqU1PUqL70gsGYyexjyFyCrqg.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:652328",
-      "type": "movie",
-      "name": "Anders Matthesen - Anden bringer ud",
-      "poster": "https://image.tmdb.org/t/p/w500/59RYhXGrTujSGuHem2jJ1TPywYs.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:682633",
-      "type": "movie",
-      "name": "Anders Matthesen - Anden taler ud",
-      "poster": "https://image.tmdb.org/t/p/w500/jMxcluxB2LzNC8PeCQQF2X1pCIA.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt0898258",
-      "type": "movie",
-      "name": "André Wickström - Ensimmäinen jäähyväiskeikka",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt9336888",
-      "type": "movie",
-      "name": "The Ball of Letters",
-      "poster": "https://image.tmdb.org/t/p/w500/re3GNKZnGcKKCLqI2A8rucEKJpS.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0168459",
-      "type": "movie",
-      "name": "Andrew Dice Clay: The Diceman Cometh",
-      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0101726",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Dice Rules",
-      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tt0249353",
-      "type": "movie",
-      "name": "Andrew Dice Clay: For Ladies Only",
-      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0249355",
-      "type": "movie",
-      "name": "Andrew Dice Clay: No Apologies",
-      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt0249352",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Assume the Position",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0201680",
-      "type": "movie",
-      "name": "Andrew Dice Clay: I'm Over Here Now",
-      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt2605244",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Indestructible",
-      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt5875632",
-      "type": "movie",
-      "name": "Andrew Santino: Homefield Advantage",
-      "poster": "https://image.tmdb.org/t/p/w500/jFvA7qkcgNyv54BPJHlVRLCt9Ul.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt24640480",
-      "type": "movie",
-      "name": "Cheeseburger",
-      "poster": "https://image.tmdb.org/t/p/w500/r4rzop9rUbmJ3C9Oqk7wO62STcL.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt34381932",
-      "type": "movie",
-      "name": "Andrew Santino: White Noise",
-      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_UzAT_KfANSE",
-      "type": "movie",
-      "name": "Andrew Santino | Full Special: CHEESEBURGER (2023) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
-      "description": "Andrew Santino · 58 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:818650",
-      "type": "movie",
-      "name": "Andrew Schulz: 4:4:1",
-      "poster": "https://image.tmdb.org/t/p/w500/mgK2KbvcZDJxZu1zySu1fIImsI2.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:652620",
-      "type": "movie",
-      "name": "Andrew Schulz: The Crowd Work Special",
-      "poster": "https://image.tmdb.org/t/p/w500/oKngzrx3DBtu8FNScfAEqEC37Rk.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt15445790",
-      "type": "movie",
-      "name": "Andrew Schulz: Infamous",
-      "poster": "https://image.tmdb.org/t/p/w500/xAaSnjYMrqKxyi4N0P0F1W2NW9e.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt35705915",
-      "type": "movie",
-      "name": "Andrew Schulz: LIFE",
-      "poster": "https://image.tmdb.org/t/p/w500/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_rCZkp023MdY",
-      "type": "movie",
-      "name": "Andrew Schulz - INFAMOUS (2022) FULL SPECIAL [YouTube]",
-      "poster": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
-      "description": "Andrew Schulz · 59 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt0777179",
-      "type": "movie",
-      "name": "The 2nd Annual HBO Young Comedians Show",
-      "poster": "https://image.tmdb.org/t/p/w500/5zke4yr04Nkmc78VNMhDS19Gy9u.jpg",
-      "releaseInfo": "1977"
-    },
-    {
-      "id": "tt1562276",
-      "type": "movie",
-      "name": "Andy Parsons: Britain's Got Idiots",
-      "poster": "https://image.tmdb.org/t/p/w500/hCtIJNwecC9RBgLsj7lUj7XJYx1.jpg",
-      "releaseInfo": "2009"
-    },
-    {
       "id": "tt2605458",
       "type": "movie",
       "name": "Andy Parsons: Gruntled",
@@ -253,20 +69,6 @@
       "name": "Anjelah Johnson-Reyes: Ugly Baby",
       "poster": "https://image.tmdb.org/t/p/w500/ux1fYlc6rtnBLc2GBpZ6efMWjRW.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:690074",
-      "type": "movie",
-      "name": "Anne Bakland: Hvorfor er det altid mig?",
-      "poster": "https://image.tmdb.org/t/p/w500/xLwufMYxHkDTguWsgdFzjW6sJG6.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1237423",
-      "type": "movie",
-      "name": "Anne Bakland: Bullshit",
-      "poster": "https://image.tmdb.org/t/p/w500/de4Bb1a5luOlirqZsOLM0h9YMVA.jpg",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt15759876",
@@ -351,6 +153,203 @@
       "name": "Ari Shaffir: JEW",
       "poster": "https://image.tmdb.org/t/p/w500/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34753871",
+      "type": "movie",
+      "name": "Ari Shaffir: America's Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w500/qzFjVXte2FfV4dXZWgQvHGWhHmt.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36744239",
+      "type": "movie",
+      "name": "Arnez J: Not Gonna Stop",
+      "poster": "https://image.tmdb.org/t/p/w500/b4MfFig1m5o1dGkag86YWn9ajkr.jpg"
+    },
+    {
+      "id": "tt2631472",
+      "type": "movie",
+      "name": "Arnez J: Racially Motivated",
+      "poster": "https://image.tmdb.org/t/p/w500/sVuXC9CF8y2psLgkerzBB6Gh6tW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt0432719",
+      "type": "movie",
+      "name": "Artie Lange: It's the Whiskey Talkin'",
+      "poster": "https://image.tmdb.org/t/p/w500/6CM9ltYaEr2Th4EDUcClqm84jzA.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1534394",
+      "type": "movie",
+      "name": "Artie Lange: Jack and Coke",
+      "poster": "https://image.tmdb.org/t/p/w500/sxn2PKBp98ku1kvZ6fZpoH6iILI.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4139598",
+      "type": "movie",
+      "name": "Artie Lange: The Stench of Failure",
+      "poster": "https://image.tmdb.org/t/p/w500/gZcNXYWhtC1JXQxfiIZmQI4ln1k.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6140294",
+      "type": "movie",
+      "name": "The Nasty Show hosted by Artie Lange",
+      "poster": "https://image.tmdb.org/t/p/w500/EbFZCabg9SERYpeyITvtsjJUT3.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt27604405",
+      "type": "movie",
+      "name": "Ashley Gavin: Live in Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/6ipV6GrFzntdM66EnPe4hEVdfnP.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt21335620",
+      "type": "movie",
+      "name": "Atsuko Okatsuka: The Intruder",
+      "poster": "https://image.tmdb.org/t/p/w500/vnQZlr6BkJ3OSp6kK9YTaWCusn5.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33319618",
+      "type": "movie",
+      "name": "Atsuko Okatsuka: Father",
+      "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37391335",
+      "type": "movie",
+      "name": "Aymeric Lompret : Tant Pis",
+      "poster": "https://image.tmdb.org/t/p/w500/1MfT9a2wWat5HhEI1HKBMJAbq1K.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt40525855",
+      "type": "movie",
+      "name": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
+      "poster": "https://image.tmdb.org/t/p/w500/ir2jBFW4CeQwE4kIPWdLii0eHTx.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39333550",
+      "type": "movie",
+      "name": "Az – Exister",
+      "poster": "https://image.tmdb.org/t/p/w500/hvA86X4K5ipGZrvsM1NlgRMYYFp.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1588412",
+      "type": "movie",
+      "name": "Aziz Ansari: Intimate Moments for a Sensual Evening",
+      "poster": "https://image.tmdb.org/t/p/w500/nx5WPhgoGLM8U6xhPFA4r1rNsHH.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2302529",
+      "type": "movie",
+      "name": "Aziz Ansari: Dangerously Delicious",
+      "poster": "https://image.tmdb.org/t/p/w500/8YrfERnlUJyR9k1gvtapCtIWcxF.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2836450",
+      "type": "movie",
+      "name": "Aziz Ansari: Buried Alive",
+      "poster": "https://image.tmdb.org/t/p/w500/rGkwXZEP1zLV6HBSbDBjxi8wXCH.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4530184",
+      "type": "movie",
+      "name": "Aziz Ansari: Live at Madison Square Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/jmZKABNheJNx6etJlGTPAvmJce9.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt10575038",
+      "type": "movie",
+      "name": "Aziz Ansari: Right Now",
+      "poster": "https://image.tmdb.org/t/p/w500/5vaYOkQ3MxOnxQLeKUNXiAfZVHb.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt17005888",
+      "type": "movie",
+      "name": "Aziz Ansari: Nightclub Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/hgo2USQOTbiQR0HzwQQ7wuXSfCi.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt21464298",
+      "type": "movie",
+      "name": "BeBe Zahara Benet: Africa Is Not a Country",
+      "poster": "https://image.tmdb.org/t/p/w500/4hc3CEpL59dmxVxQXhS25icXkiK.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_yRMgKJov5_U",
+      "type": "movie",
+      "name": "Ben Brainard: What a Mature Child | Full Stand Up Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
+      "description": "Ben Brainard · 77 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0283259",
+      "type": "movie",
+      "name": "Ben Elton: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/bVpaWfFseObMDVYVF7eoCGVyLjJ.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tmdb:158328",
+      "type": "movie",
+      "name": "Ben Elton: The Get A Grip Tour Live",
+      "poster": "https://image.tmdb.org/t/p/w500/ozWb9ujjDZUrKEty0myblta7ynS.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt32801084",
+      "type": "movie",
+      "name": "Ben Elton: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/wax5SE4LuAENNpuN1UVKg3bwJSy.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt28656741",
+      "type": "movie",
+      "name": "Ben Roy - Hyena",
+      "poster": "https://image.tmdb.org/t/p/w500/qqexDiGhfdp7EsGJLdNuDy09Q4h.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:448547",
+      "type": "movie",
+      "name": "Bernard Manning - Ungagged",
+      "poster": "https://image.tmdb.org/t/p/w500/52GUshiLNEd3RhmEMSgch1X0sSX.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt6545220",
+      "type": "movie",
+      "name": "Bert Kreischer: The Machine",
+      "poster": "https://image.tmdb.org/t/p/w500/3290OL6UCXFRpbIv6nznPXkWAgy.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8786466",
+      "type": "movie",
+      "name": "Bert Kreischer: Secret Time",
+      "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
+      "releaseInfo": "2018"
     }
   ]
 }

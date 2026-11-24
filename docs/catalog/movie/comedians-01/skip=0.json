@@ -50,27 +50,6 @@
       "releaseInfo": "2018"
     },
     {
-      "id": "tmdb:445392",
-      "type": "movie",
-      "name": "Adam & Noah: Hva' Sker Der Dansker!?",
-      "poster": "https://image.tmdb.org/t/p/w500/1nkZ6DZoQWxsu0VQrJfHtYuxZXo.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tmdb:649594",
-      "type": "movie",
-      "name": "Adam & Noah: Klogskab",
-      "poster": "https://image.tmdb.org/t/p/w500/jLL0PixdoRJOaVNxjxccwgBPwr5.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1027513",
-      "type": "movie",
-      "name": "Adam & Noah - Farvel og tjak",
-      "poster": "https://image.tmdb.org/t/p/w500/wZU5bwYLS7AIBWKfVKXUSDX0pNQ.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt8547366",
       "type": "movie",
       "name": "Adam Carolla: Not Taco Bell Material",
@@ -226,27 +205,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:488965",
-      "type": "movie",
-      "name": "Afonso Padilha: Não Tá Compensando Ser Adulto",
-      "poster": "https://image.tmdb.org/t/p/w500/xU9LRFCHFWt1hDJvPixZmYSGyUR.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt12930476",
-      "type": "movie",
-      "name": "Afonso Padilha: Classless",
-      "poster": "https://image.tmdb.org/t/p/w500/fZY9hI0cvny3XwzkZnU0yZiWQNn.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:792791",
-      "type": "movie",
-      "name": "Afonso Padilha: Desessencial",
-      "poster": "https://image.tmdb.org/t/p/w500/at4b9z83UNGHLSc1eLXEdOpUbxG.jpg",
-      "releaseInfo": "2021"
-    },
-    {
       "id": "tt11459872",
       "type": "movie",
       "name": "Ahir Shah: Dots",
@@ -338,18 +296,60 @@
       "releaseInfo": "2014"
     },
     {
-      "id": "tmdb:435576",
+      "id": "tt1175487",
       "type": "movie",
-      "name": "Al Pitcher: Fy Fan Sweden!",
-      "poster": "https://image.tmdb.org/t/p/w500/oHnxo4wepXFSdYXGzY3p88fAH4.jpg",
-      "releaseInfo": "2017"
+      "name": "Alan Carr: Tooth Fairy Live",
+      "poster": "https://image.tmdb.org/t/p/w500/dXc27Th9cEYj62GAjG06VjNBoqJ.jpg",
+      "releaseInfo": "2007"
     },
     {
-      "id": "tt10462774",
+      "id": "tt2112889",
       "type": "movie",
-      "name": "Al Pitcher: Sweden Syndrome",
-      "poster": "https://image.tmdb.org/t/p/w500/55FZ6WXLFEEzzVuRUUg1kMhrBdw.jpg",
-      "releaseInfo": "2019"
+      "name": "Alan Carr: Spexy Beast",
+      "poster": "https://image.tmdb.org/t/p/w500/jSbEAsDbnd5LFudrs26xX5v7FY8.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt37279440",
+      "type": "movie",
+      "name": "Alan Carr: Yap, Yap, Yap!",
+      "poster": "https://image.tmdb.org/t/p/w500/fXtvnZGNIekhm138dRGfd8jBEqB.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt31249499",
+      "type": "movie",
+      "name": "Alan Carr: Regional Trinket",
+      "poster": "https://image.tmdb.org/t/p/w500/ob4HZjoz2oLNzcPs6AnSAROhvXl.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt38841295",
+      "type": "movie",
+      "name": "One Night Out with Alan Cumming",
+      "poster": "https://image.tmdb.org/t/p/w500/28zeLpd82Nmx04q3CZschj3j0o.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5610094",
+      "type": "movie",
+      "name": "Alex Agnew: More Human Than Human",
+      "poster": "https://image.tmdb.org/t/p/w500/AgSU2xRnOzJ0EVPznis2yEKXdnK.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tmdb:1378485",
+      "type": "movie",
+      "name": "Alex Edelman: Until Now",
+      "poster": "https://image.tmdb.org/t/p/w500/wNppVqss6P2VcXzYz20msYeiipm.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt31727542",
+      "type": "movie",
+      "name": "Alex Edelman: Just for Us",
+      "poster": "https://image.tmdb.org/t/p/w500/kUFBY1vF4sCHVTv1Oy9s23269Or.jpg",
+      "releaseInfo": "2024"
     }
   ]
 }

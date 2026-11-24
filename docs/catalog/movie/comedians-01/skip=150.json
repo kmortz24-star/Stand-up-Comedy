@@ -1,245 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt34753871",
-      "type": "movie",
-      "name": "Ari Shaffir: America's Sweetheart",
-      "poster": "https://image.tmdb.org/t/p/w500/qzFjVXte2FfV4dXZWgQvHGWhHmt.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt11256966",
-      "type": "movie",
-      "name": "Arjen Lubach: LIVE",
-      "poster": "https://image.tmdb.org/t/p/w500/lv4L12y3Fr4oOmjTCGWtxb0nRgO.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt35227072",
-      "type": "movie",
-      "name": "Arjen Lubach: STRIJDER",
-      "poster": "https://image.tmdb.org/t/p/w500/kAKOh4JKq3aniYOdM7IOeIJMLfy.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36744239",
-      "type": "movie",
-      "name": "Arnez J: Not Gonna Stop",
-      "poster": "https://image.tmdb.org/t/p/w500/b4MfFig1m5o1dGkag86YWn9ajkr.jpg"
-    },
-    {
-      "id": "tt2631472",
-      "type": "movie",
-      "name": "Arnez J: Racially Motivated",
-      "poster": "https://image.tmdb.org/t/p/w500/sVuXC9CF8y2psLgkerzBB6Gh6tW.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt0432719",
-      "type": "movie",
-      "name": "Artie Lange: It's the Whiskey Talkin'",
-      "poster": "https://image.tmdb.org/t/p/w500/6CM9ltYaEr2Th4EDUcClqm84jzA.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1534394",
-      "type": "movie",
-      "name": "Artie Lange: Jack and Coke",
-      "poster": "https://image.tmdb.org/t/p/w500/sxn2PKBp98ku1kvZ6fZpoH6iILI.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt4139598",
-      "type": "movie",
-      "name": "Artie Lange: The Stench of Failure",
-      "poster": "https://image.tmdb.org/t/p/w500/gZcNXYWhtC1JXQxfiIZmQI4ln1k.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt6140294",
-      "type": "movie",
-      "name": "The Nasty Show hosted by Artie Lange",
-      "poster": "https://image.tmdb.org/t/p/w500/EbFZCabg9SERYpeyITvtsjJUT3.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt19862496",
-      "type": "movie",
-      "name": "Artur Chaparyan: 199",
-      "poster": "https://image.tmdb.org/t/p/w500/rVEc6doASVkn9GK9xNVJa297sAR.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt27604405",
-      "type": "movie",
-      "name": "Ashley Gavin: Live in Chicago",
-      "poster": "https://image.tmdb.org/t/p/w500/6ipV6GrFzntdM66EnPe4hEVdfnP.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1565438",
-      "type": "movie",
-      "name": "Ata Demirer: Tek Kişilik Dev Kadro",
-      "poster": "https://image.tmdb.org/t/p/w500/ujNXOFPyg6KIyJj5X90ncBvbxkp.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt3758462",
-      "type": "movie",
-      "name": "Ata Demirer: Tek Kişilik Dev Kadro 2",
-      "poster": "https://image.tmdb.org/t/p/w500/iOgnRjGo7mE8pJl1e5EchUZa16D.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt13663146",
-      "type": "movie",
-      "name": "Ata Demirer Gazinosu",
-      "poster": "https://image.tmdb.org/t/p/w500/jsWrAyr7Hd8kNBmIEusNmqTOMrm.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt21335620",
-      "type": "movie",
-      "name": "Atsuko Okatsuka: The Intruder",
-      "poster": "https://image.tmdb.org/t/p/w500/vnQZlr6BkJ3OSp6kK9YTaWCusn5.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33319618",
-      "type": "movie",
-      "name": "Atsuko Okatsuka: Father",
-      "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37391335",
-      "type": "movie",
-      "name": "Aymeric Lompret : Tant Pis",
-      "poster": "https://image.tmdb.org/t/p/w500/1MfT9a2wWat5HhEI1HKBMJAbq1K.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt40525855",
-      "type": "movie",
-      "name": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
-      "poster": "https://image.tmdb.org/t/p/w500/ir2jBFW4CeQwE4kIPWdLii0eHTx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39333550",
-      "type": "movie",
-      "name": "Az – Exister",
-      "poster": "https://image.tmdb.org/t/p/w500/hvA86X4K5ipGZrvsM1NlgRMYYFp.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1588412",
-      "type": "movie",
-      "name": "Aziz Ansari: Intimate Moments for a Sensual Evening",
-      "poster": "https://image.tmdb.org/t/p/w500/nx5WPhgoGLM8U6xhPFA4r1rNsHH.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2302529",
-      "type": "movie",
-      "name": "Aziz Ansari: Dangerously Delicious",
-      "poster": "https://image.tmdb.org/t/p/w500/8YrfERnlUJyR9k1gvtapCtIWcxF.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt2836450",
-      "type": "movie",
-      "name": "Aziz Ansari: Buried Alive",
-      "poster": "https://image.tmdb.org/t/p/w500/rGkwXZEP1zLV6HBSbDBjxi8wXCH.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4530184",
-      "type": "movie",
-      "name": "Aziz Ansari: Live at Madison Square Garden",
-      "poster": "https://image.tmdb.org/t/p/w500/jmZKABNheJNx6etJlGTPAvmJce9.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt10575038",
-      "type": "movie",
-      "name": "Aziz Ansari: Right Now",
-      "poster": "https://image.tmdb.org/t/p/w500/5vaYOkQ3MxOnxQLeKUNXiAfZVHb.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt17005888",
-      "type": "movie",
-      "name": "Aziz Ansari: Nightclub Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/hgo2USQOTbiQR0HzwQQ7wuXSfCi.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt21464298",
-      "type": "movie",
-      "name": "BeBe Zahara Benet: Africa Is Not a Country",
-      "poster": "https://image.tmdb.org/t/p/w500/4hc3CEpL59dmxVxQXhS25icXkiK.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "standupyt_yRMgKJov5_U",
-      "type": "movie",
-      "name": "Ben Brainard: What a Mature Child | Full Stand Up Comedy Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
-      "description": "Ben Brainard · 77 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0283259",
-      "type": "movie",
-      "name": "Ben Elton: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/bVpaWfFseObMDVYVF7eoCGVyLjJ.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tmdb:158328",
-      "type": "movie",
-      "name": "Ben Elton: The Get A Grip Tour Live",
-      "poster": "https://image.tmdb.org/t/p/w500/ozWb9ujjDZUrKEty0myblta7ynS.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt32801084",
-      "type": "movie",
-      "name": "Ben Elton: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/wax5SE4LuAENNpuN1UVKg3bwJSy.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt28656741",
-      "type": "movie",
-      "name": "Ben Roy - Hyena",
-      "poster": "https://image.tmdb.org/t/p/w500/qqexDiGhfdp7EsGJLdNuDy09Q4h.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:448547",
-      "type": "movie",
-      "name": "Bernard Manning - Ungagged",
-      "poster": "https://image.tmdb.org/t/p/w500/52GUshiLNEd3RhmEMSgch1X0sSX.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tt6545220",
-      "type": "movie",
-      "name": "Bert Kreischer: The Machine",
-      "poster": "https://image.tmdb.org/t/p/w500/3290OL6UCXFRpbIv6nznPXkWAgy.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt8786466",
-      "type": "movie",
-      "name": "Bert Kreischer: Secret Time",
-      "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
-      "releaseInfo": "2018"
-    },
-    {
       "id": "tt11810424",
       "type": "movie",
       "name": "Bert Kreischer: Hey Big Boy",
@@ -350,6 +111,243 @@
       "name": "Bill Burr: Why Do I Do This?",
       "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
       "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1717578",
+      "type": "movie",
+      "name": "Bill Burr: Let It Go",
+      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2290153",
+      "type": "movie",
+      "name": "Bill Burr: You People Are All The Same",
+      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3823690",
+      "type": "movie",
+      "name": "Bill Burr: I'm Sorry You Feel That Way",
+      "poster": "https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6184894",
+      "type": "movie",
+      "name": "Bill Burr: Walk Your Way Out",
+      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10847306",
+      "type": "movie",
+      "name": "Bill Burr: Paper Tiger",
+      "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt20723672",
+      "type": "movie",
+      "name": "Bill Burr Presents: Friends Who Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/9gSpgNwjP3Qg8LAsrBgo1Fu6QdL.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt21106500",
+      "type": "movie",
+      "name": "Bill Burr: Live at Red Rocks",
+      "poster": "https://image.tmdb.org/t/p/w500/w3VmDVhgVq8c9lWNkMzsSeJIdgA.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34686029",
+      "type": "movie",
+      "name": "Bill Burr: Drop Dead Years",
+      "poster": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_uCJDLgQ6xFk",
+      "type": "movie",
+      "name": "Bill Burr - Let It Go - 2010 - Stand-up Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
+      "description": "Bill Burr · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0083652",
+      "type": "movie",
+      "name": "Bill Cosby: Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/t685Vbw4q2PxgnrlBFpgZO607D0.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt1002564",
+      "type": "movie",
+      "name": "Cutting Edge Comedians of the '60s & '70s",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt3053202",
+      "type": "movie",
+      "name": "Bill Cosby: Far From Finished",
+      "poster": "https://image.tmdb.org/t/p/w500/49Z6MXy7zfzLfxE8oqzQeoDBPwu.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt8245444",
+      "type": "movie",
+      "name": "Bill Engvall's New All Stars of Country Comedy: Volume 1",
+      "poster": "https://image.tmdb.org/t/p/w500/cd2OR7LBinI5qdQoVfTYH55B3tC.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tmdb:311419",
+      "type": "movie",
+      "name": "Bill Engvall's New All Stars of Country Comedy: Volume 2",
+      "poster": "https://image.tmdb.org/t/p/w500/holmcksR1Dc6QaicAr87GACalvS.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1474309",
+      "type": "movie",
+      "name": "Bill Engvall: Aged & Confused",
+      "poster": "https://image.tmdb.org/t/p/w500/jrjc1lRHB0E5Qte2DcYLoVdThod.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt27927525",
+      "type": "movie",
+      "name": "Bill Engvall: Here's Your Sign, It's Finally Time My Last Show",
+      "poster": "https://image.tmdb.org/t/p/w500/rTkODcyK8dOOvGVbiNSHmnQLlCM.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt0148668",
+      "type": "movie",
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0152183",
+      "type": "movie",
+      "name": "Bill Hicks: Revelations",
+      "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt2287418",
+      "type": "movie",
+      "name": "Bill Hicks: It's Just a Ride",
+      "poster": "https://image.tmdb.org/t/p/w500/4rGNrqYp13zK4No5resmtlmQasn.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0836636",
+      "type": "movie",
+      "name": "Bill Hicks Live: Satirist, Social Critic, Stand-up Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/lz2poVfHSWoEDo4GbAYmOIXKD13.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0666146",
+      "type": "movie",
+      "name": "One-Night Stand: Bill Maher",
+      "poster": "https://image.tmdb.org/t/p/w500/sSQ1aL528wz79sAyJNIl1QohMCN.jpg",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt1407949",
+      "type": "movie",
+      "name": "Bill Maher: Stuff That Struck Me Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/ebpdmXoJaOB5IKo0jBW4ZgKXJop.jpg",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0459643",
+      "type": "movie",
+      "name": "Bill Maher: The Golden Goose Special",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0473006",
+      "type": "movie",
+      "name": "Bill Maher: I'm Swiss",
+      "poster": "https://image.tmdb.org/t/p/w500/pUL8RNha6Ew0weQXtCcly3craH0.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1039915",
+      "type": "movie",
+      "name": "Bill Maher: The Decider",
+      "poster": "https://image.tmdb.org/t/p/w500/b25OuiVRigfGBryPQ2QwsGkcecI.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1600656",
+      "type": "movie",
+      "name": "Bill Maher: But I'm Not Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/aZuGEdTcYg5hsc7jMar98vwjvGc.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2266679",
+      "type": "movie",
+      "name": "Bill Maher: CrazyStupidPolitics",
+      "poster": "https://image.tmdb.org/t/p/w500/dfeps3qWydbrR2ITN8RLLj5xzoc.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3918650",
+      "type": "movie",
+      "name": "Bill Maher: Live from D.C.",
+      "poster": "https://image.tmdb.org/t/p/w500/gNI5Y13U37p0KKwjlKcnD67vGkx.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt35522606",
+      "type": "movie",
+      "name": "Bill Maher - Whiny Little Bitch Live",
+      "poster": "https://image.tmdb.org/t/p/w500/q7xx1abcdcDv1UBDrZevlozCJ3Z.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8398704",
+      "type": "movie",
+      "name": "Bill Maher: Live From Oklahoma",
+      "poster": "https://image.tmdb.org/t/p/w500/ucKMETsi8KuL9XcCTgECJA4DoUq.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt18271228",
+      "type": "movie",
+      "name": "Bill Maher: #Adulting",
+      "poster": "https://image.tmdb.org/t/p/w500/7CwC1vVE6Zzs4pGlhYpw5THJijq.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34491055",
+      "type": "movie",
+      "name": "Bill Maher: Is Anyone Else Seeing This?",
+      "poster": "https://image.tmdb.org/t/p/w500/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt7765808",
+      "type": "movie",
+      "name": "Billy Anderson: America's Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w500/nE5d1jRluJACvGPYeivRxMCTs7Z.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:777819",
+      "type": "movie",
+      "name": "Billy Connolly: In Concert",
+      "releaseInfo": "1978"
     }
   ]
 }

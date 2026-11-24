@@ -3,8 +3,8 @@
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 5,
     "rating_below": 6.0,
-    "low_rated_movies_hidden": 11,
-    "low_rated_established_movies_kept": 155,
+    "low_rated_movies_hidden": 6,
+    "low_rated_established_movies_kept": 150,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -17,23 +17,9 @@
       "rating": 4.4
     },
     {
-      "id": "tt8004552",
-      "performer": "Agustín Aristarán",
-      "title": "Agustín Aristarán: Soy Rada",
-      "votes": 10,
-      "rating": 5.8
-    },
-    {
       "id": "tmdb:437722",
       "performer": "Bérengère Krief",
       "title": "Bérengère Krief - Le Trianon",
-      "votes": 5,
-      "rating": 5.8
-    },
-    {
-      "id": "tt6502534",
-      "performer": "Daniel Sosa",
-      "title": "Daniel Sosa: Sosafado",
       "votes": 5,
       "rating": 5.8
     },
@@ -52,32 +38,11 @@
       "rating": 4.6
     },
     {
-      "id": "tmdb:1321037",
-      "performer": "Kyan Khojandi",
-      "title": "Sixty-nine",
-      "votes": 5,
-      "rating": 5.8
-    },
-    {
-      "id": "tt2117912",
-      "performer": "Linda P",
-      "title": "Linda P: Rommen er en tøjte",
-      "votes": 5,
-      "rating": 5.9
-    },
-    {
       "id": "tt14426518",
       "performer": "Malik Bentalha",
       "title": "Malik Bentalha : Encore",
       "votes": 14,
       "rating": 5.9
-    },
-    {
-      "id": "tt18396984",
-      "performer": "Michela Giraud",
-      "title": "Michela Giraud: The Truth, I Swear!",
-      "votes": 16,
-      "rating": 5.0
     },
     {
       "id": "tt33088662",
@@ -222,13 +187,6 @@
       "rating": 4.8
     },
     {
-      "id": "tt27441605",
-      "performer": "Biswa Kalyan Rath",
-      "title": "Biswa Kalyan Rath's Mood Kharaab",
-      "votes": 6,
-      "rating": 5.7
-    },
-    {
       "id": "tt1091744",
       "performer": "Bob Saget",
       "title": "Bob Saget: That Ain't Right",
@@ -244,7 +202,7 @@
     },
     {
       "id": "tt7122106",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob the Drag Queen: Suspiciously Large Woman",
       "votes": 8,
       "rating": 5.625
@@ -349,7 +307,7 @@
     },
     {
       "id": "tt8563704",
-      "performer": "drew michael",
+      "performer": "Drew Michael",
       "title": "Drew Michael",
       "votes": 11,
       "rating": 5.9
@@ -409,13 +367,6 @@
       "title": "Frankie Quiñones: Damn That's Crazy",
       "votes": 6,
       "rating": 4.9
-    },
-    {
-      "id": "tt6471060",
-      "performer": "Gad Elmaleh",
-      "title": "Kev Adams & Gad Elmaleh - Kev Gad, tout est possible",
-      "votes": 97,
-      "rating": 5.897
     },
     {
       "id": "tt0332720",
@@ -495,13 +446,6 @@
       "rating": 3.9
     },
     {
-      "id": "tt13400146",
-      "performer": "Hazel Brugger",
-      "title": "Hazel Brugger: Tropical",
-      "votes": 9,
-      "rating": 5.9
-    },
-    {
       "id": "tt33209759",
       "performer": "Ilana Glazer",
       "title": "Ilana Glazer: Human Magic",
@@ -513,13 +457,6 @@
       "performer": "Iliza Shlesinger",
       "title": "Iliza Shlesinger: A Different Animal",
       "votes": 18,
-      "rating": 5.2
-    },
-    {
-      "id": "tt33883401",
-      "performer": "Ismo Leikola",
-      "title": "ISMO – Breaking Bad English",
-      "votes": 6,
       "rating": 5.2
     },
     {
@@ -920,13 +857,6 @@
       "title": "Ralphie May: Unruly",
       "votes": 20,
       "rating": 5.0
-    },
-    {
-      "id": "tt31498817",
-      "performer": "Redouane Bougheraba",
-      "title": "Redouane Bougheraba : On m'appelle Marseille",
-      "votes": 13,
-      "rating": 5.808
     },
     {
       "id": "tt2339613",

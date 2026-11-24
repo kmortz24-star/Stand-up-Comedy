@@ -1,132 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0869151",
-      "type": "movie",
-      "name": "Theo Maassen: Ruwe Pit",
-      "poster": "https://image.tmdb.org/t/p/w500/rb3rKiP10QqUsi4iQyL3i4cUfTe.jpg",
-      "releaseInfo": "1998"
-    },
-    {
-      "id": "tt0951386",
-      "type": "movie",
-      "name": "Theo Maassen: Tegen beter weten in",
-      "poster": "https://image.tmdb.org/t/p/w500/EWRPpTu04sSvXzDalMY3SLatzp.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt5066564",
-      "type": "movie",
-      "name": "Theo Von: No Offense",
-      "poster": "https://image.tmdb.org/t/p/w500/bXlygET5oc2ElepvYHJ2lW37wEX.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt48933405",
-      "type": "movie",
-      "name": "Theo Von: I'm Doing Fine",
-      "poster": "https://image.tmdb.org/t/p/w500/vsi8ZKYKXmoQDFuZ9HJu92jrQei.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1515805",
-      "type": "movie",
-      "name": "Thomas Hartmann: Hartmann 3",
-      "poster": "https://image.tmdb.org/t/p/w500/1oLJkFqRJ2xYeArgGJvMBpBBROO.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt2054806",
-      "type": "movie",
-      "name": "Thomas Hartmann: Science Faction",
-      "poster": "https://image.tmdb.org/t/p/w500/sQGuxQgWLQgrXPK2meAjPWyZMGD.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tmdb:363989",
-      "type": "movie",
-      "name": "Thomas Hartmann: Betamax",
-      "poster": "https://image.tmdb.org/t/p/w500/leVJduc3UE70yPyPsFy4IefcJPz.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:375424",
-      "type": "movie",
-      "name": "Thomas Hartmann: Jokebox",
-      "poster": "https://image.tmdb.org/t/p/w500/sdV3yU80ZaIV2Dr7f4Tmb18NmVl.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:567055",
-      "type": "movie",
-      "name": "Thomas Hartmann - Kærlighed",
-      "poster": "https://image.tmdb.org/t/p/w500/edohBQvcJJhQSJZeyqX1IhuZTai.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1565226",
-      "type": "movie",
-      "name": "Thomas Hartmann: Når det så er sagt",
-      "poster": "https://image.tmdb.org/t/p/w500/qKwIkxhBttJ19MGGdXRkG48zSxg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39995688",
-      "type": "movie",
-      "name": "Thomas Marty - Allez, la bise !",
-      "poster": "https://image.tmdb.org/t/p/w500/mgM4Luo0WOCJ2gQatK6eJRzbOQd.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1273809",
-      "type": "movie",
-      "name": "Magt - Supermagt",
-      "poster": "https://image.tmdb.org/t/p/w500/sm5Yg6hdteeVO8H5anN6cKU3pEa.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:668755",
-      "type": "movie",
-      "name": "Thomas Warberg: Perfektion, overskud og andre lorteord",
-      "poster": "https://image.tmdb.org/t/p/w500/4dxSI9jKmZWp3R4CkvUM83xBpr4.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:848725",
-      "type": "movie",
-      "name": "Thomas Warberg: Et storslået menneske",
-      "poster": "https://image.tmdb.org/t/p/w500/2TtYbRA01UGjbqRYKddpvvuiRmP.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1192066",
-      "type": "movie",
-      "name": "Thomas Warberg: Du har det ikke fra mig",
-      "poster": "https://image.tmdb.org/t/p/w500/tiyCdd4lyUc8iK1R6YSvFFnKUXj.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt22631984",
-      "type": "movie",
-      "name": "Thomas Wiesel: It's Okay.",
-      "poster": "https://image.tmdb.org/t/p/w500/onRU5IgeLrmfYmnEXZ61NGqJ35a.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt0397649",
-      "type": "movie",
-      "name": "Wivels - Vaffelbar",
-      "poster": "https://image.tmdb.org/t/p/w500/iMhKlSUZlwahEIdTIH9RMOvnMBa.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0456690",
-      "type": "movie",
-      "name": "Thomas Wivel: Med ryggen mod muren",
-      "poster": "https://image.tmdb.org/t/p/w500/oUY5zXJtTYGPq63T9f2aJIUciqa.jpg",
-      "releaseInfo": "2005"
-    },
-    {
       "id": "tt32544305",
       "type": "movie",
       "name": "Antipatriota",
@@ -349,6 +223,132 @@
       "name": "Tobias Dybvad: Levemand",
       "poster": "https://image.tmdb.org/t/p/w500/xA0ulWoTS0WOTcwiF4U7m2J1IVp.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt6856186",
+      "type": "movie",
+      "name": "Todd Barry: Spicy Honey",
+      "poster": "https://image.tmdb.org/t/p/w500/sdOmJ4Ha1rg9IW6Q1NlJ6xL91K8.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt28787142",
+      "type": "movie",
+      "name": "Todd Barry: Domestic Shorthair",
+      "poster": "https://image.tmdb.org/t/p/w500/a1lnRbjWnBk0TAnlAqUUxuA8OM4.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2803424",
+      "type": "movie",
+      "name": "Todd Glass: Talks About Stuff",
+      "poster": "https://image.tmdb.org/t/p/w500/eMdXEBmhYCF8PM06baGIbQaD9nH.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt7752142",
+      "type": "movie",
+      "name": "Todd Glass: Act Happy",
+      "poster": "https://image.tmdb.org/t/p/w500/eEJOhyYpHBxIqeiXi1j44WLWchE.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt33045416",
+      "type": "movie",
+      "name": "Tom Cashman: Pests",
+      "poster": "https://image.tmdb.org/t/p/w500/8wehyxXsm0y83lSuvyWugtuVIxf.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt36131610",
+      "type": "movie",
+      "name": "Tom Cashman: After the Fall",
+      "poster": "https://image.tmdb.org/t/p/w500/vqnY9b4TdxuRqTaskeLlRMf4Gf9.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt43615884",
+      "type": "movie",
+      "name": "Tom Cashman: The Formula for Happiness",
+      "poster": "https://image.tmdb.org/t/p/w500/ieyinNTyHYOIY0rxxafz80igmpI.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2827520",
+      "type": "movie",
+      "name": "Tom Green: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/2lFYRH7mFaGJlH1rsdgrBkrSDtQ.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tmdb:958573",
+      "type": "movie",
+      "name": "Tom Green: Live in Philadelphia",
+      "poster": "https://image.tmdb.org/t/p/w500/w40hz6NRz66NNVN6yJGfSUUVluR.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt32832547",
+      "type": "movie",
+      "name": "Tom Green: I Got a Mule!",
+      "poster": "https://image.tmdb.org/t/p/w500/uYXEmuS9GlVdYSAZrTZdeR1Ahth.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1910649",
+      "type": "movie",
+      "name": "Tom Papa: Live in New York City",
+      "poster": "https://image.tmdb.org/t/p/w500/qT9ViKGZWHxNrOEtN2ckbDheTzZ.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2769276",
+      "type": "movie",
+      "name": "Tom Papa: Freaked Out",
+      "poster": "https://image.tmdb.org/t/p/w500/9uUxO9XSDmRKbMMzGofpAuaTf7W.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt11177308",
+      "type": "movie",
+      "name": "Tom Papa: You're Doing Great!",
+      "poster": "https://image.tmdb.org/t/p/w500/8ba7sfo3MU2DuvxJg6DmlThSYmg.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt22813018",
+      "type": "movie",
+      "name": "Tom Papa: Home Free",
+      "poster": "https://image.tmdb.org/t/p/w500/kSYTRZO7f2DJvuOAOHvq9csKrqY.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt3500822",
+      "type": "movie",
+      "name": "Tom Segura: Completely Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/hguiOqqFzYPwIIm6GZBjTAjiqzH.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt4970632",
+      "type": "movie",
+      "name": "Tom Segura: Mostly Stories",
+      "poster": "https://image.tmdb.org/t/p/w500/wELcQAA77XLqYL09wZH5FAMkmnU.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt7379330",
+      "type": "movie",
+      "name": "Tom Segura: Disgraceful",
+      "poster": "https://image.tmdb.org/t/p/w500/ll5QVhDsp6MbNWWZAGXc8vFu6Y9.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11861072",
+      "type": "movie",
+      "name": "Tom Segura: Ball Hog",
+      "poster": "https://image.tmdb.org/t/p/w500/cjRt6PYRGXNvvxJLgbZaX0Xf1LA.jpg",
+      "releaseInfo": "2020"
     }
   ]
 }

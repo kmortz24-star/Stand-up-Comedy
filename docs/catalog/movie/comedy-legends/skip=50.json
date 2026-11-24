@@ -1,12 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:750386",
-      "type": "movie",
-      "name": "Robin Williams: Comic Genius",
-      "poster": "https://image.tmdb.org/t/p/w500/obGbYLtCttdEw8mxkBUfeiAndJC.jpg"
-    },
-    {
       "id": "tt0196055",
       "type": "movie",
       "name": "Robin Williams: An Evening at the Met",
