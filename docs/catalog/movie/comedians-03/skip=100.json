@@ -1,55 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt1295909",
-      "type": "movie",
-      "name": "Jeff Dunham's Very Special Christmas Special",
-      "poster": "https://image.tmdb.org/t/p/w500/l7W6hvdj7B3fguhxRVqps4Hgw0h.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt2058636",
-      "type": "movie",
-      "name": "Jeff Dunham: Controlled Chaos",
-      "poster": "https://image.tmdb.org/t/p/w500/8LPGtz6m4g1JB9ZdkpmEcwRXNbn.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2134080",
-      "type": "movie",
-      "name": "Jeff Dunham: Birth of a Dummy",
-      "poster": "https://image.tmdb.org/t/p/w500/8TPThkmYKUM5fNSyZT6h6guRVUG.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2461736",
-      "type": "movie",
-      "name": "Jeff Dunham: Minding the Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/ra1UaHU8bKBesaQ6BqIOaSvRk07.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt4209802",
-      "type": "movie",
-      "name": "Jeff Dunham: All Over the Map",
-      "poster": "https://image.tmdb.org/t/p/w500/9o97CIpO5FgNXBYoXYxfgoV4lrz.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt5038776",
-      "type": "movie",
-      "name": "Jeff Dunham: Unhinged in Hollywood",
-      "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt7364706",
-      "type": "movie",
-      "name": "Jeff Dunham: Relative Disaster",
-      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt10222676",
       "type": "movie",
       "name": "Jeff Dunham: Talking Heads",
@@ -218,13 +169,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt37676169",
-      "type": "movie",
-      "name": "Jeroen Leenders: Van de partij",
-      "poster": "https://image.tmdb.org/t/p/w500/sG8za5lpRxcn0eSVWtYxBzJEMJ8.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt3741146",
       "type": "movie",
       "name": "Jerrod Carmichael: Love at the Store",
@@ -349,6 +293,61 @@
       "name": "Jim Breuer: Let's Clear the Air",
       "poster": "https://image.tmdb.org/t/p/w500/rDE5AfiF7SBgrtsGl04F7z7Jv7U.jpg",
       "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2663380",
+      "type": "movie",
+      "name": "Jim Breuer: And Laughter for All",
+      "poster": "https://image.tmdb.org/t/p/w500/15Fi5AVVENEgVvgZFrLxlRK8xTE.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4693878",
+      "type": "movie",
+      "name": "Jim Breuer: Comic Frenzy",
+      "poster": "https://image.tmdb.org/t/p/w500/cHwXrTOLWmFGDyq6LFbUwiWofbJ.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt21214610",
+      "type": "movie",
+      "name": "Jim Breuer: Somebody Had to Say It",
+      "poster": "https://image.tmdb.org/t/p/w500/hUjdZniT89044PtXUkRHEqWCLGs.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt30396584",
+      "type": "movie",
+      "name": "Jim Breuer: Country Boy Will Survive",
+      "poster": "https://image.tmdb.org/t/p/w500/5wYZdn3j28EjCs7pWlrwNTK4r4W.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt0251156",
+      "type": "movie",
+      "name": "Jim Carrey: Unnatural Act",
+      "poster": "https://image.tmdb.org/t/p/w500/jZMUqa0yt3GfinzoJ4L41oMElwO.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt1177915",
+      "type": "movie",
+      "name": "Jim Davidson: Uncovered And Uncensored",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tmdb:181325",
+      "type": "movie",
+      "name": "Jim Davidson: If I Ruled the World",
+      "poster": "https://image.tmdb.org/t/p/w500/aEqKbjk1WqpEXzosNAty4jg9BhC.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tmdb:651285",
+      "type": "movie",
+      "name": "Jim Florentine: I'm Your Savior",
+      "poster": "https://image.tmdb.org/t/p/w500/bvpSPpufCazhp97ZOrxxzLSwhfV.jpg",
+      "releaseInfo": "2016"
     }
   ]
 }

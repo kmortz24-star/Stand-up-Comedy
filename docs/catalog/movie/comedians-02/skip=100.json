@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt11081044",
-      "type": "movie",
-      "name": "Daniel Sloss: X",
-      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt11178728",
       "type": "movie",
       "name": "Daniel Sloss: Socio",
@@ -88,13 +81,6 @@
       "name": "Danny Bhoy: Mr Priority",
       "poster": "https://image.tmdb.org/t/p/w500/nZ6KsHau6eng8wyNmC09DNDQjJq.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1558737",
-      "type": "movie",
-      "name": "Le gala du Do You Comedy de Saint-Tropez",
-      "poster": "https://image.tmdb.org/t/p/w500/cQj4Mbn631GpFL0czaIROaTOg9.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tt0930053",
@@ -344,6 +330,20 @@
       "name": "David Cross: Oh Come On",
       "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
       "releaseInfo": "2019"
+    },
+    {
+      "id": "tt31512903",
+      "type": "movie",
+      "name": "David Cross: Worst Daddy in the World",
+      "poster": "https://image.tmdb.org/t/p/w500/a6R8pizZUzCVMGF4eyX1o1DxJRZ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt40544688",
+      "type": "movie",
+      "name": "David Cross: The End of the Beginning of the End",
+      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

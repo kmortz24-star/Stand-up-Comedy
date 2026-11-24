@@ -1,47 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0451141",
-      "type": "movie",
-      "name": "Rodney Dangerfield Hosts the 9th Annual Young Comedians Special",
-      "poster": "https://image.tmdb.org/t/p/w500/e4c06J9Gb5nQbVJqPHw2uebKhwT.jpg",
-      "releaseInfo": "1985"
-    },
-    {
-      "id": "tmdb:515584",
-      "type": "movie",
-      "name": "Louie Anderson: Live at the Guthrie",
-      "poster": "https://image.tmdb.org/t/p/w500/6G6wYgo1VcfYStPUAvkeq9DNdt2.jpg",
-      "releaseInfo": "1987"
-    },
-    {
-      "id": "tmdb:929714",
-      "type": "movie",
-      "name": "Louie Anderson: The Louie Anderson Show",
-      "poster": "https://image.tmdb.org/t/p/w500/ruON4IE617fHofyTUYMuiizdDW3.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0309812",
-      "type": "movie",
-      "name": "Louie Anderson: Mom! Louie's Looking at Me Again!",
-      "releaseInfo": "1989"
-    },
-    {
-      "id": "tmdb:782161",
-      "type": "movie",
-      "name": "Louie Anderson: Louie in St. Louie",
-      "poster": "https://image.tmdb.org/t/p/w500/3vY6h5QvhomtsaJhnsfizTLVXZ9.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt2217861",
-      "type": "movie",
-      "name": "Louie Anderson: Big Baby Boomer",
-      "poster": "https://image.tmdb.org/t/p/w500/nbZan3apGerlbfy8ksnI9eXzleO.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tt7635268",
       "type": "movie",
       "name": "Louie Anderson: Big Underwear",
@@ -223,24 +182,11 @@
       "releaseInfo": "2009"
     },
     {
-      "id": "tmdb:1044149",
-      "type": "movie",
-      "name": "Mahamad Habane: Ham Der Komikeren",
-      "poster": "https://image.tmdb.org/t/p/w500/cE3uUq3IaUMA6Cp0TXi73Tyofp9.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt38527658",
       "type": "movie",
       "name": "Mal Hall: What Are We Doing Today?!",
       "poster": "https://image.tmdb.org/t/p/w500/vhpJTp6axTGFo2V8XbczGsdNHJj.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1265451",
-      "type": "movie",
-      "name": "Manan Desai: Jati Rehje",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt1243467",
@@ -346,6 +292,62 @@
       "name": "Margaret Cho: Beautiful",
       "poster": "https://image.tmdb.org/t/p/w500/kui62Ui3LKT8kVPCUjJgSO2ymg4.jpg",
       "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4872998",
+      "type": "movie",
+      "name": "Margaret Cho: PsyCHO",
+      "poster": "https://image.tmdb.org/t/p/w500/AqYsQMoJj6Wf9GCoIx6Fvl1o8n9.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:197070",
+      "type": "movie",
+      "name": "Maria Bamford's One-Hour Homemade Christmas Stand-up Special",
+      "poster": "https://image.tmdb.org/t/p/w500/d9fAb77zrcfSUfnw4WRt6jWacBh.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt7407662",
+      "type": "movie",
+      "name": "Maria Bamford: Plan B",
+      "poster": "https://image.tmdb.org/t/p/w500/3CER74aB2ZQwQvEPNK2LoOeIC2x.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2546038",
+      "type": "movie",
+      "name": "Maria Bamford: The Special Special Special!",
+      "poster": "https://image.tmdb.org/t/p/w500/x3oMuJQdkOMVzkS6FoJd6BDa1G7.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt27790786",
+      "type": "movie",
+      "name": "Maria Bamford: Local Act",
+      "poster": "https://image.tmdb.org/t/p/w500/gDxpRIouipyK7T39nfj3BERTYq0.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt31024212",
+      "type": "movie",
+      "name": "Mark Chalifoux's Christmas Special",
+      "poster": "https://image.tmdb.org/t/p/w500/25VG8EuVgYhWat7qRe1ECQzvZBM.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt3777300",
+      "type": "movie",
+      "name": "Mark Normand: The Half Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/bDuIVNybqI2r4RPCmERzO3V6DYI.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt28455629",
+      "type": "movie",
+      "name": "Mark Normand: Soup to Nuts",
+      "poster": "https://image.tmdb.org/t/p/w500/xh2E6ye0HFgZIeRZ5x8Zdn7VXoj.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt9509058",
-      "type": "movie",
-      "name": "Kevin Bridges: The Brand New Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/dcV0QEXsjjj45JorAUMyt5EdwOg.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt35302823",
-      "type": "movie",
-      "name": "Kevin Hart: Standing Tall",
-      "poster": "https://image.tmdb.org/t/p/w500/gPzHQ2o647WYOqkr83RobwiytuD.jpg"
-    },
-    {
       "id": "tt1420554",
       "type": "movie",
       "name": "Kevin Hart: I'm a Grown Little Man",
@@ -345,6 +332,20 @@
       "name": "Larry the Cable Guy: It's a Gift",
       "poster": "https://image.tmdb.org/t/p/w500/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt2084872",
+      "type": "movie",
+      "name": "Lavell Crawford: Can a Brother Get Some Love?",
+      "poster": "https://image.tmdb.org/t/p/w500/chZizAIOZYuME9E4rnrzBRHOFXI.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt14301914",
+      "type": "movie",
+      "name": "Lavell Crawford: The Comedy Vaccine",
+      "poster": "https://image.tmdb.org/t/p/w500/7fC4yn11CjgRFaTLcGcS27AK2bC.jpg",
+      "releaseInfo": "2021"
     }
   ]
 }

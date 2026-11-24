@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0085474",
-      "type": "movie",
-      "name": "Eddie Murphy: Delirious",
-      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt0092948",
-      "type": "movie",
-      "name": "Eddie Murphy Raw",
-      "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
-      "releaseInfo": "1987"
-    },
-    {
       "id": "tt2488254",
       "type": "movie",
       "name": "Eddie Murphy: One Night Only",
@@ -76,13 +62,6 @@
       "name": "Elayne Boosler: Live Nude Girls",
       "poster": "https://image.tmdb.org/t/p/w500/qMm3uO4Yq95cppuh9uzICiu4Twh.jpg",
       "releaseInfo": "1991"
-    },
-    {
-      "id": "tt8400794",
-      "type": "movie",
-      "name": "Élie Kakou à l'Olympia : Déjà !",
-      "poster": "https://image.tmdb.org/t/p/w500/sINvATfdHE1aj0Ys0TxUqTwGdcP.jpg",
-      "releaseInfo": "1994"
     },
     {
       "id": "tt0365156",
@@ -155,13 +134,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1250527",
-      "type": "movie",
-      "name": "Facu Díaz: se pudrió todo",
-      "poster": "https://image.tmdb.org/t/p/w500/hTLmRs0rmk1uEaqEG6kxb38GR6L.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt31577290",
       "type": "movie",
       "name": "Fahim Anwar: House Money",
@@ -180,13 +152,6 @@
       "type": "movie",
       "name": "Fahim Anwar: Intrusive Thoughts",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1114733",
-      "type": "movie",
-      "name": "Fanny Ruwet - Bon anniversaire Jean",
-      "poster": "https://image.tmdb.org/t/p/w500/q9RBFGIYLytOqEnx26aGk1ovJ2t.jpg",
-      "releaseInfo": "2023"
     },
     {
       "id": "tt2153394",
@@ -208,13 +173,6 @@
       "name": "Felipe Esparza: Bad Decisions",
       "poster": "https://image.tmdb.org/t/p/w500/8StJcppu0n8iqG9aFTZQIcK6GvN.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1669261",
-      "type": "movie",
-      "name": "Félix Dhjan - Nuances",
-      "poster": "https://image.tmdb.org/t/p/w500/An0uSD0y5AhAYDgSWybq81Eog69.jpg",
-      "releaseInfo": "2026"
     },
     {
       "id": "tt9721832",
@@ -280,13 +238,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tmdb:1765359",
-      "type": "movie",
-      "name": "Franjo",
-      "poster": "https://image.tmdb.org/t/p/w500/thMaJBDNg402ZWCtqjyOQs8ZRTx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:389479",
       "type": "movie",
       "name": "Frank Caliendo: The Giggles Shakey Cam",
@@ -348,6 +299,54 @@
       "name": "Frank Zappa: Does Humor Belong in Music?",
       "poster": "https://image.tmdb.org/t/p/w500/d8WiX7iLInFpp1IjrsBKRrvfEl5.jpg",
       "releaseInfo": "1985"
+    },
+    {
+      "id": "tmdb:220138",
+      "type": "movie",
+      "name": "Frank Zappa: Live in Barcelona",
+      "poster": "https://image.tmdb.org/t/p/w500/29b0PfeRLggt2jwFKu4kEe8d36g.jpg",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tmdb:126455",
+      "type": "movie",
+      "name": "Frank Zappa - Live in Paris 1980",
+      "poster": "https://image.tmdb.org/t/p/w500/p7YmeArFD0X8LYriUnlTIuvYO4d.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1350491",
+      "type": "movie",
+      "name": "Frankie Boyle: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/aYWXrdv10ODyGeVs1P1YIMnWoQn.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1778256",
+      "type": "movie",
+      "name": "Frankie Boyle: If I Could Reach Out Through Your TV and Strangle You, I Would",
+      "poster": "https://image.tmdb.org/t/p/w500/cQW8JtsXbm0noUDGsFdZh2qUmZW.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2710694",
+      "type": "movie",
+      "name": "Frankie Boyle: The Last Days of Sodom",
+      "poster": "https://image.tmdb.org/t/p/w500/2vbv0X6byXr9p0aIfeH9l8HBeBU.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt6519296",
+      "type": "movie",
+      "name": "Frankie Boyle's American Autopsy",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt27679665",
+      "type": "movie",
+      "name": "Frankie Boyle's Farewell to the Monarchy",
+      "poster": "https://image.tmdb.org/t/p/w500/vUCBQ8U30VztlYvvF2t68LvlJAk.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

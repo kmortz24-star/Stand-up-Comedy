@@ -1,75 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt38681473",
-      "type": "movie",
-      "name": "John Bishop: Back At It",
-      "poster": "https://image.tmdb.org/t/p/w500/kmCsgCMERWETMTv1P3XD88yEio5.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt2075226",
-      "type": "movie",
-      "name": "John Bishop Live: Elvis Has Left The Building",
-      "poster": "https://image.tmdb.org/t/p/w500/cgh670odrTJUdRkmH6kewrzrY6t.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2117892",
-      "type": "movie",
-      "name": "John Bishop Live: The Sunshine Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/xrh0drjfkyobKRg8SRuHNLqUtYE.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2844982",
-      "type": "movie",
-      "name": "John Bishop Live: Rollercoaster Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/64CcZhXuushHQlZKDOnjsEmyLSv.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3135230",
-      "type": "movie",
-      "name": "John Caparulo: Come Inside Me",
-      "poster": "https://image.tmdb.org/t/p/w500/jZIr5PgzzzhudCOyeIpkgMKY9aY.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:702444",
-      "type": "movie",
-      "name": "John Cleese: Best Stand Up Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/hQZPEOiLlCs2LhGqZkgcylWGjBj.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt11459818",
-      "type": "movie",
-      "name": "John Early: Now More Than Ever",
-      "poster": "https://image.tmdb.org/t/p/w500/iKkB3KTCVj2GYcTP1VwSQ5A8htL.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt3014262",
-      "type": "movie",
-      "name": "John Hodgman: RAGNAROK",
-      "poster": "https://image.tmdb.org/t/p/w500/j7CWQdOtspY28SdePXuzOEvl4Xp.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt13247050",
-      "type": "movie",
-      "name": "John Mulaney: The Top Part",
-      "poster": "https://image.tmdb.org/t/p/w500/gCL212H9BAB4w9F6SeszdqqujpX.jpg"
-    },
-    {
-      "id": "tt2246779",
-      "type": "movie",
-      "name": "John Mulaney: New in Town",
-      "poster": "https://image.tmdb.org/t/p/w500/ufE8KAkLQT9u91AgDSc5Oxa3DjW.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tt5069564",
       "type": "movie",
       "name": "John Mulaney: The Comeback Kid",
@@ -145,13 +76,6 @@
       "name": "The Hall: Honoring the Greats of Stand-Up",
       "poster": "https://image.tmdb.org/t/p/w500/dwFflLDrSD6RcBBEnG8Ov3c7oPm.jpg",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tt39160848",
-      "type": "movie",
-      "name": "Jonatan Unge solo",
-      "poster": "https://image.tmdb.org/t/p/w500/qW8KFAHy8OKNYZZeDpGosDJsHp4.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tt37961067",

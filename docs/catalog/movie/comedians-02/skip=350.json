@@ -1,55 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0249854",
-      "type": "movie",
-      "name": "George Carlin: On Location at USC",
-      "poster": "https://image.tmdb.org/t/p/w500/401TNpSzviX1VDzc0hzcaksONQF.jpg",
-      "releaseInfo": "1977"
-    },
-    {
-      "id": "tt0249853",
-      "type": "movie",
-      "name": "George Carlin: Again!",
-      "poster": "https://image.tmdb.org/t/p/w500/q9ooktZWvUZx8ox3OgefJmOffzC.jpg",
-      "releaseInfo": "1978"
-    },
-    {
-      "id": "tt0248827",
-      "type": "movie",
-      "name": "Carlin at Carnegie",
-      "poster": "https://image.tmdb.org/t/p/w500/o3cURcShw8jv8wVO0TaIejjxPW2.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt0199554",
-      "type": "movie",
-      "name": "George Carlin: Playin' with Your Head",
-      "poster": "https://image.tmdb.org/t/p/w500/j4WkiRSDMACb54L50bmF6iQaKFu.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0246644",
-      "type": "movie",
-      "name": "George Carlin: What Am I Doing in New Jersey?",
-      "poster": "https://image.tmdb.org/t/p/w500/mT2Ve5lHbPYHJv2DytqZIZkVfZK.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0246643",
-      "type": "movie",
-      "name": "George Carlin: Jammin' in New York",
-      "poster": "https://image.tmdb.org/t/p/w500/28iCuFC2RkkHW7Pju5iCPJbd1hg.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0249535",
-      "type": "movie",
-      "name": "George Carlin: George's Best Stuff",
-      "poster": "https://image.tmdb.org/t/p/w500/w8Cz07ewoPhj1aGIxVG8ZsBsqph.jpg",
-      "releaseInfo": "1996"
-    },
-    {
       "id": "tt0248826",
       "type": "movie",
       "name": "George Carlin: 40 Years of Comedy",

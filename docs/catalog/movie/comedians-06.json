@@ -100,13 +100,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:291236",
-      "type": "movie",
-      "name": "Sanne Søndergaard: Mandehader?",
-      "poster": "https://image.tmdb.org/t/p/w500/w4RsmLQKfZ7E2emPF75xgu1GowC.jpg",
-      "releaseInfo": "2014"
-    },
-    {
       "id": "tt36751874",
       "type": "movie",
       "name": "Sara Huntington: Rust Belt Royalty",
@@ -348,6 +341,13 @@
       "name": "Shane Gillis: Beautiful Dogs",
       "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39981243",
+      "type": "movie",
+      "name": "Shane Mauss: Trips: First Dose",
+      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

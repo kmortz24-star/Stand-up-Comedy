@@ -155,13 +155,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tmdb:1530287",
-      "type": "movie",
-      "name": "Haseeb Khan: Love Percentage",
-      "poster": "https://image.tmdb.org/t/p/w500/uY0WZpzr3ZhQ5K5StvMUne5Hjmx.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt3921854",
       "type": "movie",
       "name": "Heather McDonald: I Don't Mean to Brag",
@@ -183,32 +176,11 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt39183307",
-      "type": "movie",
-      "name": "Henrik Fladseth Lavkultur",
-      "poster": "https://image.tmdb.org/t/p/w500/uXY5qVEaEoV2Vasp1N9p1WYxvs.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt0823176",
       "type": "movie",
       "name": "Henry Cho: What's That Clickin' Noise?",
       "poster": "https://image.tmdb.org/t/p/w500/tHGcqFwgnwIOM9MRvS1FMRuDQHu.jpg",
       "releaseInfo": "2006"
-    },
-    {
-      "id": "tt5630566",
-      "type": "movie",
-      "name": "Henry van Loon: Sluimer",
-      "poster": "https://image.tmdb.org/t/p/w500/1EjjjWtKTM1h7MrJ58xDZOyccQ0.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:590933",
-      "type": "movie",
-      "name": "Henry van Loon: Sleutelmoment",
-      "poster": "https://image.tmdb.org/t/p/w500/4KkaCutcaIEKc3AX1lMU76IGYfT.jpg",
-      "releaseInfo": "2016"
     },
     {
       "id": "tt1486726",
@@ -348,6 +320,34 @@
       "name": "Iliza Shlesinger: A Different Animal",
       "poster": "https://image.tmdb.org/t/p/w500/wcbX32cfEeTvCyiI9icF0sclZKK.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39383161",
+      "type": "movie",
+      "name": "Isabel Hagen at the Bitter End",
+      "poster": "https://image.tmdb.org/t/p/w500/i01ecjxsrvV7KrA9eC2omqI4aMT.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1418455",
+      "type": "movie",
+      "name": "Ivan Decker: Popcorn",
+      "poster": "https://image.tmdb.org/t/p/w500/eOLkonC2eFnRb2wDWRhDIpOcZlD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt32801245",
+      "type": "movie",
+      "name": "Ivo Graham: Live From The Bloomsbury Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/61eH5br5gW9qz1ivO0MLswHGoeL.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0278515",
+      "type": "movie",
+      "name": "Jack Dee Live at the Duke of York's Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/6fPo7f5ExvqJT9RSrnIC9Inhi0q.jpg",
+      "releaseInfo": "1992"
     }
   ]
 }

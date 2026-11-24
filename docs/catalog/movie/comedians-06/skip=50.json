@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39981243",
-      "type": "movie",
-      "name": "Shane Mauss: Trips: First Dose",
-      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt30394557",
       "type": "movie",
       "name": "Shane Torres: The Blue Eyed Mexican",
@@ -71,12 +64,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt9402856",
-      "type": "movie",
-      "name": "Silvester 1978: Playful and Spirited",
-      "releaseInfo": "1978"
-    },
-    {
       "id": "tt2121810",
       "type": "movie",
       "name": "Simon Amstell: Do Nothing - Live",
@@ -123,13 +110,6 @@
       "type": "movie",
       "name": "Simon Munnery: Fylm",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:776259",
-      "type": "movie",
-      "name": "Simon Talbot: Danish Invasion",
-      "poster": "https://image.tmdb.org/t/p/w500/zKUjkl0vryvjYYt3Lia7DrLnUbB.jpg",
-      "releaseInfo": "2020"
     },
     {
       "id": "tt0292690",
@@ -348,6 +328,27 @@
       "name": "Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life",
       "poster": "https://image.tmdb.org/t/p/w500/3STPYldeX274Uw20UikS55irMXM.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt3561800",
+      "type": "movie",
+      "name": "Steve Trevino: Relatable",
+      "poster": "https://image.tmdb.org/t/p/w500/kDqdLh8nP5eEo6XEEZB2GyXOrws.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:985786",
+      "type": "movie",
+      "name": "Steve Trevino: My Life In Quarantine",
+      "poster": "https://image.tmdb.org/t/p/w500/uIL63ZGcO3yREmHb0B8uX3744Lg.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1041483",
+      "type": "movie",
+      "name": "Steve Trevino: I Speak Wife",
+      "poster": "https://image.tmdb.org/t/p/w500/gGdM3edhnBrBDOoKTUPl6D9RMDd.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

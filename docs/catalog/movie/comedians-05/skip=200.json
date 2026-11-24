@@ -1,101 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt38994128",
-      "type": "movie",
-      "name": "Robby Hoffman: Wake Up",
-      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt3833400",
-      "type": "movie",
-      "name": "Robert Kelly: Live at the Village Underground",
-      "poster": "https://image.tmdb.org/t/p/w500/ehYwNOW9OkOKB24X8ExdvGkChjc.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt1075030",
-      "type": "movie",
-      "name": "Robert Klein: It All Started Here",
-      "releaseInfo": "1995"
-    },
-    {
-      "id": "tt0280543",
-      "type": "movie",
-      "name": "Robert Klein: Child in His 50s",
-      "poster": "https://image.tmdb.org/t/p/w500/9DkxVeoJMBSRifmyWj5upgURTEx.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt1799572",
-      "type": "movie",
-      "name": "Robert Klein: Unfair & Unbalanced",
-      "poster": "https://image.tmdb.org/t/p/w500/7dJWS6T9CleY0FYUiVy2TIpCP2o.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt0253594",
-      "type": "movie",
-      "name": "Robert Schimmel: Unprotected",
-      "poster": "https://image.tmdb.org/t/p/w500/8Xk2XKecRk4DspQNC2uoia7xA7G.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt1401899",
-      "type": "movie",
-      "name": "Robert Schimmel: Life Since Then",
-      "poster": "https://image.tmdb.org/t/p/w500/62S6K86WILfyJE75ziOf4oHcYvv.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tmdb:750386",
-      "type": "movie",
-      "name": "Robin Williams: Comic Genius",
-      "poster": "https://image.tmdb.org/t/p/w500/obGbYLtCttdEw8mxkBUfeiAndJC.jpg"
-    },
-    {
-      "id": "tt0196055",
-      "type": "movie",
-      "name": "Robin Williams: An Evening at the Met",
-      "poster": "https://image.tmdb.org/t/p/w500/5adS4LUGL9xi6XudEZt2vOd4rqq.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0391873",
-      "type": "movie",
-      "name": "Comic Relief '90",
-      "releaseInfo": "1990"
-    },
-    {
-      "id": "tt0330829",
-      "type": "movie",
-      "name": "Robin Williams: Live on Broadway",
-      "poster": "https://image.tmdb.org/t/p/w500/omCkeQubfAtjJetFV2edOC3yhRB.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt1560169",
-      "type": "movie",
-      "name": "Robin Williams: Weapons of Self Destruction",
-      "poster": "https://image.tmdb.org/t/p/w500/kjEElgEFtAtyadUt8JayBLUw5Sf.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1156072",
-      "type": "movie",
-      "name": "Rodney Carrington: Live at the Majestic",
-      "poster": "https://image.tmdb.org/t/p/w500/cYQNdbgXA9bRY9VmsNjI1sQWRid.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt4838690",
-      "type": "movie",
-      "name": "Rodney Carrington - Laughter's Good",
-      "poster": "https://image.tmdb.org/t/p/w500/iTb6nTJaFYZyHAykvtM1qEXdNBD.jpg",
-      "releaseInfo": "2014"
-    },
-    {
       "id": "tt7582798",
       "type": "movie",
       "name": "Rodney Carrington: Here Comes the Truth",
@@ -345,6 +250,102 @@
       "name": "Roy Chubby Brown: Chubby Goes Down Under And Other Sticky Regions",
       "poster": "https://image.tmdb.org/t/p/w500/huUqLRtibpHJth6eVX3zyHk2xfZ.jpg",
       "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0369881",
+      "type": "movie",
+      "name": "Roy Chubby Brown: Stocking Filler",
+      "poster": "https://image.tmdb.org/t/p/w500/m40FjQszcuFYMdGlGmEvpaFo8vj.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0359918",
+      "type": "movie",
+      "name": "Roy Chubby Brown: Standing Room Only",
+      "poster": "https://image.tmdb.org/t/p/w500/tEhcHaty2a5CIyMQV8WtacwNYG9.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1075035",
+      "type": "movie",
+      "name": "Roy Chubby Brown: Kick-Arse Chubbs",
+      "poster": "https://image.tmdb.org/t/p/w500/xct0HM3A2XrZeiV7IXEKnHZRFmu.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1029214",
+      "type": "movie",
+      "name": "Roy Chubby Brown: Britain's Rudest Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/69LWoO1Fh0ivC5pw9ZsrVPx0aIG.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tmdb:308643",
+      "type": "movie",
+      "name": "Roy Chubby Brown - Don't Get Fit Get Fat",
+      "poster": "https://image.tmdb.org/t/p/w500/ptYW67dmi0KRcvMIsIgJKwITuOH.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:369133",
+      "type": "movie",
+      "name": "Roy Chubby Brown - Hangs up the Helmet Live",
+      "poster": "https://image.tmdb.org/t/p/w500/pkIcNhuZaEaJDOgYD47yh5iRFsD.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:706714",
+      "type": "movie",
+      "name": "Roy Chubby Brown - 50 Shades Of Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt6665988",
+      "type": "movie",
+      "name": "Roy Wood Jr.: Father Figure",
+      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt32982833",
+      "type": "movie",
+      "name": "Roy Wood Jr.: Lonely Flowers",
+      "poster": "https://image.tmdb.org/t/p/w500/uxAJmb9RDgT9udAMALBjLEWKCpj.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1653386",
+      "type": "movie",
+      "name": "Rufat Agayev The Bad Rufat",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:81928",
+      "type": "movie",
+      "name": "Rufus Hound: Being Rude",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt1515900",
+      "type": "movie",
+      "name": "Rune Klan: Går large",
+      "poster": "https://image.tmdb.org/t/p/w500/gtle9Gum5RbdbRZT8HCJ6mwIHJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1300370",
+      "type": "movie",
+      "name": "Russell Brand: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/peajCTa6OossVInrRcx0nSxfkj.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1294207",
+      "type": "movie",
+      "name": "Russell Brand: Doing Life Live",
+      "poster": "https://image.tmdb.org/t/p/w500/5b6TYsGIXDyGNoEtd9PFmYG7hD0.jpg",
+      "releaseInfo": "2007"
     }
   ]
 }

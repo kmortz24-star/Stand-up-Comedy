@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt5841088",
-      "type": "movie",
-      "name": "Doug Stanhope: No Place Like Home",
-      "poster": "https://image.tmdb.org/t/p/w500/eAgCMsjh45Ln7IqLh8sjjbv7jh1.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt6678722",
-      "type": "movie",
-      "name": "Doug Stanhope: The Comedians' Comedian's Comedians",
-      "poster": "https://image.tmdb.org/t/p/w500/bGJG2kcpE0D3Zxwot5MauUfArdp.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tmdb:537132",
       "type": "movie",
       "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
@@ -353,6 +339,20 @@
       "name": "Eddie Izzard: Live at Madison Square Garden",
       "poster": "https://image.tmdb.org/t/p/w500/8CHqbflgx599iwoBmBpWSb0eM1X.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt0085474",
+      "type": "movie",
+      "name": "Eddie Murphy: Delirious",
+      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0092948",
+      "type": "movie",
+      "name": "Eddie Murphy Raw",
+      "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+      "releaseInfo": "1987"
     }
   ]
 }

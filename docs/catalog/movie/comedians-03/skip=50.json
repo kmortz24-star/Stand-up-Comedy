@@ -1,41 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1631363",
-      "type": "movie",
-      "name": "Ilyes Djadel : Vrai",
-      "poster": "https://image.tmdb.org/t/p/w500/d5UdnEoZue0jIGzRhIefRYe7IsD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39383161",
-      "type": "movie",
-      "name": "Isabel Hagen at the Bitter End",
-      "poster": "https://image.tmdb.org/t/p/w500/i01ecjxsrvV7KrA9eC2omqI4aMT.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1418455",
-      "type": "movie",
-      "name": "Ivan Decker: Popcorn",
-      "poster": "https://image.tmdb.org/t/p/w500/eOLkonC2eFnRb2wDWRhDIpOcZlD.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt32801245",
-      "type": "movie",
-      "name": "Ivo Graham: Live From The Bloomsbury Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/61eH5br5gW9qz1ivO0MLswHGoeL.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0278515",
-      "type": "movie",
-      "name": "Jack Dee Live at the Duke of York's Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/6fPo7f5ExvqJT9RSrnIC9Inhi0q.jpg",
-      "releaseInfo": "1992"
-    },
-    {
       "id": "tt0401533",
       "type": "movie",
       "name": "Jack Dee Live At The London Palladium",
@@ -125,13 +90,6 @@
       "name": "Jackie Kashian: Alter-Kashian",
       "poster": "https://image.tmdb.org/t/p/w500/2EDxIOQ9Tei383twWP2QMB5L5ZO.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt24240494",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Krøllehjern'",
-      "poster": "https://image.tmdb.org/t/p/w500/jFvZI262z1bqofNxUd12zfL4DLN.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt0236333",
@@ -324,13 +282,6 @@
       "releaseInfo": "2021"
     },
     {
-      "id": "tmdb:1733382",
-      "type": "movie",
-      "name": "Jean-Thomas Jobin: Dix stricts trente thés un",
-      "poster": "https://image.tmdb.org/t/p/w500/sVYJGiHv4XptQf81UAWuFutDBAO.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt43616650",
       "type": "movie",
       "name": "Jeff Arcuri: Nice to Meet You",
@@ -350,6 +301,55 @@
       "name": "Jeff Dunham: Spark of Insanity",
       "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
       "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1295909",
+      "type": "movie",
+      "name": "Jeff Dunham's Very Special Christmas Special",
+      "poster": "https://image.tmdb.org/t/p/w500/l7W6hvdj7B3fguhxRVqps4Hgw0h.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2058636",
+      "type": "movie",
+      "name": "Jeff Dunham: Controlled Chaos",
+      "poster": "https://image.tmdb.org/t/p/w500/8LPGtz6m4g1JB9ZdkpmEcwRXNbn.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2134080",
+      "type": "movie",
+      "name": "Jeff Dunham: Birth of a Dummy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TPThkmYKUM5fNSyZT6h6guRVUG.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2461736",
+      "type": "movie",
+      "name": "Jeff Dunham: Minding the Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/ra1UaHU8bKBesaQ6BqIOaSvRk07.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4209802",
+      "type": "movie",
+      "name": "Jeff Dunham: All Over the Map",
+      "poster": "https://image.tmdb.org/t/p/w500/9o97CIpO5FgNXBYoXYxfgoV4lrz.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5038776",
+      "type": "movie",
+      "name": "Jeff Dunham: Unhinged in Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt7364706",
+      "type": "movie",
+      "name": "Jeff Dunham: Relative Disaster",
+      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

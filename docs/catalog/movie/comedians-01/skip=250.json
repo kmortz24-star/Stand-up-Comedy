@@ -1,57 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1430875",
-      "type": "movie",
-      "name": "Brian Regan - Something's Wrong with the Regan Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/oH74ixg9OtcYH1BXBSjBAb4lmsN.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0808179",
-      "type": "movie",
-      "name": "Brian Regan: I Walked on the Moon",
-      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1043434",
-      "type": "movie",
-      "name": "Brian Regan: Standing Up",
-      "poster": "https://image.tmdb.org/t/p/w500/n3FSd5uCjrFC623xkMb2Yd6Cdfv.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1284973",
-      "type": "movie",
-      "name": "Brian Regan: The Epitome of Hyperbole",
-      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt5748362",
-      "type": "movie",
-      "name": "Brian Regan: Live From Radio City Music Hall",
-      "poster": "https://image.tmdb.org/t/p/w500/WGHmlFrZykmKe7OCz0ZVh04iA8.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt31024004",
-      "type": "movie",
-      "name": "Brian Roe: That's My Vibe",
-      "poster": "https://image.tmdb.org/t/p/w500/4JGazWTkh2mmG1Vy7A9U5EvYmvR.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "standupyt_NqK1gyTYt8M",
-      "type": "movie",
-      "name": "Brian Simpson | Live From The Mothership (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/NqK1gyTYt8M/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/NqK1gyTYt8M/hqdefault.jpg",
-      "description": "Brian Simpson · 68 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt18830412",
       "type": "movie",
       "name": "Brittany Schmitt: From Ho to Housewife",

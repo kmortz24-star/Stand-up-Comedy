@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1139094",
-      "type": "movie",
-      "name": "Natasha Brock: Ha' det godt i Natashaland",
-      "poster": "https://image.tmdb.org/t/p/w500/fBZjK7OS3vUu2lTduX8VBX5pPOP.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt4966020",
       "type": "movie",
       "name": "Natasha Leggero: Live at Bimbo's",
@@ -169,20 +162,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt0410306",
-      "type": "movie",
-      "name": "Niels Hausgaard: Med hudfarvet hud",
-      "poster": "https://image.tmdb.org/t/p/w500/58vfC8Ekst166N9SVnUAmVVPkyN.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0478215",
-      "type": "movie",
-      "name": "Niels Hausgaard: Kun Ydre Ting",
-      "poster": "https://image.tmdb.org/t/p/w500/26u3uflBF8dtFqKGt9joJ8EU9gL.jpg",
-      "releaseInfo": "2005"
-    },
-    {
       "id": "tt7657600",
       "type": "movie",
       "name": "Night of Too Many Stars: America Unites for Autism Programs",
@@ -318,13 +297,6 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tmdb:1635293",
-      "type": "movie",
-      "name": "Nordine Ganso : Docteur Love",
-      "poster": "https://image.tmdb.org/t/p/w500/A1nWb17YEoMQnBBixEiAQrtlHSV.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:1487586",
       "type": "movie",
       "name": "Norm MacDonald - One Night Stand",
@@ -350,6 +322,32 @@
       "name": "Olga Koch: Just Friends",
       "poster": "https://image.tmdb.org/t/p/w500/altywzQQbSEEMnwX8q82aCE5Tpx.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1739804",
+      "type": "movie",
+      "name": "Olga Koch: Comes From Money",
+      "poster": "https://image.tmdb.org/t/p/w500/e9PQjx1u8yL1q3064sul7lgKK4C.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1566131",
+      "type": "movie",
+      "name": "Omid Djalili - Iranalamadingdong",
+      "poster": "https://image.tmdb.org/t/p/w500/dUDWPojs7i3NfDN6n13xUQAA3B8.jpg"
+    },
+    {
+      "id": "tmdb:819166",
+      "type": "movie",
+      "name": "One-Night Stand: Omid Djalili",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1463192",
+      "type": "movie",
+      "name": "Omid Djalili: No Agenda",
+      "poster": "https://image.tmdb.org/t/p/w500/tFQm5tOuRUvRJsfwL5Oer6snkmW.jpg",
+      "releaseInfo": "2007"
     }
   ]
 }

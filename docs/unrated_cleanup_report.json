@@ -3,9 +3,9 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2256,
-    "remaining_alphabetical_movies": 1781,
-    "unrated_movies_hidden": 475,
+    "original_alphabetical_movies": 2148,
+    "remaining_alphabetical_movies": 1704,
+    "unrated_movies_hidden": 444,
     "unrated_established_movies_kept": 213
   },
   "hidden": [
@@ -58,6 +58,12 @@
       "release_date": "2020-07-20"
     },
     {
+      "id": "tt39243652",
+      "performer": "Al Pitcher",
+      "title": "Al Pitcher - Tid för Skratt",
+      "release_date": "2026-02-13"
+    },
+    {
       "id": "tt35349842",
       "performer": "Alasdair Beckett-King",
       "title": "Alasdair Beckett-King: Nevermore",
@@ -107,13 +113,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -317,13 +323,13 @@
     },
     {
       "id": "tmdb:860479",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob the Drag Queen: Crazy Black Lady",
       "release_date": "2020-02-21"
     },
     {
       "id": "tt28092820",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob The Drag Queen: Woke Man in a Dress",
       "release_date": "2023-06-22"
     },
@@ -970,24 +976,6 @@
       "release_date": "2022-01-27"
     },
     {
-      "id": "tmdb:750559",
-      "performer": "Henry van Loon",
-      "title": "Henry van Loon: Live in Toomler",
-      "release_date": "2008-05-08"
-    },
-    {
-      "id": "tmdb:590937",
-      "performer": "Henry van Loon",
-      "title": "Henry van Loon: Onze Henry",
-      "release_date": "2018-12-01"
-    },
-    {
-      "id": "tmdb:1399612",
-      "performer": "Henry van Loon",
-      "title": "Henry van Loon: Jannie the Showdog",
-      "release_date": "2024-12-08"
-    },
-    {
       "id": "tmdb:1284188",
       "performer": "Hit Me With Your Autistic",
       "title": "Hit Me With Your Autistic: A Stand Up Comedy Special - Live in Glasgow",
@@ -1082,18 +1070,6 @@
       "performer": "Jacob Sharpe",
       "title": "Cancer Jokes",
       "release_date": "2024-12-13"
-    },
-    {
-      "id": "tmdb:571043",
-      "performer": "Jacob Taarnhøj",
-      "title": "Jacob Taarnhøj: Comedy Special",
-      "release_date": "2018-12-29"
-    },
-    {
-      "id": "tmdb:1444970",
-      "performer": "Jacob Taarnhøj",
-      "title": "Jacob Taarnhøj: Standard",
-      "release_date": "2024-06-12"
     },
     {
       "id": "tt38744571",
@@ -1451,25 +1427,25 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
     {
       "id": "tt27756059",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs: The Gala Specials - Russell Peters",
       "release_date": "2023-02-09"
     },
     {
       "id": "tt27515036",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs: The Gala Specials - Jo Koy",
       "release_date": "2023-04-11"
     },
@@ -1490,24 +1466,6 @@
       "performer": "Kae Kurd",
       "title": "Kae Kurd - Spoken Kurd",
       "release_date": "2022-08-27"
-    },
-    {
-      "id": "tt13765192",
-      "performer": "Kamal Kharmach",
-      "title": "Mag ik even?",
-      "release_date": "2020-12-31"
-    },
-    {
-      "id": "tt25402126",
-      "performer": "Kamal Kharmach",
-      "title": "Kamal Kharmach: Mag ik even?",
-      "release_date": "2022-12-14"
-    },
-    {
-      "id": "tmdb:1406839",
-      "performer": "Kamal Kharmach",
-      "title": "Kamal Kharmach: Mag ik even?",
-      "release_date": "2024-11-22"
     },
     {
       "id": "tmdb:1555016",
@@ -1618,40 +1576,10 @@
       "release_date": "2012-08-24"
     },
     {
-      "id": "tt2176046",
-      "performer": "Lasse Rimmer",
-      "title": "Lasse Rimmer: Nævenyttig",
-      "release_date": "2012-03-31"
-    },
-    {
-      "id": "tmdb:652720",
-      "performer": "Lasse Rimmer",
-      "title": "Lasse Rimmer: Færre end 3",
-      "release_date": "2019-12-01"
-    },
-    {
       "id": "tt27792016",
       "performer": "Laurie Kilmartin",
       "title": "Laurie Kilmartin: Cis Woke Grief Slut",
       "release_date": "2024-01-30"
-    },
-    {
-      "id": "tt5573738",
-      "performer": "Lenette van Dongen",
-      "title": "Lenette van Dongen: Nikè",
-      "release_date": "2008-01-01"
-    },
-    {
-      "id": "tt5260152",
-      "performer": "Lenette van Dongen",
-      "title": "Lenette van Dongen: Roedel",
-      "release_date": "2016-01-08"
-    },
-    {
-      "id": "tt13951826",
-      "performer": "Lenette van Dongen",
-      "title": "Lenette van Dongen: Paradijskleier",
-      "release_date": "2021-01-30"
     },
     {
       "id": "tmdb:1278040",
@@ -1820,12 +1748,6 @@
       "performer": "Matt Wright",
       "title": "Matt Wright - Live at the Majestic",
       "release_date": "2025-01-01"
-    },
-    {
-      "id": "tmdb:1665932",
-      "performer": "Max Boublil",
-      "title": "Max Boublil, l'éternel gamin",
-      "release_date": "2026-04-16"
     },
     {
       "id": "tmdb:1225147",
@@ -2038,54 +1960,6 @@
       "release_date": "2020-03-20"
     },
     {
-      "id": "tt0880639",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Live med mer",
-      "release_date": "1999-05-12"
-    },
-    {
-      "id": "tt0322658",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Live",
-      "release_date": "1999-08-08"
-    },
-    {
-      "id": "tmdb:786626",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Lad os finde festen",
-      "release_date": "2001-04-11"
-    },
-    {
-      "id": "tt0325899",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Live i Cirkusbygningen",
-      "release_date": "2002-06-14"
-    },
-    {
-      "id": "tt0406103",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Finer Han Kanten",
-      "release_date": "2003-09-26"
-    },
-    {
-      "id": "tmdb:663685",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Vildskab",
-      "release_date": "2006-09-22"
-    },
-    {
-      "id": "tt1833046",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: Os der glor",
-      "release_date": "2007-11-23"
-    },
-    {
-      "id": "tmdb:1289586",
-      "performer": "Niels Hausgaard",
-      "title": "Niels Hausgaard: I alle de rige lande",
-      "release_date": "2008-11-07"
-    },
-    {
       "id": "tt21094640",
       "performer": "Nina Conti",
       "title": "Nina Conti - In Your Face",
@@ -2132,12 +2006,6 @@
       "performer": "Oliver Coleman",
       "title": "Oliver Coleman: Goof",
       "release_date": "2025-01-05"
-    },
-    {
-      "id": "tmdb:67516",
-      "performer": "Omar Marzouk",
-      "title": "Omar Marzouk: Omskåret",
-      "release_date": "2011-05-09"
     },
     {
       "id": "tt0877672",
@@ -2288,18 +2156,6 @@
       "performer": "Raditya Dika",
       "title": "Cerita Sebelku",
       "release_date": "2024-11-01"
-    },
-    {
-      "id": "tt5607486",
-      "performer": "Rayen Panday",
-      "title": "Rayen Panday: Vrijspraak",
-      "release_date": "2014-07-01"
-    },
-    {
-      "id": "tt5889564",
-      "performer": "Rayen Panday",
-      "title": "Rayen Panday: Drie keer Rayen",
-      "release_date": "2014-08-09"
     },
     {
       "id": "tmdb:1075360",
@@ -2470,24 +2326,6 @@
       "release_date": "2025-02-05"
     },
     {
-      "id": "tmdb:371534",
-      "performer": "Sanne Søndergaard",
-      "title": "Sanne Søndergaard: Kvinde?",
-      "release_date": "2015-01-08"
-    },
-    {
-      "id": "tmdb:548794",
-      "performer": "Sanne Søndergaard",
-      "title": "Sanne Søndergaard: Sindssyg Kælling",
-      "release_date": "2017-09-17"
-    },
-    {
-      "id": "tmdb:749438",
-      "performer": "Sanne Søndergaard",
-      "title": "Sanne Søndergaard: Kontroltaber",
-      "release_date": "2020-09-18"
-    },
-    {
       "id": "tmdb:1408697",
       "performer": "Sasha Dolgopolov",
       "title": "Sasha Dolgopolov: My First Stand-Up in English!",
@@ -2632,12 +2470,6 @@
       "release_date": "2023-12-15"
     },
     {
-      "id": "tmdb:1775649",
-      "performer": "Swann Périssé",
-      "title": "Swann Périssé - Calme",
-      "release_date": "2026-09-29"
-    },
-    {
       "id": "tmdb:1478687",
       "performer": "Tahnee",
       "title": "Tahnee, l'autre",
@@ -2696,12 +2528,6 @@
       "performer": "The Noise Next Door",
       "title": "The Noise Next Door: Live",
       "release_date": "2011-01-01"
-    },
-    {
-      "id": "tmdb:442326",
-      "performer": "Thomas Warberg",
-      "title": "Thomas Warberg: Comedy Tour '16",
-      "release_date": "2017-12-29"
     },
     {
       "id": "tmdb:1031882",
@@ -2768,18 +2594,6 @@
       "performer": "Vanessa Gonzalez",
       "title": "Vanessa Gonzalez: Mamona",
       "release_date": "2026-09-15"
-    },
-    {
-      "id": "tmdb:1236243",
-      "performer": "Víctor Medina",
-      "title": "La Balada Del Migrante",
-      "release_date": "2023-12-15"
-    },
-    {
-      "id": "tmdb:1318517",
-      "performer": "Víctor Medina",
-      "title": "El Gocho de Oro - Nanutria",
-      "release_date": "2024-07-07"
     },
     {
       "id": "tt39287392",
@@ -3613,7 +3427,7 @@
     },
     {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'neal",
+      "performer": "Patrice O'Neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {

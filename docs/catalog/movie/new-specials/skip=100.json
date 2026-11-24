@@ -1,82 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1655932",
-      "type": "movie",
-      "name": "Urzila Carlson: Just Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/1W1G2Q6C78taO6KT702kOFyyhPJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt40525855",
-      "type": "movie",
-      "name": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
-      "poster": "https://image.tmdb.org/t/p/w500/ir2jBFW4CeQwE4kIPWdLii0eHTx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39900868",
-      "type": "movie",
-      "name": "Eugene Mirman: Here Comes The Whimsy",
-      "poster": "https://image.tmdb.org/t/p/w500/dhJsoElHzdyi23RGtKOWDEDKJF5.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39398671",
-      "type": "movie",
-      "name": "Chris Spencer: GOAT Adjacent",
-      "poster": "https://image.tmdb.org/t/p/w500/y9JOnlKrjYhWLsHdKfqe7kCiQqF.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39338773",
-      "type": "movie",
-      "name": "Mo Gilligan: In the Moment",
-      "poster": "https://image.tmdb.org/t/p/w500/4Q1E0rQlYfxiWByxvespMMk8TJc.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38501926",
-      "type": "movie",
-      "name": "Kristin Key: Lesbian Army",
-      "poster": "https://image.tmdb.org/t/p/w500/pJ5XDwWXsrIMYqu6BqOrDr3l3kn.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1629479",
-      "type": "movie",
-      "name": "Johanna Wagrell: Smart",
-      "poster": "https://image.tmdb.org/t/p/w500/erGrwiSGTTkRuqGtfQJ4HDcKSsr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1627384",
-      "type": "movie",
-      "name": "Gianmarco Soresi: Shelf Life Vol. 2",
-      "poster": "https://image.tmdb.org/t/p/w500/10tRMvu6Ex7JTDzAxqWK1A3eJRY.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39440112",
-      "type": "movie",
-      "name": "Sammy Petersen: Why the Long Face?",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39428930",
-      "type": "movie",
-      "name": "Kevin Nealon: Loose in the Crotch",
-      "poster": "https://image.tmdb.org/t/p/w500/c42gXJyays5gXpOXCMf29DKZv8M.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39383161",
-      "type": "movie",
-      "name": "Isabel Hagen at the Bitter End",
-      "poster": "https://image.tmdb.org/t/p/w500/i01ecjxsrvV7KrA9eC2omqI4aMT.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt39151076",
       "type": "movie",
       "name": "Mike Epps: Delusional",
@@ -109,13 +33,6 @@
       "type": "movie",
       "name": "Marcello Hernández: American Boy",
       "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1608545",
-      "type": "movie",
-      "name": "Varun Grover: Nothing Makes Sense",
-      "poster": "https://image.tmdb.org/t/p/w500/b7iAwOZx0c6DezvJaYteDRVQtkF.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -217,13 +134,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39183307",
-      "type": "movie",
-      "name": "Henrik Fladseth Lavkultur",
-      "poster": "https://image.tmdb.org/t/p/w500/uXY5qVEaEoV2Vasp1N9p1WYxvs.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tmdb:1700724",
       "type": "movie",
       "name": "Ali Siddiq: The Animated PTA Special",
@@ -235,13 +145,6 @@
       "type": "movie",
       "name": "Daniel Sloss: Can't",
       "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39695189",
-      "type": "movie",
-      "name": "Juste pour Rire Montréal 2025",
-      "poster": "https://image.tmdb.org/t/p/w500/u60BcXVRTj5KZgaFjgJnsYQu3Ma.jpg",
       "releaseInfo": "2025"
     },
     {
@@ -270,13 +173,6 @@
       "type": "movie",
       "name": "Charlie Berens: Neighborly",
       "poster": "https://image.tmdb.org/t/p/w500/16GO98B6qCzqPcxVre5cNzVg4Dh.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1586109",
-      "type": "movie",
-      "name": "Pierre Thevenoux est marrant… Normalement",
-      "poster": "https://image.tmdb.org/t/p/w500/7grK2kG99hPEvPMj3hVi8F4cIM9.jpg",
       "releaseInfo": "2025"
     },
     {
@@ -342,10 +238,114 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39160848",
+      "id": "tt38772625",
       "type": "movie",
-      "name": "Jonatan Unge solo",
-      "poster": "https://image.tmdb.org/t/p/w500/qW8KFAHy8OKNYZZeDpGosDJsHp4.jpg",
+      "name": "Gerry Dee: Funny You Should Say That",
+      "poster": "https://image.tmdb.org/t/p/w500/lOxrMeq9dVN3YF6zmpgF3alfFGu.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38984299",
+      "type": "movie",
+      "name": "Zoltan Kaszas: London Fog",
+      "poster": "https://image.tmdb.org/t/p/w500/T88Qgo40HdnI5394UzW2DzDcP5.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38906524",
+      "type": "movie",
+      "name": "Bo Johnson: Two Sailboats",
+      "poster": "https://image.tmdb.org/t/p/w500/rvLpTJMisjltIsxvojLD5PY0x8G.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38129244",
+      "type": "movie",
+      "name": "Jay Jurden: Yes Ma'am",
+      "poster": "https://image.tmdb.org/t/p/w500/13Y4XglXH2X11YWeVXEjBpOuU2A.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38061951",
+      "type": "movie",
+      "name": "Leanne Morgan: Unspeakable Things",
+      "poster": "https://image.tmdb.org/t/p/w500/bWlwHhTKyp8hB5OhReV9rCmUSFg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38907278",
+      "type": "movie",
+      "name": "Luis J. Gomez: You're Making This Worse",
+      "poster": "https://image.tmdb.org/t/p/w500/xf3bQFyoTBGa7aqXO9MgX7uai5j.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38458157",
+      "type": "movie",
+      "name": "Mo Amer: Wild World",
+      "poster": "https://image.tmdb.org/t/p/w500/9wUOI1SiiT4CPt8KyaI7geSWfT3.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38800573",
+      "type": "movie",
+      "name": "Leslie Jones: Life Part 2",
+      "poster": "https://image.tmdb.org/t/p/w500/q1Ct4IgmHRn5gkV0U7bZq6zZuyW.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt31859948",
+      "type": "movie",
+      "name": "Michelle Wolf: The Well",
+      "poster": "https://image.tmdb.org/t/p/w500/mY1dUsGEYrDzbPTrIW56r48xH2q.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38527658",
+      "type": "movie",
+      "name": "Mal Hall: What Are We Doing Today?!",
+      "poster": "https://image.tmdb.org/t/p/w500/vhpJTp6axTGFo2V8XbczGsdNHJj.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38499204",
+      "type": "movie",
+      "name": "An Intimate Evening with Adam Pally",
+      "poster": "https://image.tmdb.org/t/p/w500/bv7Q2DRC2eiOcaWB0ffvFH3mXRV.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1576459",
+      "type": "movie",
+      "name": "Bryan Callen: False Gods",
+      "poster": "https://image.tmdb.org/t/p/w500/6ty3ZueaaB188x6wynkEEVUkfmn.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt34601055",
+      "type": "movie",
+      "name": "Frankie Quiñones: Damn That's Crazy",
+      "poster": "https://image.tmdb.org/t/p/w500/4M7FjKWCiESXF1wjp9ksS36iD8L.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38667192",
+      "type": "movie",
+      "name": "Kathy Griffin: My Life on the PTSD-List",
+      "poster": "https://image.tmdb.org/t/p/w500/v9zRsXvMGZvhXrMPLwepDVRDRGV.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1572049",
+      "type": "movie",
+      "name": "Phoebe Robinson: I Don't Wanna Work Anymore",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38347318",
+      "type": "movie",
+      "name": "Matt McCusker: A Humble Offering",
+      "poster": "https://image.tmdb.org/t/p/w500/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg",
       "releaseInfo": "2025"
     }
   ]

@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt31512903",
-      "type": "movie",
-      "name": "David Cross: Worst Daddy in the World",
-      "poster": "https://image.tmdb.org/t/p/w500/a6R8pizZUzCVMGF4eyX1o1DxJRZ.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt40544688",
-      "type": "movie",
-      "name": "David Cross: The End of the Beginning of the End",
-      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt32014001",
       "type": "movie",
       "name": "My Next Guest with David Letterman and John Mulaney",
@@ -344,6 +330,20 @@
       "name": "Doug Stanhope: Beer Hall Putsch",
       "poster": "https://image.tmdb.org/t/p/w500/anOxh3XYLBmeZyzaYheeSg4uUWi.jpg",
       "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5841088",
+      "type": "movie",
+      "name": "Doug Stanhope: No Place Like Home",
+      "poster": "https://image.tmdb.org/t/p/w500/eAgCMsjh45Ln7IqLh8sjjbv7jh1.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt6678722",
+      "type": "movie",
+      "name": "Doug Stanhope: The Comedians' Comedian's Comedians",
+      "poster": "https://image.tmdb.org/t/p/w500/bGJG2kcpE0D3Zxwot5MauUfArdp.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

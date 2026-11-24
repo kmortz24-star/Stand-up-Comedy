@@ -71,13 +71,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1284020",
-      "type": "movie",
-      "name": "Christel de Laat: Zijn daar nog vragen over?",
-      "poster": "https://image.tmdb.org/t/p/w500/AmeVAkPOzR7zqSZ8NTOBJgodlC7.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt0414324",
       "type": "movie",
       "name": "Christopher Titus: Norman Rockwell is Bleeding",
@@ -352,6 +345,13 @@
       "name": "Daniel Sloss Live",
       "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
       "releaseInfo": "2012"
+    },
+    {
+      "id": "tt11081044",
+      "type": "movie",
+      "name": "Daniel Sloss: X",
+      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
+      "releaseInfo": "2019"
     }
   ]
 }

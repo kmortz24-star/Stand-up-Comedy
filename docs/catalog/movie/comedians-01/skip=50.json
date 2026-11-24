@@ -138,12 +138,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt1458992",
-      "type": "movie",
-      "name": "Silvestr na Silvestru",
-      "releaseInfo": "1975"
-    },
-    {
       "id": "tt0381876",
       "type": "movie",
       "name": "Amin Jensen: 150 kg over bæltestedet",
@@ -190,20 +184,6 @@
       "type": "movie",
       "name": "Amy Schumer: Emergency Contact",
       "poster": "https://image.tmdb.org/t/p/w500/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt5615230",
-      "type": "movie",
-      "name": "Anders Grau: Bekymringsfabler",
-      "poster": "https://image.tmdb.org/t/p/w500/wjZlqkzjq1m2UNxhkU93gVSOQBF.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:1196851",
-      "type": "movie",
-      "name": "Anders Grau: Vamos a La Playa",
-      "poster": "https://image.tmdb.org/t/p/w500/wJg0hUQ4KKvwYlwxsk9WtWGzOZY.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -355,6 +335,27 @@
       "name": "Andy Parsons: Bafflingly Optimistic",
       "poster": "https://image.tmdb.org/t/p/w500/66ib73iE1I3C2v29sg4O0uzYDML.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6543358",
+      "type": "movie",
+      "name": "Anjelah Johnson: Mahalo & Goodnight",
+      "poster": "https://image.tmdb.org/t/p/w500/7XpQfmcJ98JhZkkUNnifbgxU26a.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt27774472",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Say I Won't",
+      "poster": "https://image.tmdb.org/t/p/w500/iHc9pGfUe9YzUjg34OLmQZDtHm3.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt27830120",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Technically Not Stalking",
+      "poster": "https://image.tmdb.org/t/p/w500/CjgKiwaEhCg4x7BL58rmVbV5q4.jpg",
+      "releaseInfo": "2024"
     }
   ]
 }

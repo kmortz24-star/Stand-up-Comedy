@@ -177,13 +177,6 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tmdb:1715954",
-      "type": "movie",
-      "name": "Aditya Kulshreshtha: Fresher's Party",
-      "poster": "https://image.tmdb.org/t/p/w500/4oBZOInc2ciVRCaX9QPVX3iQvvP.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt11459872",
       "type": "movie",
       "name": "Ahir Shah: Dots",
@@ -273,6 +266,13 @@
       "name": "Al Murray, The Pub Landlord: One Man, One Guvnor",
       "poster": "https://image.tmdb.org/t/p/w500/6tM2HV0Bvz2s6XAHKfUlcWilLVx.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:1403297",
+      "type": "movie",
+      "name": "Al Pitcher - My Happy Place",
+      "poster": "https://image.tmdb.org/t/p/w500/5VOEIgICBUIhJQx1lBy6NOijev4.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt1175487",

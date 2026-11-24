@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0840305",
-      "type": "movie",
-      "name": "Comedy Central Roast of William Shatner",
-      "poster": "https://image.tmdb.org/t/p/w500/3iqOKRso4MrmGiXeJl3VcmgAU0j.jpg",
-      "releaseInfo": "2006"
-    },
-    {
       "id": "tt0807745",
       "type": "movie",
       "name": "Blue Collar Comedy Tour: One for the Road",

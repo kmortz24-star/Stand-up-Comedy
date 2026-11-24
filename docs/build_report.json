@@ -1,49 +1,23 @@
 {
   "counts": {
-    "New Specials": 212,
-    "Top Rated": 150,
+    "New Specials": 190,
+    "Top Rated": 200,
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
     "Comedy Legends": 64,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 73,
-    "Comedians AB": 267,
-    "CDEFG": 394,
-    "HIJ": 296,
-    "KLM": 312,
-    "NOPQR": 286,
-    "STUVWXYZ": 268,
+    "Roasts & Comedy Events": 72,
+    "Comedians AB": 260,
+    "CDEFG": 387,
+    "HIJ": 285,
+    "KLM": 296,
+    "NOPQR": 269,
+    "STUVWXYZ": 249,
     "Stand-Up TV Shows": 25
   },
   "total_unique_records": 3006,
   "needs_review": [
-    {
-      "id": "tmdb:1022459",
-      "tmdb_id": 1022459,
-      "title": "Heino Hansens første comedy show",
-      "performer": null,
-      "release_date": "2022-09-09",
-      "poster_path": "/bmqF4uYquuzPvvimhBNRszSkuZm.jpg",
-      "popularity": 0.3254,
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt14259874",
-      "tmdb_id": 1022758,
-      "title": "Claun",
-      "performer": null,
-      "release_date": "2022-09-01",
-      "poster_path": "/nMNWlErIowrYWHCrPi2fpVRYILZ.jpg",
-      "popularity": 0.2984,
-      "vote_average": 6.5,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
     {
       "id": "tt0322129",
       "tmdb_id": 1022908,
@@ -69,33 +43,8 @@
       "vote_average": 7.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1064754",
-      "tmdb_id": 1064754,
-      "title": "Mick Øgendahls jul",
-      "performer": null,
-      "release_date": "2022-12-23",
-      "poster_path": "/w6moDRV1nm1JNo7tcCzoIlVpiIt.jpg",
-      "popularity": 0.2942,
-      "vote_average": 5.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1088100",
-      "tmdb_id": 1088100,
-      "title": "Huxi Bach - Alt er godt",
-      "performer": null,
-      "release_date": "2023-02-17",
-      "poster_path": "/ltaayW0CQimxbBYtqFGO3l7fiU9.jpg",
-      "popularity": 0.4063,
-      "vote_average": 4.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt21365902",
@@ -110,32 +59,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:1116322",
-      "tmdb_id": 1116322,
-      "title": "Grin til Gavn 2022",
-      "performer": null,
-      "release_date": "2023-04-21",
-      "poster_path": "/x9RGF9YzQmFO99bUnQnnULAm1v3.jpg",
-      "popularity": 0.8296,
-      "vote_average": 7.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1119220",
-      "tmdb_id": 1119220,
-      "title": "La grande histoire des Bodin's",
-      "performer": null,
-      "release_date": "2023-04-27",
-      "poster_path": "/xH9YspObA1x9RDp43thNCPHYYFm.jpg",
-      "popularity": 0.4834,
-      "vote_average": 7.5,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt6824450",
@@ -177,19 +100,6 @@
       "vote_count": 6,
       "tags": [],
       "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1144692",
-      "tmdb_id": 1144692,
-      "title": "Florence Mendez - Délicate",
-      "performer": null,
-      "release_date": "2017-03-08",
-      "poster_path": "/s0awJtbJcN5PowvpjQpCmOI2ZWq.jpg",
-      "popularity": 0.1782,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt13559964",
@@ -256,7 +166,8 @@
       "vote_average": 6.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1186578",
@@ -339,19 +250,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tmdb:1226857",
-      "tmdb_id": 1226857,
-      "title": "Grin til Gavn 2023",
-      "performer": null,
-      "release_date": "2024-01-05",
-      "poster_path": "/5ITzlzNZfgViHYI5ixSXaG9z27J.jpg",
-      "popularity": 0.5964,
-      "vote_average": 7.0,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1238006",
       "tmdb_id": 1238006,
       "title": "Yeesh TV",
@@ -362,20 +260,8 @@
       "vote_average": 10.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt16116202",
-      "tmdb_id": 1264648,
-      "title": "Sven-Erik the Comedian",
-      "performer": null,
-      "release_date": "2020-11-27",
-      "poster_path": "/jDWfWVSpiI1yz72c9lbpYSvGC5r.jpg",
-      "popularity": 0.2634,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt4235918",
@@ -387,19 +273,6 @@
       "popularity": 0.1213,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1271287",
-      "tmdb_id": 1271287,
-      "title": "SMALL TALK - Impro Special med Oliver Stanescu",
-      "performer": null,
-      "release_date": "2024-03-10",
-      "poster_path": "/pIhUWH5JxNQBibbK2uqTMLlBqXV.jpg",
-      "popularity": 0.2122,
-      "vote_average": 4.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -440,7 +313,8 @@
       "vote_average": 10.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1295126",
@@ -536,19 +410,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tt2364741",
-      "tmdb_id": 137912,
-      "title": "Linda P og Mig",
-      "performer": null,
-      "release_date": "2012-10-09",
-      "poster_path": "/gRyUkh0XWCjWa0JfP2Rjd2BGVbx.jpg",
-      "popularity": 0.2118,
-      "vote_average": 6.5,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1379566",
       "tmdb_id": 1379566,
       "title": "Le 5ème Stuuût",
@@ -601,19 +462,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt35193559",
-      "tmdb_id": 1398305,
-      "title": "BROS - Så Blev der Mørkt",
-      "performer": null,
-      "release_date": "2024-12-06",
-      "poster_path": "/9bu3oeDwAhT91RjwaU2VyljxBR4.jpg",
-      "popularity": 0.6751,
-      "vote_average": 8.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1402476",
       "tmdb_id": 1402476,
       "title": "Mulher Não Tem Graça",
@@ -623,19 +471,6 @@
       "popularity": 0.1215,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1409581",
-      "tmdb_id": 1409581,
-      "title": "Frank Hvam - Nobody",
-      "performer": null,
-      "release_date": "2024-12-30",
-      "poster_path": "/tbsteDb5jFpsrmCxzqiVWerYgyQ.jpg",
-      "popularity": 0.3375,
-      "vote_average": 6.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -650,7 +485,8 @@
       "vote_average": 10.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt2596918",
@@ -756,7 +592,8 @@
       "vote_average": 9.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1510602",
@@ -822,7 +659,8 @@
       "vote_average": 10.0,
       "vote_count": 2,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1537879",
@@ -874,19 +712,6 @@
       "popularity": 0.5701,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1555084",
-      "tmdb_id": 1555084,
-      "title": "Stand Down",
-      "performer": null,
-      "release_date": "2025-05-25",
-      "poster_path": "/6GF7NhQ0kxZta20ygIyAyAyyEEW.jpg",
-      "popularity": 0.2845,
-      "vote_average": 8.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -995,19 +820,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt37801857",
-      "tmdb_id": 1586926,
-      "title": "Peores Verdades & Mejores Mentiras",
-      "performer": null,
-      "release_date": "2025-06-15",
-      "poster_path": "/nxEKQSvgKzmbe63LuDtziPcLDoO.jpg",
-      "popularity": 0.3026,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1590505",
       "tmdb_id": 1590505,
       "title": "Piniata",
@@ -1034,19 +846,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1593659",
-      "tmdb_id": 1593659,
-      "title": "Anulo Esas Palabras",
-      "performer": null,
-      "release_date": "2025-11-08",
-      "poster_path": "/6MdiJclVV9uTfL0yXMFLCJnPrxp.jpg",
-      "popularity": 0.0918,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1604478",
       "tmdb_id": 1604478,
       "title": "Daniel Lill - Det næste skridt",
@@ -1056,19 +855,6 @@
       "popularity": 0.1368,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1608446",
-      "tmdb_id": 1608446,
-      "title": "Luana do Bem - Crente",
-      "performer": null,
-      "release_date": "2026-01-02",
-      "poster_path": "/9sn37FXiEw5LZ6dC9KbZ3xkMc9J.jpg",
-      "popularity": 0.3022,
-      "vote_average": 10.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1086,19 +872,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1630601",
-      "tmdb_id": 1630601,
-      "title": "Sin Robar a Nadie",
-      "performer": null,
-      "release_date": "2023-12-10",
-      "poster_path": "/qCXjK3oDMRqfJ0PXaj3MXB3yaOe.jpg",
-      "popularity": 0.1611,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1633496",
       "tmdb_id": 1633496,
       "title": "Falha Minha",
@@ -1108,19 +881,6 @@
       "popularity": 0.0972,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1634955",
-      "tmdb_id": 1634955,
-      "title": "Evija apmeklēja jūsu profilu",
-      "performer": null,
-      "release_date": "2026-02-10",
-      "poster_path": "/lRieWWudG6C8NhYSck7YnNx3Bkg.jpg",
-      "popularity": 0.2841,
-      "vote_average": 8.0,
-      "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1321,19 +1081,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:171073",
-      "tmdb_id": 171073,
-      "title": "Father",
-      "performer": null,
-      "release_date": "2012-02-23",
-      "poster_path": null,
-      "popularity": 0.1985,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1713376",
       "tmdb_id": 1713376,
       "title": "Randolph Davies and the Kickass Band: The Official Concert",
@@ -1464,19 +1211,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1753295",
-      "tmdb_id": 1753295,
-      "title": "PLATEIA",
-      "performer": null,
-      "release_date": "2026-01-17",
-      "poster_path": "/t3xtLjvTX3G6xzPgTfBr8Pf0LIU.jpg",
-      "popularity": 0.3655,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1760144",
       "tmdb_id": 1760144,
       "title": "When Everybody Laughs",
@@ -1540,7 +1274,8 @@
       "vote_average": 9.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt50546246",
@@ -1705,19 +1440,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tmdb:258169",
-      "tmdb_id": 258169,
-      "title": "Vanaisa",
-      "performer": null,
-      "release_date": "2013-03-06",
-      "poster_path": null,
-      "popularity": 0.1897,
-      "vote_average": 4.2,
-      "vote_count": 2,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt1277146",
       "tmdb_id": 276817,
       "title": "Stand Up",
@@ -1744,19 +1466,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:291526",
-      "tmdb_id": 291526,
-      "title": "Mikael Wulff - Man in trouble",
-      "performer": null,
-      "release_date": "2013-10-03",
-      "poster_path": "/cFnhYNCEfM19V4eRQI7RzGusrnO.jpg",
-      "popularity": 0.3275,
-      "vote_average": 6.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt2949984",
@@ -1786,19 +1495,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:301891",
-      "tmdb_id": 301891,
-      "title": "Frank Hvam - Inappropriate",
-      "performer": null,
-      "release_date": "2014-11-11",
-      "poster_path": "/1z5K6KkAYFNayvc3B8IlGtXTTAu.jpg",
-      "popularity": 0.4818,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt5605674",
       "tmdb_id": 306959,
       "title": "Stand Up, Strip Down",
@@ -1811,19 +1507,6 @@
       "vote_count": 11,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:375412",
-      "tmdb_id": 375412,
-      "title": "Comedy Aid 2015",
-      "performer": null,
-      "release_date": "2015-12-29",
-      "poster_path": "/7I5Cd7T6z3f5BdckU0Qd0XyIVac.jpg",
-      "popularity": 0.2532,
-      "vote_average": 4.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt1320261",
@@ -1876,19 +1559,6 @@
       "popularity": 0.1993,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:495156",
-      "tmdb_id": 495156,
-      "title": "Comedy Aid 2017",
-      "performer": null,
-      "release_date": "2017-12-29",
-      "poster_path": "/YdOUdNdCyGhuSqRPWw0KovYHtg.jpg",
-      "popularity": 0.3342,
-      "vote_average": 6.5,
-      "vote_count": 2,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1948,19 +1618,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt0356692",
-      "tmdb_id": 55574,
-      "title": "Hit med Amin - 10 Års Jubilæumsshow",
-      "performer": null,
-      "release_date": "2003-07-13",
-      "poster_path": "/5ZmulrL8egM0qQBWrqGm0f2AwtG.jpg",
-      "popularity": 0.2825,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt5803530",
       "tmdb_id": 578935,
       "title": "#DigitalLivesMatter",
@@ -2001,32 +1658,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:660040",
-      "tmdb_id": 660040,
-      "title": "Grin til gavn 2019",
-      "performer": null,
-      "release_date": "2020-01-01",
-      "poster_path": "/li1AH754TAWztgyadRvT0BoZqRr.jpg",
-      "popularity": 0.4963,
-      "vote_average": 6.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:660333",
-      "tmdb_id": 660333,
-      "title": "Annika Aakjær - ENEBARN",
-      "performer": null,
-      "release_date": "2019-11-27",
-      "poster_path": "/jOFfNAhZ8kylpG2jZKu57YnDWky.jpg",
-      "popularity": 0.1604,
-      "vote_average": 4.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:674036",
@@ -2183,7 +1814,8 @@
       "vote_average": 7.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:91647",
@@ -2196,7 +1828,8 @@
       "vote_average": 10.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt14672692",
@@ -2209,7 +1842,8 @@
       "vote_average": 9.0,
       "vote_count": 1,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:936842",
@@ -2250,41 +1884,15 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:972382",
-      "tmdb_id": 972382,
-      "title": "Grin til Gavn 2021",
-      "performer": null,
-      "release_date": "2022-05-06",
-      "poster_path": "/pdcTyAMzpkdH77en7pXlhuK7cCk.jpg",
-      "popularity": 0.5031,
-      "vote_average": 4.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:982323",
-      "tmdb_id": 982323,
-      "title": "Men's Room 4",
-      "performer": null,
-      "release_date": "2022-05-30",
-      "poster_path": "/akdtegxF65pwDetLiYQk85Gerdr.jpg",
-      "popularity": 0.691,
-      "vote_average": 9.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     }
   ],
   "unrated_cleanup": {
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2256,
-    "remaining_alphabetical_movies": 1781,
-    "unrated_movies_hidden": 475,
+    "original_alphabetical_movies": 2148,
+    "remaining_alphabetical_movies": 1704,
+    "unrated_movies_hidden": 444,
     "unrated_established_movies_kept": 213
   },
   "quality_cleanup": {
@@ -2301,30 +1909,30 @@
     "episode_count": 1289,
     "episodes_by_show": {
       "Comedy Central Presents": 286,
-      "Comedy Central Stand-Up Presents": 34,
-      "Comedy Now!": 6,
-      "Comedy Underground with Dave Attell": 8,
-      "ComicView": 12,
       "Def Comedy Jam": 77,
-      "Gabriel Iglesias Presents Stand-Up Revolution": 19,
-      "Gotham Comedy Live": 135,
-      "HBO Comedy Half Hour": 32,
-      "John Oliver's New York Stand-Up Show": 26,
-      "Just for Laughs: All Access": 28,
       "Last Comic Standing": 102,
-      "Live at Gotham": 30,
       "Live at the Apollo": 133,
-      "Live from the BBC": 18,
       "One Night Stand": 65,
       "Premium Blend": 97,
-      "Roast Battle": 21,
-      "The Comedy Lineup": 16,
-      "The Degenerates": 12,
-      "The Half Hour": 74,
-      "The New Negroes": 1,
+      "HBO Comedy Half Hour": 32,
       "The Standups": 18,
+      "Roast Battle": 21,
+      "Just for Laughs: All Access": 28,
+      "Comedy Central Stand-Up Presents": 34,
+      "John Oliver's New York Stand-Up Show": 26,
+      "Gotham Comedy Live": 135,
       "This Is Not Happening": 26,
-      "Tiffany Haddish Presents: They Ready": 13
+      "The Half Hour": 74,
+      "Live at Gotham": 30,
+      "ComicView": 12,
+      "Gabriel Iglesias Presents Stand-Up Revolution": 19,
+      "The Comedy Lineup": 16,
+      "Tiffany Haddish Presents: They Ready": 13,
+      "The Degenerates": 12,
+      "Comedy Underground with Dave Attell": 8,
+      "Comedy Now!": 6,
+      "Live from the BBC": 18,
+      "The New Negroes": 1
     },
     "playback_verified": false,
     "stream_source": "Other installed Nuvio stream addons; not hosted by this addon"
@@ -2340,7 +1948,7 @@
   },
   "rankings": {
     "source": "TMDB audience vote_average + vote_count",
-    "top_150_rated": "Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum 20 votes",
+    "top_rated": "Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum 20 votes; top 200",
     "fan_favorites": "Bayesian-weighted TMDB ratings plus participation and modest A/B-roster bonus; top 200; editorial proxy, not a dedicated audience poll",
     "overlap_allowed": true,
     "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed"
@@ -2445,9 +2053,9 @@
   },
   "english_language_policy": {
     "status": "Known non-English excluded; unknown language needs confirmation",
-    "known_non_english_source_records": 386,
-    "unknown_language_source_records": 861,
-    "unknown_language_alphabetical_records": 321,
+    "known_non_english_source_records": 549,
+    "unknown_language_source_records": 511,
+    "unknown_language_alphabetical_records": 68,
     "known_non_english_published_movie_records": 0,
     "multilingual_tv_shows_excluded": [
       "COMEDIANS of the world"
