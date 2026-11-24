@@ -487,6 +487,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     overrides = config.get("performer_overrides", {})
     tag_overrides = config.get("tag_overrides", {})
     accepted, unassigned = [], []
+    approved = set(config.get("manual_approved_ids", []))
     known_names = known_performer_names(records, config, roster_names)
     name_lookup = {norm(name).strip(): name for name in known_names}
     prefix_index = defaultdict(list)
@@ -514,7 +515,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     deduped = dedupe_same_special(prepared)
     for record in deduped:
         if (record["id"] in excluded or release_date(record) > today
-                or too_poorly_rated(record, config)
+                or (record["id"] not in approved and too_poorly_rated(record, config))
                 or non_standup_movie(record, config)
                 or not movie_allowed(record, english_only, non_english_people)):
             continue
@@ -523,8 +524,9 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         if not record.get("performer") or bucket_for(record["performer"], groups) is None:
             # Preserve the independent unmatched-title review pool unchanged.
             unassigned.append(record)
-        elif (not exclude_unrated_unknown(record, config, protected_unrated)
-              and not exclude_low_rated_unknown(record, config, protected_low_rated)):
+        elif (record["id"] in approved or
+              (not exclude_unrated_unknown(record, config, protected_unrated)
+               and not exclude_low_rated_unknown(record, config, protected_low_rated))):
             accepted.append(record)
 
     accepted.sort(key=alphabetical_sort_key)

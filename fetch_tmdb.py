@@ -531,6 +531,48 @@ def backfill_original_languages(api: TMDB, cache: dict, *, state: dict, today: d
     return done
 
 
+def merge_manual_additions(api, cache, additions):
+    """Seed verified IMDb works and hydrate TMDB metadata when available.
+
+    Never substitute IMDb vote counts for TMDB rankings. A fallback date with
+    year precision is only a chronological placeholder until metadata resolves.
+    The explicit performer credit and approved ID survive future refreshes.
+    """
+    for item in additions:
+        identifier = item.get("id")
+        if not identifier:
+            continue
+        previous = cache.get(identifier, {})
+        enriched = previous
+        if not previous.get("tmdb_id") and identifier.startswith("tt"):
+            try:
+                found = api.get(f"/find/{identifier}", external_source="imdb_id")
+                for match in found.get("movie_results", []):
+                    candidate = movie_record(api, int(match["id"]))
+                    if candidate.get("id") == identifier:
+                        enriched = {**previous, **candidate}
+                        break
+            except (HTTPError, URLError, TimeoutError) as exc:
+                print(f"Manual metadata lookup for {identifier}: {exc}; using verified seed")
+        merged = {**item, **enriched}
+        merged["id"] = identifier
+        if item.get("performer"):
+            merged["performer"] = item["performer"]
+        if not merged.get("release_date"):
+            merged["release_date"] = item.get("release_date", "")
+        if enriched.get("release_date") and enriched.get("release_date") != item.get("release_date"):
+            merged.pop("release_date_precision", None)
+        if not merged.get("title"):
+            merged["title"] = item.get("title", "")
+        if not merged.get("original_language"):
+            merged["original_language"] = item.get("original_language", "")
+        merged["tags"] = sorted(set(item.get("tags") or []) | set(enriched.get("tags") or []))
+        # A resolved TMDB alias for this exact movie is the same work.
+        if merged.get("tmdb_id"):
+            cache.pop(f'tmdb:{merged["tmdb_id"]}', None)
+        cache[identifier] = merged
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--from-year", type=int, default=1960)
@@ -549,9 +591,7 @@ def main():
     if config.get("english_language_only", False):
         backfill_original_languages(tmdb_api, fresh, state=state, today=date.today(),
                                     limit=int(config.get("language_backfill_per_run", 350)))
-    for item in read_json(USER_ADDITIONS, []):
-        if item.get("id"):
-            fresh[item["id"]] = {**fresh.get(item["id"], {}), **item}
+    merge_manual_additions(tmdb_api, fresh, read_json(USER_ADDITIONS, []))
     write_json(DATA_PATH, sorted(fresh.values(), key=lambda r: (str(r.get("tmdb_id") or ""), r["id"])))
     write_json(STATE_PATH, state)
 

@@ -306,3 +306,22 @@ new catalog row or Nuvio JSON import is required.
 ### November 24 manual curation refresh
 
 Alphabetical rows now use AB / CD / EFGHI / J / KLM / NOPQR / STUVWXYZ. The source database and YouTube candidates are retained. Explicit catalog exclusions and selected ensemble-event transfers are configured in `config.json`; the rationale for each matched removal and duplicate pair is in `data/manual_curation_20261124.json`. For approved duplicate pairs, the YouTube card is retained in the alphabetical rows and the movie record remains eligible for other rows. Reversing an exclusion requires removing its ID from `excluded_ids` and, for an entire performer, their name from `non_standup_performers`. No new global rating cutoff was introduced. The remaining questionable individual specials and missing-special research need separate review.
+
+### Final coverage pass (2026-11-24)
+
+The 26 manually approved IMDb work IDs in `data/manual_additions.json` are
+merged during the existing TMDB refresh. The refresh resolves matching TMDB
+metadata by IMDb ID when available; unresolved seeds retain verified titles,
+performers and release years (January 1 is a year-only placeholder), without
+inventing ratings or artwork. The approved IDs bypass rating-only exclusions,
+not explicit exclusions, non-stand-up checks or language checks. One of the
+26 works is already present as a YouTube card, and its IMDb record stays out
+of the alphabetical row to prevent duplication. Bill Burr's *Let It Go* and
+Andrew Santino's *Cheeseburger* likewise retain their YouTube cards in the
+alphabetical rows. *Friends Who Kill* is classified as an event.
+
+Personal favorites and personal B-tier/unranked preferences are documented
+separately from the public recognition/roulette tiers; they do not replace
+existing catalog protections or the Comedy Legends roster. No generated
+`docs/` files are needed in the update-only upload. Run the existing refresh
+workflow after replacing the source files. Playback is not verified.

@@ -73,7 +73,33 @@
     "tt0666146": "Bill Maher",
     "tt0327036": "Martin Lawrence",
     "tt1950332": "Russell Howard",
-    "tt31869794": "Chris Ramsey"
+    "tt31869794": "Chris Ramsey",
+    "tt4653606": "Nate Bargatze",
+    "tt14078164": "Nate Bargatze",
+    "tt24165132": "Nate Bargatze",
+    "tt11798038": "Sam Morril",
+    "tt9014006": "Sam Morril",
+    "tt19770866": "Sheng Wang",
+    "tt15579188": "Theo Von",
+    "tt21431084": "Tim Dillon",
+    "tt29867137": "Stavros Halkias",
+    "tt29231774": "Ralph Barbosa",
+    "tt6295304": "Sebastian Maniscalco",
+    "tt12087624": "Louis C.K.",
+    "tt28692116": "Joe List",
+    "tt36436543": "Joe List",
+    "tt0497633": "Larry the Cable Guy",
+    "tt0949746": "Larry the Cable Guy",
+    "tt0246641": "George Carlin",
+    "tt4920096": "Tig Notaro",
+    "tt0823187": "Russell Peters",
+    "tt4766892": "Nick Swardson",
+    "tt7331748": "Joe DeRosa",
+    "tt37666574": "Joe DeRosa",
+    "tt9618280": "Ron Funches",
+    "tt12509942": "Michelle Buteau",
+    "tt34379477": "Michelle Buteau",
+    "tt15338656": "Ms. Pat"
   },
   "tag_overrides": {
     "tt1869360": [
@@ -119,6 +145,9 @@
       "event"
     ],
     "tt41973417": [
+      "event"
+    ],
+    "tt20723672": [
       "event"
     ]
   },
@@ -1098,12 +1127,15 @@
   "alphabet_duplicate_movie_ids": [
     "tmdb:1648740",
     "tmdb:62612",
+    "tt1717578",
     "tt1935828",
     "tt22092546",
+    "tt24640480",
     "tt2828960",
     "tt29865781",
     "tt31972314",
     "tt37461775",
+    "tt37666574",
     "tt37961407",
     "tt40144526",
     "tt4129180",
@@ -1114,5 +1146,53 @@
   ],
   "excluded_youtube_ids": [
     "standupyt_JHbgA38R1OM"
+  ],
+  "personal_favorites": [
+    "Doug Stanhope",
+    "Bill Burr",
+    "Tom Segura",
+    "Anthony Jeselnik",
+    "Bert Kreischer",
+    "Mitch Fatel",
+    "Shane Gillis",
+    "Sam Tallent"
+  ],
+  "personal_b_tier": [
+    "Matt McCusker",
+    "David Cross",
+    "David Spade",
+    "Lil Rel Howery"
+  ],
+  "personal_unranked": [
+    "Dave Attell",
+    "Don Rickles"
+  ],
+  "manual_approved_ids": [
+    "tt4653606",
+    "tt14078164",
+    "tt24165132",
+    "tt11798038",
+    "tt9014006",
+    "tt19770866",
+    "tt15579188",
+    "tt21431084",
+    "tt29867137",
+    "tt29231774",
+    "tt6295304",
+    "tt12087624",
+    "tt28692116",
+    "tt36436543",
+    "tt0497633",
+    "tt0949746",
+    "tt0246641",
+    "tt4920096",
+    "tt0823187",
+    "tt4766892",
+    "tt7331748",
+    "tt37666574",
+    "tt9618280",
+    "tt12509942",
+    "tt34379477",
+    "tt15338656"
   ]
 }
