@@ -1,6 +1,41 @@
 {
   "metas": [
     {
+      "id": "tmdb:1532680",
+      "type": "movie",
+      "name": "Finlay Christie: Aura Farmer",
+      "poster": "https://image.tmdb.org/t/p/w500/uxgLxxQGXVqnGyF5m2KHpNFUsAJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1531170",
+      "type": "movie",
+      "name": "Sasha Dolgopolov: Pressure Makes Diamonds",
+      "poster": "https://image.tmdb.org/t/p/w500/b41m4fHxZeUZ8gVQeOT1dNt9aL8.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1530287",
+      "type": "movie",
+      "name": "Haseeb Khan: Love Percentage",
+      "poster": "https://image.tmdb.org/t/p/w500/uY0WZpzr3ZhQ5K5StvMUne5Hjmx.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37897162",
+      "type": "movie",
+      "name": "Josh Wolf: The Campfire Special",
+      "poster": "https://image.tmdb.org/t/p/w500/nSsBdWfsbfSN5F4T3pr65BF9nGL.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37649515",
+      "type": "movie",
+      "name": "Jim Jefferies: Two Limb Policy",
+      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1436689",
       "type": "movie",
       "name": "Camille Solari: Hello New Zealand My Life In Pink",

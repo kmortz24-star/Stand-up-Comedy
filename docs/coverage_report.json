@@ -1,0 +1,2697 @@
+{
+  "description": "Evidence-only coverage audit. Zero records does not prove a comedian has no special. Nonzero records do not prove their filmography is complete or that playback works.",
+  "summary": {
+    "established_comedians": 207,
+    "selected_underrated_comedians": 12,
+    "priority_comedians_total": 219,
+    "priority_comedians_without_movie_records": 9,
+    "priority_comedians_with_unmatched_works": 27,
+    "unmatched_work_leads": 58,
+    "catalog_movie_records": 2498,
+    "tv_review_leads": 383,
+    "youtube_review_candidates": 103
+  },
+  "comedians": [
+    {
+      "name": "Bassem Youssef",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bobby Lee",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 10,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Joe DeRosa",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 7,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Michelle Buteau",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ms. Pat",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ron Funches",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sarah Keyworth",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Susie Essman",
+      "priority": "established",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Brian Posehn",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "The Fartist",
+          "source": "wikidata",
+          "source_id": "Q17004151",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jeff Ross",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Historical Roasts",
+          "source": "wikidata",
+          "source_id": "Q64138292",
+          "imdb_id": "tt9169602",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "John Pinette",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Making Lite of Myself",
+          "source": "wikidata",
+          "source_id": "Q16950277",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Show Me the Buffet",
+          "source": "wikidata",
+          "source_id": "Q7502998",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Martin Lawrence",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Funk It",
+          "source": "wikidata",
+          "source_id": "Q5509220",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Steven Wright",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "I Have a Pony",
+          "source": "wikidata",
+          "source_id": "Q5977562",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "I Still Have a Pony",
+          "source": "wikidata",
+          "source_id": "Q5979061",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bill Hicks",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Flying Saucer Tour Vol. 1",
+          "source": "wikidata",
+          "source_id": "Q5463510",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Love, Laughter and Truth",
+          "source": "wikidata",
+          "source_id": "Q6690070",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Philosophy: The Best of Bill Hicks",
+          "source": "wikidata",
+          "source_id": "Q7186201",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Eddie Murphy",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Eddie Murphy",
+          "source": "wikidata",
+          "source_id": "Q5336339",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mitch Hedberg",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Do You Believe in Gosh?",
+          "source": "wikidata",
+          "source_id": "Q5286312",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Mitch All Together",
+          "source": "wikidata",
+          "source_id": "Q6880788",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Strategic Grill Locations",
+          "source": "wikidata",
+          "source_id": "Q7621796",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Norm Macdonald",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Norm Macdonald Live",
+          "source": "wikidata",
+          "source_id": "Q18354430",
+          "imdb_id": "tt6407712",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Me Doing Stand-Up",
+          "source": "wikidata",
+          "source_id": "Q6802950",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tig Notaro",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Tig Notaro: Boyish Girl Interrupted",
+          "source": "wikidata",
+          "source_id": "Q54829022",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Live (Tig Notaro album)",
+          "source": "wikidata",
+          "source_id": "Q55621085",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bob Newhart",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "The Button-Down Mind of Bob Newhart",
+          "source": "wikidata",
+          "source_id": "Q7720822",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "The Button-Down Mind Strikes Back!",
+          "source": "wikidata",
+          "source_id": "Q85806691",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Denis Leary",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Lock 'n Load",
+          "source": "wikidata",
+          "source_id": "Q6665207",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "No Cure for Cancer",
+          "source": "wikidata",
+          "source_id": "Q7044080",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "James Acaster",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "James Acaster: Repertoire",
+          "source": "wikidata",
+          "source_id": "Q51325057",
+          "imdb_id": "tt7818686",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sam Kinison",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Louder Than Hell",
+          "source": "wikidata",
+          "source_id": "Q16968857",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Have You Seen Me Lately?",
+          "source": "wikidata",
+          "source_id": "Q5683352",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Leader of the Banned",
+          "source": "wikidata",
+          "source_id": "Q6508516",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Live From Hell",
+          "source": "wikidata",
+          "source_id": "Q6655165",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Demetri Martin",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "These Are Jokes",
+          "source": "wikidata",
+          "source_id": "Q7783333",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Patrice O’Neal",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Mr. P",
+          "source": "wikidata",
+          "source_id": "Q6929062",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Richard Pryor",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Bicentennial Nigger",
+          "source": "wikidata",
+          "source_id": "Q4903555",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "L.A. Jail",
+          "source": "wikidata",
+          "source_id": "Q6456219",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "That Nigger's Crazy",
+          "source": "wikidata",
+          "source_id": "Q7711239",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Robin Williams",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "A Night at the Met",
+          "source": "wikidata",
+          "source_id": "Q4658588",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Russell Peters",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Outsourced",
+          "source": "wikidata",
+          "source_id": "Q7113023",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Red, White and Brown",
+          "source": "wikidata",
+          "source_id": "Q7303415",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "David Cross",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "It's Not Funny",
+          "source": "wikidata",
+          "source_id": "Q16850475",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Bigger and Blackerer",
+          "source": "wikidata",
+          "source_id": "Q4906904",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Shut Up You Fucking Baby!",
+          "source": "wikidata",
+          "source_id": "Q7505564",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jack Dee",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Jack and Jeremy's Real Lives",
+          "source": "wikidata",
+          "source_id": "Q6115941",
+          "imdb_id": "tt0115220",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Joe Rogan",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "JRE #1511 - Oliver Stone",
+          "source": "wikidata",
+          "source_id": "Q109304300",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "JRE #902 - Live Underground from The Comedy Store",
+          "source": "wikidata",
+          "source_id": "Q109305388",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "JRE End of the World (Live from the Comedy Store)",
+          "source": "wikidata",
+          "source_id": "Q109305465",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bill Burr",
+      "priority": "established",
+      "movie_special_records": 10,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "All Things Comedy Live",
+          "source": "wikidata",
+          "source_id": "Q18209197",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Doug Stanhope",
+      "priority": "established",
+      "movie_special_records": 11,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Beer Hall Putsch",
+          "source": "wikidata",
+          "source_id": "Q28452117",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Before Turning the Gun on Himself",
+          "source": "wikidata",
+          "source_id": "Q4880303",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "No Place Like Home",
+          "source": "wikidata",
+          "source_id": "Q56275314",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Oslo: Burning the Bridge to Nowhere",
+          "source": "wikidata",
+          "source_id": "Q7107000",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "The Dying of a Last Breed",
+          "source": "wikidata",
+          "source_id": "Q96408646",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "George Carlin",
+      "priority": "established",
+      "movie_special_records": 12,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "An Evening with Wally Londo Featuring Bill Slaszo",
+          "source": "wikidata",
+          "source_id": "Q4749977",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Back in Town",
+          "source": "wikidata",
+          "source_id": "Q4839279",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Class Clown",
+          "source": "wikidata",
+          "source_id": "Q5127975",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Parental Advisory: Explicit Lyrics",
+          "source": "wikidata",
+          "source_id": "Q7136768",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Louis C.K.",
+      "priority": "established",
+      "movie_special_records": 13,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Live in Houston",
+          "source": "wikidata",
+          "source_id": "Q6657681",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "WORD: Live at Carnegie Hall",
+          "source": "wikidata",
+          "source_id": "Q7953953",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Billy Connolly",
+      "priority": "established",
+      "movie_special_records": 20,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Billy Connolly Live 1994",
+          "source": "wikidata",
+          "source_id": "Q17426155",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Live Aid",
+          "source": "wikidata",
+          "source_id": "Q193740",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Live at the Odeon Hammersmith London",
+          "source": "wikidata",
+          "source_id": "Q6656904",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "The Pick of Billy Connolly",
+          "source": "wikidata",
+          "source_id": "Q7757037",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Anjelah Johnson",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bobcat Goldthwait",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chelsea Peretti",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dom Irrera",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 3,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dusty Slay",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Earthquake",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Gina Yashere",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Greg Giraldo",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jessica Kirson",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Joe List",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Josh Wolf",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Judah Friedlander",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kurt Metzger",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Leanne Morgan",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Martin Short",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mitch Fatel",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Moshe Kasher",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ralph Barbosa",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Redd Foxx",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Rich Vos",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Robert Kelly",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Romesh Ranganathan",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sheng Wang",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tim Dillon",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tommy Davidson",
+      "priority": "established",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Adam Ray",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Alex Edelman",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Arnez J",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bruce Bruce",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Damon Wayans",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jake Johannsen",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jen Kirkman",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Joe Lycett",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Lavell Crawford",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Matt McCusker",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mo'Nique",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Nick Kroll",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Nick Swardson",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Robert Schimmel",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ronny Chieng",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sam Tallent",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Seth Meyers",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Shane Gillis",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Stavros Halkias",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Steve Martin",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Theo Von",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Todd Barry",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Todd Glass",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Adam Sandler",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Al Murray",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Andrew Santino",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chelsea Handler",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chris Porter",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dan Soder",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Daniel Tosh",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dylan Moran",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Felipe Esparza",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Fortune Feimster",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Gilbert Gottfried",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Harland Williams",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jimmy O. Yang",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Katherine Ryan",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kevin James",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Larry the Cable Guy",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Lee Mack",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Lenny Bruce",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mark Normand",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Michael Che",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Michelle Wolf",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Nate Bargatze",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Nick Di Paolo",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Paul Reiser",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Pete Holmes",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Robert Klein",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Rodney Carrington",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tom Green",
+      "priority": "established",
+      "movie_special_records": 3,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ali Wong",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Andrew Schulz",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Anthony Jeselnik",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Artie Lange",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Big Jay Oakerson",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Carlos Mencia",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 4,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chris Distefano",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Daniel Sloss",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "David Spade",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Deon Cole",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Drew Lynch",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Elayne Boosler",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Hannibal Buress",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Hasan Minhaj",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jerrod Carmichael",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kevin Bridges",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Maria Bamford",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Paul Rodriguez",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Rodney Dangerfield",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sean Lock",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sinbad",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Steve Treviño",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Taylor Tomlinson",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tom Papa",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Vir Das",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ari Shaffir",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bill Engvall",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bo Burnham",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Brian Regan",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Craig Ferguson",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "D.L. Hughley",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dane Cook",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Frankie Boyle",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Hannah Gadsby",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Joan Rivers",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "John Mulaney",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kathleen Madigan",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kyle Kinane",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Lisa Lampanelli",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Matt Rife",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Maz Jobrani",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Neal Brennan",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Paul Mooney",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ron White",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Russell Howard",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sarah Silverman",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Steve Harvey",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tony Hinchcliffe",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tracy Morgan",
+      "priority": "established",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Amy Schumer",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Aziz Ansari",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bert Kreischer",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Bob Saget",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Christopher Titus",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dara Ó Briain",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dave Attell",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jim Breuer",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Lewis Black",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 3,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Marc Maron",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 3,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mike Birbiglia",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sarah Millican",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sebastian Maniscalco",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Sommore",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Wanda Sykes",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Andrew Dice Clay",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Don Rickles",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "George Lopez",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jeff Foxworthy",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jim Norton",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Nikki Glaser",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Peter Kay",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ricky Gervais",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Tom Segura",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Whitney Cummings",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chad Daniels",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Chris Rock",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Gabriel Iglesias",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jo Koy",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Michael McIntyre",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Mike Epps",
+      "priority": "established",
+      "movie_special_records": 8,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Gary Owen",
+      "priority": "established",
+      "movie_special_records": 9,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Iliza Shlesinger",
+      "priority": "established",
+      "movie_special_records": 9,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Katt Williams",
+      "priority": "established",
+      "movie_special_records": 9,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Patton Oswalt",
+      "priority": "established",
+      "movie_special_records": 9,
+      "tv_episode_review_leads": 2,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Stewart Lee",
+      "priority": "established",
+      "movie_special_records": 9,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jim Jefferies",
+      "priority": "established",
+      "movie_special_records": 10,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ali Siddiq",
+      "priority": "established",
+      "movie_special_records": 11,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Eddie Izzard",
+      "priority": "established",
+      "movie_special_records": 11,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Trevor Noah",
+      "priority": "established",
+      "movie_special_records": 11,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jimmy Carr",
+      "priority": "established",
+      "movie_special_records": 12,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dave Chappelle",
+      "priority": "established",
+      "movie_special_records": 14,
+      "tv_episode_review_leads": 3,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jeff Dunham",
+      "priority": "established",
+      "movie_special_records": 15,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jim Gaffigan",
+      "priority": "established",
+      "movie_special_records": 15,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Kevin Hart",
+      "priority": "established",
+      "movie_special_records": 15,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Eleanor Kerrigan",
+      "priority": "select_underrated",
+      "movie_special_records": 0,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Aparna Nancherla",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ian Fidance",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jared Freid",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Jordan Jensen",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Ryan Sickler",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Shane Mauss",
+      "priority": "select_underrated",
+      "movie_special_records": 1,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dustin Nickerson",
+      "priority": "select_underrated",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Geoffrey Asmus",
+      "priority": "select_underrated",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Josh Blue",
+      "priority": "select_underrated",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Josh Johnson",
+      "priority": "select_underrated",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Gianmarco Soresi",
+      "priority": "select_underrated",
+      "movie_special_records": 5,
+      "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    }
+  ]
+}

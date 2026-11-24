@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tmdb:1410567",
+      "type": "movie",
+      "name": "Roué Verveer: Tjar A Lobi",
+      "poster": "https://image.tmdb.org/t/p/w500/c6WTIuNDWAOweVrwVUQgCPxTgvg.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:765285",
+      "type": "movie",
+      "name": "Roué Verveer - Op het Laatste Moment",
+      "poster": "https://image.tmdb.org/t/p/w500/bdS4Ne7OkAiDcwIgPkMvNJLZ6bz.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt13712198",
+      "type": "movie",
+      "name": "Roué Verveer: Heppie de Peppie",
+      "poster": "https://image.tmdb.org/t/p/w500/bwRii0M7DOxkm8ANIKNpMLZVoP5.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1432577",
+      "type": "movie",
+      "name": "Roué Verveer - Zo Goed Als Nieuw",
+      "poster": "https://image.tmdb.org/t/p/w500/px083opOFMXyYTiXiiOapGy8uq2.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1409015",
+      "type": "movie",
+      "name": "Roué Verveer: Gewoon Roué",
+      "poster": "https://image.tmdb.org/t/p/w500/bVQ8wEdZyp5iP5i6WWzZx6Krg1.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:706714",
+      "type": "movie",
+      "name": "Roy Chubby Brown - 50 Shades Of Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt6665988",
+      "type": "movie",
+      "name": "Roy Wood Jr.: Father Figure",
+      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:1226297",
+      "type": "movie",
+      "name": "Kā to ņem",
+      "poster": "https://image.tmdb.org/t/p/w500/vSIwn4wPZIXpZHXDkomg7w6P7IG.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1226295",
+      "type": "movie",
+      "name": "Plezīrs",
+      "poster": "https://image.tmdb.org/t/p/w500/uD5zlSGNGg6e0snlTAOcqprv2pF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1501227",
+      "type": "movie",
+      "name": "TAGAD. Rūdolfa Kugrēna solo izrāde",
+      "poster": "https://image.tmdb.org/t/p/w500/5zACxSUucFRZ5Iju7vvQEQ6mCVl.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1501302",
+      "type": "movie",
+      "name": "Turpinājums. Rūdolfa Kugrēna solo stand-up izrāde",
+      "poster": "https://image.tmdb.org/t/p/w500/nPqMpoLc2xtxfbs7WmWYXlvEUZ2.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1653386",
+      "type": "movie",
+      "name": "Rufat Agayev The Bad Rufat",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1515900",
+      "type": "movie",
+      "name": "Rune Klan: Går large",
+      "poster": "https://image.tmdb.org/t/p/w500/gtle9Gum5RbdbRZT8HCJ6mwIHJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "tt2396624",
       "type": "movie",
       "name": "Rune Klan: Det Blå Show",
@@ -159,6 +249,13 @@
       "name": "Ryan Hamilton: This Just Hit Me",
       "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tt27439320",
+      "type": "movie",
+      "name": "Ryan Sickler: Lefty’s Son",
+      "poster": "https://image.tmdb.org/t/p/w500/f3P0IfolKfzjKr8zLG8SUa8muhe.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

@@ -159,6 +159,20 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "tt0354445",
+      "type": "movie",
+      "name": "Cedric the Entertainer: Starting Lineup",
+      "poster": "https://image.tmdb.org/t/p/w500/mpmgoNsshgYA66nncdsGecKmu74.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt5753806",
+      "type": "movie",
+      "name": "Cedric the Entertainer: Live from the Ville",
+      "poster": "https://image.tmdb.org/t/p/w500/apBNv9j45oCHCoogMWiHlPcinYZ.jpg",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tt2592910",
       "type": "movie",
       "name": "CM101MMXI Fundamentals",
@@ -332,20 +346,6 @@
       "name": "Chris D'Elia: Grow or Die",
       "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1660803",
-      "type": "movie",
-      "name": "Chris D'Elia: The 'B Side' Special",
-      "poster": "https://image.tmdb.org/t/p/w500/1xncn1SQ3EsMB5DypVlMm1nmKdA.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt3777254",
-      "type": "movie",
-      "name": "Chris Distefano: The Half Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

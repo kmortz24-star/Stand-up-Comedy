@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt38687274",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1549283",
+      "type": "movie",
+      "name": "Lisa Delmoitiez - Remontada",
+      "poster": "https://image.tmdb.org/t/p/w500/nJpdGexitR7wPMyxJOdWYLMWCl0.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0777244",
+      "type": "movie",
+      "name": "Lisa Lampanelli: The Queen of Mean",
+      "poster": "https://image.tmdb.org/t/p/w500/w9JoGSgRwxongfJj56Y7LzO0ALk.jpg",
+      "releaseInfo": "2002"
+    },
+    {
       "id": "tt0777243",
       "type": "movie",
       "name": "Lisa Lampanelli: Take It Like a Man",
@@ -148,6 +169,12 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:428669",
+      "type": "movie",
+      "name": "Loyiso Gola: LIVE in New York",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tmdb:1091092",
       "type": "movie",
       "name": "Loyiso Gola For President: Final Run",
@@ -160,6 +187,13 @@
       "name": "Todo lo que sería Lucas Lauriente",
       "poster": "https://image.tmdb.org/t/p/w500/rB2Wjz1EILJTVWa7qTnRA2dfoUJ.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt39163035",
+      "type": "movie",
+      "name": "Lucy Beaumont: Live From The Royal Court Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/wsu4wUUaUtBHQxNIWGZm8XQOqPU.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt38907278",
@@ -312,41 +346,6 @@
       "name": "Marc Maron: End Times Fun",
       "poster": "https://image.tmdb.org/t/p/w500/nBf5pWB3NFseW0Go9HR5M73RtD4.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt26453369",
-      "type": "movie",
-      "name": "Marc Maron: From Bleak to Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/dap1rGaaxLUW1K2kDKgkO7qu2nb.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt36048590",
-      "type": "movie",
-      "name": "Marc Maron: Panicked",
-      "poster": "https://image.tmdb.org/t/p/w500/bwViCxMfpewW38VDVHxdiJq6rcK.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt26623699",
-      "type": "movie",
-      "name": "Marcella Arguello: Bitch, Grow Up!",
-      "poster": "https://image.tmdb.org/t/p/w500/tkjU4xt5gLBbr4943bs7lE0catD.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39132072",
-      "type": "movie",
-      "name": "Marcello Hernández: American Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1230462",
-      "type": "movie",
-      "name": "Marcus Brigstocke: Planet Corduroy",
-      "poster": "https://image.tmdb.org/t/p/w500/foLsz7ELOsilKzUYlqUseGjDWPd.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

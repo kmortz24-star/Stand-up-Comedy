@@ -112,6 +112,18 @@
       "releaseInfo": "2021"
     },
     {
+      "id": "tt4507050",
+      "type": "movie",
+      "name": "Sami Hedberg - ALIVE",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt12573046",
+      "type": "movie",
+      "name": "Sami Hedberg - 365",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "tmdb:1431378",
       "type": "movie",
       "name": "Social Justice Jihadi",
@@ -331,20 +343,6 @@
       "type": "movie",
       "name": "Sebastian Maniscalco: Beyond the Punchline",
       "poster": "https://image.tmdb.org/t/p/w500/UPuZ12moTQdujmavjsdASnHwgs.jpg"
-    },
-    {
-      "id": "tt2215489",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: What's Wrong with People?",
-      "poster": "https://image.tmdb.org/t/p/w500/cd7LpSJ8GOwaqxnRADV4VTqm1Dp.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt4240704",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: Aren't You Embarrassed?",
-      "poster": "https://image.tmdb.org/t/p/w500/3S0iITseGs572hEQzzXbKjphV69.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

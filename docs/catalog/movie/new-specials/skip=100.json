@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt37674617",
+      "type": "movie",
+      "name": "Evil Eye Comedy Special Featuring Angelo Tsarouchas And Frank Spadone",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1688186",
       "type": "movie",
       "name": "The Birth of a Forehead",
@@ -109,6 +115,13 @@
       "type": "movie",
       "name": "Brad Williams: Live on Short Street",
       "poster": "https://image.tmdb.org/t/p/w500/xZRidUmyQQRtc63RlhzSTLfHFly.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41862007",
+      "type": "movie",
+      "name": "Garik Oganisyan: Here and There",
+      "poster": "https://image.tmdb.org/t/p/w500/pO0wJvSsBYzomrKP3uavNBeatXE.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -333,20 +346,6 @@
       "type": "movie",
       "name": "One Night Out with Alan Cumming",
       "poster": "https://image.tmdb.org/t/p/w500/28zeLpd82Nmx04q3CZschj3j0o.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1646800",
-      "type": "movie",
-      "name": "Jackie Kashian: Alter-Kashian",
-      "poster": "https://image.tmdb.org/t/p/w500/2EDxIOQ9Tei383twWP2QMB5L5ZO.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39367471",
-      "type": "movie",
-      "name": "Taylor Tomlinson: Prodigal Daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
       "releaseInfo": "2026"
     }
   ]

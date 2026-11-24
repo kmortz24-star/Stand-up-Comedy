@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt13433082",
+      "type": "movie",
+      "name": "Kevin Hart: Zero F**ks Given",
+      "poster": "https://image.tmdb.org/t/p/w500/mGQBQTyVqbGWiAMLPNdRuyyjQKO.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt28227488",
       "type": "movie",
       "name": "Kevin Hart: Reality Check",
@@ -339,13 +346,6 @@
       "name": "Lara Beitz: Stoppable",
       "poster": "https://image.tmdb.org/t/p/w500/t1VIC9rR4elAjIV215dlQ3szH6a.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1363862",
-      "type": "movie",
-      "name": "Lara Ricote: GRL/LATNX/DEF",
-      "poster": "https://image.tmdb.org/t/p/w500/pmZsPmEZpREuHlBgftjnCPDokhA.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt39930679",
+      "type": "movie",
+      "name": "Ali Siddiq: Rugged",
+      "poster": "https://image.tmdb.org/t/p/w500/wappVcAznSQNvHbVSUIu4WrdwIq.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1700724",
       "type": "movie",
       "name": "Ali Siddiq: The Animated PTA Special",
@@ -338,13 +345,6 @@
       "name": "Cheeseburger",
       "poster": "https://image.tmdb.org/t/p/w500/r4rzop9rUbmJ3C9Oqk7wO62STcL.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt34381932",
-      "type": "movie",
-      "name": "Andrew Santino: White Noise",
-      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

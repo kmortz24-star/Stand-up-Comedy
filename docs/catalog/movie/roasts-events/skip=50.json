@@ -8,6 +8,20 @@
       "releaseInfo": "2002"
     },
     {
+      "id": "tt0860927",
+      "type": "movie",
+      "name": "Platinum Comedy Series: Roasting Shaquille O'Neal",
+      "poster": "https://image.tmdb.org/t/p/w500/z6ujuVhgoexiOlq26pwd5Q1sdBJ.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tmdb:1799465",
+      "type": "movie",
+      "name": "Def Comedy Jam: All Stars Vol. 8",
+      "poster": "https://image.tmdb.org/t/p/w500/rLqoBpgaUgujyv0AyKYXExlvNXC.jpg",
+      "releaseInfo": "2001"
+    },
+    {
       "id": "tmdb:1799211",
       "type": "movie",
       "name": "Def Comedy Jam: All Stars Vol. 4",

@@ -1,21 +1,21 @@
 {
   "counts": {
-    "New Specials": 342,
+    "New Specials": 347,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 30,
     "Comedy Legends": 65,
     "Viral & Rising Comedians": 8,
-    "Roasts & Comedy Events": 59,
-    "Comedians AB": 381,
-    "CDEFG": 399,
-    "HIJ": 327,
-    "KLM": 345,
-    "NOPQR": 323,
-    "STUVWXYZ": 315
+    "Roasts & Comedy Events": 61,
+    "Comedians AB": 385,
+    "CDEFG": 448,
+    "HIJ": 358,
+    "KLM": 369,
+    "NOPQR": 337,
+    "STUVWXYZ": 338
   },
-  "total_unique_records": 2349,
+  "total_unique_records": 2498,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -1688,6 +1688,34 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tmdb:1787517",
+      "tmdb_id": 1787517,
+      "title": "Emilie Nørby - Prinsessen På Pladsen",
+      "performer": null,
+      "release_date": "2026-06-27",
+      "poster_path": "/itkgWFInrCZeHAeu290GnGDNIaA.jpg",
+      "popularity": 0.1953,
+      "original_language": "da",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
+      "id": "tmdb:1789299",
+      "tmdb_id": 1789299,
+      "title": "Printing Engineering Standup Comedy by Samay Raina",
+      "performer": null,
+      "release_date": "2022-11-09",
+      "poster_path": "/g2JCNLTbC9njJcLvIS4vwDuxoGf.jpg",
+      "popularity": 0.1418,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:1807747",
       "tmdb_id": 1807747,
       "title": "$$$$$$: A STAND UP COMEDY PROGRAM by The MANDAL Man",
@@ -2664,22 +2692,22 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 82,
+      "available_comedians": 93,
       "selected_comedians": [
-        "Eddie Griffin",
-        "Atsuko Okatsuka",
-        "Natasha Leggero",
-        "Mo Gilligan",
-        "Vir Das",
-        "Steve Martin",
-        "Maz Jobrani",
-        "Leslie Jones",
-        "James Acaster",
-        "Jack Whitehall",
-        "Dana Gould",
-        "Stephen Lynch",
-        "Matteo Lane",
-        "Joan Rivers",
+        "Christopher Titus",
+        "D.L. Hughley",
+        "Micky Flanagan",
+        "Hank Green",
+        "Mike Epps",
+        "Romesh Ranganathan",
+        "Rory Scovel",
+        "Billy Crystal",
+        "Margaret Cho",
+        "Paul Mooney",
+        "Zach Galifianakis",
+        "Marcello Hernández",
+        "Demi Adejuyigbe",
+        "Adele Givens",
         "Jeff Foxworthy"
       ]
     }

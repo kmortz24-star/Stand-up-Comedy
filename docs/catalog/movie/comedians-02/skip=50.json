@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1660803",
+      "type": "movie",
+      "name": "Chris D'Elia: The 'B Side' Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1xncn1SQ3EsMB5DypVlMm1nmKdA.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3777254",
+      "type": "movie",
+      "name": "Chris Distefano: The Half Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "tt10942332",
       "type": "movie",
       "name": "Chris Distefano: Size 38 Waist",
@@ -55,6 +69,27 @@
       "name": "Chris Parker: Stop Being So Dramatic",
       "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3041030",
+      "type": "movie",
+      "name": "Chris Porter: Ugly and Angry",
+      "poster": "https://image.tmdb.org/t/p/w500/8Zlmi9O1uZRWALvGgBAYmo0FYd5.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8880188",
+      "type": "movie",
+      "name": "Chris Porter: A Man From Kansas",
+      "poster": "https://image.tmdb.org/t/p/w500/sEVnH08nVphSB4qUzcV1hEOEdp6.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt27604897",
+      "type": "movie",
+      "name": "Chris Porter: There's No Money In Babies",
+      "poster": "https://image.tmdb.org/t/p/w500/pxfQ0544Ir0cYcLSBld3PQf9aSF.jpg",
+      "releaseInfo": "2023"
     },
     {
       "id": "tmdb:510872",
@@ -211,6 +246,48 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt0414324",
+      "type": "movie",
+      "name": "Christopher Titus: Norman Rockwell is Bleeding",
+      "poster": "https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1237372",
+      "type": "movie",
+      "name": "Christopher Titus: The 5th Annual End of the World Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/wcDBCpDjT1tSNv3T9HHX3LyHCMH.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1562283",
+      "type": "movie",
+      "name": "Christopher Titus: Love Is Evol",
+      "poster": "https://image.tmdb.org/t/p/w500/4POM8HMEFcwuM46lesI2zdLeBz.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4816108",
+      "type": "movie",
+      "name": "Christopher Titus: Angry Pursuit of Happiness",
+      "poster": "https://image.tmdb.org/t/p/w500/kWz549syT8BjLJmdm2ztHwicE4m.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8583190",
+      "type": "movie",
+      "name": "Christopher Titus: Amerigeddon",
+      "poster": "https://image.tmdb.org/t/p/w500/59VEdzHLyNkomUmN6GR5jUBCVfw.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:829802",
+      "type": "movie",
+      "name": "Christopher Titus: Carrying Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/8uJo9rwJRatjxai5D9DcVrCgNbH.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt30745097",
       "type": "movie",
       "name": "Claudia Oshry: Lean In",
@@ -271,79 +348,6 @@
       "name": "Craig Ferguson: A Wee Bit o' Revolution",
       "poster": "https://image.tmdb.org/t/p/w500/r3TbM1Hv41Z1Zc9SM39P78v2re.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1831617",
-      "type": "movie",
-      "name": "Craig Ferguson: Does This Need to Be Said?",
-      "poster": "https://image.tmdb.org/t/p/w500/ktUmYKCHI0fsk4zryIvtgGFlHw.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2523852",
-      "type": "movie",
-      "name": "Craig Ferguson: I'm Here to Help",
-      "poster": "https://image.tmdb.org/t/p/w500/6ui1V6EIWnNOqlPJVDjmdX1DyDL.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4512444",
-      "type": "movie",
-      "name": "Craig Ferguson: Just Being Honest",
-      "poster": "https://image.tmdb.org/t/p/w500/9wEciLZHon4H8ddufXlqqiDkfPs.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt35320799",
-      "type": "movie",
-      "name": "Craig Ferguson: I'm So Happy",
-      "poster": "https://image.tmdb.org/t/p/w500/goMFZsqjAQYrI7xCXBF9zJPsiB5.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:320583",
-      "type": "movie",
-      "name": "Craig Shoemaker: Live: That's a True Story!",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1197325",
-      "type": "movie",
-      "name": "Craig Shoemaker: The Lovemaster... Unzipped",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt2515486",
-      "type": "movie",
-      "name": "Craig Shoemaker: Daditude",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt6550456",
-      "type": "movie",
-      "name": "Cristela Alonzo: Lower Classy",
-      "poster": "https://image.tmdb.org/t/p/w500/kO4eHzOj2745z5I3MEIXsegVFDf.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt18312376",
-      "type": "movie",
-      "name": "Cristela Alonzo: Middle Classy",
-      "poster": "https://image.tmdb.org/t/p/w500/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt37966885",
-      "type": "movie",
-      "name": "Cristela Alonzo: Upper Classy",
-      "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1269168",
-      "type": "movie",
-      "name": "Damien Power at The Scottish Prince",
-      "releaseInfo": "2024"
     }
   ]
 }

@@ -99,6 +99,27 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt1845273",
+      "type": "movie",
+      "name": "Nick Di Paolo: Raw Nerve",
+      "poster": "https://image.tmdb.org/t/p/w500/tfJRs1KHTyWXpiTvGODNBszrzsl.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt6184958",
+      "type": "movie",
+      "name": "Nick Di Paolo: Inflammatory",
+      "poster": "https://image.tmdb.org/t/p/w500/c0KJ8oxrS2zZMhpl0UnunQSpOU1.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt15140462",
+      "type": "movie",
+      "name": "Nick Di Paolo: A Breath of Fresh Air",
+      "poster": "https://image.tmdb.org/t/p/w500/uU03qtZseTkadjaLGXeCPgEFG0H.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tmdb:834497",
       "type": "movie",
       "name": "Nick Guerra: Love me at my worst",
@@ -326,27 +347,6 @@
       "type": "movie",
       "name": "Nina Dicker - Tangerine Vagina",
       "poster": "https://image.tmdb.org/t/p/w500/kF3QpvQ3p8kgijdIUy3oZQxlqTK.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt28944998",
-      "type": "movie",
-      "name": "NINA G: STUTTERER INTERRUPTED",
-      "poster": "https://image.tmdb.org/t/p/w500/ncQViXx4V6EVQwm1xmObOtisBxm.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1624837",
-      "type": "movie",
-      "name": "Montreux Fashion Show by Nino Arial",
-      "poster": "https://image.tmdb.org/t/p/w500/aXRDHTc8QIvLBHNJd34HQl6F5pN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43656025",
-      "type": "movie",
-      "name": "Nish Kumar: Nish, Don't Kill My Vibe",
-      "poster": "https://image.tmdb.org/t/p/w500/oEA8FlTyJ2h4W5INPZjkLpVDE3s.jpg",
       "releaseInfo": "2026"
     }
   ]

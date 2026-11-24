@@ -15,6 +15,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt43701966",
+      "type": "movie",
+      "name": "Rory Scovel: Show Must Go On",
+      "poster": "https://image.tmdb.org/t/p/w500/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt43756470",
       "type": "movie",
       "name": "Matt Stewart: Bad Boy",
@@ -340,12 +347,6 @@
       "type": "movie",
       "name": "Patton Oswalt: Tea & Scotch",
       "poster": "https://image.tmdb.org/t/p/w500/csfenhsPmoW37RLdTMkh5WCJjdw.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt37674617",
-      "type": "movie",
-      "name": "Evil Eye Comedy Special Featuring Angelo Tsarouchas And Frank Spadone",
       "releaseInfo": "2026"
     }
   ]

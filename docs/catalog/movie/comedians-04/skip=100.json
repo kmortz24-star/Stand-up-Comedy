@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1363862",
+      "type": "movie",
+      "name": "Lara Ricote: GRL/LATNX/DEF",
+      "poster": "https://image.tmdb.org/t/p/w500/pmZsPmEZpREuHlBgftjnCPDokhA.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1699130",
       "type": "movie",
       "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
@@ -20,6 +27,13 @@
       "name": "It Happens (The Fudnut Documentary)",
       "poster": "https://image.tmdb.org/t/p/w500/kDaV8YdJxzYOrmBdAux0Gl9cnSz.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1471846",
+      "type": "movie",
+      "name": "Larry the Cable Guy: Tailgate Party",
+      "poster": "https://image.tmdb.org/t/p/w500/pZTWPaGGmSNIzLvkzjtHjLjEGNl.jpg",
+      "releaseInfo": "2010"
     },
     {
       "id": "tt37916276",
@@ -286,6 +300,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt8702506",
+      "type": "movie",
+      "name": "Lewis Spears: Death Threats Don't Scare Me",
+      "poster": "https://image.tmdb.org/t/p/w500/bwVsKxMMe5fJ316AxbvuCrBo7IY.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tmdb:1664002",
       "type": "movie",
       "name": "Liam Nelson - In Stitches: A Post-Op Comedy Special (How to Get Open Heart Surgery)",
@@ -325,27 +346,6 @@
       "name": "Linda P's Sabotagehunger",
       "poster": "https://image.tmdb.org/t/p/w500/fqNdeXSOSyjU6FHULtbMoaqxfVE.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tt38687274",
-      "type": "movie",
-      "name": "Lisa Ann Walter: It Was an Accident",
-      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1549283",
-      "type": "movie",
-      "name": "Lisa Delmoitiez - Remontada",
-      "poster": "https://image.tmdb.org/t/p/w500/nJpdGexitR7wPMyxJOdWYLMWCl0.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0777244",
-      "type": "movie",
-      "name": "Lisa Lampanelli: The Queen of Mean",
-      "poster": "https://image.tmdb.org/t/p/w500/w9JoGSgRwxongfJj56Y7LzO0ALk.jpg",
-      "releaseInfo": "2002"
     }
   ]
 }

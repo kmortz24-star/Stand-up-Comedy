@@ -106,6 +106,27 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "tmdb:1304331",
+      "type": "movie",
+      "name": "Harland Williams: Harland's Hilarious Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/u5wDXqgdHh9tmFKH0RPYJWWnHh2.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0848612",
+      "type": "movie",
+      "name": "Harland Williams: What a Treat",
+      "poster": "https://image.tmdb.org/t/p/w500/kOq8AhFQa50g8d1TZGiHxKJ0nJc.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt2084846",
+      "type": "movie",
+      "name": "Harland Williams: A Force of Nature",
+      "poster": "https://image.tmdb.org/t/p/w500/uTx36SgFcOj6HVoLYd7sJSP8lr6.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt15517974",
       "type": "movie",
       "name": "Haroun",
@@ -324,27 +345,6 @@
       "id": "tt39240416",
       "type": "movie",
       "name": "Ian Edwards: Untitled The Comedy Special You Didn't Know You Needed",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt23650190",
-      "type": "movie",
-      "name": "Ian Lara: Romantic Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/vZtIulrguFPHutIbyXHwgQA3s5X.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt38909928",
-      "type": "movie",
-      "name": "Ian Lara: Material Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/vOVdD9q2qGRqYekTEVsc8NGmvJ6.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39848796",
-      "type": "movie",
-      "name": "Idrak Mirzalizade: It’s Not My Idea",
-      "poster": "https://image.tmdb.org/t/p/w500/8QvKDClyzW9kiMKXMNR5xj0yuS2.jpg",
       "releaseInfo": "2025"
     }
   ]
