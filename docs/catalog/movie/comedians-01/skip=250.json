@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt6405058",
-      "type": "movie",
-      "name": "Billy Connolly: High Horse Tour Live",
-      "poster": "https://image.tmdb.org/t/p/w500/3ZIoalaNzU8zmsEfQFOKRzXSlIf.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:463886",
-      "type": "movie",
-      "name": "Billy Connolly: Portrait of a Lifetime",
-      "poster": "https://image.tmdb.org/t/p/w500/toaHSyuWEgNc33pY0fFKCzS0CjQ.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt11129970",
-      "type": "movie",
-      "name": "Billy Connolly: The Sex Life of Bandages",
-      "poster": "https://image.tmdb.org/t/p/w500/qZ8REpiXTB706KoZTVUzbLxwzlK.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt14394486",
       "type": "movie",
       "name": "Billy Connolly: It’s Been a Pleasure...",
@@ -348,6 +327,27 @@
       "name": "Brian Posehn: The Fartist",
       "poster": "https://image.tmdb.org/t/p/w500/gxRubeLNFQpqlmGTOHZfyQfY9m.jpg",
       "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5912600",
+      "type": "movie",
+      "name": "Brian Posehn: Criminally Posehn",
+      "poster": "https://image.tmdb.org/t/p/w500/i7NldZfG1pMSns23YeO5ta8EZM.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:1430875",
+      "type": "movie",
+      "name": "Brian Regan - Something's Wrong with the Regan Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/oH74ixg9OtcYH1BXBSjBAb4lmsN.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0808179",
+      "type": "movie",
+      "name": "Brian Regan: I Walked on the Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
+      "releaseInfo": "2004"
     }
   ]
 }

@@ -168,6 +168,20 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tmdb:930088",
+      "type": "movie",
+      "name": "Jackie Kashian: Stay Kashian",
+      "poster": "https://image.tmdb.org/t/p/w500/zWVGUmQnZdLqfRO9BzKzkkzIK5i.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1646800",
+      "type": "movie",
+      "name": "Jackie Kashian: Alter-Kashian",
+      "poster": "https://image.tmdb.org/t/p/w500/2EDxIOQ9Tei383twWP2QMB5L5ZO.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt24240494",
       "type": "movie",
       "name": "Jacob Taarnhøj: Krøllehjern'",
@@ -228,13 +242,6 @@
       "name": "Jamel Show",
       "poster": "https://image.tmdb.org/t/p/w500/sqEiWiA6Pv3TntlX9cMakzlp22Y.jpg",
       "releaseInfo": "1999"
-    },
-    {
-      "id": "tt7618050",
-      "type": "movie",
-      "name": "Marrakech du rire",
-      "poster": "https://image.tmdb.org/t/p/w500/2Oy7ITA1lK4B0JpjRGU76jElITf.jpg",
-      "releaseInfo": "2011"
     },
     {
       "id": "tt13446472",
@@ -342,13 +349,6 @@
       "name": "Jan Gintberg: Død eller leende",
       "poster": "https://image.tmdb.org/t/p/w500/pbwJMZisVIdaJCEhE18CjhHPn7Z.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1595240",
-      "type": "movie",
-      "name": "Jan Gintberg: MIRAKLET",
-      "poster": "https://image.tmdb.org/t/p/w500/mWVN1XWcIoMRy8F7TwgxuUJbyXg.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

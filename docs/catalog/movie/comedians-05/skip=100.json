@@ -151,13 +151,6 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tt20723748",
-      "type": "movie",
-      "name": "Pete Davidson Presents: The Best Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/qGDYnu6cqF5T9Hgh5WoOtofE2tj.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt30458756",
       "type": "movie",
       "name": "Pete Davidson: Turbo Fonzarelli",
@@ -257,13 +250,6 @@
       "releaseInfo": "2021"
     },
     {
-      "id": "tt33088662",
-      "type": "movie",
-      "name": "Phil Wang: Wang in There, Baby!",
-      "poster": "https://image.tmdb.org/t/p/w500/u9TVKqN0qH4nTNTyUgc2MpgIGBe.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt2763654",
       "type": "movie",
       "name": "Philippe Geubels: Droog",
@@ -290,13 +276,6 @@
       "name": "Philippe-Audrey Larrue-St-Jacques : Hélas, ce n'est qu'un spectacle d'humour",
       "poster": "https://image.tmdb.org/t/p/w500/bilcUMDIVjwbe7lkI3jreYyhsYO.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt13321268",
-      "type": "movie",
-      "name": "Yearly Departed",
-      "poster": "https://image.tmdb.org/t/p/w500/zGhMHY3Er39KsA1vQL0jph2KfxG.jpg",
-      "releaseInfo": "2020"
     },
     {
       "id": "tt12970198",
@@ -345,6 +324,27 @@
       "name": "Pieter Derks: Zo Goed Als Nieuw",
       "poster": "https://image.tmdb.org/t/p/w500/jO9gAX87CxkF6htEq57qPHqlSD5.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8555476",
+      "type": "movie",
+      "name": "Pieter Derks: Spot",
+      "poster": "https://image.tmdb.org/t/p/w500/fEhYjs5FFeYjWnydGVICHiLKjk6.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:1410323",
+      "type": "movie",
+      "name": "Pieter Derks: Nu Even Niet",
+      "poster": "https://image.tmdb.org/t/p/w500/idMEWUgGPo4DOE2f1wGfCsYOyoA.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1400148",
+      "type": "movie",
+      "name": "Pranit More: DO VEGANS GIVE BLO*JOB?",
+      "poster": "https://image.tmdb.org/t/p/w500/4Jsv6xzL6YxZoLZFvsZ0ELVsuKG.jpg",
+      "releaseInfo": "2024"
     }
   ]
 }

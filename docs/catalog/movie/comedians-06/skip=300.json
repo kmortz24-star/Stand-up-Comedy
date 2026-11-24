@@ -1,40 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1128024",
-      "type": "movie",
-      "name": "Yacine Belhousse : 2022",
-      "poster": "https://image.tmdb.org/t/p/w500/bNeLkuWPvwD8Q74ecAW1AlFgQf9.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1284798",
-      "type": "movie",
-      "name": "Yacine Belhousse : 2023",
-      "poster": "https://image.tmdb.org/t/p/w500/2p5tQfNuO3zbvfppackXWWMzELz.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1575048",
-      "type": "movie",
-      "name": "Yacine Belhousse : 2024",
-      "poster": "https://image.tmdb.org/t/p/w500/nqgFSkFTKcAqC4PhkJzmxiNiP1m.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt16148616",
-      "type": "movie",
-      "name": "Münaşaka",
-      "poster": "https://image.tmdb.org/t/p/w500/qMZZiA9hnIAhPez1VfOvGuWnv92.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1172958",
-      "type": "movie",
-      "name": "Yonatan Barak: the real thing",
-      "releaseInfo": "2016"
-    },
-    {
       "id": "tmdb:1135923",
       "type": "movie",
       "name": "Yonatan Barak: Sweet And Tasty",
@@ -61,13 +27,6 @@
       "name": "Yvonne Orji: Momma, I Made It!",
       "poster": "https://image.tmdb.org/t/p/w500/p5hvoMLcI6XIIAAYGWWEdjHqTmn.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt15660422",
-      "type": "movie",
-      "name": "Yearly Departed",
-      "poster": "https://image.tmdb.org/t/p/w500/ksZVaS3agPBkQ1r8ySc4SZ3IeXi.jpg",
-      "releaseInfo": "2021"
     },
     {
       "id": "tt16153074",

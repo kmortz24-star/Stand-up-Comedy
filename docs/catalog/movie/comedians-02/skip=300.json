@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1736872",
-      "type": "movie",
-      "name": "Emily Catalano: The Introvert",
-      "poster": "https://image.tmdb.org/t/p/w500/q8Ry4vVRg4smq89RCr5XZ5p9res.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt0333395",
       "type": "movie",
       "name": "Emo Philips Live! At the Hasty Pudding Theatre",
@@ -89,13 +82,6 @@
       "type": "movie",
       "name": "Fahim Anwar: Intrusive Thoughts",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt8507516",
-      "type": "movie",
-      "name": "Fakkah Fuzz: Almost Banned",
-      "poster": "https://image.tmdb.org/t/p/w500/e4zruRZ49WuZRDfzvPwCZ42IEvO.jpg",
-      "releaseInfo": "2018"
     },
     {
       "id": "tmdb:1114733",
@@ -348,6 +334,19 @@
       "name": "Frankie Boyle: The Last Days of Sodom",
       "poster": "https://image.tmdb.org/t/p/w500/2vbv0X6byXr9p0aIfeH9l8HBeBU.jpg",
       "releaseInfo": "2012"
+    },
+    {
+      "id": "tt6519296",
+      "type": "movie",
+      "name": "Frankie Boyle's American Autopsy",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt27679665",
+      "type": "movie",
+      "name": "Frankie Boyle's Farewell to the Monarchy",
+      "poster": "https://image.tmdb.org/t/p/w500/vUCBQ8U30VztlYvvF2t68LvlJAk.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:233482",
-      "type": "movie",
-      "name": "Tobias Dybvad: Sjov mand - Klam personlighed",
-      "poster": "https://image.tmdb.org/t/p/w500/u7zou2fgqHviob6fk3vnwLfQ0nn.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:368704",
-      "type": "movie",
-      "name": "Tobias Dybvad: Er det ikke dig fra Dybvad?",
-      "poster": "https://image.tmdb.org/t/p/w500/i21jr2kdh6zVL8VTLLX87Rrbg8J.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:572019",
-      "type": "movie",
-      "name": "Tobias Dybvad: Fasser partner",
-      "poster": "https://image.tmdb.org/t/p/w500/auztF1FTocduWxnUjXVjQ8jhcew.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:848722",
-      "type": "movie",
-      "name": "Tobias Dybvad: Levemand",
-      "poster": "https://image.tmdb.org/t/p/w500/xA0ulWoTS0WOTcwiF4U7m2J1IVp.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt6856186",
       "type": "movie",
       "name": "Todd Barry: Spicy Honey",
@@ -349,6 +321,34 @@
       "name": "Tristan Lopin : Dépendance affective",
       "poster": "https://image.tmdb.org/t/p/w500/QMyao9cc7v6PpuGsH01IJPsukX.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1401528",
+      "type": "movie",
+      "name": "Tristan Lopin : Irréprochable",
+      "poster": "https://image.tmdb.org/t/p/w500/A17hVLrd399qbnMSUfvKVoZ7ZY3.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:621157",
+      "type": "movie",
+      "name": "DEAW #10 Stand Up Comedy Show",
+      "poster": "https://image.tmdb.org/t/p/w500/jHXnzpPKlnrTXCzlP8Zhbaab7hh.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tmdb:390352",
+      "type": "movie",
+      "name": "DEAW #11 Stand Up Comedy Show",
+      "poster": "https://image.tmdb.org/t/p/w500/hJYaHeTVuNkkeTaFXjQgZIj6uOO.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt22055118",
+      "type": "movie",
+      "name": "DEAW #13 Stand Up Comedy Show",
+      "poster": "https://image.tmdb.org/t/p/w500/5EMsaBm1PmnxbRtcH8V75QoZLnH.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

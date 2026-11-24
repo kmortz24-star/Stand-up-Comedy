@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1409720",
-      "type": "movie",
-      "name": "Richard Groenendijk: Voor Iedereen Beter",
-      "poster": "https://image.tmdb.org/t/p/w500/6co86IiuTOm9Mht0Uk6VjiUwyxq.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt2825860",
-      "type": "movie",
-      "name": "Richard Herring: Someone Likes Yoghurt",
-      "poster": "https://image.tmdb.org/t/p/w500/gVJK7y6XxabT42lZMBmqsBhkG4T.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tmdb:218120",
-      "type": "movie",
-      "name": "Richard Herring - Talking Cock (The Second Coming)",
-      "poster": "https://image.tmdb.org/t/p/w500/gc7u7zesSsV6KfgISadFV1hfohH.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:1634381",
-      "type": "movie",
-      "name": "Richard Herring: 10",
-      "poster": "https://image.tmdb.org/t/p/w500/uQnUO5uzpsDxWmNAzyHr3LvxbYh.jpg",
-      "releaseInfo": "2014"
-    },
-    {
       "id": "tt4260232",
       "type": "movie",
       "name": "Richard Herring: We're All Going to Die",
@@ -346,6 +318,34 @@
       "name": "Rodney Dangerfield: Nothin' Goes Right",
       "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
       "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0324325",
+      "type": "movie",
+      "name": "A Tribute to Sam Kinison",
+      "poster": "https://image.tmdb.org/t/p/w500/5OSeZNLNFI0WfQCVMoPDZpGbCmj.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt1032238",
+      "type": "movie",
+      "name": "Rodney Dangerfield: Rodney's Act",
+      "poster": "https://image.tmdb.org/t/p/w500/iJdR9zRWvBf5mLCZPXsJnYBTTfV.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt28327319",
+      "type": "movie",
+      "name": "Roman Frayssinet : Alors",
+      "poster": "https://image.tmdb.org/t/p/w500/hRboTnMF47rHe5GMqN8tt7sWD8T.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1631346",
+      "type": "movie",
+      "name": "Roman Frayssinet : Ô delà",
+      "poster": "https://image.tmdb.org/t/p/w500/jeFY9hrchhHwZ8cvenu2H0FIvUC.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

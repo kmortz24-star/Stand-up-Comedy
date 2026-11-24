@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt20723644",
-      "type": "movie",
-      "name": "Stand Out: An LGBTQ+ Celebration",
-      "poster": "https://image.tmdb.org/t/p/w500/pflwbz4m4YCwS5wb0wXCk2lDkgU.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt20878596",
-      "type": "movie",
-      "name": "Stavros Halkias: Live at the Lodge Room",
-      "poster": "https://image.tmdb.org/t/p/w500/y9R08bcbomPNzhTIvRsIzegknjY.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt41975820",
-      "type": "movie",
-      "name": "Stavros Halkias: Uncle Stav",
-      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt36999013",
       "type": "movie",
       "name": "Steph Tolev: Filth Queen",
@@ -350,6 +329,27 @@
       "name": "Taylor Tomlinson: Have It All",
       "poster": "https://image.tmdb.org/t/p/w500/nHsbWXfhVk53azsXICJGzn2imMg.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt39367471",
+      "type": "movie",
+      "name": "Taylor Tomlinson: Prodigal Daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1195605",
+      "type": "movie",
+      "name": "The Final Gala: Quebec Comedy Legends",
+      "poster": "https://image.tmdb.org/t/p/w500/z51IszOoFKiMURO8zX9D8FQpawB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2302925",
+      "type": "movie",
+      "name": "Them Idiots: Whirled Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/3pobUQRgz9c0WNKWOsmxKvuWiA6.jpg",
+      "releaseInfo": "2012"
     }
   ]
 }

@@ -1,29 +1,6 @@
 {
   "metas": [
     {
-      "id": "standupyt_8MjDcvrSkN8",
-      "type": "movie",
-      "name": "Gavin Matts: present (a Just for Laughs original) | Stand Up Comedy Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/8MjDcvrSkN8/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/8MjDcvrSkN8/hqdefault.jpg",
-      "description": "Gavin Matts · 60 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1155064",
-      "type": "movie",
-      "name": "Geoffrey Asmus: The Only Funny White Man",
-      "poster": "https://image.tmdb.org/t/p/w500/fAVa0fYWurce5TUQ6hKjHx6VrpE.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1308317",
-      "type": "movie",
-      "name": "Geoffrey Asmus: Live In Sacramento",
-      "poster": "https://image.tmdb.org/t/p/w500/igI1d6IbzTMh3oiupbd5KBRN9mj.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt0249854",
       "type": "movie",
       "name": "George Carlin: On Location at USC",

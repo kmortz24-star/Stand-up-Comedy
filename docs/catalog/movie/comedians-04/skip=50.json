@@ -202,20 +202,6 @@
       "releaseInfo": "2018"
     },
     {
-      "id": "tt36109402",
-      "type": "movie",
-      "name": "Kill Tony: Kill or Be Killed",
-      "poster": "https://image.tmdb.org/t/p/w500/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt36109347",
-      "type": "movie",
-      "name": "Kill Tony: Mayhem at Madison Square Garden",
-      "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt31321952",
       "type": "movie",
       "name": "Kim Congdon: Childless Milf",
@@ -340,10 +326,24 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tmdb:1321037",
+      "id": "tt2538610",
       "type": "movie",
-      "name": "Sixty-nine",
-      "poster": "https://image.tmdb.org/t/p/w500/6ccSRefElqRLgPB6SJpUOFmIBnf.jpg",
+      "name": "Kyle Kinane: Whiskey Icarus",
+      "poster": "https://image.tmdb.org/t/p/w500/qBRE9n7PsChb7p5AvJUO0eqa0SK.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt21242916",
+      "type": "movie",
+      "name": "Kyle Kinane: Trampoline In A Ditch",
+      "poster": "https://image.tmdb.org/t/p/w500/ilJ1cHaio0upbr98vxckyFGaN63.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1388426",
+      "type": "movie",
+      "name": "Kyle Kinane: Live At The Well Comedy Club",
+      "poster": "https://image.tmdb.org/t/p/w500/you5q8lbOuHEzNHvdiETLlTPvhs.jpg",
       "releaseInfo": "2024"
     }
   ]

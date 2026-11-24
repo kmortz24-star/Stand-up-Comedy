@@ -15,13 +15,6 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt8178116",
-      "type": "movie",
-      "name": "Seth Rogen's Hilarity for Charity",
-      "poster": "https://image.tmdb.org/t/p/w500/xoRYL6uuS9qvGeJ4o0hbmQji7hm.jpg",
-      "releaseInfo": "2018"
-    },
-    {
       "id": "tt15456166",
       "type": "movie",
       "name": "Shane Gillis: Live in Austin",
@@ -244,13 +237,6 @@
       "releaseInfo": "2021"
     },
     {
-      "id": "tt20723742",
-      "type": "movie",
-      "name": "Snoop Dogg's F*cn Around Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt5886430",
       "type": "movie",
       "name": "Sofía Niño de Rivera: Exposed",
@@ -347,6 +333,20 @@
       "name": "Springsteen: Deliver Me from Nowhere",
       "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt20878596",
+      "type": "movie",
+      "name": "Stavros Halkias: Live at the Lodge Room",
+      "poster": "https://image.tmdb.org/t/p/w500/y9R08bcbomPNzhTIvRsIzegknjY.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt41975820",
+      "type": "movie",
+      "name": "Stavros Halkias: Uncle Stav",
+      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

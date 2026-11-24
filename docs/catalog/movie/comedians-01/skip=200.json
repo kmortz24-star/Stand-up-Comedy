@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1664093",
-      "type": "movie",
-      "name": "Bill Bailey: Thoughtifier",
-      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0666199",
-      "type": "movie",
-      "name": "Bill Burr: One Night Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1254947",
-      "type": "movie",
-      "name": "Bill Burr: Why Do I Do This?",
-      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
-      "releaseInfo": "2008"
-    },
-    {
       "id": "tt1717578",
       "type": "movie",
       "name": "Bill Burr: Let It Go",
@@ -348,6 +327,27 @@
       "name": "Billy Connolly: You Asked for It",
       "poster": "https://image.tmdb.org/t/p/w500/4SMhsPLfqlU2q0nUICsxxfoepsh.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt6405058",
+      "type": "movie",
+      "name": "Billy Connolly: High Horse Tour Live",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZIoalaNzU8zmsEfQFOKRzXSlIf.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:463886",
+      "type": "movie",
+      "name": "Billy Connolly: Portrait of a Lifetime",
+      "poster": "https://image.tmdb.org/t/p/w500/toaHSyuWEgNc33pY0fFKCzS0CjQ.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt11129970",
+      "type": "movie",
+      "name": "Billy Connolly: The Sex Life of Bandages",
+      "poster": "https://image.tmdb.org/t/p/w500/qZ8REpiXTB706KoZTVUzbLxwzlK.jpg",
+      "releaseInfo": "2019"
     }
   ]
 }

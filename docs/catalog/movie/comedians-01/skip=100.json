@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0346508",
-      "type": "movie",
-      "name": "Anders Matthesen: Hva' snakker du om?",
-      "poster": "https://image.tmdb.org/t/p/w500/xkyrTejVK59IB67aZ4RiZUob8jL.jpg",
-      "releaseInfo": "2001"
-    },
-    {
-      "id": "tt0352127",
-      "type": "movie",
-      "name": "Anders Matthesen: 9 Års Jubilæum",
-      "poster": "https://image.tmdb.org/t/p/w500/a9QazWZXpUmaMbGGI8YX0cfeXf1.jpg",
-      "releaseInfo": "2003"
-    },
-    {
       "id": "tt0425509",
       "type": "movie",
       "name": "Anders Matthesen: Tal for dig selv",
@@ -351,6 +337,20 @@
       "name": "Ari Shaffir: Passive Aggressive",
       "poster": "https://image.tmdb.org/t/p/w500/gZw7LbKoGUfIKDaqSVQf3lZD9N0.jpg",
       "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4414858",
+      "type": "movie",
+      "name": "Ari Shaffir: Paid Regular",
+      "poster": "https://image.tmdb.org/t/p/w500/A3Ab6qnoagrZnl6oaoi97mMnUa2.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt23219324",
+      "type": "movie",
+      "name": "Ari Shaffir: JEW",
+      "poster": "https://image.tmdb.org/t/p/w500/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

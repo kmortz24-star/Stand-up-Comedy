@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt4414858",
-      "type": "movie",
-      "name": "Ari Shaffir: Paid Regular",
-      "poster": "https://image.tmdb.org/t/p/w500/A3Ab6qnoagrZnl6oaoi97mMnUa2.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt23219324",
-      "type": "movie",
-      "name": "Ari Shaffir: JEW",
-      "poster": "https://image.tmdb.org/t/p/w500/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt34753871",
       "type": "movie",
       "name": "Ari Shaffir: America's Sweetheart",
@@ -233,13 +219,6 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tmdb:437722",
-      "type": "movie",
-      "name": "Bérengère Krief - Le Trianon",
-      "poster": "https://image.tmdb.org/t/p/w500/rnucirlkn1aMj0ipuo19auMEvwz.jpg",
-      "releaseInfo": "2016"
-    },
-    {
       "id": "tmdb:448547",
       "type": "movie",
       "name": "Bernard Manning - Ungagged",
@@ -350,6 +329,27 @@
       "name": "Bill Bailey: Larks in Transit",
       "poster": "https://image.tmdb.org/t/p/w500/5hjo0wpmlqQqW8GplqRUaIfNIOz.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1664093",
+      "type": "movie",
+      "name": "Bill Bailey: Thoughtifier",
+      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0666199",
+      "type": "movie",
+      "name": "Bill Burr: One Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1254947",
+      "type": "movie",
+      "name": "Bill Burr: Why Do I Do This?",
+      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
+      "releaseInfo": "2008"
     }
   ]
 }

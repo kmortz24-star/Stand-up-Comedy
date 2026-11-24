@@ -1,41 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:494288",
-      "type": "movie",
-      "name": "Martin Nørgaard: Indebrændt",
-      "poster": "https://image.tmdb.org/t/p/w500/ybpLGsQMSggZXgrleI93JzfxuUj.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tmdb:546392",
-      "type": "movie",
-      "name": "Zulu Comedy Festival: Standup showet",
-      "poster": "https://image.tmdb.org/t/p/w500/urm3FFvXRrVX6QlAEtQ7lBgX5HE.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1271735",
-      "type": "movie",
-      "name": "Martin Nørgaard: Sådan er det bare",
-      "poster": "https://image.tmdb.org/t/p/w500/7sWAWsGdinAOMuvGpm7M1A7Y225.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1495970",
-      "type": "movie",
-      "name": "Martin Nørgaard: Ironisk?",
-      "poster": "https://image.tmdb.org/t/p/w500/kwhWWGqCGd1jj8lR7CXzRjv1d2G.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0218428",
-      "type": "movie",
-      "name": "Martin Short: Concert for the North Americas",
-      "poster": "https://image.tmdb.org/t/p/w500/csdTbd7fKeojhDqOaxPmZciCpUq.jpg",
-      "releaseInfo": "1985"
-    },
-    {
       "id": "tt0448755",
       "type": "movie",
       "name": "The Show Formerly Known as the Martin Short Show",
@@ -348,6 +313,41 @@
       "name": "Michael McIntyre: In His Own Words",
       "poster": "https://image.tmdb.org/t/p/w500/69Z9GYJiIxkDkmx684qGaEWMNu2.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tt35667834",
+      "type": "movie",
+      "name": "Michael McIntyre's 25th Year Stand-Up Special",
+      "poster": "https://image.tmdb.org/t/p/w500/kzvSygtYZ39J1XCwYelVlsTJXmY.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:52510",
+      "type": "movie",
+      "name": "Michael Schøt: Mere Upolitisk Korrekt",
+      "poster": "https://image.tmdb.org/t/p/w500/1YheBOJf089LmRAngj5mwYfdAvG.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tmdb:401575",
+      "type": "movie",
+      "name": "Michael Schøt: YtringsPligt",
+      "poster": "https://image.tmdb.org/t/p/w500/8BEQcb9EbP6Nb51Fnf6OnChghNn.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:485830",
+      "type": "movie",
+      "name": "Michael Schøt: Ulykkeligt Vidende",
+      "poster": "https://image.tmdb.org/t/p/w500/nzO4puSPzA9LIGNrnqtpR146FFn.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt26928331",
+      "type": "movie",
+      "name": "Michael Schøt: DÆMONKRATI",
+      "poster": "https://image.tmdb.org/t/p/w500/sBjVs4fF4ezEafVliSrVqcazNjF.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

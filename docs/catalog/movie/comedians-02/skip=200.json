@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt41670314",
-      "type": "movie",
-      "name": "Des Bishop: \"Fitting In\"",
-      "poster": "https://image.tmdb.org/t/p/w500/xJslDJGFRaXk80cD5Q1CuidKNCQ.jpg",
-      "releaseInfo": "2006"
-    },
-    {
       "id": "tt41677799",
       "type": "movie",
       "name": "Des Bishop: Tongues",
@@ -351,6 +344,13 @@
       "name": "Dwayne Perkins: Take Note",
       "poster": "https://image.tmdb.org/t/p/w500/aVdFk4U5o7mPW2DodTvjpGu7YYV.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt11962180",
+      "type": "movie",
+      "name": "Dwayne Perkins: Please Believe it",
+      "poster": "https://image.tmdb.org/t/p/w500/tgIhZbduHXBOt8zGmNSxpn5Ar2M.jpg",
+      "releaseInfo": "2017"
     }
   ]
 }

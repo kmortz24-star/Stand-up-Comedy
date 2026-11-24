@@ -212,13 +212,6 @@
       "releaseInfo": "2001"
     },
     {
-      "id": "tt7127976",
-      "type": "movie",
-      "name": "Aditi Mittal: Things They Wouldn't Let Me Say",
-      "poster": "https://image.tmdb.org/t/p/w500/ma9AmSvP5Wt455yIy1gbMwiw3dU.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt21093398",
       "type": "movie",
       "name": "Aditi Mittal - Mother of Invention",
@@ -252,13 +245,6 @@
       "name": "Afonso Padilha: Desessencial",
       "poster": "https://image.tmdb.org/t/p/w500/at4b9z83UNGHLSc1eLXEdOpUbxG.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tt8004552",
-      "type": "movie",
-      "name": "Agustín Aristarán: Soy Rada",
-      "poster": "https://image.tmdb.org/t/p/w500/7FaK61Td0OIk9TUNUZWMYEooLFH.jpg",
-      "releaseInfo": "2018"
     },
     {
       "id": "tt11459872",
@@ -350,6 +336,20 @@
       "name": "Al Murray, The Pub Landlord: One Man, One Guvnor",
       "poster": "https://image.tmdb.org/t/p/w500/6tM2HV0Bvz2s6XAHKfUlcWilLVx.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:435576",
+      "type": "movie",
+      "name": "Al Pitcher: Fy Fan Sweden!",
+      "poster": "https://image.tmdb.org/t/p/w500/oHnxo4wepXFSdYXGzY3p88fAH4.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10462774",
+      "type": "movie",
+      "name": "Al Pitcher: Sweden Syndrome",
+      "poster": "https://image.tmdb.org/t/p/w500/55FZ6WXLFEEzzVuRUUg1kMhrBdw.jpg",
+      "releaseInfo": "2019"
     }
   ]
 }

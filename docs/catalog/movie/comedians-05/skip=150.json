@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt8555476",
-      "type": "movie",
-      "name": "Pieter Derks: Spot",
-      "poster": "https://image.tmdb.org/t/p/w500/fEhYjs5FFeYjWnydGVICHiLKjk6.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1410323",
-      "type": "movie",
-      "name": "Pieter Derks: Nu Even Niet",
-      "poster": "https://image.tmdb.org/t/p/w500/idMEWUgGPo4DOE2f1wGfCsYOyoA.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt5708172",
-      "type": "movie",
-      "name": "Porta dos Fundos: Contrato Vitalício",
-      "poster": "https://image.tmdb.org/t/p/w500/rtMhA3TGD0yJ65lDjywe1cxkQ6F.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:1400148",
-      "type": "movie",
-      "name": "Pranit More: DO VEGANS GIVE BLO*JOB?",
-      "poster": "https://image.tmdb.org/t/p/w500/4Jsv6xzL6YxZoLZFvsZ0ELVsuKG.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tmdb:1315539",
       "type": "movie",
       "name": "Prashasti Singh: Door Khadi Sharmaaye",
@@ -349,6 +321,34 @@
       "name": "Belzer Behind Bars",
       "poster": "https://image.tmdb.org/t/p/w500/2WTfIceUmpblzMRljeZ9SIMZoDi.jpg",
       "releaseInfo": "1983"
+    },
+    {
+      "id": "tmdb:1409720",
+      "type": "movie",
+      "name": "Richard Groenendijk: Voor Iedereen Beter",
+      "poster": "https://image.tmdb.org/t/p/w500/6co86IiuTOm9Mht0Uk6VjiUwyxq.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt2825860",
+      "type": "movie",
+      "name": "Richard Herring: Someone Likes Yoghurt",
+      "poster": "https://image.tmdb.org/t/p/w500/gVJK7y6XxabT42lZMBmqsBhkG4T.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tmdb:218120",
+      "type": "movie",
+      "name": "Richard Herring - Talking Cock (The Second Coming)",
+      "poster": "https://image.tmdb.org/t/p/w500/gc7u7zesSsV6KfgISadFV1hfohH.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tmdb:1634381",
+      "type": "movie",
+      "name": "Richard Herring: 10",
+      "poster": "https://image.tmdb.org/t/p/w500/uQnUO5uzpsDxWmNAzyHr3LvxbYh.jpg",
+      "releaseInfo": "2014"
     }
   ]
 }

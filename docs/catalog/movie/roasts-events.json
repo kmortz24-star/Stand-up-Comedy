@@ -43,10 +43,24 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt36109347",
+      "type": "movie",
+      "name": "Kill Tony: Mayhem at Madison Square Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1483674",
       "type": "movie",
       "name": "The Roast of Helen Zille",
       "poster": "https://image.tmdb.org/t/p/w500/kFXsvh3c5Ymkqm3UbkSv9Df7Rgh.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36109402",
+      "type": "movie",
+      "name": "Kill Tony: Kill or Be Killed",
+      "poster": "https://image.tmdb.org/t/p/w500/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
       "releaseInfo": "2025"
     },
     {
@@ -112,6 +126,34 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt20723742",
+      "type": "movie",
+      "name": "Snoop Dogg's F*cn Around Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt20723738",
+      "type": "movie",
+      "name": "Jane Fonda & Lily Tomlin: Ladies Night Live",
+      "poster": "https://image.tmdb.org/t/p/w500/kB2Q9rP09FG8Ggd9OksukhGhjXv.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt20723748",
+      "type": "movie",
+      "name": "Pete Davidson Presents: The Best Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/qGDYnu6cqF5T9Hgh5WoOtofE2tj.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt20723644",
+      "type": "movie",
+      "name": "Stand Out: An LGBTQ+ Celebration",
+      "poster": "https://image.tmdb.org/t/p/w500/pflwbz4m4YCwS5wb0wXCk2lDkgU.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt32652358",
       "type": "movie",
       "name": "Have A Word: The Roast of Adam and Dan",
@@ -119,11 +161,25 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt15660422",
+      "type": "movie",
+      "name": "Yearly Departed",
+      "poster": "https://image.tmdb.org/t/p/w500/ksZVaS3agPBkQ1r8ySc4SZ3IeXi.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tt15763882",
       "type": "movie",
       "name": "Jonas Brothers Family Roast",
       "poster": "https://image.tmdb.org/t/p/w500/eEEj1mC2N2oTrluubqA5dYRwvOb.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13321268",
+      "type": "movie",
+      "name": "Yearly Departed",
+      "poster": "https://image.tmdb.org/t/p/w500/zGhMHY3Er39KsA1vQL0jph2KfxG.jpg",
+      "releaseInfo": "2020"
     },
     {
       "id": "tmdb:738801",
@@ -195,6 +251,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "tt8178116",
+      "type": "movie",
+      "name": "Seth Rogen's Hilarity for Charity",
+      "poster": "https://image.tmdb.org/t/p/w500/xoRYL6uuS9qvGeJ4o0hbmQji7hm.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt7899978",
       "type": "movie",
       "name": "The Roast of Gordon",
@@ -221,6 +284,13 @@
       "name": "Comedy Central Roast of Justin Bieber",
       "poster": "https://image.tmdb.org/t/p/w500/3UcygBPTvT9InzaeIDbQrsElbxk.jpg",
       "releaseInfo": "2015"
+    },
+    {
+      "id": "tt4003912",
+      "type": "movie",
+      "name": "Seth Rogen's Hilarity for Charity",
+      "poster": "https://image.tmdb.org/t/p/w500/agSrmfqtV7QNsoYsG2RypC1Zm1r.jpg",
+      "releaseInfo": "2014"
     },
     {
       "id": "tt3098812",
@@ -257,6 +327,13 @@
       "releaseInfo": "2011"
     },
     {
+      "id": "tt7618050",
+      "type": "movie",
+      "name": "Marrakech du rire",
+      "poster": "https://image.tmdb.org/t/p/w500/2Oy7ITA1lK4B0JpjRGU76jElITf.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt1865333",
       "type": "movie",
       "name": "Comedy Central Roast of Donald Trump",
@@ -269,83 +346,6 @@
       "name": "Ring Roasts III: The Roast of Jim Cornette",
       "poster": "https://image.tmdb.org/t/p/w500/cqfMm8Ed5KajSZm1bFsKuMcST1J.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tt1694505",
-      "type": "movie",
-      "name": "Comedy Central Roast of David Hasselhoff",
-      "poster": "https://image.tmdb.org/t/p/w500/sX66iM4rds1pkLBbNYOVWSTcMZR.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt1413788",
-      "type": "movie",
-      "name": "Comedy Central Roast of Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/2OB9QIYb5CkpzqiyFQqlzy7am6A.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1380790",
-      "type": "movie",
-      "name": "Comedy Central Roast of Larry the Cable Guy",
-      "poster": "https://image.tmdb.org/t/p/w500/ymGDZIlcaTvxv5Cq3tZIxWUAyLw.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1037714",
-      "type": "movie",
-      "name": "Comedy Central Roast of Flavor Flav",
-      "poster": "https://image.tmdb.org/t/p/w500/hRn7mICSwQfmsDwA9tkPpWbY4uu.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt0840305",
-      "type": "movie",
-      "name": "Comedy Central Roast of William Shatner",
-      "poster": "https://image.tmdb.org/t/p/w500/3iqOKRso4MrmGiXeJl3VcmgAU0j.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt0807745",
-      "type": "movie",
-      "name": "Blue Collar Comedy Tour: One for the Road",
-      "poster": "https://image.tmdb.org/t/p/w500/kuax6BJZIAmiW0BZjAgBoXC5YdJ.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt0474603",
-      "type": "movie",
-      "name": "Comedy Central Roast of Pamela Anderson",
-      "poster": "https://image.tmdb.org/t/p/w500/cZP1Oj9KuKjZLTUFaMxVtSzY0NC.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0437931",
-      "type": "movie",
-      "name": "Comedy Central Roast of Jeff Foxworthy",
-      "poster": "https://image.tmdb.org/t/p/w500/az5eTqEALSEAB17gXtBwi8SO8CU.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1869360",
-      "type": "movie",
-      "name": "Dave Attell's Insomniac Tour: Uncensored!",
-      "poster": "https://image.tmdb.org/t/p/w500/4EXnMe1daIgpO9VC15qwcmkRw2h.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0423871",
-      "type": "movie",
-      "name": "Blue Collar Comedy Tour Rides Again",
-      "poster": "https://image.tmdb.org/t/p/w500/bWOHNsZ4MXMXhR5TwAU92ncd0UZ.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0383998",
-      "type": "movie",
-      "name": "Comedy Central Roast of Denis Leary",
-      "poster": "https://image.tmdb.org/t/p/w500/vxyIFDNdB1xEmmkbNyA0CVPXTtu.jpg",
-      "releaseInfo": "2003"
     }
   ]
 }

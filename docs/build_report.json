@@ -7,16 +7,16 @@
     "Hidden Gems": 40,
     "Comedy Legends": 65,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 63,
-    "Comedians AB": 321,
-    "CDEFG": 448,
+    "Roasts & Comedy Events": 77,
+    "Comedians AB": 318,
+    "CDEFG": 445,
     "HIJ": 331,
-    "KLM": 380,
-    "NOPQR": 341,
-    "STUVWXYZ": 329,
+    "KLM": 374,
+    "NOPQR": 337,
+    "STUVWXYZ": 323,
     "Stand-Up TV Shows": 26
   },
-  "total_unique_records": 3001,
+  "total_unique_records": 3002,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -2780,10 +2780,19 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2723,
-    "remaining_alphabetical_movies": 2108,
-    "unrated_movies_hidden": 615,
-    "unrated_established_movies_kept": 214
+    "original_alphabetical_movies": 2697,
+    "remaining_alphabetical_movies": 2086,
+    "unrated_movies_hidden": 611,
+    "unrated_established_movies_kept": 216
+  },
+  "quality_cleanup": {
+    "policy": "Hide weakly reviewed movies by non-established performers",
+    "min_votes": 5,
+    "rating_below": 6.0,
+    "low_rated_movies_hidden": 11,
+    "low_rated_established_movies_kept": 155,
+    "reversible": true,
+    "tv_series_untouched": true
   },
   "tv_series": {
     "series_count": 26,

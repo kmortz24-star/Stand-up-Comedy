@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt1029214",
-      "type": "movie",
-      "name": "Roy Chubby Brown: Britain's Rudest Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/69LWoO1Fh0ivC5pw9ZsrVPx0aIG.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tmdb:308643",
-      "type": "movie",
-      "name": "Roy Chubby Brown - Don't Get Fit Get Fat",
-      "poster": "https://image.tmdb.org/t/p/w500/ptYW67dmi0KRcvMIsIgJKwITuOH.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:369133",
-      "type": "movie",
-      "name": "Roy Chubby Brown - Hangs up the Helmet Live",
-      "poster": "https://image.tmdb.org/t/p/w500/pkIcNhuZaEaJDOgYD47yh5iRFsD.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:706714",
-      "type": "movie",
-      "name": "Roy Chubby Brown - 50 Shades Of Brown",
-      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt6665988",
       "type": "movie",
       "name": "Roy Wood Jr.: Father Figure",

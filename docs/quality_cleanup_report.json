@@ -1,0 +1,1177 @@
+{
+  "summary": {
+    "policy": "Hide weakly reviewed movies by non-established performers",
+    "min_votes": 5,
+    "rating_below": 6.0,
+    "low_rated_movies_hidden": 11,
+    "low_rated_established_movies_kept": 155,
+    "reversible": true,
+    "tv_series_untouched": true
+  },
+  "hidden": [
+    {
+      "id": "tt7127976",
+      "performer": "Aditi Mittal",
+      "title": "Aditi Mittal: Things They Wouldn't Let Me Say",
+      "votes": 13,
+      "rating": 4.4
+    },
+    {
+      "id": "tt8004552",
+      "performer": "Agustín Aristarán",
+      "title": "Agustín Aristarán: Soy Rada",
+      "votes": 10,
+      "rating": 5.8
+    },
+    {
+      "id": "tmdb:437722",
+      "performer": "Bérengère Krief",
+      "title": "Bérengère Krief - Le Trianon",
+      "votes": 5,
+      "rating": 5.8
+    },
+    {
+      "id": "tt6502534",
+      "performer": "Daniel Sosa",
+      "title": "Daniel Sosa: Sosafado",
+      "votes": 5,
+      "rating": 5.8
+    },
+    {
+      "id": "tt8507516",
+      "performer": "Fakkah Fuzz",
+      "title": "Fakkah Fuzz: Almost Banned",
+      "votes": 7,
+      "rating": 4.6
+    },
+    {
+      "id": "tt0284139",
+      "performer": "Gallagher",
+      "title": "Gallagher: Stuck in the 60's",
+      "votes": 7,
+      "rating": 4.6
+    },
+    {
+      "id": "tmdb:1321037",
+      "performer": "Kyan Khojandi",
+      "title": "Sixty-nine",
+      "votes": 5,
+      "rating": 5.8
+    },
+    {
+      "id": "tt2117912",
+      "performer": "Linda P",
+      "title": "Linda P: Rommen er en tøjte",
+      "votes": 5,
+      "rating": 5.9
+    },
+    {
+      "id": "tt14426518",
+      "performer": "Malik Bentalha",
+      "title": "Malik Bentalha : Encore",
+      "votes": 14,
+      "rating": 5.9
+    },
+    {
+      "id": "tt18396984",
+      "performer": "Michela Giraud",
+      "title": "Michela Giraud: The Truth, I Swear!",
+      "votes": 16,
+      "rating": 5.0
+    },
+    {
+      "id": "tt33088662",
+      "performer": "Phil Wang",
+      "title": "Phil Wang: Wang in There, Baby!",
+      "votes": 10,
+      "rating": 5.9
+    }
+  ],
+  "kept_established": [
+    {
+      "id": "tt40224365",
+      "performer": "Aaron Chen",
+      "title": "Aaron Chen: Funny Garden",
+      "votes": 15,
+      "rating": 5.6
+    },
+    {
+      "id": "tt33246651",
+      "performer": "Ahir Shah",
+      "title": "Ahir Shah: Ends",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt0409675",
+      "performer": "Al Murray, The Pub Landlord",
+      "title": "Al Murray, The Pub Landlord - My Gaff, My Rules",
+      "votes": 5,
+      "rating": 5.1
+    },
+    {
+      "id": "tt2112889",
+      "performer": "Alan Carr",
+      "title": "Alan Carr: Spexy Beast",
+      "votes": 11,
+      "rating": 5.7
+    },
+    {
+      "id": "tt7962784",
+      "performer": "Ali Siddiq",
+      "title": "Ali Siddiq: It's Bigger Than These Bars",
+      "votes": 5,
+      "rating": 5.8
+    },
+    {
+      "id": "tt8820178",
+      "performer": "Alice Wetterlund",
+      "title": "Alice Wetterlund: My Mama Is a Human and So Am I",
+      "votes": 7,
+      "rating": 5.4
+    },
+    {
+      "id": "tt2346046",
+      "performer": "Amy Schumer",
+      "title": "Amy Schumer: Mostly Sex Stuff",
+      "votes": 57,
+      "rating": 5.93
+    },
+    {
+      "id": "tt4909348",
+      "performer": "Amy Schumer",
+      "title": "Amy Schumer: Live at the Apollo",
+      "votes": 71,
+      "rating": 5.8
+    },
+    {
+      "id": "tt9770590",
+      "performer": "Amy Schumer",
+      "title": "Amy Schumer: Growing",
+      "votes": 91,
+      "rating": 5.764
+    },
+    {
+      "id": "tt20723730",
+      "performer": "Amy Schumer",
+      "title": "Amy Schumer Presents: Parental Advisory",
+      "votes": 19,
+      "rating": 4.6
+    },
+    {
+      "id": "tt27791865",
+      "performer": "Amy Schumer",
+      "title": "Amy Schumer: Emergency Contact",
+      "votes": 26,
+      "rating": 5.1
+    },
+    {
+      "id": "tt0249355",
+      "performer": "Andrew Dice Clay",
+      "title": "Andrew Dice Clay: No Apologies",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt2605244",
+      "performer": "Andrew Dice Clay",
+      "title": "Andrew Dice Clay: Indestructible",
+      "votes": 5,
+      "rating": 5.4
+    },
+    {
+      "id": "tt24640480",
+      "performer": "Andrew Santino",
+      "title": "Cheeseburger",
+      "votes": 22,
+      "rating": 5.818
+    },
+    {
+      "id": "tt4139598",
+      "performer": "Artie Lange",
+      "title": "Artie Lange: The Stench of Failure",
+      "votes": 5,
+      "rating": 5.9
+    },
+    {
+      "id": "tt5814512",
+      "performer": "Big Jay Oakerson",
+      "title": "Big Jay Oakerson: Live at Webster Hall",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt20723672",
+      "performer": "Bill Burr",
+      "title": "Bill Burr Presents: Friends Who Kill",
+      "votes": 91,
+      "rating": 5.4
+    },
+    {
+      "id": "tt3918650",
+      "performer": "Bill Maher",
+      "title": "Bill Maher: Live from D.C.",
+      "votes": 14,
+      "rating": 5.8
+    },
+    {
+      "id": "tt18271228",
+      "performer": "Bill Maher",
+      "title": "Bill Maher: #Adulting",
+      "votes": 14,
+      "rating": 4.8
+    },
+    {
+      "id": "tt27441605",
+      "performer": "Biswa Kalyan Rath",
+      "title": "Biswa Kalyan Rath's Mood Kharaab",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt1091744",
+      "performer": "Bob Saget",
+      "title": "Bob Saget: That Ain't Right",
+      "votes": 12,
+      "rating": 4.8
+    },
+    {
+      "id": "tt4060962",
+      "performer": "Bob Saget",
+      "title": "A Stand Up Guy",
+      "votes": 13,
+      "rating": 5.1
+    },
+    {
+      "id": "tt7122106",
+      "performer": "Bob the Drag Queen",
+      "title": "Bob the Drag Queen: Suspiciously Large Woman",
+      "votes": 8,
+      "rating": 5.625
+    },
+    {
+      "id": "tt2356999",
+      "performer": "Bobcat Goldthwait",
+      "title": "Bobcat Goldthwait: You Don't Look the Same Either",
+      "votes": 11,
+      "rating": 5.6
+    },
+    {
+      "id": "tt5912600",
+      "performer": "Brian Posehn",
+      "title": "Brian Posehn: Criminally Posehn",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt6546330",
+      "performer": "Brody Stevens",
+      "title": "Brody Stevens: Live from the Main Room",
+      "votes": 7,
+      "rating": 4.7
+    },
+    {
+      "id": "tt5753806",
+      "performer": "Cedric the Entertainer",
+      "title": "Cedric the Entertainer: Live from the Ville",
+      "votes": 26,
+      "rating": 5.7
+    },
+    {
+      "id": "tt4079776",
+      "performer": "Chelsea Handler",
+      "title": "Chelsea Handler: Uganda Be Kidding Me Live",
+      "votes": 45,
+      "rating": 5.8
+    },
+    {
+      "id": "tt23711530",
+      "performer": "Chelsea Handler",
+      "title": "Chelsea Handler: Revolution",
+      "votes": 18,
+      "rating": 5.6
+    },
+    {
+      "id": "tt35820235",
+      "performer": "Chelsea Handler",
+      "title": "Chelsea Handler: The Feeling",
+      "votes": 9,
+      "rating": 5.444
+    },
+    {
+      "id": "tt1395034",
+      "performer": "Craig Ferguson",
+      "title": "Craig Ferguson: A Wee Bit o' Revolution",
+      "votes": 9,
+      "rating": 5.4
+    },
+    {
+      "id": "tt6550456",
+      "performer": "Cristela Alonzo",
+      "title": "Cristela Alonzo: Lower Classy",
+      "votes": 31,
+      "rating": 5.968
+    },
+    {
+      "id": "tt1151813",
+      "performer": "Dave Attell",
+      "title": "Dave Attell: Captain Miserable",
+      "votes": 16,
+      "rating": 5.625
+    },
+    {
+      "id": "tt0233528",
+      "performer": "David Spade",
+      "title": "David Spade: Take the Hit",
+      "votes": 12,
+      "rating": 5.3
+    },
+    {
+      "id": "tt18955474",
+      "performer": "David Spade",
+      "title": "David Spade: Nothing Personal",
+      "votes": 19,
+      "rating": 5.4
+    },
+    {
+      "id": "tt40205709",
+      "performer": "Derrick Stroup",
+      "title": "Derrick Stroup: Nostalgic",
+      "votes": 6,
+      "rating": 5.3
+    },
+    {
+      "id": "tt8426270",
+      "performer": "D.L. Hughley",
+      "title": "D.L. Hughley: Contrarian",
+      "votes": 18,
+      "rating": 5.3
+    },
+    {
+      "id": "tt8563704",
+      "performer": "drew michael",
+      "title": "Drew Michael",
+      "votes": 11,
+      "rating": 5.9
+    },
+    {
+      "id": "tt37433245",
+      "performer": "Dusty Slay",
+      "title": "Dusty Slay: Wet Heat",
+      "votes": 8,
+      "rating": 5.9
+    },
+    {
+      "id": "tt37976380",
+      "performer": "Earthquake",
+      "title": "Earthquake: Joke Telling Business",
+      "votes": 7,
+      "rating": 5.2
+    },
+    {
+      "id": "tt3974972",
+      "performer": "Eddie Pepitone",
+      "title": "Eddie Pepitone: In Ruins",
+      "votes": 5,
+      "rating": 4.7
+    },
+    {
+      "id": "tt12238602",
+      "performer": "Esther Povitsky",
+      "title": "Esther Povitsky: Hot for My Name",
+      "votes": 5,
+      "rating": 5.6
+    },
+    {
+      "id": "tt2153394",
+      "performer": "Felipe Esparza",
+      "title": "Felipe Esparza: They're Not Gonna Laugh At You",
+      "votes": 5,
+      "rating": 4.9
+    },
+    {
+      "id": "tt22373568",
+      "performer": "Fortune Feimster",
+      "title": "Fortune Feimster: Good Fortune",
+      "votes": 16,
+      "rating": 5.8
+    },
+    {
+      "id": "tt34253921",
+      "performer": "Fortune Feimster",
+      "title": "Fortune Feimster: Crushing It",
+      "votes": 14,
+      "rating": 5.4
+    },
+    {
+      "id": "tt34601055",
+      "performer": "Frankie Quiñones",
+      "title": "Frankie Quiñones: Damn That's Crazy",
+      "votes": 6,
+      "rating": 4.9
+    },
+    {
+      "id": "tt6471060",
+      "performer": "Gad Elmaleh",
+      "title": "Kev Adams & Gad Elmaleh - Kev Gad, tout est possible",
+      "votes": 97,
+      "rating": 5.897
+    },
+    {
+      "id": "tt0332720",
+      "performer": "George López",
+      "title": "The Original Latin Kings of Comedy",
+      "votes": 5,
+      "rating": 5.9
+    },
+    {
+      "id": "tt1508274",
+      "performer": "George Lopez",
+      "title": "George Lopez: Tall, Dark & Chicano",
+      "votes": 12,
+      "rating": 5.292
+    },
+    {
+      "id": "tt2270274",
+      "performer": "George Lopez",
+      "title": "George Lopez: It's Not Me, It's You",
+      "votes": 10,
+      "rating": 5.2
+    },
+    {
+      "id": "tt7259600",
+      "performer": "George Lopez",
+      "title": "George Lopez: The Wall",
+      "votes": 7,
+      "rating": 5.571
+    },
+    {
+      "id": "tt35513767",
+      "performer": "George Lopez",
+      "title": "George Lopez: Muy Católico",
+      "votes": 5,
+      "rating": 4.6
+    },
+    {
+      "id": "tt38772625",
+      "performer": "Gerry Dee",
+      "title": "Gerry Dee: Funny You Should Say That",
+      "votes": 6,
+      "rating": 3.8
+    },
+    {
+      "id": "tt1562326",
+      "performer": "Greg Giraldo",
+      "title": "Greg Giraldo: Midlife Vices",
+      "votes": 10,
+      "rating": 5.5
+    },
+    {
+      "id": "tt31021953",
+      "performer": "Hannah Berner",
+      "title": "Hannah Berner: We Ride at Dawn",
+      "votes": 15,
+      "rating": 5.7
+    },
+    {
+      "id": "tt31259230",
+      "performer": "Hannah Gadsby",
+      "title": "Hannah Gadsby's Gender Agenda",
+      "votes": 13,
+      "rating": 5.4
+    },
+    {
+      "id": "tt11393666",
+      "performer": "Hannibal Buress",
+      "title": "Hannibal Buress: Miami Nights",
+      "votes": 22,
+      "rating": 5.8
+    },
+    {
+      "id": "tt25396646",
+      "performer": "Hasan Minhaj",
+      "title": "Best of Stand-Up 2022",
+      "votes": 7,
+      "rating": 3.9
+    },
+    {
+      "id": "tt13400146",
+      "performer": "Hazel Brugger",
+      "title": "Hazel Brugger: Tropical",
+      "votes": 9,
+      "rating": 5.9
+    },
+    {
+      "id": "tt33209759",
+      "performer": "Ilana Glazer",
+      "title": "Ilana Glazer: Human Magic",
+      "votes": 13,
+      "rating": 5.4
+    },
+    {
+      "id": "tt32140888",
+      "performer": "Iliza Shlesinger",
+      "title": "Iliza Shlesinger: A Different Animal",
+      "votes": 18,
+      "rating": 5.2
+    },
+    {
+      "id": "tt33883401",
+      "performer": "Ismo Leikola",
+      "title": "ISMO – Breaking Bad English",
+      "votes": 6,
+      "rating": 5.2
+    },
+    {
+      "id": "tt1457726",
+      "performer": "Jack Dee",
+      "title": "Huge",
+      "votes": 7,
+      "rating": 5.6
+    },
+    {
+      "id": "tt0445475",
+      "performer": "Jamie Foxx",
+      "title": "Jamie Foxx: Straight from the Foxxhole",
+      "votes": 7,
+      "rating": 4.8
+    },
+    {
+      "id": "tt11108064",
+      "performer": "Jeff Garlin",
+      "title": "Jeff Garlin: Our Man in Chicago",
+      "votes": 13,
+      "rating": 5.6
+    },
+    {
+      "id": "tt39901552",
+      "performer": "Jeff Ross",
+      "title": "Jeff Ross: Take a Banana for the Ride",
+      "votes": 7,
+      "rating": 5.9
+    },
+    {
+      "id": "tt30841122",
+      "performer": "Jenny Slate",
+      "title": "Jenny Slate: Seasoned Professional",
+      "votes": 17,
+      "rating": 4.6
+    },
+    {
+      "id": "tt35699057",
+      "performer": "Jessica Kirson",
+      "title": "Jessica Kirson: I'm the Man",
+      "votes": 5,
+      "rating": 5.4
+    },
+    {
+      "id": "tt0318387",
+      "performer": "Jim Breuer",
+      "title": "Jim Breuer: Hardcore",
+      "votes": 7,
+      "rating": 5.857
+    },
+    {
+      "id": "tt21458670",
+      "performer": "Jinkx Monsoon",
+      "title": "Jinkx Monsoon: Red Head Redemption",
+      "votes": 11,
+      "rating": 5.5
+    },
+    {
+      "id": "tt12357266",
+      "performer": "Jo Koy",
+      "title": "Jo Koy: In His Elements",
+      "votes": 20,
+      "rating": 5.75
+    },
+    {
+      "id": "tt7183876",
+      "performer": "Joe Mande",
+      "title": "Joe Mande's Award-Winning Comedy Special",
+      "votes": 18,
+      "rating": 5.75
+    },
+    {
+      "id": "tt32875161",
+      "performer": "Joe Rogan",
+      "title": "Joe Rogan: Burn the Boats",
+      "votes": 40,
+      "rating": 4.675
+    },
+    {
+      "id": "tt19869374",
+      "performer": "Joel Kim Booster",
+      "title": "Joel Kim Booster: Psychosexual",
+      "votes": 20,
+      "rating": 5.7
+    },
+    {
+      "id": "tt9651690",
+      "performer": "Joel McHale",
+      "title": "Joel McHale: Live from Pyongyang",
+      "votes": 12,
+      "rating": 5.8
+    },
+    {
+      "id": "tt11459818",
+      "performer": "John Early",
+      "title": "John Early: Now More Than Ever",
+      "votes": 9,
+      "rating": 5.7
+    },
+    {
+      "id": "tt3014262",
+      "performer": "John Hodgman",
+      "title": "John Hodgman: RAGNAROK",
+      "votes": 14,
+      "rating": 5.8
+    },
+    {
+      "id": "tt22050660",
+      "performer": "Kate Berlant",
+      "title": "Kate Berlant: Cinnamon in the Wind",
+      "votes": 8,
+      "rating": 5.8
+    },
+    {
+      "id": "tt2888642",
+      "performer": "Kathy Griffin",
+      "title": "Kathy Griffin: Calm Down Gurrl",
+      "votes": 7,
+      "rating": 5.6
+    },
+    {
+      "id": "tt2370686",
+      "performer": "Katt Williams",
+      "title": "Katt Williams: Kattpacalypse",
+      "votes": 27,
+      "rating": 5.8
+    },
+    {
+      "id": "tt32046453",
+      "performer": "Katt Williams",
+      "title": "Katt Williams: Woke Foke",
+      "votes": 34,
+      "rating": 5.3
+    },
+    {
+      "id": "tt39479604",
+      "performer": "Katt Williams",
+      "title": "Katt Williams: The Last Report",
+      "votes": 12,
+      "rating": 5.6
+    },
+    {
+      "id": "tt43698006",
+      "performer": "Kelsey Cook",
+      "title": "Kelsey Cook: Happy Hour",
+      "votes": 7,
+      "rating": 5.7
+    },
+    {
+      "id": "tt8466562",
+      "performer": "Ken Jeong",
+      "title": "Ken Jeong: You Complete Me, Ho",
+      "votes": 88,
+      "rating": 5.8
+    },
+    {
+      "id": "tt6373518",
+      "performer": "Kevin Hart",
+      "title": "Kevin Hart's Guide to Black History",
+      "votes": 48,
+      "rating": 5.385
+    },
+    {
+      "id": "tt29964571",
+      "performer": "Kevin James",
+      "title": "Kevin James: Irregardless",
+      "votes": 20,
+      "rating": 5.8
+    },
+    {
+      "id": "tt2901584",
+      "performer": "Kumail Nanjiani",
+      "title": "Kumail Nanjiani: Beta Male",
+      "votes": 21,
+      "rating": 5.929
+    },
+    {
+      "id": "tt29712087",
+      "performer": "Leo Reich",
+      "title": "Leo Reich: Literally Who Cares?!",
+      "votes": 10,
+      "rating": 5.8
+    },
+    {
+      "id": "tt27036683",
+      "performer": "Lewis Black",
+      "title": "Lewis Black: Tragically, I Need You",
+      "votes": 5,
+      "rating": 5.9
+    },
+    {
+      "id": "tt23196592",
+      "performer": "Lil Rel Howery",
+      "title": "Lil Rel Howery: I Said It. Y'all Thinking It.",
+      "votes": 6,
+      "rating": 4.2
+    },
+    {
+      "id": "tt1340783",
+      "performer": "Lisa Lampanelli",
+      "title": "Lisa Lampanelli: Long Live The Queen",
+      "votes": 6,
+      "rating": 5.9
+    },
+    {
+      "id": "tt1842404",
+      "performer": "Lisa Lampanelli",
+      "title": "Lisa Lampanelli: Tough Love",
+      "votes": 5,
+      "rating": 5.4
+    },
+    {
+      "id": "tt4566712",
+      "performer": "Lisa Lampanelli",
+      "title": "Lisa Lampanelli: Back to the Drawing Board",
+      "votes": 5,
+      "rating": 5.5
+    },
+    {
+      "id": "tt34967734",
+      "performer": "Liza Treyger",
+      "title": "Liza Treyger: Night Owl",
+      "votes": 5,
+      "rating": 5.4
+    },
+    {
+      "id": "tt26931899",
+      "performer": "Mae Martin",
+      "title": "Mae Martin: SAP",
+      "votes": 21,
+      "rating": 5.5
+    },
+    {
+      "id": "tt0300274",
+      "performer": "Margaret Cho",
+      "title": "Margaret Cho: Notorious C.H.O.",
+      "votes": 17,
+      "rating": 5.6
+    },
+    {
+      "id": "tt0404844",
+      "performer": "Margaret Cho",
+      "title": "Margaret Cho: CHO Revolution",
+      "votes": 11,
+      "rating": 5.8
+    },
+    {
+      "id": "tt0462333",
+      "performer": "Margaret Cho",
+      "title": "Margaret Cho: Assassin",
+      "votes": 12,
+      "rating": 5.9
+    },
+    {
+      "id": "tt1475381",
+      "performer": "Margaret Cho",
+      "title": "Margaret Cho: Beautiful",
+      "votes": 9,
+      "rating": 5.0
+    },
+    {
+      "id": "tt0327036",
+      "performer": "Martin Lawrence",
+      "title": "Martin Lawrence Live: Runteldat",
+      "votes": 23,
+      "rating": 5.2
+    },
+    {
+      "id": "tt5707274",
+      "performer": "Martin Lawrence",
+      "title": "Martin Lawrence Doin’ Time",
+      "votes": 15,
+      "rating": 5.6
+    },
+    {
+      "id": "tt38843957",
+      "performer": "Mary Beth Barone",
+      "title": "Mary Beth Barone: Galaxy Brain",
+      "votes": 9,
+      "rating": 5.278
+    },
+    {
+      "id": "tt38347318",
+      "performer": "Matt McCusker",
+      "title": "Matt McCusker: A Humble Offering",
+      "votes": 8,
+      "rating": 4.8
+    },
+    {
+      "id": "tt33998357",
+      "performer": "Matteo Lane",
+      "title": "Matteo Lane: The Al Dente Special",
+      "votes": 7,
+      "rating": 4.4
+    },
+    {
+      "id": "tt2586604",
+      "performer": "Michael McIntyre",
+      "title": "Michael McIntyre: Showtime",
+      "votes": 20,
+      "rating": 5.8
+    },
+    {
+      "id": "tt5339586",
+      "performer": "Mike Epps",
+      "title": "Mike Epps: Don't Take It Personal",
+      "votes": 18,
+      "rating": 5.6
+    },
+    {
+      "id": "tt18314226",
+      "performer": "Mike Epps",
+      "title": "Mike Epps: Indiana Mike",
+      "votes": 8,
+      "rating": 5.4
+    },
+    {
+      "id": "tt30222855",
+      "performer": "Mike Epps",
+      "title": "Mike Epps: Ready to Sell Out",
+      "votes": 9,
+      "rating": 4.8
+    },
+    {
+      "id": "tt21328182",
+      "performer": "Mo'Nique",
+      "title": "My Name Is Mo'Nique",
+      "votes": 6,
+      "rating": 4.2
+    },
+    {
+      "id": "tt37333173",
+      "performer": "Nate Jackson",
+      "title": "Nate Jackson: Super Funny",
+      "votes": 7,
+      "rating": 5.3
+    },
+    {
+      "id": "tt1809315",
+      "performer": "Nick Kroll",
+      "title": "Nick Kroll: Thank You Very Cool",
+      "votes": 7,
+      "rating": 4.5
+    },
+    {
+      "id": "tt21870580",
+      "performer": "Nick Kroll",
+      "title": "Nick Kroll: Little Big Boy",
+      "votes": 26,
+      "rating": 5.9
+    },
+    {
+      "id": "tt16160708",
+      "performer": "Nikki Glaser",
+      "title": "Nikki Glaser: Good Clean Filth",
+      "votes": 29,
+      "rating": 5.9
+    },
+    {
+      "id": "tt1786611",
+      "performer": "Omid Djalili",
+      "title": "Omid Djalili: Live in London",
+      "votes": 6,
+      "rating": 5.7
+    },
+    {
+      "id": "tt21379618",
+      "performer": "Patton Oswalt",
+      "title": "Patton Oswalt: We All Scream",
+      "votes": 22,
+      "rating": 5.9
+    },
+    {
+      "id": "tt0823704",
+      "performer": "Peter Kay",
+      "title": "Peter Kay: Live at the Manchester Arena",
+      "votes": 12,
+      "rating": 5.6
+    },
+    {
+      "id": "tt4943818",
+      "performer": "Peter Kay",
+      "title": "Peter Kay: Live & Back on Nights",
+      "votes": 10,
+      "rating": 3.4
+    },
+    {
+      "id": "tt26249174",
+      "performer": "Rahul Subramanian",
+      "title": "Rahul Talks to People",
+      "votes": 5,
+      "rating": 5.2
+    },
+    {
+      "id": "tt4454406",
+      "performer": "Ralphie May",
+      "title": "Ralphie May: Unruly",
+      "votes": 20,
+      "rating": 5.0
+    },
+    {
+      "id": "tt31498817",
+      "performer": "Redouane Bougheraba",
+      "title": "Redouane Bougheraba : On m'appelle Marseille",
+      "votes": 13,
+      "rating": 5.808
+    },
+    {
+      "id": "tt2339613",
+      "performer": "Rhys Darby",
+      "title": "Rhys Darby Live - Imagine That!",
+      "votes": 5,
+      "rating": 5.3
+    },
+    {
+      "id": "tt11433098",
+      "performer": "Rob Delaney",
+      "title": "Rob Delaney: Jackie",
+      "votes": 9,
+      "rating": 5.9
+    },
+    {
+      "id": "tt12724632",
+      "performer": "Rob Schneider",
+      "title": "Rob Schneider: Asian Momma, Mexican Kids",
+      "votes": 21,
+      "rating": 5.595
+    },
+    {
+      "id": "tt28116888",
+      "performer": "Rob Schneider",
+      "title": "Rob Schneider: Woke Up in America",
+      "votes": 7,
+      "rating": 3.286
+    },
+    {
+      "id": "tt38994128",
+      "performer": "Robby Hoffman",
+      "title": "Robby Hoffman: Wake Up",
+      "votes": 5,
+      "rating": 5.0
+    },
+    {
+      "id": "tt7582798",
+      "performer": "Rodney Carrington",
+      "title": "Rodney Carrington: Here Comes the Truth",
+      "votes": 6,
+      "rating": 4.6
+    },
+    {
+      "id": "tt0811045",
+      "performer": "Ron White",
+      "title": "Ron White: You Can't Fix Stupid",
+      "votes": 14,
+      "rating": 5.964
+    },
+    {
+      "id": "tt31194520",
+      "performer": "Rory Scovel",
+      "title": "Rory Scovel: Religion, Sex and a Few Things In Between",
+      "votes": 7,
+      "rating": 5.786
+    },
+    {
+      "id": "tt32982833",
+      "performer": "Roy Wood Jr.",
+      "title": "Roy Wood Jr.: Lonely Flowers",
+      "votes": 11,
+      "rating": 4.8
+    },
+    {
+      "id": "tt1300370",
+      "performer": "RUSSELL BRAND",
+      "title": "Russell Brand: Live",
+      "votes": 6,
+      "rating": 4.2
+    },
+    {
+      "id": "tt1692221",
+      "performer": "RUSSELL BRAND",
+      "title": "Russell Brand: Scandalous",
+      "votes": 14,
+      "rating": 5.3
+    },
+    {
+      "id": "tt1426486",
+      "performer": "Russell Peters",
+      "title": "Russell Peters: Show Me the Funny",
+      "votes": 9,
+      "rating": 5.7
+    },
+    {
+      "id": "tt32538604",
+      "performer": "Sal Vulcano",
+      "title": "Sal Vulcano: Terrified",
+      "votes": 6,
+      "rating": 4.4
+    },
+    {
+      "id": "tt29280429",
+      "performer": "Sam Jay",
+      "title": "Sam Jay: Salute Me or Shoot Me",
+      "votes": 5,
+      "rating": 5.1
+    },
+    {
+      "id": "tt39285140",
+      "performer": "Sarah Millican",
+      "title": "Sarah Millican: Late Bloomer",
+      "votes": 10,
+      "rating": 5.2
+    },
+    {
+      "id": "tt38556681",
+      "performer": "Sarah Squirm",
+      "title": "Sarah Squirm: Live + in the Flesh",
+      "votes": 17,
+      "rating": 5.235
+    },
+    {
+      "id": "tt0938331",
+      "performer": "Sinbad",
+      "title": "Sinbad: Afros and Bellbottoms",
+      "votes": 11,
+      "rating": 5.3
+    },
+    {
+      "id": "tt36999013",
+      "performer": "Steph Tolev",
+      "title": "Steph Tolev: Filth Queen",
+      "votes": 5,
+      "rating": 5.4
+    },
+    {
+      "id": "tmdb:62612",
+      "performer": "Steve Harvey",
+      "title": "Steve Harvey: Still Trippin'",
+      "votes": 7,
+      "rating": 5.6
+    },
+    {
+      "id": "tt3561800",
+      "performer": "Steve Trevino",
+      "title": "Steve Trevino: Relatable",
+      "votes": 5,
+      "rating": 4.7
+    },
+    {
+      "id": "tt31358072",
+      "performer": "Steve Treviño",
+      "title": "Steve Treviño: Simple Man",
+      "votes": 6,
+      "rating": 5.6
+    },
+    {
+      "id": "tt36413638",
+      "performer": "Tim Dillon",
+      "title": "Tim Dillon: I'm Your Mother",
+      "votes": 8,
+      "rating": 5.8
+    },
+    {
+      "id": "tt7094312",
+      "performer": "T.J. Miller",
+      "title": "T.J. Miller: Meticulously Ridiculous",
+      "votes": 20,
+      "rating": 5.3
+    },
+    {
+      "id": "tt2803424",
+      "performer": "Todd Glass",
+      "title": "Todd Glass: Talks About Stuff",
+      "votes": 9,
+      "rating": 5.3
+    },
+    {
+      "id": "tt7752142",
+      "performer": "Todd Glass",
+      "title": "Todd Glass: Act Happy",
+      "votes": 17,
+      "rating": 5.6
+    },
+    {
+      "id": "tt43339083",
+      "performer": "Tony Hinchcliffe",
+      "title": "Tony Hinchcliffe: Man of the People",
+      "votes": 7,
+      "rating": 5.3
+    },
+    {
+      "id": "tt1772407",
+      "performer": "Tracy Morgan",
+      "title": "Tracy Morgan: Black & Blue",
+      "votes": 12,
+      "rating": 4.9
+    },
+    {
+      "id": "tt3663890",
+      "performer": "Tracy Morgan",
+      "title": "Tracy Morgan: Bona Fide",
+      "votes": 6,
+      "rating": 5.2
+    },
+    {
+      "id": "tt2073693",
+      "performer": "Trevor Noah",
+      "title": "Trevor Noah: Crazy Normal",
+      "votes": 5,
+      "rating": 5.0
+    },
+    {
+      "id": "tt2566524",
+      "performer": "Trevor Noah",
+      "title": "Trevor Noah: That's Racist",
+      "votes": 7,
+      "rating": 5.429
+    },
+    {
+      "id": "tt5426692",
+      "performer": "Trevor Noah",
+      "title": "Trevor Noah: Pay Back The Funny",
+      "votes": 11,
+      "rating": 5.455
+    },
+    {
+      "id": "tt12572032",
+      "performer": "Urzila Carlson",
+      "title": "Urzila Carlson: Overqualified Loser",
+      "votes": 12,
+      "rating": 4.5
+    },
+    {
+      "id": "tt5369246",
+      "performer": "Whitney Cummings",
+      "title": "Whitney Cummings: I'm Your Girlfriend",
+      "votes": 19,
+      "rating": 5.9
+    },
+    {
+      "id": "tt21283348",
+      "performer": "Whitney Cummings",
+      "title": "Whitney Cummings: Jokes",
+      "votes": 20,
+      "rating": 5.4
+    },
+    {
+      "id": "tt34492387",
+      "performer": "Zarna Garg",
+      "title": "Zarna Garg: Practical People Win",
+      "votes": 6,
+      "rating": 5.7
+    }
+  ]
+}

@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:848731",
-      "type": "movie",
-      "name": "Mikkel Klint Thorius: Vanvittigt",
-      "poster": "https://image.tmdb.org/t/p/w500/7a21LfQWolTwrL4jFJmtqtUApNe.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1295266",
-      "type": "movie",
-      "name": "Mikkel Klint Thorius: 100% Måske",
-      "poster": "https://image.tmdb.org/t/p/w500/zkWSNmq9El6CDcdNUq57nwS424j.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1127801",
-      "type": "movie",
-      "name": "Milo Edwards: Pindos",
-      "poster": "https://image.tmdb.org/t/p/w500/4cPltup50EjvgSpCKD0GHVLmj3Z.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt27451273",
-      "type": "movie",
-      "name": "Milton Jones: Milton Impossible",
-      "poster": "https://image.tmdb.org/t/p/w500/68z2DfzHuMgjpVUQt04uMgxpIQL.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1655120",
-      "type": "movie",
-      "name": "Milton Jones: Ha!Milton",
-      "poster": "https://image.tmdb.org/t/p/w500/ocl838CF3TstvbfrJSdCLKZeudQ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1702003",
-      "type": "movie",
-      "name": "Mitch Fatel Is Magical",
-      "poster": "https://image.tmdb.org/t/p/w500/3nOi1u8ETsEYgW3YB4BSkgO3Q6.jpg",
-      "releaseInfo": "2009"
-    },
-    {
       "id": "standupyt_mV_mqyqcUjQ",
       "type": "movie",
       "name": "Bad Girls: A Mitch Fatel Comedy Special [YouTube]",

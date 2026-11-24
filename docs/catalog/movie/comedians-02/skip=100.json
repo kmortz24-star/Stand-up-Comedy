@@ -173,13 +173,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt6502534",
-      "type": "movie",
-      "name": "Daniel Sosa: Sosafado",
-      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt10438652",
       "type": "movie",
       "name": "Daniel Sosa: Maleducado",
@@ -349,6 +342,13 @@
       "type": "movie",
       "name": "Comedy Central Presents: Dave Attell",
       "releaseInfo": "1999"
+    },
+    {
+      "id": "tt2047709",
+      "type": "movie",
+      "name": "Dave Attell: Hey, Your Mouth's Not Pregnant!",
+      "poster": "https://image.tmdb.org/t/p/w500/6LkOrhIPH84uuyc5rdVdbs0DFrT.jpg",
+      "releaseInfo": "2006"
     }
   ]
 }

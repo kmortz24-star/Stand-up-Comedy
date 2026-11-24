@@ -11566,8 +11566,8 @@
   "last_discovery": {
     "wikidata_people": 1499,
     "wikidata_works": 422,
-    "performers_searched": 4,
-    "total_tmdb_candidates": 1686,
+    "performers_searched": 0,
+    "total_tmdb_candidates": 1699,
     "exact_title_searches": 0,
     "exact_title_matches": 0,
     "matched_by_source": {}

@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:435576",
-      "type": "movie",
-      "name": "Al Pitcher: Fy Fan Sweden!",
-      "poster": "https://image.tmdb.org/t/p/w500/oHnxo4wepXFSdYXGzY3p88fAH4.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10462774",
-      "type": "movie",
-      "name": "Al Pitcher: Sweden Syndrome",
-      "poster": "https://image.tmdb.org/t/p/w500/55FZ6WXLFEEzzVuRUUg1kMhrBdw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tmdb:1403297",
       "type": "movie",
       "name": "Al Pitcher - My Happy Place",
@@ -352,6 +338,20 @@
       "name": "Anders Grau: Vamos a La Playa",
       "poster": "https://image.tmdb.org/t/p/w500/wJg0hUQ4KKvwYlwxsk9WtWGzOZY.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt0346508",
+      "type": "movie",
+      "name": "Anders Matthesen: Hva' snakker du om?",
+      "poster": "https://image.tmdb.org/t/p/w500/xkyrTejVK59IB67aZ4RiZUob8jL.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0352127",
+      "type": "movie",
+      "name": "Anders Matthesen: 9 Års Jubilæum",
+      "poster": "https://image.tmdb.org/t/p/w500/a9QazWZXpUmaMbGGI8YX0cfeXf1.jpg",
+      "releaseInfo": "2003"
     }
   ]
 }

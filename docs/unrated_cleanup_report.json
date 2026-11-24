@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2723,
-    "remaining_alphabetical_movies": 2108,
-    "unrated_movies_hidden": 615,
-    "unrated_established_movies_kept": 214
+    "original_alphabetical_movies": 2697,
+    "remaining_alphabetical_movies": 2086,
+    "unrated_movies_hidden": 611,
+    "unrated_established_movies_kept": 216
   },
   "hidden": [
     {
@@ -167,13 +167,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -881,13 +881,13 @@
     },
     {
       "id": "tmdb:1354467",
-      "performer": "Drew Michael",
+      "performer": "drew michael",
       "title": "Drew Michael: 41 Minutes of Stand-Up",
       "release_date": ""
     },
     {
       "id": "tmdb:1097047",
-      "performer": "Drew Michael",
+      "performer": "drew michael",
       "title": "Drew Michael: Lovely",
       "release_date": "2013-05-17"
     },
@@ -1366,18 +1366,6 @@
       "release_date": "2026-02-04"
     },
     {
-      "id": "tmdb:930088",
-      "performer": "Jackie Kashian",
-      "title": "Jackie Kashian: Stay Kashian",
-      "release_date": "2021-11-16"
-    },
-    {
-      "id": "tmdb:1646800",
-      "performer": "Jackie Kashian",
-      "title": "Jackie Kashian: Alter-Kashian",
-      "release_date": "2026-02-25"
-    },
-    {
       "id": "tmdb:1402310",
       "performer": "Jacob Sharpe",
       "title": "Cancer Jokes",
@@ -1775,25 +1763,25 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
     {
       "id": "tt27756059",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs: The Gala Specials - Russell Peters",
       "release_date": "2023-02-09"
     },
     {
       "id": "tt27515036",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs: The Gala Specials - Jo Koy",
       "release_date": "2023-04-11"
     },
@@ -1880,18 +1868,6 @@
       "performer": "Kevin Ryan",
       "title": "Are You Garbage Presents: American Garbage",
       "release_date": "2026-09-13"
-    },
-    {
-      "id": "tmdb:1750259",
-      "performer": "Kill Tony",
-      "title": "Kill Tony LIVE From Madison Square Garden Night 1",
-      "release_date": ""
-    },
-    {
-      "id": "tmdb:1750262",
-      "performer": "Kill Tony",
-      "title": "Kill Tony LIVE From Madison Square Garden Night 2",
-      "release_date": ""
     },
     {
       "id": "tmdb:812317",
@@ -3047,7 +3023,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy 'Chubby' Brown",
+      "performer": "Roy Chubby Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -3220,12 +3196,6 @@
       "release_date": "2025-07-16"
     },
     {
-      "id": "tt4003912",
-      "performer": "Seth Rogen",
-      "title": "Seth Rogen's Hilarity for Charity",
-      "release_date": "2014-08-31"
-    },
-    {
       "id": "tt21093390",
       "performer": "Shappi Khorsandi",
       "title": "Shappi Khorsandi: Live In SoHo",
@@ -3377,7 +3347,7 @@
     },
     {
       "id": "tt1515914",
-      "performer": "Talegaver Til Børn",
+      "performer": "Talegaver til børn",
       "title": "Talegaver til børn: 15 års jubilæum",
       "release_date": "2007-12-29"
     },
@@ -3476,6 +3446,12 @@
       "performer": "Tim Hawkins",
       "title": "Tim Hawkins: Fist Bump",
       "release_date": "2026-02-19"
+    },
+    {
+      "id": "tmdb:1697162",
+      "performer": "Tobias Dybvad",
+      "title": "Tobias Dybvad - Mit bedste onemanshow",
+      "release_date": "2025-09-19"
     },
     {
       "id": "tt11014874",
@@ -4132,6 +4108,16 @@
       "title": "Iliza Shlesinger: The Gala"
     },
     {
+      "id": "tmdb:930088",
+      "performer": "Jackie Kashian",
+      "title": "Jackie Kashian: Stay Kashian"
+    },
+    {
+      "id": "tmdb:1646800",
+      "performer": "Jackie Kashian",
+      "title": "Jackie Kashian: Alter-Kashian"
+    },
+    {
       "id": "tt1566355",
       "performer": "Jake Johannsen",
       "title": "Jake Johannsen: I Love You"
@@ -4458,7 +4444,7 @@
     },
     {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'Neal",
+      "performer": "Patrice O'neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {
