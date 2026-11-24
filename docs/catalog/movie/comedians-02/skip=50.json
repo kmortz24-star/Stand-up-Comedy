@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:510872",
-      "type": "movie",
-      "name": "Is That… Chris Ramsey?",
-      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt11152492",
-      "type": "movie",
-      "name": "Chris Ramsey: Approval Needed",
-      "poster": "https://image.tmdb.org/t/p/w500/gDCLDibxglt7CVDNCnyn9Hcs9F.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1279401",
-      "type": "movie",
-      "name": "Chris Ramsey: Live from London",
-      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt31869794",
-      "type": "movie",
-      "name": "Chris Ramsey Live: All Growed Up",
-      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
-      "releaseInfo": "2015"
-    },
-    {
       "id": "tt23625326",
       "type": "movie",
       "name": "Chris Redd: Why Am I Like This?",
@@ -352,6 +324,34 @@
       "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
       "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1578089",
+      "type": "movie",
+      "name": "Daniel Kitson: Something",
+      "poster": "https://image.tmdb.org/t/p/w500/dry6Ud3oi6sBFTs1hoF3ZLHJdiM.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt9833154",
+      "type": "movie",
+      "name": "Daniel Muggleton: Let's Never Hang Out",
+      "poster": "https://image.tmdb.org/t/p/w500/dY1dSnqAn7oH7QkKhLDFpGRBMGw.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1242049",
+      "type": "movie",
+      "name": "Daniel Muggleton: White & Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6787668",
+      "type": "movie",
+      "name": "Daniel Sloss Live",
+      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
+      "releaseInfo": "2012"
     }
   ]
 }

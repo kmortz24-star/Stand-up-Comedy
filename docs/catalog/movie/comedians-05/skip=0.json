@@ -248,27 +248,6 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tmdb:487079",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Mit liv som Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/9wUi6aRvEQkPf0CXvLvxPyt31rV.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:746334",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Turen går til Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/8JhlyJ4BGRwJmdaI2mQBSOtkr7K.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1192057",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Jeg er stadig Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/mTWRwoTxu9UcmM9zojlhXiKYjc8.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt15237684",
       "type": "movie",
       "name": "#patel2016",
@@ -332,13 +311,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt8160932",
-      "type": "movie",
-      "name": "Nishant Tanwar : Dilli Se Hoon B*@!%D",
-      "poster": "https://image.tmdb.org/t/p/w500/me2AnXAWdkL4fgnqDTGgeKv9EW4.jpg",
-      "releaseInfo": "2018"
-    },
-    {
       "id": "tt11167914",
       "type": "movie",
       "name": "Nishant Tanwar: Gaadi Tera Bhai Chalayega",
@@ -346,11 +318,38 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tmdb:931498",
+      "id": "tmdb:1635293",
       "type": "movie",
-      "name": "Nora Hamzawi : nouveau spectacle",
-      "poster": "https://image.tmdb.org/t/p/w500/vbm6nbm2iPSGJERiPTO9eYIGuUi.jpg",
+      "name": "Nordine Ganso : Docteur Love",
+      "poster": "https://image.tmdb.org/t/p/w500/A1nWb17YEoMQnBBixEiAQrtlHSV.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1487586",
+      "type": "movie",
+      "name": "Norm MacDonald - One Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/9gRLWWmAMzYBdVYnuOFSpjTiT2c.jpg"
+    },
+    {
+      "id": "tt2009538",
+      "type": "movie",
+      "name": "Norm Macdonald: Me Doing Standup",
+      "poster": "https://image.tmdb.org/t/p/w500/up1Kkqi1QsP4t3uYHVgBt2yfjkE.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt20201450",
+      "type": "movie",
+      "name": "Norm Macdonald: Nothing Special",
+      "poster": "https://image.tmdb.org/t/p/w500/jwQJSMxMn4aIlgNzHIp8HRKIKcF.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt32755658",
+      "type": "movie",
+      "name": "Olga Koch: Just Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/altywzQQbSEEMnwX8q82aCE5Tpx.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

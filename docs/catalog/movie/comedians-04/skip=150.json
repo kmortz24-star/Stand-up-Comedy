@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:725695",
-      "type": "movie",
-      "name": "Liz Miele: Self Help Me",
-      "poster": "https://image.tmdb.org/t/p/w500/qUDM3oAwKzYYafwM5eyrOXbvCAY.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1551576",
-      "type": "movie",
-      "name": "Liz Miele: Space Camp",
-      "poster": "https://image.tmdb.org/t/p/w500/wCFuEjuOLfWeeGXh89iGYrDv7rM.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt34967734",
-      "type": "movie",
-      "name": "Liza Treyger: Night Owl",
-      "poster": "https://image.tmdb.org/t/p/w500/zYk3DP9e40Depe4X0aCPc8XSoeC.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt0451141",
       "type": "movie",
       "name": "Rodney Dangerfield Hosts the 9th Annual Young Comedians Special",
@@ -244,13 +223,6 @@
       "releaseInfo": "2009"
     },
     {
-      "id": "tt38625479",
-      "type": "movie",
-      "name": "Hallberg och Betnér - Bränner ner huset",
-      "poster": "https://image.tmdb.org/t/p/w500/nOLapKrMHfvxsmngJbIOL46oCXi.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tmdb:1044149",
       "type": "movie",
       "name": "Mahamad Habane: Ham Der Komikeren",
@@ -269,13 +241,6 @@
       "type": "movie",
       "name": "Manan Desai: Jati Rehje",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:649554",
-      "type": "movie",
-      "name": "Manu Payet : Emmanuel",
-      "poster": "https://image.tmdb.org/t/p/w500/zPaziQDIM4b5FVQQYVmWP9qfLZ1.jpg",
-      "releaseInfo": "2019"
     },
     {
       "id": "tt1243467",
@@ -346,6 +311,41 @@
       "name": "Marcus Brigstocke: Planet Corduroy",
       "poster": "https://image.tmdb.org/t/p/w500/foLsz7ELOsilKzUYlqUseGjDWPd.jpg",
       "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0251739",
+      "type": "movie",
+      "name": "Margaret Cho: I'm the One That I Want",
+      "poster": "https://image.tmdb.org/t/p/w500/7pFwrqCnjycoAvFnXVP6dexO3aC.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0300274",
+      "type": "movie",
+      "name": "Margaret Cho: Notorious C.H.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/o3aHEzVZ16Vm8jMs4lcuAlVGdo.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0404844",
+      "type": "movie",
+      "name": "Margaret Cho: CHO Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/b13GW7OwOFSICi4hbBTG0xpfQlo.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0462333",
+      "type": "movie",
+      "name": "Margaret Cho: Assassin",
+      "poster": "https://image.tmdb.org/t/p/w500/kJDlPJpGDIN0WFBt2V6FWcDF7t9.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1475381",
+      "type": "movie",
+      "name": "Margaret Cho: Beautiful",
+      "poster": "https://image.tmdb.org/t/p/w500/kui62Ui3LKT8kVPCUjJgSO2ymg4.jpg",
+      "releaseInfo": "2009"
     }
   ]
 }

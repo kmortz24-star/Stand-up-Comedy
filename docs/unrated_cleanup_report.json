@@ -3,9 +3,9 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2359,
-    "remaining_alphabetical_movies": 1865,
-    "unrated_movies_hidden": 494,
+    "original_alphabetical_movies": 2256,
+    "remaining_alphabetical_movies": 1781,
+    "unrated_movies_hidden": 475,
     "unrated_established_movies_kept": 213
   },
   "hidden": [
@@ -107,13 +107,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -317,13 +317,13 @@
     },
     {
       "id": "tmdb:860479",
-      "performer": "Bob The Drag Queen",
+      "performer": "Bob the Drag Queen",
       "title": "Bob the Drag Queen: Crazy Black Lady",
       "release_date": "2020-02-21"
     },
     {
       "id": "tt28092820",
-      "performer": "Bob The Drag Queen",
+      "performer": "Bob the Drag Queen",
       "title": "Bob The Drag Queen: Woke Man in a Dress",
       "release_date": "2023-06-22"
     },
@@ -392,36 +392,6 @@
       "performer": "Brooks McBeth",
       "title": "Brooks McBeth: This Ain't Shakespeare",
       "release_date": "2015-09-29"
-    },
-    {
-      "id": "tmdb:1081829",
-      "performer": "Bruce Springsteen",
-      "title": "Bruce Springsteen - Soul Fever",
-      "release_date": ""
-    },
-    {
-      "id": "tt29383832",
-      "performer": "Bruce Springsteen",
-      "title": "Bruce Springsteen: Live in East Berlin",
-      "release_date": "1988-07-19"
-    },
-    {
-      "id": "tmdb:72300",
-      "performer": "Bruce Springsteen",
-      "title": "Bruce Springsteen - Rockin' Live From Italy",
-      "release_date": "1993-04-11"
-    },
-    {
-      "id": "tmdb:60571",
-      "performer": "Bruce Springsteen",
-      "title": "Bruce Springsteen: Live On Air",
-      "release_date": "2007-07-06"
-    },
-    {
-      "id": "tmdb:828415",
-      "performer": "Bruce Springsteen",
-      "title": "Bruce Springsteen - On the Record",
-      "release_date": "2011-09-26"
     },
     {
       "id": "tt38042121",
@@ -764,12 +734,6 @@
       "performer": "Elf Lyons",
       "title": "Elf Lyons: Swan",
       "release_date": "2017-08-25"
-    },
-    {
-      "id": "tt8400808",
-      "performer": "Élie Kakou",
-      "title": "Élie Kakou : Vidéo pirate du Zénith",
-      "release_date": "1995-09-25"
     },
     {
       "id": "tmdb:1410113",
@@ -2290,24 +2254,6 @@
       "release_date": "2023-06-22"
     },
     {
-      "id": "tt6438066",
-      "performer": "Pieter Derks",
-      "title": "Pieter Derks: Van Nature",
-      "release_date": "2014-05-26"
-    },
-    {
-      "id": "tt16733944",
-      "performer": "Pieter Derks",
-      "title": "Pieter Derks: Voor wat het waard is",
-      "release_date": "2021-12-26"
-    },
-    {
-      "id": "tt29005561",
-      "performer": "Pieter Derks",
-      "title": "Pieter Derks: Uit het niets",
-      "release_date": "2023-08-19"
-    },
-    {
       "id": "tt36624815",
       "performer": "Pink Foxx",
       "title": "Pink Foxx: For Foxx Sake",
@@ -2410,12 +2356,6 @@
       "release_date": "2026-05-22"
     },
     {
-      "id": "tt35357642",
-      "performer": "Ronald Goedemondt",
-      "title": "Ronald Goedemondt: Met Knielende Knikjes",
-      "release_date": "2025-01-11"
-    },
-    {
       "id": "tt15281420",
       "performer": "Rosebud Baker",
       "title": "Rosebud Baker: Whiskey Fists",
@@ -2426,42 +2366,6 @@
       "performer": "Rosie Jones",
       "title": "Rosie Jones: Triple Threat",
       "release_date": "2025-12-08"
-    },
-    {
-      "id": "tt5628412",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer: R.I.P.",
-      "release_date": "2007-04-01"
-    },
-    {
-      "id": "tt5610352",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer: M.A.W.",
-      "release_date": "2009-01-01"
-    },
-    {
-      "id": "tt5594270",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer: Mans Genoeg",
-      "release_date": "2011-12-17"
-    },
-    {
-      "id": "tt6437894",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer: Typisch Surinaams",
-      "release_date": "2013-11-04"
-    },
-    {
-      "id": "tmdb:1410567",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer: Tjar A Lobi",
-      "release_date": "2016-12-04"
-    },
-    {
-      "id": "tmdb:765285",
-      "performer": "Roué Verveer",
-      "title": "Roué Verveer - Op het Laatste Moment",
-      "release_date": "2017-06-16"
     },
     {
       "id": "tmdb:1179968",
@@ -2746,12 +2650,6 @@
       "release_date": "2025-08-08"
     },
     {
-      "id": "tt1515914",
-      "performer": "Talegaver Til Børn",
-      "title": "Talegaver til børn: 15 års jubilæum",
-      "release_date": "2007-12-29"
-    },
-    {
       "id": "tt40123921",
       "performer": "Tammy Pescatelli",
       "title": "Tammy Pescatelli: Mrs. Saturday Night",
@@ -2888,18 +2786,6 @@
       "performer": "Vittorio Angelone",
       "title": "Vittorio Angelone: Who Do You Think You Are? I Am!",
       "release_date": "2025-12-26"
-    },
-    {
-      "id": "tt9402868",
-      "performer": "Vladimír Menšík",
-      "title": "Silvestr 79 aneb Hrajeme si jako děti",
-      "release_date": "1979-12-31"
-    },
-    {
-      "id": "tmdb:1597201",
-      "performer": "Waly Dia",
-      "title": "Waly Dia - Une heure à tuer",
-      "release_date": "2025-12-08"
     },
     {
       "id": "tt6666360",
@@ -3837,7 +3723,7 @@
     },
     {
       "id": "tmdb:1103103",
-      "performer": "RUSSELL BRAND",
+      "performer": "Russell Brand",
       "title": "Russell Brand: Brandemic"
     },
     {

@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0354522",
-      "type": "movie",
-      "name": "Doug Stanhope: Word of Mouth",
-      "poster": "https://image.tmdb.org/t/p/w500/dSa2s4UJG9hOPzYeIHskyE1yq4a.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt0814086",
-      "type": "movie",
-      "name": "Doug Stanhope: Deadbeat Hero",
-      "poster": "https://image.tmdb.org/t/p/w500/z4fWyhl3A6AtNygPMoAdifGXkHv.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1047610",
-      "type": "movie",
-      "name": "Doug Stanhope: No Refunds",
-      "poster": "https://image.tmdb.org/t/p/w500/leh2zShssPQ3M8wlIt1SPaFIFkW.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1935193",
-      "type": "movie",
-      "name": "Doug Stanhope: Oslo - Burning the Bridge to Nowhere",
-      "poster": "https://image.tmdb.org/t/p/w500/iTozlSb4eYv0XcwWVdBGZp5Yk9s.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2150006",
-      "type": "movie",
-      "name": "Doug Stanhope: Before Turning the Gun on Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/uGCIYLnI6ViZaCYlTkqQ7Y9AbC0.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt2833398",
-      "type": "movie",
-      "name": "Doug Stanhope: Beer Hall Putsch",
-      "poster": "https://image.tmdb.org/t/p/w500/anOxh3XYLBmeZyzaYheeSg4uUWi.jpg",
-      "releaseInfo": "2013"
-    },
-    {
       "id": "tt5841088",
       "type": "movie",
       "name": "Doug Stanhope: No Place Like Home",
@@ -69,13 +27,6 @@
       "name": "Doug Stanhope: The Dying of a Last Breed",
       "poster": "https://image.tmdb.org/t/p/w500/kCwz99uX70JrjsTS80IclJpu5dZ.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1597512",
-      "type": "movie",
-      "name": "Doully : Hier j'arrête !",
-      "poster": "https://image.tmdb.org/t/p/w500/nk7cpgoWqA02RA0Ot4oetfm9VNE.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tt0294542",
@@ -353,6 +304,55 @@
       "name": "Eddie Izzard: Definite Article",
       "poster": "https://image.tmdb.org/t/p/w500/1yG50ajC6EEEQq01Y96SkXIqILy.jpg",
       "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0195753",
+      "type": "movie",
+      "name": "Eddie Izzard: Glorious",
+      "poster": "https://image.tmdb.org/t/p/w500/tSiyjmGJEWprHWPR8Eop1ML82gB.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0184424",
+      "type": "movie",
+      "name": "Eddie Izzard: Dress to Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/mwvsA31Ei0vYaOPRjF8FBL9For7.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0342317",
+      "type": "movie",
+      "name": "Eddie Izzard: Circle",
+      "poster": "https://image.tmdb.org/t/p/w500/toAzvLu1wMh884YGkFFkhu589H5.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0408730",
+      "type": "movie",
+      "name": "Eddie Izzard: Sexie",
+      "poster": "https://image.tmdb.org/t/p/w500/fuX5OQ2RPLqE7Be7byfhQISG3Dk.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt1470576",
+      "type": "movie",
+      "name": "Eddie Izzard: Live from Wembley",
+      "poster": "https://image.tmdb.org/t/p/w500/kQg3DjMudreEvyHg4snGOjo1Pzt.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1560145",
+      "type": "movie",
+      "name": "Eddie Izzard: Stripped",
+      "poster": "https://image.tmdb.org/t/p/w500/uKMNYeppcFlgJ8GiBvK9m9Q3Ugc.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1830586",
+      "type": "movie",
+      "name": "Eddie Izzard: Live at Madison Square Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/8CHqbflgx599iwoBmBpWSb0eM1X.jpg",
+      "releaseInfo": "2011"
     }
   ]
 }

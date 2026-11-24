@@ -64,34 +64,6 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt0991293",
-      "type": "movie",
-      "name": "Carsten Bang - Har Satan En Fætter?",
-      "poster": "https://image.tmdb.org/t/p/w500/5HwOqpT9XjZzn81uoxg4aDy9UKm.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1515750",
-      "type": "movie",
-      "name": "Carsten Bang: Bang! Jeg er død",
-      "poster": "https://image.tmdb.org/t/p/w500/ulxvmCukNRDkWvdyautgpnLBxPJ.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt2364613",
-      "type": "movie",
-      "name": "Carsten Bang: Plukker Kameler",
-      "poster": "https://image.tmdb.org/t/p/w500/s2SrgvxjqklcF5MdLgPWtw1CemQ.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt8152462",
-      "type": "movie",
-      "name": "Carsten Bang: Alter Ego",
-      "poster": "https://image.tmdb.org/t/p/w500/plxBzivIYXjvzWHZhDeC6FqvoWY.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt0363503",
       "type": "movie",
       "name": "Catch A Rising Star: 10th Anniversary Special",
@@ -354,6 +326,34 @@
       "name": "Chris Porter: There's No Money In Babies",
       "poster": "https://image.tmdb.org/t/p/w500/pxfQ0544Ir0cYcLSBld3PQf9aSF.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:510872",
+      "type": "movie",
+      "name": "Is That… Chris Ramsey?",
+      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11152492",
+      "type": "movie",
+      "name": "Chris Ramsey: Approval Needed",
+      "poster": "https://image.tmdb.org/t/p/w500/gDCLDibxglt7CVDNCnyn9Hcs9F.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1279401",
+      "type": "movie",
+      "name": "Chris Ramsey: Live from London",
+      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt31869794",
+      "type": "movie",
+      "name": "Chris Ramsey Live: All Growed Up",
+      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
+      "releaseInfo": "2015"
     }
   ]
 }

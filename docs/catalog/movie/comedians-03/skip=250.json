@@ -1,33 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1629479",
-      "type": "movie",
-      "name": "Johanna Wagrell: Smart",
-      "poster": "https://image.tmdb.org/t/p/w500/erGrwiSGTTkRuqGtfQJ4HDcKSsr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt22746690",
-      "type": "movie",
-      "name": "John Bishop: Life After Deaf Stand Up Show",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1501895",
-      "type": "movie",
-      "name": "John Bishop: Work in Progress - Live In Top Secret Comedy Club",
-      "poster": "https://image.tmdb.org/t/p/w500/jA8aDpBzsqFcYA5afCSES6iLBgS.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1473513",
-      "type": "movie",
-      "name": "John Bishop: Live From New York",
-      "poster": "https://image.tmdb.org/t/p/w500/yf75jotKMQufPnvIPmHgsG4qWrC.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt38681473",
       "type": "movie",
       "name": "John Bishop: Back At It",
@@ -172,13 +145,6 @@
       "name": "The Hall: Honoring the Greats of Stand-Up",
       "poster": "https://image.tmdb.org/t/p/w500/dwFflLDrSD6RcBBEnG8Ov3c7oPm.jpg",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1337663",
-      "type": "movie",
-      "name": "Jonas Mogensen - Trummerum",
-      "poster": "https://image.tmdb.org/t/p/w500/4bytOz9bCrtOicOdun2zZKLaDjc.jpg",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt39160848",
@@ -346,6 +312,13 @@
       "name": "Just for Laughs Stand Up, Vol. 1: Best of the Uptown Comics",
       "poster": "https://image.tmdb.org/t/p/w500/kBOxLWic3YwTdVXooH3URV4Utkn.jpg",
       "releaseInfo": "2005"
+    },
+    {
+      "id": "tt27180536",
+      "type": "movie",
+      "name": "Just for Laughs: The Gala Specials - Chelsea Handler",
+      "poster": "https://image.tmdb.org/t/p/w500/zk7NMZ21igcm2CaOMiX9ywks2OX.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

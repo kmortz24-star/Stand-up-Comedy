@@ -1,41 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt1243458",
-      "type": "movie",
-      "name": "David Cross: HBO Comedy Half-Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/8UxhfEWEmmP9cqVi6kjIw1vdkfS.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0251656",
-      "type": "movie",
-      "name": "David Cross: The Pride Is Back",
-      "poster": "https://image.tmdb.org/t/p/w500/4wYi80NyKnh3mmgg17krlTmEKD5.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0437932",
-      "type": "movie",
-      "name": "Last Laugh '04",
-      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt5943936",
-      "type": "movie",
-      "name": "David Cross: Making America Great Again",
-      "poster": "https://image.tmdb.org/t/p/w500/56PQtVg4SGhttbMBPHJobCWQEXJ.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt9547338",
-      "type": "movie",
-      "name": "David Cross: Oh Come On",
-      "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt31512903",
       "type": "movie",
       "name": "David Cross: Worst Daddy in the World",
@@ -118,13 +83,6 @@
       "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
       "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0344606",
-      "type": "movie",
-      "name": "Den Ægte Vare: Live i Cirkusbygningen",
-      "poster": "https://image.tmdb.org/t/p/w500/eGEJCeEL1BoFXd7xIETbUMU0S0f.jpg",
-      "releaseInfo": "2002"
     },
     {
       "id": "tt0248752",
@@ -344,6 +302,48 @@
       "id": "tmdb:1007161",
       "type": "movie",
       "name": "Doug Stanhope: From Across The Street"
+    },
+    {
+      "id": "tt0354522",
+      "type": "movie",
+      "name": "Doug Stanhope: Word of Mouth",
+      "poster": "https://image.tmdb.org/t/p/w500/dSa2s4UJG9hOPzYeIHskyE1yq4a.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0814086",
+      "type": "movie",
+      "name": "Doug Stanhope: Deadbeat Hero",
+      "poster": "https://image.tmdb.org/t/p/w500/z4fWyhl3A6AtNygPMoAdifGXkHv.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1047610",
+      "type": "movie",
+      "name": "Doug Stanhope: No Refunds",
+      "poster": "https://image.tmdb.org/t/p/w500/leh2zShssPQ3M8wlIt1SPaFIFkW.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1935193",
+      "type": "movie",
+      "name": "Doug Stanhope: Oslo - Burning the Bridge to Nowhere",
+      "poster": "https://image.tmdb.org/t/p/w500/iTozlSb4eYv0XcwWVdBGZp5Yk9s.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2150006",
+      "type": "movie",
+      "name": "Doug Stanhope: Before Turning the Gun on Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/uGCIYLnI6ViZaCYlTkqQ7Y9AbC0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2833398",
+      "type": "movie",
+      "name": "Doug Stanhope: Beer Hall Putsch",
+      "poster": "https://image.tmdb.org/t/p/w500/anOxh3XYLBmeZyzaYheeSg4uUWi.jpg",
+      "releaseInfo": "2013"
     }
   ]
 }

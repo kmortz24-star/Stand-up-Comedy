@@ -8,13 +8,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1701839",
-      "type": "movie",
-      "name": "Bun Hay Mean : Le monde appartient à ceux qui le fabriquent",
-      "poster": "https://image.tmdb.org/t/p/w500/h6UpkTl0sygM753ahHsFhlKfnx7.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt42836662",
       "type": "movie",
       "name": "Jeff Foxworthy: The Joke's On Me",
@@ -153,13 +146,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1657407",
-      "type": "movie",
-      "name": "Alison Wheeler : La Promesse d'un soir",
-      "poster": "https://image.tmdb.org/t/p/w500/n0EI2tNFxjyDp8tFFL1eAdgJJ2L.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt43493860",
       "type": "movie",
       "name": "We're Looking For People Who Do Huge Numbers On Social Media",
@@ -220,13 +206,6 @@
       "type": "movie",
       "name": "Mark Normand: None Too Pleased",
       "poster": "https://image.tmdb.org/t/p/w500/1tXecciNhN98sXK4quLlVWN1p9O.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1646230",
-      "type": "movie",
-      "name": "Élodie Poux : Le syndrome du papillon",
-      "poster": "https://image.tmdb.org/t/p/w500/jVRSA7kxLyfaGDjbsXcaMJvbxaq.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -346,6 +325,27 @@
       "type": "movie",
       "name": "Nordine Ganso : Docteur Love",
       "poster": "https://image.tmdb.org/t/p/w500/A1nWb17YEoMQnBBixEiAQrtlHSV.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39799006",
+      "type": "movie",
+      "name": "Nick Swardson: Toilet Head",
+      "poster": "https://image.tmdb.org/t/p/w500/rEy4uoN2ANeM1WZcmLELhREotNw.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1631363",
+      "type": "movie",
+      "name": "Ilyes Djadel : Vrai",
+      "poster": "https://image.tmdb.org/t/p/w500/d5UdnEoZue0jIGzRhIefRYe7IsD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39479604",
+      "type": "movie",
+      "name": "Katt Williams: The Last Report",
+      "poster": "https://image.tmdb.org/t/p/w500/n9UBtHFf1zYk6Vq93MFYdbZVAj4.jpg",
       "releaseInfo": "2026"
     }
   ]

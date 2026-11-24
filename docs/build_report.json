@@ -1,19 +1,19 @@
 {
   "counts": {
-    "New Specials": 221,
+    "New Specials": 212,
     "Top Rated": 150,
-    "Fan Favorites": 150,
+    "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
     "Comedy Legends": 64,
     "Viral & Rising Comedians": 32,
     "Roasts & Comedy Events": 73,
-    "Comedians AB": 276,
-    "CDEFG": 405,
-    "HIJ": 301,
-    "KLM": 330,
-    "NOPQR": 307,
-    "STUVWXYZ": 288,
+    "Comedians AB": 267,
+    "CDEFG": 394,
+    "HIJ": 296,
+    "KLM": 312,
+    "NOPQR": 286,
+    "STUVWXYZ": 268,
     "Stand-Up TV Shows": 25
   },
   "total_unique_records": 3006,
@@ -59,19 +59,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt35175829",
-      "tmdb_id": 1023590,
-      "title": "JOKES – fra en hvid, straight mand",
-      "performer": null,
-      "release_date": "2023-10-13",
-      "poster_path": "/n4dur5suF1e5nv0QlDywuPHnFEx.jpg",
-      "popularity": 0.3865,
-      "vote_average": 6.7,
-      "vote_count": 6,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt0788010",
       "tmdb_id": 1061998,
       "title": "An Audience with Jackie Mason",
@@ -98,19 +85,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1067511",
-      "tmdb_id": 1067511,
-      "title": "Mick Øgendahls nytår",
-      "performer": null,
-      "release_date": "2022-12-30",
-      "poster_path": "/gGJLvIZsdizIEEoujTGkLEPpSa6.jpg",
-      "popularity": 0.1786,
-      "vote_average": 5.3,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1088100",
       "tmdb_id": 1088100,
       "title": "Huxi Bach - Alt er godt",
@@ -120,19 +94,6 @@
       "popularity": 0.4063,
       "vote_average": 4.0,
       "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt27369482",
-      "tmdb_id": 1094038,
-      "title": "Laurie Peret - Spectacle alimentaire en attendant la pension",
-      "performer": null,
-      "release_date": "2023-03-02",
-      "poster_path": "/7PCLmZ7TdwFQgC1ALylD7lT392Q.jpg",
-      "popularity": 0.2398,
-      "vote_average": 5.429,
-      "vote_count": 7,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -149,19 +110,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tt2364771",
-      "tmdb_id": 110400,
-      "title": "Men's Room",
-      "performer": null,
-      "release_date": "2012-10-04",
-      "poster_path": "/9nhru5UrPcwKhVlgnWdkHLn03s4.jpg",
-      "popularity": 0.406,
-      "vote_average": 5.2,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:1116322",
@@ -821,7 +769,8 @@
       "vote_average": 7.0,
       "vote_count": 2,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1510969",
@@ -981,19 +930,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt38734007",
-      "tmdb_id": 1565069,
-      "title": "Comedy Buddy",
-      "performer": null,
-      "release_date": "2026-01-08",
-      "poster_path": "/8YzFxF44uaDxzLEGa64etR0vDzT.jpg",
-      "popularity": 1.2107,
-      "vote_average": 7.0,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1566858",
       "tmdb_id": 1566858,
       "title": "Ya no sé ni lo que digo",
@@ -1111,19 +1047,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1595348",
-      "tmdb_id": 1595348,
-      "title": "Grande figlio di p*****a",
-      "performer": null,
-      "release_date": "2025-11-30",
-      "poster_path": "/fQmrLItcFumyy61BUmoTyEK87VV.jpg",
-      "popularity": 0.5602,
-      "vote_average": 6.5,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1604478",
       "tmdb_id": 1604478,
       "title": "Daniel Lill - Det næste skridt",
@@ -1159,19 +1082,6 @@
       "popularity": 0.7412,
       "vote_average": 0.0,
       "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1628132",
-      "tmdb_id": 1628132,
-      "title": "Cabrón Bárbaro- Luciano Mellera",
-      "performer": null,
-      "release_date": "2026-02-02",
-      "poster_path": "/r70ztwfLcVb9aHMF1r3oc0jooU0.jpg",
-      "popularity": 0.2672,
-      "vote_average": 9.0,
-      "vote_count": 2,
       "tags": [],
       "last_checked": "2026-11-19"
     },
@@ -1593,19 +1503,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt46658022",
-      "tmdb_id": 1774995,
-      "title": "Devil Boy",
-      "performer": null,
-      "release_date": "2026-09-21",
-      "poster_path": "/nxQbKtuA8sg8RgheXhYSLsLjCS3.jpg",
-      "popularity": 0.4558,
-      "vote_average": 5.333,
-      "vote_count": 3,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1786036",
       "tmdb_id": 1786036,
       "title": "Leslie Liao - Silky Smooth",
@@ -1794,19 +1691,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tt1833114",
-      "tmdb_id": 20647,
-      "title": "Extrospekt",
-      "performer": null,
-      "release_date": "2008-10-04",
-      "poster_path": "/htKZBhnqx0vndGQp3OOXdqFwuIf.jpg",
-      "popularity": 0.3431,
-      "vote_average": 5.8,
-      "vote_count": 5,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt1320271",
       "tmdb_id": 20930,
       "title": "Katt Williams Presents: Katthouse Comedy",
@@ -1819,32 +1703,6 @@
       "vote_count": 9,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tt3387076",
-      "tmdb_id": 235224,
-      "title": "Anders",
-      "performer": null,
-      "release_date": "2013-11-11",
-      "poster_path": "/ljAMmlQkrwJsLpfvav4nzdyWtId.jpg",
-      "popularity": 0.6872,
-      "vote_average": 6.8,
-      "vote_count": 11,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt0386090",
-      "tmdb_id": 25068,
-      "title": "The Uffe Holm Show",
-      "performer": null,
-      "release_date": "2003-11-12",
-      "poster_path": "/tJiHlx4ZwpVS9ZMPWlYC9CI6SOQ.jpg",
-      "popularity": 0.2102,
-      "vote_average": 5.2,
-      "vote_count": 9,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:258169",
@@ -2009,32 +1867,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt1757696",
-      "tmdb_id": 46178,
-      "title": "Bytte Bytte Købmand",
-      "performer": null,
-      "release_date": "2010-09-27",
-      "poster_path": "/jBj09djO3C6r5CN7MDLf3yE0syG.jpg",
-      "popularity": 0.3103,
-      "vote_average": 7.9,
-      "vote_count": 10,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt1769293",
-      "tmdb_id": 48223,
-      "title": "Frank Hvam Live 09",
-      "performer": null,
-      "release_date": "2010-10-25",
-      "poster_path": "/cpzq6bGhAo2x1fFdEuJqfiQXXlO.jpg",
-      "popularity": 0.3251,
-      "vote_average": 7.0,
-      "vote_count": 6,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:494247",
       "tmdb_id": 494247,
       "title": "Comedy Aid 2009",
@@ -2089,19 +1921,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt9821118",
-      "tmdb_id": 535302,
-      "title": "Kaya Yanar - Planet Deutschland",
-      "performer": null,
-      "release_date": "2018-04-20",
-      "poster_path": "/78CGt6zuCTcak9P0ZrhRvSaJUHa.jpg",
-      "popularity": 0.4275,
-      "vote_average": 7.5,
-      "vote_count": 11,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt6760518",
       "tmdb_id": 542603,
       "title": "Minutes",
@@ -2112,7 +1931,8 @@
       "vote_average": 6.1,
       "vote_count": 7,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt10340662",
@@ -2432,19 +2252,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:968627",
-      "tmdb_id": 968627,
-      "title": "Jérôme Commandeur - Toujours en douceur",
-      "performer": null,
-      "release_date": "2022-04-27",
-      "poster_path": "/ozfoE55YuXeTpgUinaETczn06dv.jpg",
-      "popularity": 0.5579,
-      "vote_average": 7.8,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:972382",
       "tmdb_id": 972382,
       "title": "Grin til Gavn 2021",
@@ -2475,16 +2282,16 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2359,
-    "remaining_alphabetical_movies": 1865,
-    "unrated_movies_hidden": 494,
+    "original_alphabetical_movies": 2256,
+    "remaining_alphabetical_movies": 1781,
+    "unrated_movies_hidden": 475,
     "unrated_established_movies_kept": 213
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 5,
     "rating_below": 6.0,
-    "low_rated_movies_hidden": 6,
+    "low_rated_movies_hidden": 4,
     "low_rated_established_movies_kept": 150,
     "reversible": true,
     "tv_series_untouched": true
@@ -2533,8 +2340,8 @@
   },
   "rankings": {
     "source": "TMDB audience vote_average + vote_count",
-    "top_150_rated": "TMDB user average rating, minimum 20 votes",
-    "fan_favorites": "(TMDB average rating - 5) x sqrt(TMDb vote count): audience consensus/popularity proxy, NOT a dedicated funniest poll",
+    "top_150_rated": "Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum 20 votes",
+    "fan_favorites": "Bayesian-weighted TMDB ratings plus participation and modest A/B-roster bonus; top 200; editorial proxy, not a dedicated audience poll",
     "overlap_allowed": true,
     "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed"
   },
@@ -2616,15 +2423,15 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 126,
+      "available_comedians": 127,
       "selected_comedians": [
         "Tiffany Haddish",
         "Frankie Boyle",
         "Simon Amstell",
-        "Romesh Ranganathan",
+        "Tim Minchin",
         "Bill Maher",
         "Jon Richardson Live",
-        "Ramy Youssef",
+        "Ray Romano",
         "Sinbad",
         "Jeff Arcuri",
         "Lee Evans",
@@ -2632,15 +2439,15 @@
         "Chris D'Elia",
         "Micky Flanagan",
         "Matteo Lane",
-        "Stephen Lynch"
+        "Stephen Merchant"
       ]
     }
   },
   "english_language_policy": {
     "status": "Known non-English excluded; unknown language needs confirmation",
-    "known_non_english_source_records": 269,
-    "unknown_language_source_records": 1211,
-    "unknown_language_alphabetical_records": 631,
+    "known_non_english_source_records": 386,
+    "unknown_language_source_records": 861,
+    "unknown_language_alphabetical_records": 321,
     "known_non_english_published_movie_records": 0,
     "multilingual_tv_shows_excluded": [
       "COMEDIANS of the world"

@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1733382",
-      "type": "movie",
-      "name": "Jean-Thomas Jobin: Dix stricts trente thés un",
-      "poster": "https://image.tmdb.org/t/p/w500/sVYJGiHv4XptQf81UAWuFutDBAO.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43616650",
-      "type": "movie",
-      "name": "Jeff Arcuri: Nice to Meet You",
-      "poster": "https://image.tmdb.org/t/p/w500/pn5pu5LWufLymW6Szq6Nx0Tf93f.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0806102",
-      "type": "movie",
-      "name": "Jeff Dunham: Arguing with Myself",
-      "poster": "https://image.tmdb.org/t/p/w500/wh5KAy9lGcf7z9yv1Ax8hHVdUU2.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1143143",
-      "type": "movie",
-      "name": "Jeff Dunham: Spark of Insanity",
-      "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt1295909",
       "type": "movie",
       "name": "Jeff Dunham's Very Special Christmas Special",
@@ -349,6 +321,34 @@
       "name": "Jethro: Rule Britannia!",
       "poster": "https://image.tmdb.org/t/p/w500/nEt5fPh22B8lMxkCCTp1ntJb0IS.jpg",
       "releaseInfo": "2001"
+    },
+    {
+      "id": "tmdb:273372",
+      "type": "movie",
+      "name": "Jethro: Live at Jethro's - Back of Beyond",
+      "poster": "https://image.tmdb.org/t/p/w500/xzoWXKtp4wX2yNc5DYzcNsZJbtl.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tmdb:376924",
+      "type": "movie",
+      "name": "Jethro Live: 40 Years The Joker",
+      "poster": "https://image.tmdb.org/t/p/w500/gjWPA3C4zwofgu6LpZsr2Gy2dmg.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0318387",
+      "type": "movie",
+      "name": "Jim Breuer: Hardcore",
+      "poster": "https://image.tmdb.org/t/p/w500/4Ss8zHQACUk2r5KeeEyUf3dfAdW.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1659208",
+      "type": "movie",
+      "name": "Jim Breuer: Let's Clear the Air",
+      "poster": "https://image.tmdb.org/t/p/w500/rDE5AfiF7SBgrtsGl04F7z7Jv7U.jpg",
+      "releaseInfo": "2009"
     }
   ]
 }

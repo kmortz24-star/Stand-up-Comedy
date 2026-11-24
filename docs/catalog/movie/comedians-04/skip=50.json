@@ -208,13 +208,6 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt31925522",
-      "type": "movie",
-      "name": "Kirill Selegey: AAAAAA",
-      "poster": "https://image.tmdb.org/t/p/w500/rxy7BkMVrzKES8frbPY7jry8TJr.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt6042334",
       "type": "movie",
       "name": "Kirk Fox: That Guy",
@@ -345,6 +338,13 @@
       "name": "Larry the Cable Guy: Tailgate Party",
       "poster": "https://image.tmdb.org/t/p/w500/pZTWPaGGmSNIzLvkzjtHjLjEGNl.jpg",
       "releaseInfo": "2010"
+    },
+    {
+      "id": "tt37916276",
+      "type": "movie",
+      "name": "Larry the Cable Guy: It's a Gift",
+      "poster": "https://image.tmdb.org/t/p/w500/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "releaseInfo": "2025"
     }
   ]
 }

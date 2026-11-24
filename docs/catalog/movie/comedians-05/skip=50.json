@@ -1,52 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:1635293",
-      "type": "movie",
-      "name": "Nordine Ganso : Docteur Love",
-      "poster": "https://image.tmdb.org/t/p/w500/A1nWb17YEoMQnBBixEiAQrtlHSV.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1487586",
-      "type": "movie",
-      "name": "Norm MacDonald - One Night Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/9gRLWWmAMzYBdVYnuOFSpjTiT2c.jpg"
-    },
-    {
-      "id": "tt2009538",
-      "type": "movie",
-      "name": "Norm Macdonald: Me Doing Standup",
-      "poster": "https://image.tmdb.org/t/p/w500/up1Kkqi1QsP4t3uYHVgBt2yfjkE.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt20201450",
-      "type": "movie",
-      "name": "Norm Macdonald: Nothing Special",
-      "poster": "https://image.tmdb.org/t/p/w500/jwQJSMxMn4aIlgNzHIp8HRKIKcF.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt32755658",
-      "type": "movie",
-      "name": "Olga Koch: Just Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/altywzQQbSEEMnwX8q82aCE5Tpx.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tmdb:1739804",
       "type": "movie",
       "name": "Olga Koch: Comes From Money",
       "poster": "https://image.tmdb.org/t/p/w500/e9PQjx1u8yL1q3064sul7lgKK4C.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0486448",
-      "type": "movie",
-      "name": "Omar Marzouk - War, terror and other funny stuff",
-      "poster": "https://image.tmdb.org/t/p/w500/iLU35TtaJdQwyOLj4irVQaM9fpO.jpg",
-      "releaseInfo": "2005"
     },
     {
       "id": "tmdb:229195",
@@ -121,20 +80,6 @@
       "name": "Çiççek Gibi",
       "poster": "https://image.tmdb.org/t/p/w500/jBkzM8Q6qZTAaoIXDoeRNnF5mcL.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt33362416",
-      "type": "movie",
-      "name": "Özgür Turhan - Aynısı '24",
-      "poster": "https://image.tmdb.org/t/p/w500/9q7AbQoFkhZbiF8MORcdG2Ang5U.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:990628",
-      "type": "movie",
-      "name": "Pablo Mira dit des choses contre de l'argent",
-      "poster": "https://image.tmdb.org/t/p/w500/3xiklPAAUlRgcWntU1ZYAL2Tpmd.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt2166184",
@@ -343,6 +288,60 @@
       "id": "tt2221825",
       "type": "movie",
       "name": "Paul Mooney: The Godfather of Comedy",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt5599876",
+      "type": "movie",
+      "name": "Paul Mooney: A Piece of My Mind - God Bless America",
+      "poster": "https://image.tmdb.org/t/p/w500/dm38QamBWxFe1KsDAeFGNa7v0Oi.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt0095838",
+      "type": "movie",
+      "name": "Paul Reiser: Out on a Whim",
+      "poster": "https://image.tmdb.org/t/p/w500/9Y3HTB3dRwRxSKoz54cB0w5M9lj.jpg",
+      "releaseInfo": "1987"
+    },
+    {
+      "id": "tt0139811",
+      "type": "movie",
+      "name": "Paul Reiser: 3 1/2 Blocks from Home",
+      "poster": "https://image.tmdb.org/t/p/w500/rhOaWz2r3yRJocooBg6RwK8mmjk.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt32377327",
+      "type": "movie",
+      "name": "Paul Reiser: Life, Death & Rice Pudding",
+      "poster": "https://image.tmdb.org/t/p/w500/hhUanyVvksP3zgu4njm8o9QpZsU.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0320253",
+      "type": "movie",
+      "name": "Paul Rodriguez: Behind Bars",
+      "poster": "https://image.tmdb.org/t/p/w500/k3Orz4egA55354FEDGLdopkLvwc.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0466881",
+      "type": "movie",
+      "name": "Paul Rodriguez: Live in San Quentin",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tmdb:319885",
+      "type": "movie",
+      "name": "Paul Rodriguez: Live from the Alamo",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tmdb:132149",
+      "type": "movie",
+      "name": "Paul Rodriguez: Just for the Record",
+      "poster": "https://image.tmdb.org/t/p/w500/kGKL1AldKZ91fF1h8BMytLDkrEV.jpg",
       "releaseInfo": "2012"
     }
   ]

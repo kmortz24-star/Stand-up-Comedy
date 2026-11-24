@@ -125,46 +125,11 @@
       "releaseInfo": "2014"
     },
     {
-      "id": "tt2113048",
-      "type": "movie",
-      "name": "Simon Talbot: Damp",
-      "poster": "https://image.tmdb.org/t/p/w500/fxxmLjSU8LFNYIa65ohQj0qiyqu.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt3321174",
-      "type": "movie",
-      "name": "Simon Talbot: Talle Alene I Verden",
-      "poster": "https://image.tmdb.org/t/p/w500/lnMDXHwk03FHCpMjtr6ynJ37qnM.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:414242",
-      "type": "movie",
-      "name": "Simon Talbot: Mr. Copenhagen",
-      "poster": "https://image.tmdb.org/t/p/w500/4qSdO89d5R3PX4Gtqd6814s9lAA.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt12712404",
-      "type": "movie",
-      "name": "Simon Talbot: Make Denmark Great Again",
-      "poster": "https://image.tmdb.org/t/p/w500/78Vee9BJDhSjXXpmj7Qu5kvtFSJ.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tmdb:776259",
       "type": "movie",
       "name": "Simon Talbot: Danish Invasion",
       "poster": "https://image.tmdb.org/t/p/w500/zKUjkl0vryvjYYt3Lia7DrLnUbB.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1053273",
-      "type": "movie",
-      "name": "Simon Talbot: Optur",
-      "poster": "https://image.tmdb.org/t/p/w500/dHA1ACdAaJ6AxZGJcTvUYVs8lLQ.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt0292690",
@@ -265,20 +230,6 @@
       "releaseInfo": "1987"
     },
     {
-      "id": "tt8716334",
-      "type": "movie",
-      "name": "Springsteen on Broadway",
-      "poster": "https://image.tmdb.org/t/p/w500/ng9F8AbD82ldwwdZpCvTAUAQ0rr.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt31923069",
-      "type": "movie",
-      "name": "Springsteen: Deliver Me from Nowhere",
-      "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt20878596",
       "type": "movie",
       "name": "Stavros Halkias: Live at the Lodge Room",
@@ -348,6 +299,55 @@
       "name": "Steve Hofstetter: Ginger Kid",
       "poster": "https://image.tmdb.org/t/p/w500/fNhq58FVvbR7MoArmc70ZsRQDak.jpg",
       "releaseInfo": "2015"
+    },
+    {
+      "id": "tmdb:592123",
+      "type": "movie",
+      "name": "Steve Hofstetter: Secret Optimist",
+      "poster": "https://image.tmdb.org/t/p/w500/zyMbhQaXVHLB54ilIB4faYciT02.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt26006686",
+      "type": "movie",
+      "name": "Steve Hofstetter: The Recipe",
+      "poster": "https://image.tmdb.org/t/p/w500/4KrXWKjFgyDfS3uhDZVw2IkLOKr.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1311294",
+      "type": "movie",
+      "name": "Steve Hofstetter: Me, Myself, and Id",
+      "poster": "https://image.tmdb.org/t/p/w500/ztXhtM41L9riPeWDMG0CYU3663R.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1553314",
+      "type": "movie",
+      "name": "Steve Hofstetter: Kill the Butterflies",
+      "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0393555",
+      "type": "movie",
+      "name": "Steve Martin: On Location with Steve Martin",
+      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
+      "releaseInfo": "1976"
+    },
+    {
+      "id": "tt0356076",
+      "type": "movie",
+      "name": "Steve Martin's Best Show Ever",
+      "poster": "https://image.tmdb.org/t/p/w500/pD4FmZ9NRUj8Yut5bP7D8SSvFSF.jpg",
+      "releaseInfo": "1981"
+    },
+    {
+      "id": "tt8075256",
+      "type": "movie",
+      "name": "Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/3STPYldeX274Uw20UikS55irMXM.jpg",
+      "releaseInfo": "2018"
     }
   ]
 }

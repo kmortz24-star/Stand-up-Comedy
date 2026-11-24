@@ -3,7 +3,7 @@
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 5,
     "rating_below": 6.0,
-    "low_rated_movies_hidden": 6,
+    "low_rated_movies_hidden": 4,
     "low_rated_established_movies_kept": 150,
     "reversible": true,
     "tv_series_untouched": true
@@ -15,13 +15,6 @@
       "title": "Aditi Mittal: Things They Wouldn't Let Me Say",
       "votes": 13,
       "rating": 4.4
-    },
-    {
-      "id": "tmdb:437722",
-      "performer": "Bérengère Krief",
-      "title": "Bérengère Krief - Le Trianon",
-      "votes": 5,
-      "rating": 5.8
     },
     {
       "id": "tt8507516",
@@ -36,13 +29,6 @@
       "title": "Gallagher: Stuck in the 60's",
       "votes": 7,
       "rating": 4.6
-    },
-    {
-      "id": "tt14426518",
-      "performer": "Malik Bentalha",
-      "title": "Malik Bentalha : Encore",
-      "votes": 14,
-      "rating": 5.9
     },
     {
       "id": "tt33088662",
@@ -202,7 +188,7 @@
     },
     {
       "id": "tt7122106",
-      "performer": "Bob The Drag Queen",
+      "performer": "Bob the Drag Queen",
       "title": "Bob the Drag Queen: Suspiciously Large Woman",
       "votes": 8,
       "rating": 5.625
@@ -923,14 +909,14 @@
     },
     {
       "id": "tt1300370",
-      "performer": "RUSSELL BRAND",
+      "performer": "Russell Brand",
       "title": "Russell Brand: Live",
       "votes": 6,
       "rating": 4.2
     },
     {
       "id": "tt1692221",
-      "performer": "RUSSELL BRAND",
+      "performer": "Russell Brand",
       "title": "Russell Brand: Scandalous",
       "votes": 14,
       "rating": 5.3

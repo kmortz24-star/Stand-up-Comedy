@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2605458",
-      "type": "movie",
-      "name": "Andy Parsons: Gruntled",
-      "poster": "https://image.tmdb.org/t/p/w500/jnJpRzmwc6I35VSVBizWN5n70hw.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt13716284",
-      "type": "movie",
-      "name": "Andy Parsons: Live and Unleashed But Naturally Cautious",
-      "poster": "https://image.tmdb.org/t/p/w500/7ytiMU24N5DX5GR9TABKLjxpZQC.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:1451646",
-      "type": "movie",
-      "name": "Andy Parsons: Bafflingly Optimistic",
-      "poster": "https://image.tmdb.org/t/p/w500/66ib73iE1I3C2v29sg4O0uzYDML.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tmdb:474360",
       "type": "movie",
       "name": "Ane Høgsberg: Dårlig Feminist",
@@ -104,13 +83,6 @@
       "name": "Anthony Jeselnik: Bones and All",
       "poster": "https://image.tmdb.org/t/p/w500/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt26548127",
-      "type": "movie",
-      "name": "Anubhav Singh Bassi: Bas Kar Bassi",
-      "poster": "https://image.tmdb.org/t/p/w500/mXCkGcysVC5hwBtO1n2GW0A7aKb.jpg",
-      "releaseInfo": "2023"
     },
     {
       "id": "tt38711471",
@@ -224,25 +196,11 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt37391335",
-      "type": "movie",
-      "name": "Aymeric Lompret : Tant Pis",
-      "poster": "https://image.tmdb.org/t/p/w500/1MfT9a2wWat5HhEI1HKBMJAbq1K.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt40525855",
       "type": "movie",
       "name": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
       "poster": "https://image.tmdb.org/t/p/w500/ir2jBFW4CeQwE4kIPWdLii0eHTx.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39333550",
-      "type": "movie",
-      "name": "Az – Exister",
-      "poster": "https://image.tmdb.org/t/p/w500/hvA86X4K5ipGZrvsM1NlgRMYYFp.jpg",
-      "releaseInfo": "2023"
     },
     {
       "id": "tt1588412",
@@ -350,6 +308,48 @@
       "name": "Bert Kreischer: Secret Time",
       "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11810424",
+      "type": "movie",
+      "name": "Bert Kreischer: Hey Big Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/5aqafBYRCqUK0ys59xRn1dK9wyF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt26752731",
+      "type": "movie",
+      "name": "Bert Kreischer: Razzle Dazzle",
+      "poster": "https://image.tmdb.org/t/p/w500/4jIKENHrHUxFZPSN352UznKv9GA.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt35924806",
+      "type": "movie",
+      "name": "Bert Kreischer: Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt28997186",
+      "type": "movie",
+      "name": "Beth Stelling: If You Didn't Want Me Then",
+      "poster": "https://image.tmdb.org/t/p/w500/fMvNCGHV8a76GOFihi3wv9udglB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt37532034",
+      "type": "movie",
+      "name": "Beth Stelling: The Landlord Special",
+      "poster": "https://image.tmdb.org/t/p/w500/9lATGlE5zKSS16zFXjwpfOfO9yz.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt43493860",
+      "type": "movie",
+      "name": "We're Looking For People Who Do Huge Numbers On Social Media",
+      "poster": "https://image.tmdb.org/t/p/w500/cpqdABu3B2KKHPx9Pk1AW9DfSJf.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

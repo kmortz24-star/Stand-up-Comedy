@@ -1,41 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt37446074",
-      "type": "movie",
-      "name": "It's Worth It by Dani Rovira",
-      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1578089",
-      "type": "movie",
-      "name": "Daniel Kitson: Something",
-      "poster": "https://image.tmdb.org/t/p/w500/dry6Ud3oi6sBFTs1hoF3ZLHJdiM.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt9833154",
-      "type": "movie",
-      "name": "Daniel Muggleton: Let's Never Hang Out",
-      "poster": "https://image.tmdb.org/t/p/w500/dY1dSnqAn7oH7QkKhLDFpGRBMGw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1242049",
-      "type": "movie",
-      "name": "Daniel Muggleton: White & Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt6787668",
-      "type": "movie",
-      "name": "Daniel Sloss Live",
-      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tt11081044",
       "type": "movie",
       "name": "Daniel Sloss: X",
@@ -344,6 +309,41 @@
       "type": "movie",
       "name": "Gutbuster",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt1243458",
+      "type": "movie",
+      "name": "David Cross: HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8UxhfEWEmmP9cqVi6kjIw1vdkfS.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0251656",
+      "type": "movie",
+      "name": "David Cross: The Pride Is Back",
+      "poster": "https://image.tmdb.org/t/p/w500/4wYi80NyKnh3mmgg17krlTmEKD5.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0437932",
+      "type": "movie",
+      "name": "Last Laugh '04",
+      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt5943936",
+      "type": "movie",
+      "name": "David Cross: Making America Great Again",
+      "poster": "https://image.tmdb.org/t/p/w500/56PQtVg4SGhttbMBPHJobCWQEXJ.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt9547338",
+      "type": "movie",
+      "name": "David Cross: Oh Come On",
+      "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
+      "releaseInfo": "2019"
     }
   ]
 }
