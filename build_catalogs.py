@@ -520,17 +520,32 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
         else:
             from youtube_catalogs import preview_rows
             youtube_rows = preview_rows(videos, config, today)
+    # Publish anthology performances as a proper series/episode catalog. Native
+    # TMDB show/episode IDs let other addons resolve streams; no playback is
+    # implied by our catalog metadata and no fake movie IDs are used.
+    tv_previews, tv_metadatas, tv_counts = [], {}, {}
+    if config.get("enable_tv_series_catalog", False):
+        from tv_catalogs import build_tv_series
+        tv_previews, tv_metadatas, tv_counts = build_tv_series(
+            read_json(ROOT / "data/tv_episode_candidates.json", []))
+    resources = ["catalog"]
+    if merged_youtube:
+        resources.extend([
+            {"name": "meta", "types": ["movie"], "idPrefixes": ["standupyt_"]},
+            {"name": "stream", "types": ["movie"], "idPrefixes": ["standupyt_"]},
+        ])
+    if tv_metadatas:
+        # Restrict the declared namespace to known TV shows; don't intercept
+        # unrelated `tmdb:` metadata requests in other installed addons.
+        resources.append({"name": "meta", "types": ["series"],
+                          "idPrefixes": sorted(tv_metadatas.keys())})
     manifest = {
         "id": config["addon_id"],
         "version": "1.3.0" if merged_youtube else ("1.2.0" if youtube_rows else "1.1.0"),
         "name": config["addon_name"],
         "description": "Automatically organized stand-up comedy catalogs; YouTube previews may open externally.",
-        "resources": (["catalog", {
-            "name": "meta", "types": ["movie"], "idPrefixes": ["standupyt_"]
-        }, {
-            "name": "stream", "types": ["movie"], "idPrefixes": ["standupyt_"]
-        }] if merged_youtube else ["catalog"]),
-        "types": ["movie", "youtube"] if youtube_rows else ["movie"],
+        "resources": resources,
+        "types": (["movie", "youtube"] if youtube_rows else ["movie"]) + (["series"] if tv_metadatas else []),
         "catalogs": [],
         "behaviorHints": {"configurable": False, "configurationRequired": False},
     }
@@ -610,6 +625,24 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             write_json(folder / identifier / "skip=0.json", {"metas": previews[:PAGE_SIZE]})
             end = ((len(previews) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
             write_json(folder / identifier / f"skip={end}.json", {"metas": []})
+    if tv_metadatas:
+        title = "Stand-Up TV Shows"
+        identifier = "standup-tv-series"
+        manifest["catalogs"].append({
+            "id": identifier, "type": "series", "name": title,
+            "pageSize": PAGE_SIZE,
+            "extra": [{"name": "skip", "isRequired": False}],
+        })
+        counts[title] = len(tv_previews)
+        folder = out_dir / "catalog" / "series"
+        for skip in range(0, len(tv_previews), PAGE_SIZE):
+            name = f"{identifier}.json" if skip == 0 else f"{identifier}/skip={skip}.json"
+            write_json(folder / name, {"metas": tv_previews[skip:skip + PAGE_SIZE]})
+        write_json(folder / identifier / "skip=0.json", {"metas": tv_previews[:PAGE_SIZE]})
+        terminal = ((len(tv_previews) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
+        write_json(folder / identifier / f"skip={terminal}.json", {"metas": []})
+        for show_id, metadata in tv_metadatas.items():
+            write_json(out_dir / "meta" / "series" / f"{show_id}.json", {"meta": metadata})
     if youtube_resources:
         for alias, entry in youtube_resources.items():
             vid = entry["video_id"]
@@ -625,6 +658,12 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             })
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if tv_metadatas:
+        report["tv_series"] = {
+            "series_count": len(tv_metadatas), "episode_count": sum(tv_counts.values()),
+            "episodes_by_show": tv_counts, "playback_verified": False,
+            "stream_source": "Other installed Nuvio stream addons; not hosted by this addon",
+        }
     if merged_youtube:
         report["youtube_merged"] = {
             "unverified_playback": True, "fallback": "YouTube external link",

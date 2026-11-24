@@ -350,5 +350,6 @@
     ]
   },
   "enable_youtube_preview_catalogs": true,
-  "merge_youtube_into_existing_catalogs": true
+  "merge_youtube_into_existing_catalogs": true,
+  "enable_tv_series_catalog": true
 }

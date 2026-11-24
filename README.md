@@ -1,8 +1,8 @@
 # Stand-Up Comedy — Nuvio catalog
 
-A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials still use your installed playback providers (Meteor/Comet); selected YouTube preview cards offer their own experimental in-app playback and an external YouTube link. This does **not** change the Nuvio collection order.
+A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials still use your installed playback providers (Meteor/Comet); selected YouTube preview cards offer their own experimental in-app playback and an external YouTube link. The three TV showcases appear as **series with episodes** (metadata-only: playback depends on other addons). This does **not** change the Nuvio collection order.
 
-## Current rows (14 original, with YouTube previews merged where appropriate)
+## Current rows (14 original movie rows plus one TV series row)
 
 1. New Specials
 2. Top Rated — up to 150 TMDB-rated specials
@@ -13,6 +13,7 @@ A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials
 7. Viral & Rising Comedians
 8. Roasts & Comedy Events
 9–14. Six alphabetical rows, with names sorted by **first / stage name** and specials from **oldest to newest**
+15. **Stand-Up TV Series** — Comedy Central Presents, HBO Comedy Half Hour and One Night Stand; browse the seasons and individual comedian episodes within each show
 
 The six alphabet IDs stay stable when we rebalance letter groups. They are currently AB / CDEFG / HIJ / KLM / NOPQR / STUVWXYZ, based on actual catalog counts. **No Nuvio JSON import is needed** for updates to these GitHub-hosted catalogs.
 
@@ -50,13 +51,13 @@ This is the one requested manual exception. It is not treated as a TMDB film,
 and YouTube playback in Nuvio remains unverified (external link available).
 The verification flag requires artist-site evidence and a matching comedian name.
 
-## Comedy Central Presents and HBO showcases: episode discovery (new)
+## Comedy Central Presents and HBO showcases: TV series catalog (v8)
 
-`fetch_tv_sets.py` searches TMDB's **TV series and episode index**, independently of the movie-special search. It checks **Comedy Central Presents**, **HBO Comedy Half-Hour** and **One Night Stand**, and records each episode's show, season, episode number, featured comedian (when identifiable), and TMDB episode ID.
+`fetch_tv_sets.py` searches TMDB's **TV series and episode index** for **Comedy Central Presents**, **HBO Comedy Half Hour**, and **One Night Stand**, storing each episode's season, number, title and featured comedian (when identifiable) in `data/tv_episode_candidates.json`.
 
-TV candidates are saved to **`data/tv_episode_candidates.json`** on the scheduled workflow. They are **not currently placed into the alphabetical movie catalogs**. TV episodes have different metadata and playback identifiers, and mixing them into `movie` entries before Nuvio/stream compatibility is tested could produce an unplayable catalog. Once we verify a working episode route, we can merge these performers into navigable Nuvio listings. No additional API key is needed; TV lookups reuse TMDB's existing secret.
+`tv_catalogs.py` publishes a new **Stand-Up TV Series** *series-type* row with these three shows. Opening a show presents all discovered seasons and episodes under **real TMDB show IDs**, for example `tmdb:4787:11:19` for the Mitch Fatel episode of Comedy Central Presents. It publishes `/meta/series/tmdb:4787.json` and similar metadata endpoints and adds a `series` catalog to the manifest. It does not create fake standalone movies or host any video streams. **Playback is unverified** and depends on separately installed providers (Meteor/Comet/YouStream as appropriate) resolving each TMDB episode; some older episodes may have no playable sources. A GitHub workflow refresh is required to publish the new row.
 
-Our existing independent TMDB movie records such as `Comedy Central Presents: Dave Attell` remain in the collection and can be assigned to their featured comedians.
+No additional API key is needed. Future TMDB refreshes will also store show poster/backdrop paths for better Nuvio artwork. Existing independent TMDB movie records remain in their alphabetical categories. Toggle `enable_tv_series_catalog` off in `config.json` to hide the TV row.
 
 ## YouTube discovery and optional catalog integration (v7)
 
@@ -72,7 +73,7 @@ If the API key is absent, new YouTube discovery skips and TMDB catalogs continue
 
 1. Offline tests (no key required).
 2. Multi-source TMDB / Wikidata discovery (requires existing `TMDB_READ_ACCESS_TOKEN` Actions secret).
-3. TV comedy-show episode discovery for review (same TMDB secret).
+3. TV comedy-show episode discovery and native series/episode catalog metadata (same TMDB secret).
 4. Optional YouTube candidate collection (`YOUTUBE_API_KEY` Actions secret).
 5. Generate and publish the static catalog in `docs/` to GitHub Pages.
 6. Save the rotating discovery history to the repository, with workflow concurrency controls to minimize push conflicts.
@@ -88,12 +89,13 @@ If creating the repo from scratch: make a public GitHub repository, preserve the
 - `discovery_sources.py`: independently retrieved Wikidata people/works.
 - `fetch_youtube.py`: optional YouTube candidate retrieval and daily API-budget handling.
 - `youtube_catalogs.py`: conservative YouTube classification and optional movie-type preview cards with static playback links.
-- `fetch_tv_sets.py`: Comedy Central Presents / HBO stand-up TV episode metadata discovery (review only).
+- `fetch_tv_sets.py`: Comedy Central Presents / HBO stand-up TV episode metadata discovery.
+- `tv_catalogs.py`: publish the three shows as proper `series` with episode lists using TMDB IDs; no hosted playback.
 - `data/specials.json`: existing indexed TMDB/IMDb records (updated by Action).
 - `data/manual_additions.json`: hand corrections and extra entries. **Never place API keys here.**
 - `data/discovery_state.json`: generated, scheduled discovery cache; created at first run.
 - `data/youtube_candidates.json`: generated YouTube review leads; eligible candidates can appear in the original comedy categories as labeled previews.
-- `data/tv_episode_candidates.json`: generated TV episode review leads; not in Nuvio catalogs.
+- `data/tv_episode_candidates.json`: generated TV episode metadata; grouped into the Nuvio Stand-Up TV Series row by the build step.
 - `docs/build_report.json`: catalog sizes and unidentified performers for review.
 - `docs/`: generated manifest and paginated catalogs.
 
@@ -204,8 +206,8 @@ TV and YouTube review leads, and unmatched independent metadata titles.
 A **zero** means the catalog is missing a matching movie record; it doesn't
 prove the comedian has no specials. A **nonzero** does not guarantee a complete
 filmography or working playback. The coverage audit never manually inserts titles. Optional YouTube cards are
-unverified previews, not a guarantee of availability or playback; TV episode
-candidates remain separate. No video files are hosted or distributed.
+unverified previews, not a guarantee of availability or playback; TV episodes
+are now published as series metadata, not standalone movies, with playback still unverified. No video files are hosted or distributed.
 
 ### v7: YouTube sets in the existing comedy categories
 
@@ -232,3 +234,18 @@ The original `youtube`-type preview rows are removed from the manifest.
 
 To revert, set `merge_youtube_into_existing_catalogs` to false and rebuild;
 the older separate YouTube preview rows remain available as a fallback.
+
+
+### Stand-Up TV Shows (after alphabeticals)
+
+The existing TV category now searches a wider roster of real stand-up showcase
+series and comedy competitions. It preserves the shows as **TV series**, including
+seasons and episodes, rather than inserting episode cards into the movie
+alphabeticals. Examples: Comedy Central Presents, HBO Comedy Half-Hour, One
+Night Stand, Def Comedy Jam, Premium Blend, Live at Gotham, Gotham Comedy Live,
+Live at the Apollo, ComicView, Comedy Now!, Just for Laughs: All Access,
+Comedy Central Stand-Up Presents, Netflix stand-up anthologies, and Last Comic
+Standing. The refresh automatically **skips** shows that cannot be confidently
+matched to a TMDB series, and retains previously indexed episodes if a source
+lookup temporarily fails. Browse/show metadata does not ensure playable streams
+from installed source addons. No changes to Nuvio's external JSON are needed.
