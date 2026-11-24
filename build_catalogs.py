@@ -151,6 +151,34 @@ def exclude_unrated_unknown(record: dict, config: dict, protected=None) -> bool:
     return norm(record.get("performer") or "").strip() not in protected
 
 
+def established_low_rated_performers(config: dict) -> set[str]:
+    """Base A/B roster plus specifically reviewed recognizable/underrated acts."""
+    protected = established_unrated_performers(config)
+    protected.update(norm(name).strip() for name in config.get("quality_additional_established", []) if name)
+    return protected
+
+
+
+def exclude_low_rated_unknown(record: dict, config: dict, protected=None) -> bool:
+    """Hide weakly reviewed movie specials only for non-established performers.
+
+    A rating is not a universal measure of comedy quality. This preference
+    requires at least five audience votes and leaves A/B comics, respected
+    underrated acts, TV shows, YouTube sets, and ensemble comedy events alone.
+    The source database is always retained for a reversible reclassification.
+    """
+    if not config.get("alphabet_low_rated_only_established", False):
+        return False
+    votes = int(record.get("vote_count") or 0)
+    score = float(record.get("vote_average") or 0)
+    if votes < int(config.get("alphabet_low_rating_min_votes", 5)):
+        return False
+    if score >= float(config.get("alphabet_low_rating_cutoff", 6.0)):
+        return False
+    protected = established_low_rated_performers(config) if protected is None else protected
+    return norm(record.get("performer") or "").strip() not in protected
+
+
 def display_title(record: dict) -> str:
     return str(record.get("title", "")).strip() or "Untitled Special"
 
@@ -346,14 +374,15 @@ def known_performer_names(records: list[dict], config: dict, roster_names=()) ->
     return sorted(by_normalized.values(), key=lambda x: (-len(x), norm(x)))
 
 
-def recognizable_performer(title: str, config: dict, known_names=()) -> str | None:
+def recognizable_performer(title: str, config: dict, known_names=(), *,
+                           name_lookup=None, prefix_index=None) -> str | None:
     """Recover only performers whose names are clearly stated in the title.
 
     Avoid inferring from a generic prefix like 'One-Night Stand' or from the
     presenter of a different comedian's special.
     """
     names = known_names or known_performer_names([], config)
-    names_by_key = {norm(name).strip(): name for name in names}
+    names_by_key = name_lookup if name_lookup is not None else {norm(name).strip(): name for name in names}
     text = title.strip()
 
     # Series with an explicit featured act after the series title.
@@ -385,7 +414,13 @@ def recognizable_performer(title: str, config: dict, known_names=()) -> str | No
                 all(word[:1].isupper() for word in guest.split())):
             return names_by_key.get(norm(guest).strip(), guest)
 
-    for name in names:
+    # Normal title prefixes only need names beginning with the same character.
+    # The full normalized lookup remains available for TV showcases and the
+    # 'presents <performer>' pattern. This keeps daily 3,000-title builds fast.
+    candidate_names = (prefix_index.get(text[:1].casefold(), ())
+                       if prefix_index is not None else
+                       (n for n in names if n[:1].casefold() == text[:1].casefold()))
+    for name in candidate_names:
         # Exact full-name prefix only. Punctuation or common performance-title
         # separators must immediately follow; avoid matching 'Dave Attellton'.
         if text[:len(name)].casefold() != name.casefold():
@@ -415,7 +450,12 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     tag_overrides = config.get("tag_overrides", {})
     accepted, unassigned = [], []
     known_names = known_performer_names(records, config, roster_names)
+    name_lookup = {norm(name).strip(): name for name in known_names}
+    prefix_index = defaultdict(list)
+    for name in known_names:
+        prefix_index[name[:1].casefold()].append(name)
     protected_unrated = established_unrated_performers(config)
+    protected_low_rated = established_low_rated_performers(config)
 
     # Resolve high-confidence credits before duplicate detection. Do not
     # rewrite data/specials.json; questionable titles remain in review.
@@ -425,7 +465,8 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         if record.get("id") in overrides:
             record["performer"] = overrides[record["id"]]
         else:
-            corrected = recognizable_performer(display_title(record), config, known_names)
+            corrected = recognizable_performer(display_title(record), config, known_names,
+                                               name_lookup=name_lookup, prefix_index=prefix_index)
             if corrected:
                 record["performer"] = corrected
         record["tags"] = sorted(set(record.get("tags") or []) | set(tag_overrides.get(record.get("id"), [])))
@@ -439,7 +480,8 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         if not record.get("performer") or bucket_for(record["performer"], groups) is None:
             # Preserve the independent unmatched-title review pool unchanged.
             unassigned.append(record)
-        elif not exclude_unrated_unknown(record, config, protected_unrated):
+        elif (not exclude_unrated_unknown(record, config, protected_unrated)
+              and not exclude_low_rated_unknown(record, config, protected_low_rated)):
             accepted.append(record)
 
     accepted.sort(key=alphabetical_sort_key)
@@ -724,6 +766,42 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
                        for r in hidden],
             "kept_unrated": [{"id": r["id"], "performer": r["performer"],
                               "title": r["title"]} for r in kept_unrated],
+        })
+    if config.get("alphabet_low_rated_only_established", False):
+        # Isolate the low-rating policy: unrated cleanup and earlier exclusions
+        # remain enabled in both comparisons, so the counts cannot overlap.
+        before_config = {**config, "alphabet_low_rated_only_established": False}
+        before, _ = categories(records, before_config, today, roster_names=roster_names)
+        before_entries = {r["id"]: r for key, _, rows in before
+                          if key.startswith("comedians-") for r in rows}
+        after_entries = {r["id"]: r for key, _, rows in groups
+                         if key.startswith("comedians-") for r in rows}
+        hidden = sorted((r for ident, r in before_entries.items() if ident not in after_entries),
+                        key=alphabetical_sort_key)
+        protected = established_low_rated_performers(config)
+        kept = sorted((r for r in after_entries.values()
+                       if int(r.get("vote_count") or 0) >= int(config.get("alphabet_low_rating_min_votes", 5))
+                       and float(r.get("vote_average") or 0) < float(config.get("alphabet_low_rating_cutoff", 6.0))
+                       and norm(r.get("performer", "")).strip() in protected),
+                      key=alphabetical_sort_key)
+        summary = {
+            "policy": "Hide weakly reviewed movies by non-established performers",
+            "min_votes": int(config.get("alphabet_low_rating_min_votes", 5)),
+            "rating_below": float(config.get("alphabet_low_rating_cutoff", 6.0)),
+            "low_rated_movies_hidden": len(hidden),
+            "low_rated_established_movies_kept": len(kept),
+            "reversible": True,
+            "tv_series_untouched": True,
+        }
+        report["quality_cleanup"] = summary
+        write_json(out_dir / "quality_cleanup_report.json", {
+            "summary": summary,
+            "hidden": [{"id": r["id"], "performer": r["performer"],
+                        "title": r["title"], "votes": r.get("vote_count"),
+                        "rating": r.get("vote_average")} for r in hidden],
+            "kept_established": [{"id": r["id"], "performer": r["performer"],
+                                   "title": r["title"], "votes": r.get("vote_count"),
+                                   "rating": r.get("vote_average")} for r in kept],
         })
     if tv_metadatas:
         report["tv_series"] = {
