@@ -168,6 +168,17 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "tmdb:1750259",
+      "type": "movie",
+      "name": "Kill Tony LIVE From Madison Square Garden Night 1",
+      "poster": "https://image.tmdb.org/t/p/w500/wE1yRyFi8YrRVLbYzOMlZ0aBXaJ.jpg"
+    },
+    {
+      "id": "tmdb:1750262",
+      "type": "movie",
+      "name": "Kill Tony LIVE From Madison Square Garden Night 2"
+    },
+    {
       "id": "tt36109402",
       "type": "movie",
       "name": "Kill Tony: Kill or Be Killed",
@@ -331,20 +342,6 @@
       "name": "Mandam",
       "poster": "https://image.tmdb.org/t/p/w500/vuRQk0ulU0ddEftIqczFxmlCH2y.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt9884204",
-      "type": "movie",
-      "name": "Kyan Khojandi : Pulsions",
-      "poster": "https://image.tmdb.org/t/p/w500/xZBQgUL1R0Ld6H0armtoEzpN98E.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt30143066",
-      "type": "movie",
-      "name": "Kyan Khojandi : Une bonne soirée",
-      "poster": "https://image.tmdb.org/t/p/w500/knlR2lydSYaeaAFLmRRb9Zb8gLU.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:860479",
+      "type": "movie",
+      "name": "Bob the Drag Queen: Crazy Black Lady",
+      "poster": "https://image.tmdb.org/t/p/w500/7ZyXhXitCEF5ZXcgJ3VX4NmPnkl.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt11909328",
       "type": "movie",
       "name": "Bob the Drag Queen: Live at Caroline's",
@@ -101,15 +108,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "standupyt_crnqRanrZtU",
-      "type": "movie",
-      "name": "Brendan Eyre | Alive and Well (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/crnqRanrZtU/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/crnqRanrZtU/hqdefault.jpg",
-      "description": "Brendan Eyre · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:1299762",
       "type": "movie",
       "name": "The Great Kiwi Christmas Comedy Gala",
@@ -162,6 +160,20 @@
       "name": "#Cancelholtzman",
       "poster": "https://image.tmdb.org/t/p/w500/3nYADazjrVnDe0NcONyk1tumBv3.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt4110202",
+      "type": "movie",
+      "name": "Brian Mørk: Mørk",
+      "poster": "https://image.tmdb.org/t/p/w500/k5sPWXUjBVFpFkZw2lKrxSKOS15.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tmdb:1102534",
+      "type": "movie",
+      "name": "Brian Mørk - Brian Er En Nar",
+      "poster": "https://image.tmdb.org/t/p/w500/p4iFmScPmbuRkgb1ODmPtOKzPm0.jpg",
+      "releaseInfo": "2022"
     },
     {
       "id": "tmdb:1572982",

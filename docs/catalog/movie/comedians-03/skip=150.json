@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt19121826",
+      "type": "movie",
+      "name": "Jaspreet Singh: Koi Load Nahi",
+      "poster": "https://image.tmdb.org/t/p/w500/dPLfBUotpXZLtIZLB3lwoqxZ6yR.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt41400803",
+      "type": "movie",
+      "name": "Jaspreet Singh: Grown Up",
+      "poster": "https://image.tmdb.org/t/p/w500/9YuhDFhEGtan9PQFdDLsCdM5F3P.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1247128",
       "type": "movie",
       "name": "Jatty Robinson: Odds are Even",
@@ -335,20 +349,6 @@
       "name": "Jena Friedman: American Cunt",
       "poster": "https://image.tmdb.org/t/p/w500/70R1qbdbEWszRvwekDkmBBBt6ef.jpg",
       "releaseInfo": "2016"
-    },
-    {
-      "id": "tt10971520",
-      "type": "movie",
-      "name": "Jenny Slate: Stage Fright",
-      "poster": "https://image.tmdb.org/t/p/w500/5OtkrwL9suQZd460jG0Q8bZgcb4.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt30841122",
-      "type": "movie",
-      "name": "Jenny Slate: Seasoned Professional",
-      "poster": "https://image.tmdb.org/t/p/w500/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

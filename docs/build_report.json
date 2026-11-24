@@ -1,21 +1,21 @@
 {
   "counts": {
-    "New Specials": 368,
+    "New Specials": 370,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
-    "Hidden Gems": 56,
+    "Hidden Gems": 40,
     "Comedy Legends": 65,
-    "Viral & Rising Comedians": 44,
-    "Roasts & Comedy Events": 62,
-    "Comedians AB": 398,
-    "CDEFG": 509,
-    "HIJ": 415,
-    "KLM": 436,
-    "NOPQR": 386,
-    "STUVWXYZ": 397
+    "Viral & Rising Comedians": 35,
+    "Roasts & Comedy Events": 63,
+    "Comedians AB": 400,
+    "CDEFG": 526,
+    "HIJ": 430,
+    "KLM": 456,
+    "NOPQR": 414,
+    "STUVWXYZ": 417
   },
-  "total_unique_records": 2756,
+  "total_unique_records": 2876,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -641,6 +641,20 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
+    },
+    {
+      "id": "tmdb:1341820",
+      "tmdb_id": 1341820,
+      "title": "Stand Up, Stand Out",
+      "performer": null,
+      "release_date": "",
+      "poster_path": "/csWhYdxOfodiFL40H1jTdlSQb1R.jpg",
+      "popularity": 0.0323,
+      "original_language": "en",
+      "vote_average": 1.0,
+      "vote_count": 1,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tt2364741",
@@ -1758,6 +1772,20 @@
       "last_checked": "2026-11-24"
     },
     {
+      "id": "tmdb:1787412",
+      "tmdb_id": 1787412,
+      "title": "Comedy Mod Cancer 2026",
+      "performer": null,
+      "release_date": "2026-04-19",
+      "poster_path": "/h5f56tQAfIAWVW3RYgRLN6uJeDX.jpg",
+      "popularity": 0.4218,
+      "original_language": "da",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:1787517",
       "tmdb_id": 1787517,
       "title": "Emilie Nørby - Prinsessen På Pladsen",
@@ -2723,9 +2751,9 @@
     "unverified_playback": true,
     "fallback": "YouTube external link",
     "counts": {
-      "viral_and_rising_added": 36,
-      "hidden_gems_added": 26,
-      "alphabetical_full_specials_added": 57
+      "viral_and_rising_added": 27,
+      "hidden_gems_added": 10,
+      "alphabetical_full_specials_added": 42
     }
   },
   "rankings": {
@@ -2813,23 +2841,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 106,
+      "available_comedians": 110,
       "selected_comedians": [
-        "Sarah Millican",
-        "Chris Porter",
+        "Lee Evans",
+        "Doug Stanhope",
+        "Kanan Gill",
+        "Joe Pera",
+        "Billy Crystal",
         "Roy Wood Jr.",
-        "Vir Das",
-        "Jerrod Carmichael",
-        "Zarna Garg",
+        "Stewart Lee",
+        "Kirk Fox",
         "Peter Kay",
-        "Spalding Gray",
-        "Fred Armisen",
         "Simon Amstell",
+        "Jack Whitehall",
         "Billy Connolly",
-        "Romesh Ranganathan",
-        "Greg Davies",
-        "Matteo Lane",
-        "Billy Crystal"
+        "Chris Porter",
+        "Sarah Millican",
+        "Joan Rivers"
       ]
     }
   }

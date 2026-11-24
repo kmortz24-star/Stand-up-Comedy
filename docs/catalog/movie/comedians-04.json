@@ -163,6 +163,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt32791804",
+      "type": "movie",
+      "name": "Katie Boyle: I'll Do It Myself",
+      "poster": "https://image.tmdb.org/t/p/w500/6uJJ8alQckbMgCLrMMO4VgNrPAx.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt37666557",
       "type": "movie",
       "name": "Katie Boyle: Terapy",
@@ -272,15 +279,6 @@
       "type": "movie",
       "name": "Professor of Tomfoolery",
       "poster": "https://image.tmdb.org/t/p/w500/88T2GUqQE4p1Z175gDu5HGvRsdB.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_jptIk1jaFsE",
-      "type": "movie",
-      "name": "Kerry Godliman | Bandwidth (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/jptIk1jaFsE/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/jptIk1jaFsE/hqdefault.jpg",
-      "description": "Kerry Godliman · 66 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
     },
     {

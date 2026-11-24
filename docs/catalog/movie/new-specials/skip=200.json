@@ -36,6 +36,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1636888",
+      "type": "movie",
+      "name": "Richard Herring: Can I Have My Ball Back?",
+      "poster": "https://image.tmdb.org/t/p/w500/9twZOesEfQoIKUrUyEVVLED0Le0.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt39214430",
       "type": "movie",
       "name": "CMXXIV",
@@ -339,13 +346,6 @@
       "id": "tmdb:1653386",
       "type": "movie",
       "name": "Rufat Agayev The Bad Rufat",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1591324",
-      "type": "movie",
-      "name": "Myq Kaplan - Rini",
-      "poster": "https://image.tmdb.org/t/p/w500/hlGzqcfgKNdB3G8gFqGlPAKQoLd.jpg",
       "releaseInfo": "2025"
     }
   ]

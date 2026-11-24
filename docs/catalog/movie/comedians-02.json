@@ -50,15 +50,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "standupyt_iBW7AdY-4NI",
-      "type": "movie",
-      "name": "Cameron Esposito | Four Pills (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/iBW7AdY-4NI/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/iBW7AdY-4NI/hqdefault.jpg",
-      "description": "Cameron Esposito · 61 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:1436689",
       "type": "movie",
       "name": "Camille Solari: Hello New Zealand My Life In Pink",
@@ -189,6 +180,13 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt32997335",
+      "type": "movie",
+      "name": "Catherine Cohen: Come For Me",
+      "poster": "https://image.tmdb.org/t/p/w500/kLnsZlNKFP39GfYqSzoTikzCeTk.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt2225956",
       "type": "movie",
       "name": "CC:Stand-Up: The Bonnaroo Experience",
@@ -207,6 +205,13 @@
       "name": "Cedric the Entertainer: Live from the Ville",
       "poster": "https://image.tmdb.org/t/p/w500/apBNv9j45oCHCoogMWiHlPcinYZ.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0382568",
+      "type": "movie",
+      "name": "Cem Yılmaz: One Taste One Texture",
+      "poster": "https://image.tmdb.org/t/p/w500/bzxLq2Th1zCobk7WE3psDHAF6rE.jpg",
+      "releaseInfo": "1999"
     },
     {
       "id": "tt2592910",
@@ -292,15 +297,6 @@
       "poster": "https://i.ytimg.com/vi/72ddEna5ozQ/hqdefault.jpg",
       "background": "https://i.ytimg.com/vi/72ddEna5ozQ/hqdefault.jpg",
       "description": "Chad Daniels · 73 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_ADesE3xT2VU",
-      "type": "movie",
-      "name": "Charles Gould | LA Nights (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/ADesE3xT2VU/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/ADesE3xT2VU/hqdefault.jpg",
-      "description": "Charles Gould · 35 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
     },
     {

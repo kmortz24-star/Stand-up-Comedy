@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1420054",
+      "type": "movie",
+      "name": "Christian Fuhlendorff - Ærlig talt",
+      "poster": "https://image.tmdb.org/t/p/w500/gtNFxYVhiGDRRc3zPfIzvuROOFq.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0414324",
+      "type": "movie",
+      "name": "Christopher Titus: Norman Rockwell is Bleeding",
+      "poster": "https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "tt1237372",
       "type": "movie",
       "name": "Christopher Titus: The 5th Annual End of the World Tour",
@@ -90,15 +104,6 @@
       "poster": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
       "background": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
       "description": "Colum Tyrrell · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_iiRrlRpLnD4",
-      "type": "movie",
-      "name": "Connor Burns | Gallus (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/iiRrlRpLnD4/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/iiRrlRpLnD4/hqdefault.jpg",
-      "description": "Connor Burns · 61 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
     },
     {
@@ -342,13 +347,6 @@
       "name": "It's Worth It by Dani Rovira",
       "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1578089",
-      "type": "movie",
-      "name": "Daniel Kitson: Something",
-      "poster": "https://image.tmdb.org/t/p/w500/dry6Ud3oi6sBFTs1hoF3ZLHJdiM.jpg",
-      "releaseInfo": "2002"
     }
   ]
 }

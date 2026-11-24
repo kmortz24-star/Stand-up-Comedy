@@ -225,6 +225,13 @@
       "releaseInfo": "1986"
     },
     {
+      "id": "tt7690148",
+      "type": "movie",
+      "name": "Bob Goldthwait: Is He Like That All the Time?",
+      "poster": "https://image.tmdb.org/t/p/w500/dNrOGkuTVycAS2yjjl48Y3cZT3g.jpg",
+      "releaseInfo": "1988"
+    },
+    {
       "id": "tt1037704",
       "type": "movie",
       "name": "The Bob Hope All Star Christmas Comedy Special",
@@ -338,13 +345,6 @@
       "name": "Bob the Drag Queen: Suspiciously Large Woman",
       "poster": "https://image.tmdb.org/t/p/w500/qwhD4KRZ4BAxMeheu0Lk78XZy9k.jpg",
       "releaseInfo": "2017"
-    },
-    {
-      "id": "tmdb:860479",
-      "type": "movie",
-      "name": "Bob the Drag Queen: Crazy Black Lady",
-      "poster": "https://image.tmdb.org/t/p/w500/7ZyXhXitCEF5ZXcgJ3VX4NmPnkl.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

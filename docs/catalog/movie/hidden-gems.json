@@ -1,95 +1,25 @@
 {
   "metas": [
     {
-      "id": "tt1408088",
+      "id": "tt23024594",
       "type": "movie",
-      "name": "Stewart Lee: 41st Best Stand-Up Ever!",
-      "poster": "https://image.tmdb.org/t/p/w500/A5TqisO7a0tIXBh5ywonzheY9Ri.jpg",
-      "releaseInfo": "2008"
+      "name": "Deon Cole: Charleen's Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/jinfpjAukYygPVOBWvZStD0CjS3.jpg",
+      "releaseInfo": "2022"
     },
     {
-      "id": "tt32323269",
+      "id": "tt5350084",
       "type": "movie",
-      "name": "Hank Green: Pissing Out Cancer",
-      "poster": "https://image.tmdb.org/t/p/w500/6CXN3RT885XqePpvKHux4TRbyv9.jpg",
-      "releaseInfo": "2024"
+      "name": "Josh Widdicombe Live: And Another Thing",
+      "poster": "https://image.tmdb.org/t/p/w500/gSOsqvfeuzUwmrh85IpIdL9XzBg.jpg",
+      "releaseInfo": "2013"
     },
     {
-      "id": "tt28496539",
+      "id": "tt3394592",
       "type": "movie",
-      "name": "Kountry Wayne: A Woman's Prayer",
-      "poster": "https://image.tmdb.org/t/p/w500/zPMyrWIKi6lwippctIPIx1KPoy7.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt2122460",
-      "type": "movie",
-      "name": "Russell Howard: Right Here Right Now",
-      "poster": "https://image.tmdb.org/t/p/w500/4rugTCd6fEMCR4hSV0GebksqwPC.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tmdb:706714",
-      "type": "movie",
-      "name": "Roy Chubby Brown - 50 Shades Of Brown",
-      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt4872998",
-      "type": "movie",
-      "name": "Margaret Cho: PsyCHO",
-      "poster": "https://image.tmdb.org/t/p/w500/AqYsQMoJj6Wf9GCoIx6Fvl1o8n9.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt26440342",
-      "type": "movie",
-      "name": "Whindersson Nunes: Preaching to the Choir",
-      "poster": "https://image.tmdb.org/t/p/w500/om3ojwYvXOkEifztuSIFKqUruly.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt31923069",
-      "type": "movie",
-      "name": "Springsteen: Deliver Me from Nowhere",
-      "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0094089",
-      "type": "movie",
-      "name": "Swimming to Cambodia",
-      "poster": "https://image.tmdb.org/t/p/w500/33gl89Dw4y51pVK2PcSWi0PaKVi.jpg",
-      "releaseInfo": "1987"
-    },
-    {
-      "id": "tt41400803",
-      "type": "movie",
-      "name": "Jaspreet Singh: Grown Up",
-      "poster": "https://image.tmdb.org/t/p/w500/9YuhDFhEGtan9PQFdDLsCdM5F3P.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1600656",
-      "type": "movie",
-      "name": "Bill Maher: But I'm Not Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/aZuGEdTcYg5hsc7jMar98vwjvGc.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt41378543",
-      "type": "movie",
-      "name": "Ramy Youssef: In Love",
-      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt13663146",
-      "type": "movie",
-      "name": "Ata Demirer Gazinosu",
-      "poster": "https://image.tmdb.org/t/p/w500/jsWrAyr7Hd8kNBmIEusNmqTOMrm.jpg",
-      "releaseInfo": "2020"
+      "name": "Chris D'Elia: White Male. Black Comic.",
+      "poster": "https://image.tmdb.org/t/p/w500/mEbLMGmnSKrKcLfXl3ohTTTLlX7.jpg",
+      "releaseInfo": "2013"
     },
     {
       "id": "tt22872766",
@@ -99,81 +29,39 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt0451141",
+      "id": "tt1815899",
       "type": "movie",
-      "name": "Rodney Dangerfield Hosts the 9th Annual Young Comedians Special",
-      "poster": "https://image.tmdb.org/t/p/w500/e4c06J9Gb5nQbVJqPHw2uebKhwT.jpg",
-      "releaseInfo": "1985"
+      "name": "Ricky Gervais Live 4: Science",
+      "poster": "https://image.tmdb.org/t/p/w500/v95gGR5ZKWQDoukRqcSo6QdJgqN.jpg",
+      "releaseInfo": "2010"
     },
     {
-      "id": "tt2112999",
+      "id": "tt31643753",
       "type": "movie",
-      "name": "Louis C.K.: Live at the Beacon Theater",
-      "poster": "https://image.tmdb.org/t/p/w500/bGntW92XqJ66EIQdBeseee1Q7Um.jpg",
-      "releaseInfo": "2011"
+      "name": "Jason Brokerss : 21ème seconde",
+      "poster": "https://image.tmdb.org/t/p/w500/k80w473pA2uKxgtkh1FUN3yu2AX.jpg",
+      "releaseInfo": "2023"
     },
     {
-      "id": "tmdb:537132",
+      "id": "tt11265724",
       "type": "movie",
-      "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
-      "poster": "https://image.tmdb.org/t/p/w500/jf7HJYC4jLLNqKBnfuHTTlJagpl.jpg",
-      "releaseInfo": "2017"
+      "name": "Dan Soder: Son of a Gary",
+      "poster": "https://image.tmdb.org/t/p/w500/ljlEiK6NKLb4WbK2OebBHguVcjO.jpg",
+      "releaseInfo": "2019"
     },
     {
-      "id": "tt9509058",
+      "id": "tt13882702",
       "type": "movie",
-      "name": "Kevin Bridges: The Brand New Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/dcV0QEXsjjj45JorAUMyt5EdwOg.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt11987296",
-      "type": "movie",
-      "name": "Chris D'Elia: No Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
+      "name": "Blanche Gardin - Il faut que je vous parle",
+      "poster": "https://image.tmdb.org/t/p/w500/eBbdqltPe5f7FwR5iNsdrhUFjjO.jpg",
       "releaseInfo": "2020"
     },
     {
-      "id": "tt11250926",
+      "id": "tt30796334",
       "type": "movie",
-      "name": "Jimmy O. Yang: Good Deal",
-      "poster": "https://image.tmdb.org/t/p/w500/xEgv1ZupccVoMQ2ZCEWuO4GdjI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt2844982",
-      "type": "movie",
-      "name": "John Bishop Live: Rollercoaster Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/64CcZhXuushHQlZKDOnjsEmyLSv.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt7666792",
-      "type": "movie",
-      "name": "Michelle Wolf: Nice Lady",
-      "poster": "https://image.tmdb.org/t/p/w500/9470XpMlOKQqfLCmwKzLUEBeAV.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt9356444",
-      "type": "movie",
-      "name": "Joe Lycett: I'm About to Lose Control And I Think Joe Lycett, Live",
-      "poster": "https://image.tmdb.org/t/p/w500/u5ZRsxPOdBsauOt2vvC3teNOFwV.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt9182404",
-      "type": "movie",
-      "name": "Blanche Gardin: I Talk to Myself",
-      "poster": "https://image.tmdb.org/t/p/w500/qfQSBFfxZbdjKhoMJYFfUqT7jXE.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt2287418",
-      "type": "movie",
-      "name": "Bill Hicks: It's Just a Ride",
-      "poster": "https://image.tmdb.org/t/p/w500/4rGNrqYp13zK4No5resmtlmQasn.jpg",
-      "releaseInfo": "1994"
+      "name": "Taylor Tomlinson: Have It All",
+      "poster": "https://image.tmdb.org/t/p/w500/nHsbWXfhVk53azsXICJGzn2imMg.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt27437956",
@@ -183,68 +71,144 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt0236333",
+      "id": "tmdb:449659",
       "type": "movie",
-      "name": "Jake Johannsen: This'll Take About An Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/zUKBT9wSf1U6jwvlJdzx2dBHYgh.jpg",
-      "releaseInfo": "1992"
+      "name": "Linda P - Normal?",
+      "poster": "https://image.tmdb.org/t/p/w500/oYxbjrQhbDar8lX829z6zwqhuTB.jpg",
+      "releaseInfo": "2017"
     },
     {
-      "id": "tt0867339",
+      "id": "tt11860624",
       "type": "movie",
-      "name": "Paul Mooney: Know Your History - Jesus Is Black... So Was Cleopatra",
-      "poster": "https://image.tmdb.org/t/p/w500/8lZSTctMabsQTiQ4NmhBHTcpxPt.jpg",
-      "releaseInfo": "2007"
+      "name": "Michael McIntyre: Showman",
+      "poster": "https://image.tmdb.org/t/p/w500/gbw1UhjNyfQR9DGdXfDC81E6WAN.jpg",
+      "releaseInfo": "2020"
     },
     {
-      "id": "tt0804558",
+      "id": "tt40865915",
       "type": "movie",
-      "name": "Zach Galifianakis: Live at the Purple Onion",
-      "poster": "https://image.tmdb.org/t/p/w500/96plQO27AHyfxjVbSewKTtUkohv.jpg",
-      "releaseInfo": "2007"
+      "name": "Josh Johnson: Symphony",
+      "poster": "https://image.tmdb.org/t/p/w500/ycJcUb7vvUV4vtHOPAX0zgXxDeV.jpg",
+      "releaseInfo": "2026"
     },
     {
-      "id": "tt4266120",
+      "id": "tt7364706",
       "type": "movie",
-      "name": "Lee Mack - Hit the Road Mack",
-      "poster": "https://image.tmdb.org/t/p/w500/u04wQGQkwiW9OT3WDVQD6bz3LvW.jpg",
+      "name": "Jeff Dunham: Relative Disaster",
+      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt2147822",
+      "type": "movie",
+      "name": "Jim Norton: Please Be Offended",
+      "poster": "https://image.tmdb.org/t/p/w500/A0lsQzDBxA041LDtsRs7LVLWAmH.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt1306971",
+      "type": "movie",
+      "name": "Ed Byrne: Pedantic & Whimsical",
+      "poster": "https://image.tmdb.org/t/p/w500/4syyEqxGwAHyMlr8yHqwTiN8dLu.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt2345525",
+      "type": "movie",
+      "name": "Donald Glover: Weirdo",
+      "poster": "https://image.tmdb.org/t/p/w500/yWNAh2aJ4pgXXrC926gtOoeWam.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt41400803",
+      "type": "movie",
+      "name": "Jaspreet Singh: Grown Up",
+      "poster": "https://image.tmdb.org/t/p/w500/9YuhDFhEGtan9PQFdDLsCdM5F3P.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41975820",
+      "type": "movie",
+      "name": "Stavros Halkias: Uncle Stav",
+      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt6209400",
+      "type": "movie",
+      "name": "Michael Che Matters",
+      "poster": "https://image.tmdb.org/t/p/w500/pr60Hn5pu5HMiHrj6xxC3ok1DY7.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt1515837",
+      "type": "movie",
+      "name": "Jonatan Spang's Family",
+      "poster": "https://image.tmdb.org/t/p/w500/unHwjISjjrQ0wsnuoXEMSdOGFE3.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0089035",
+      "type": "movie",
+      "name": "Frank Zappa: Does Humor Belong in Music?",
+      "poster": "https://image.tmdb.org/t/p/w500/d8WiX7iLInFpp1IjrsBKRrvfEl5.jpg",
+      "releaseInfo": "1985"
+    },
+    {
+      "id": "tt4374814",
+      "type": "movie",
+      "name": "Rosie O'Donnell: A Heartfelt Stand Up",
+      "poster": "https://image.tmdb.org/t/p/w500/e6jrpV3w6ziZszcLIwu1NuHLWrs.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt23848684",
+      "type": "movie",
+      "name": "Vir Das: Landing",
+      "poster": "https://image.tmdb.org/t/p/w500/hMR4vGA5hAH4853u6VpNaxk0nac.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt39131664",
+      "type": "movie",
+      "name": "Kumail Nanjiani: Night Thoughts",
+      "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38687274",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2844982",
+      "type": "movie",
+      "name": "John Bishop Live: Rollercoaster Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/64CcZhXuushHQlZKDOnjsEmyLSv.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3596842",
+      "type": "movie",
+      "name": "Hannibal Buress: Live From Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/hBzr738c6RZMLErQnobfThKOj8i.jpg",
       "releaseInfo": "2014"
     },
     {
-      "id": "standupyt_xpIoNMt6dbc",
+      "id": "tt8398704",
       "type": "movie",
-      "name": "AMERICAN FREEDOM RANT | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/xpIoNMt6dbc/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/xpIoNMt6dbc/hqdefault.jpg",
-      "description": "Ian Fidance · 11 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
+      "name": "Bill Maher: Live From Oklahoma",
+      "poster": "https://image.tmdb.org/t/p/w500/ucKMETsi8KuL9XcCTgECJA4DoUq.jpg",
+      "releaseInfo": "2018"
     },
     {
-      "id": "standupyt_EHc9vHcmdAc",
+      "id": "tt31923069",
       "type": "movie",
-      "name": "Alpha Males Will Believe Anything | Robert Kelly | Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/EHc9vHcmdAc/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/EHc9vHcmdAc/hqdefault.jpg",
-      "description": "Robert Kelly · 11 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_66NeXQ1spjk",
-      "type": "movie",
-      "name": "Unexpected Rapid Fire Jokes | Bobby Tessel FULL SPECIAL [YouTube]",
-      "poster": "https://i.ytimg.com/vi/66NeXQ1spjk/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/66NeXQ1spjk/hqdefault.jpg",
-      "description": "Unexpected Rapid Fire Jokes · 25 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_j4Tx0DKAMQE",
-      "type": "movie",
-      "name": "NO GOUT ABOUT IT: Ian Fidance | Mini-Doc & Stand-Up Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/j4Tx0DKAMQE/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/j4Tx0DKAMQE/hqdefault.jpg",
-      "description": "Ian Fidance · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
+      "name": "Springsteen: Deliver Me from Nowhere",
+      "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "standupyt_aSYSQg23qhE",
@@ -265,69 +229,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "standupyt_iuTVcFB0iB8",
-      "type": "movie",
-      "name": "The Manic Panic Improvised Crowd Work Special | Ian Fidance Full Comedy Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/iuTVcFB0iB8/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/iuTVcFB0iB8/hqdefault.jpg",
-      "description": "Ian Fidance · 24 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_r0sXehN93iQ",
-      "type": "movie",
-      "name": "Ian Absolutely Loses It Talking to This Group of Bros | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/r0sXehN93iQ/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/r0sXehN93iQ/hqdefault.jpg",
-      "description": "Ian Fidance · 15 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_q1vpUAKhbBo",
-      "type": "movie",
-      "name": "This Name Started 12 Minutes of Crowd Work Chaos | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/q1vpUAKhbBo/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/q1vpUAKhbBo/hqdefault.jpg",
-      "description": "Ian Fidance · 12 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_O1Pf2e2qdtg",
-      "type": "movie",
-      "name": "\"Amazon Doesn’t Give a F*** About You\" | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/O1Pf2e2qdtg/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/O1Pf2e2qdtg/hqdefault.jpg",
-      "description": "Ian Fidance · 12 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_O7ylq6-e1Js",
-      "type": "movie",
-      "name": "Cannabis Conspiracy Rant | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/O7ylq6-e1Js/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/O7ylq6-e1Js/hqdefault.jpg",
-      "description": "Ian Fidance · 20 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_6b1TTpnJtgY",
-      "type": "movie",
-      "name": "The RUDEST Crowd EVER Assembled | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/6b1TTpnJtgY/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/6b1TTpnJtgY/hqdefault.jpg",
-      "description": "Ian Fidance · 15 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_jmvzFXMfmG0",
-      "type": "movie",
-      "name": "Ian Roasts a Trump Couple in the Crowd | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/jmvzFXMfmG0/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/jmvzFXMfmG0/hqdefault.jpg",
-      "description": "Ian Fidance · 11 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "standupyt_ghT0siURh2E",
       "type": "movie",
       "name": "Gen Z is Out of Their Minds and I LOVE IT | Joe DeRosa Stand Up Comedy [YouTube]",
@@ -335,42 +236,6 @@
       "background": "https://i.ytimg.com/vi/ghT0siURh2E/hqdefault.jpg",
       "description": "Joe DeRosa · 17 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_8RiLaBVzX3Q",
-      "type": "movie",
-      "name": "ANIME VOCAL STIMMING | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/8RiLaBVzX3Q/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/8RiLaBVzX3Q/hqdefault.jpg",
-      "description": "Ian Fidance · 15 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_EzhHsSUCAJc",
-      "type": "movie",
-      "name": "SLC Heckler Wants Me to Get a VPN | Ian Fidance Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/EzhHsSUCAJc/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/EzhHsSUCAJc/hqdefault.jpg",
-      "description": "Ian Fidance · 11 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_J-W2KGV0Ga4",
-      "type": "movie",
-      "name": "\"Weekend at Herpes\" – Nikki Glaser - Full Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/J-W2KGV0Ga4/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/J-W2KGV0Ga4/hqdefault.jpg",
-      "description": "Nikki Glaser · 26 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "standupyt_XMUP6f9J6-Q",
-      "type": "movie",
-      "name": "The Intellectual Shocker - Allen Strickland Williams - Full Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/XMUP6f9J6-Q/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/XMUP6f9J6-Q/hqdefault.jpg",
-      "description": "Allen Strickland Williams · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2024"
     },
     {
       "id": "standupyt_BUI0sGnx9Us",
@@ -389,6 +254,51 @@
       "background": "https://i.ytimg.com/vi/-gbxzkU80HI/hqdefault.jpg",
       "description": "Lavell Crawford · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_exUKjQp_xo4",
+      "type": "movie",
+      "name": "Gianmarco Soresi | Shelf Life (2020) | Full Stand Up Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/exUKjQp_xo4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/exUKjQp_xo4/hqdefault.jpg",
+      "description": "Gianmarco Soresi · 31 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_mfjnDLbCroQ",
+      "type": "movie",
+      "name": "15 Minutes of Bill Burr Stand-Up Comedy | Netflix Is A Joke [YouTube]",
+      "poster": "https://i.ytimg.com/vi/mfjnDLbCroQ/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/mfjnDLbCroQ/hqdefault.jpg",
+      "description": "Bill Burr · 15 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_LNUfe1aMEDA",
+      "type": "movie",
+      "name": "“How Do You Sleep at Night?” - Andrew Santino - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/LNUfe1aMEDA/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/LNUfe1aMEDA/hqdefault.jpg",
+      "description": "Andrew Santino · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_yTsGxPRVZX0",
+      "type": "movie",
+      "name": "He’s Fluffy! - Gabriel Iglesias: Comedy Central Presents - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yTsGxPRVZX0/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yTsGxPRVZX0/hqdefault.jpg",
+      "description": "Gabriel Iglesias · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "standupyt_sGEAqq16gYU",
+      "type": "movie",
+      "name": "“What Is Going On?” - Sebastian Maniscalco: Comedy Central Presents - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/sGEAqq16gYU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/sGEAqq16gYU/hqdefault.jpg",
+      "description": "Sebastian Maniscalco · 21 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
     }
   ]
 }

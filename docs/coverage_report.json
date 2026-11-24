@@ -7,9 +7,9 @@
     "priority_comedians_without_movie_records": 9,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 58,
-    "catalog_movie_records": 2756,
+    "catalog_movie_records": 2876,
     "tv_review_leads": 383,
-    "youtube_review_candidates": 188
+    "youtube_review_candidates": 125
   },
   "comedians": [
     {
@@ -258,41 +258,6 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
-      "name": "Mitch Hedberg",
-      "priority": "established",
-      "movie_special_records": 3,
-      "tv_episode_review_leads": 1,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [
-        {
-          "title": "Do You Believe in Gosh?",
-          "source": "wikidata",
-          "source_id": "Q5286312",
-          "imdb_id": "",
-          "tmdb_id": "",
-          "status": "independent_metadata_lead_not_catalogued"
-        },
-        {
-          "title": "Mitch All Together",
-          "source": "wikidata",
-          "source_id": "Q6880788",
-          "imdb_id": "",
-          "tmdb_id": "",
-          "status": "independent_metadata_lead_not_catalogued"
-        },
-        {
-          "title": "Strategic Grill Locations",
-          "source": "wikidata",
-          "source_id": "Q7621796",
-          "imdb_id": "",
-          "tmdb_id": "",
-          "status": "independent_metadata_lead_not_catalogued"
-        }
-      ],
-      "needs_attention": true,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
       "name": "Norm Macdonald",
       "priority": "established",
       "movie_special_records": 3,
@@ -420,6 +385,41 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
+      "name": "Mitch Hedberg",
+      "priority": "established",
+      "movie_special_records": 4,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [
+        {
+          "title": "Do You Believe in Gosh?",
+          "source": "wikidata",
+          "source_id": "Q5286312",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Mitch All Together",
+          "source": "wikidata",
+          "source_id": "Q6880788",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        },
+        {
+          "title": "Strategic Grill Locations",
+          "source": "wikidata",
+          "source_id": "Q7621796",
+          "imdb_id": "",
+          "tmdb_id": "",
+          "status": "independent_metadata_lead_not_catalogued"
+        }
+      ],
+      "needs_attention": true,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
       "name": "Sam Kinison",
       "priority": "established",
       "movie_special_records": 4,
@@ -505,7 +505,7 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 1,
+      "youtube_review_candidates": 0,
       "independent_unmatched_works": [
         {
           "title": "Bicentennial Nigger",
@@ -988,7 +988,7 @@
       "priority": "established",
       "movie_special_records": 1,
       "tv_episode_review_leads": 1,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 1,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"
@@ -2536,7 +2536,7 @@
     {
       "name": "Dave Chappelle",
       "priority": "established",
-      "movie_special_records": 14,
+      "movie_special_records": 15,
       "tv_episode_review_leads": 3,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
@@ -2598,7 +2598,7 @@
       "priority": "select_underrated",
       "movie_special_records": 1,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 16,
+      "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"

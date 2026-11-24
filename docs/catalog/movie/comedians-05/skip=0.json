@@ -48,6 +48,20 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1144746",
+      "type": "movie",
+      "name": "Nate Craig: Preferred Customer",
+      "poster": "https://image.tmdb.org/t/p/w500/17KupATTlVtbaStZ11Ox43teZny.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt28136189",
+      "type": "movie",
+      "name": "Nate Craig: Live At The Green Mill",
+      "poster": "https://image.tmdb.org/t/p/w500/8DgKG5LnCdgOA2Tq8rP26pJsg7T.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1543894",
       "type": "movie",
       "name": "Nate Craig: Married To It",
@@ -332,22 +346,6 @@
       "name": "Nikki Glaser: Good Girl",
       "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_YntBaJ8FiK0",
-      "type": "movie",
-      "name": "Nikki Glaser: Perfect - Full Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/YntBaJ8FiK0/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/YntBaJ8FiK0/hqdefault.jpg",
-      "description": "Nikki Glaser · 41 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:487079",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Mit liv som Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/9wUi6aRvEQkPf0CXvLvxPyt31rV.jpg",
-      "releaseInfo": "2018"
     }
   ]
 }

@@ -85,6 +85,13 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "tt0759926",
+      "type": "movie",
+      "name": "Lee Evans: XL Tour Live 2005",
+      "poster": "https://image.tmdb.org/t/p/w500/58BaCecVt6l8pqYkuem2vV84mi3.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "tt0085474",
       "type": "movie",
       "name": "Eddie Murphy: Delirious",
@@ -342,13 +349,6 @@
       "name": "Hasan Minhaj: Off with His Head",
       "poster": "https://image.tmdb.org/t/p/w500/8qhRf12xSJht8RWapK8ND1Qx9IQ.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt1781798",
-      "type": "movie",
-      "name": "Dara Ó Briain: This Is the Show",
-      "poster": "https://image.tmdb.org/t/p/w500/jxehydhr3lz5lP7DMU0kVkxQGun.jpg",
-      "releaseInfo": "2010"
     }
   ]
 }

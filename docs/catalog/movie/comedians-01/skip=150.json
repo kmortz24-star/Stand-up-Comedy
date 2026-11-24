@@ -220,15 +220,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "standupyt_yScXksqeWlU",
-      "type": "movie",
-      "name": "Anjelah Johnson-Reyes | Ugly Baby (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
-      "description": "Anjelah Johnson-Reyes · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:690074",
       "type": "movie",
       "name": "Anne Bakland: Hvorfor er det altid mig?",
@@ -241,6 +232,13 @@
       "name": "Anne Bakland: Bullshit",
       "poster": "https://image.tmdb.org/t/p/w500/de4Bb1a5luOlirqZsOLM0h9YMVA.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt15759876",
+      "type": "movie",
+      "name": "Anne Edmonds & Lloyd Langford: Business With Pleasure",
+      "poster": "https://image.tmdb.org/t/p/w500/8SADhkXD0R8nPrv536cMJuTj2Gt.jpg",
+      "releaseInfo": "2021"
     },
     {
       "id": "tt2624662",

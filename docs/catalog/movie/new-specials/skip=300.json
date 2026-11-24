@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt37245594",
+      "type": "movie",
+      "name": "Caleb Hearon: Model Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/y3eCMPnD7zx23YNplj1ArWcbrTJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1743622",
       "type": "movie",
       "name": "Anisa Nandaula: You Can't Say That",
@@ -273,6 +280,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt39396324",
+      "type": "movie",
+      "name": "Sergey Orlov: Stand-Up All Day",
+      "poster": "https://image.tmdb.org/t/p/w500/oXU7pGw6a1gbxSzOFGZz5wWZOHp.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37666557",
       "type": "movie",
       "name": "Katie Boyle: Terapy",
@@ -333,19 +347,6 @@
       "type": "movie",
       "name": "American Comic",
       "poster": "https://image.tmdb.org/t/p/w500/zDpkgeHZPkQtnFgCQiekbPZaBOH.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1506015",
-      "type": "movie",
-      "name": "Deco Machado: Desencaixado",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37357426",
-      "type": "movie",
-      "name": "Mike Vecchione: Low Income White",
-      "poster": "https://image.tmdb.org/t/p/w500/a3WkZynxYnZ5Ac3L0cNnCkjplhT.jpg",
       "releaseInfo": "2025"
     }
   ]

@@ -1,6 +1,66 @@
 {
   "metas": [
     {
+      "id": "tt51547996",
+      "type": "movie",
+      "name": "Dustin Nickerson: Is That Your Dad?!",
+      "poster": "https://image.tmdb.org/t/p/w500/5mCtlSk7vC3EI9V3P1cQk943aRu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_SRIRmlo4OR8",
+      "type": "movie",
+      "name": "Dustin Nickerson: Overwhelmed | Full Comedy Special 2020 [YouTube]",
+      "poster": "https://i.ytimg.com/vi/SRIRmlo4OR8/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/SRIRmlo4OR8/hqdefault.jpg",
+      "description": "Dustin Nickerson · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "standupyt_dVmwB1UQUSM",
+      "type": "movie",
+      "name": "Dustin Nickerson: Is That Your Dad?! (FULL COMEDY SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/dVmwB1UQUSM/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/dVmwB1UQUSM/hqdefault.jpg",
+      "description": "Dustin Nickerson · 53 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt37433245",
+      "type": "movie",
+      "name": "Dusty Slay: Wet Heat",
+      "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_14ps_hS1NiQ",
+      "type": "movie",
+      "name": "Dusty Slay: Workin' Man | Full Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/14ps_hS1NiQ/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/14ps_hS1NiQ/hqdefault.jpg",
+      "description": "Dusty Slay · 69 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:752058",
+      "type": "movie",
+      "name": "Dwayne Perkins: Dwayne Explains"
+    },
+    {
+      "id": "tt5857874",
+      "type": "movie",
+      "name": "Dwayne Perkins: Take Note",
+      "poster": "https://image.tmdb.org/t/p/w500/aVdFk4U5o7mPW2DodTvjpGu7YYV.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt11962180",
+      "type": "movie",
+      "name": "Dwayne Perkins: Please Believe it",
+      "poster": "https://image.tmdb.org/t/p/w500/tgIhZbduHXBOt8zGmNSxpn5Ar2M.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt0439553",
       "type": "movie",
       "name": "Dylan Moran: Monster",
@@ -231,6 +291,20 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "tt3974972",
+      "type": "movie",
+      "name": "Eddie Pepitone: In Ruins",
+      "poster": "https://image.tmdb.org/t/p/w500/e5BJgM1KBqvxP8Pk4wcDKEay51S.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt12395780",
+      "type": "movie",
+      "name": "Eddie Pepitone: For the Masses",
+      "poster": "https://image.tmdb.org/t/p/w500/aBWSGsup7FNnQZbERgFciXZyyuE.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt37499050",
       "type": "movie",
       "name": "Eddie Pepitone: The Collapse",
@@ -278,76 +352,6 @@
       "name": "Elf Lyons: Swan",
       "poster": "https://image.tmdb.org/t/p/w500/renzTocQOFx7MowBrYyWJeo2hq7.jpg",
       "releaseInfo": "2017"
-    },
-    {
-      "id": "tt8400808",
-      "type": "movie",
-      "name": "Élie Kakou : Vidéo pirate du Zénith",
-      "poster": "https://image.tmdb.org/t/p/w500/bqVGWHrzC4mQEtgpClcS7Yiq3x5.jpg",
-      "releaseInfo": "1995"
-    },
-    {
-      "id": "tt4069364",
-      "type": "movie",
-      "name": "Élie Kakou au Cirque d'Hiver",
-      "poster": "https://image.tmdb.org/t/p/w500/otMeqyGytDSxCniVUK5iJV7X4CF.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt8400794",
-      "type": "movie",
-      "name": "Élie Kakou à l'Olympia : Déjà !",
-      "poster": "https://image.tmdb.org/t/p/w500/sINvATfdHE1aj0Ys0TxUqTwGdcP.jpg",
-      "releaseInfo": "1994"
-    },
-    {
-      "id": "tmdb:1410113",
-      "type": "movie",
-      "name": "Elis James: Derwydd",
-      "poster": "https://image.tmdb.org/t/p/w500/p5z1gN5ET0gHTy3MYFLTVDDPm5P.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:931389",
-      "type": "movie",
-      "name": "Elisabeth Buffet : Obsolescence programmée",
-      "poster": "https://image.tmdb.org/t/p/w500/mIhW2LJDxOTjdXT2yyx18dfitt9.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt0365156",
-      "type": "movie",
-      "name": "Ellen DeGeneres: Here and Now",
-      "poster": "https://image.tmdb.org/t/p/w500/rSEX32XPjRyy3jrhrb1ZhMS1WSx.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt7157574",
-      "type": "movie",
-      "name": "Ellen DeGeneres: Relatable",
-      "poster": "https://image.tmdb.org/t/p/w500/2mWdVy4X113rcs5SHu1373YSO22.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt32359444",
-      "type": "movie",
-      "name": "Ellen DeGeneres: For Your Approval",
-      "poster": "https://image.tmdb.org/t/p/w500/gFR1z640P1G3IYQ9FMtiLsFDYyu.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt42395063",
-      "type": "movie",
-      "name": "Élodie Poux : Le syndrome du Playmobil",
-      "poster": "https://image.tmdb.org/t/p/w500/xTTBGCfIJe2RD6cxdZ9unt60WfG.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1243503",
-      "type": "movie",
-      "name": "Élodie Poux se marie",
-      "poster": "https://image.tmdb.org/t/p/w500/a1rhnfNSYDNtYxKZHtdeof1qszJ.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }
