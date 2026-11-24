@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt0811045",
+      "type": "movie",
+      "name": "Ron White: You Can't Fix Stupid",
+      "poster": "https://image.tmdb.org/t/p/w500/1mgnXpsRJqpFX12j8LbJDvCp1jY.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1858777",
+      "type": "movie",
+      "name": "Ron White: Comedy Salute to the Troops",
+      "poster": "https://image.tmdb.org/t/p/w500/dMb8WLOL21zPdlfk4k2jEdVLZ0e.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2980086",
+      "type": "movie",
+      "name": "Ron White: A Little Unprofessional",
+      "poster": "https://image.tmdb.org/t/p/w500/9b81DMNNPI4oMiL2d8Up7G8mf0U.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt9060534",
+      "type": "movie",
+      "name": "Ron White: If You Quit Listening, I'll Shut Up",
+      "poster": "https://image.tmdb.org/t/p/w500/25fzgwGlyuWUyViMrU4rIqTnZj8.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt2064936",
       "type": "movie",
       "name": "Ronald Goedemondt: Spek",
@@ -257,6 +285,13 @@
       "name": "Russell Howard: Live",
       "poster": "https://image.tmdb.org/t/p/w500/2vaUS1n9AKoH0aiodvMu4GGmlis.jpg",
       "releaseInfo": "2008"
+    },
+    {
+      "id": "tmdb:1126838",
+      "type": "movie",
+      "name": "Russell Howard's Good News",
+      "poster": "https://image.tmdb.org/t/p/w500/jOgkZSFoG9CLcpp0jCQ2sF1uEwU.jpg",
+      "releaseInfo": "2010"
     },
     {
       "id": "tt1954794",

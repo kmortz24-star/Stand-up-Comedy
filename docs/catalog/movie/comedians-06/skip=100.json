@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1321612",
+      "type": "movie",
+      "name": "Swann Périssé - Last Special Before the End of the World",
+      "poster": "https://image.tmdb.org/t/p/w500/86aZzycuEXxZQdRhtvD57SdBWm6.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1454734",
       "type": "movie",
       "name": "Swann Périssé - On a fait un spectacle contre le fasc*sme...",
@@ -124,6 +131,13 @@
       "name": "The Noise Next Door: Live",
       "poster": "https://image.tmdb.org/t/p/w500/xGwahS9WsVQ1SjixgmkvdC2gQyL.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2302925",
+      "type": "movie",
+      "name": "Them Idiots: Whirled Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/3pobUQRgz9c0WNKWOsmxKvuWiA6.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tmdb:1169827",
@@ -259,6 +273,13 @@
       "releaseInfo": "1988"
     },
     {
+      "id": "tt5491304",
+      "type": "movie",
+      "name": "Comic Relief Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/itiFxrjQDEOsLb7Df9bTWNOBVy5.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "tt36413638",
       "type": "movie",
       "name": "Tim Dillon: I'm Your Mother",
@@ -327,26 +348,6 @@
       "name": "T.K. Kirkland: Who Raised You? Comedy Special",
       "poster": "https://image.tmdb.org/t/p/w500/nN1AOzjQEvBHdAtI25bGMgmpmqM.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt0840297",
-      "type": "movie",
-      "name": "To My Great Chagrin: The Unbelievable Story of Brother Theodore",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tmdb:233482",
-      "type": "movie",
-      "name": "Tobias Dybvad: Sjov mand - Klam personlighed",
-      "poster": "https://image.tmdb.org/t/p/w500/u7zou2fgqHviob6fk3vnwLfQ0nn.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:368704",
-      "type": "movie",
-      "name": "Tobias Dybvad: Er det ikke dig fra Dybvad?",
-      "poster": "https://image.tmdb.org/t/p/w500/i21jr2kdh6zVL8VTLLX87Rrbg8J.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

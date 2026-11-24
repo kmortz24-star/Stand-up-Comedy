@@ -63,6 +63,20 @@
       "releaseInfo": "1993"
     },
     {
+      "id": "tt2287418",
+      "type": "movie",
+      "name": "Bill Hicks: It's Just a Ride",
+      "poster": "https://image.tmdb.org/t/p/w500/4rGNrqYp13zK4No5resmtlmQasn.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt14365068",
+      "type": "movie",
+      "name": "TV's Funniest Comedians - 14 Stars Do Classic Routines",
+      "poster": "https://image.tmdb.org/t/p/w500/cQnELfYsehh466Uob2fuXftkoXB.jpg",
+      "releaseInfo": "1986"
+    },
+    {
       "id": "tt1065071",
       "type": "movie",
       "name": "Bob Newhart: Off the Record",
@@ -82,6 +96,13 @@
       "name": "Bob Newhart: A Legacy of Laughter",
       "poster": "https://image.tmdb.org/t/p/w500/d3vAv3CUGCTCoHB3YWf5pJd3sCO.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1071280",
+      "type": "movie",
+      "name": "Don Rickles: Alive and Kicking",
+      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
+      "releaseInfo": "1972"
     },
     {
       "id": "tt28267801",

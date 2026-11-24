@@ -1,21 +1,21 @@
 {
   "counts": {
-    "New Specials": 329,
+    "New Specials": 335,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 30,
-    "Comedy Legends": 47,
+    "Comedy Legends": 50,
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 58,
-    "Comedians AB": 299,
-    "CDEFG": 311,
-    "HIJ": 287,
+    "Comedians AB": 378,
+    "CDEFG": 316,
+    "HIJ": 290,
     "KLM": 283,
-    "NOPQR": 240,
-    "STUVWXYZ": 254
+    "NOPQR": 245,
+    "STUVWXYZ": 262
   },
-  "total_unique_records": 1926,
+  "total_unique_records": 2022,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -1870,20 +1870,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt0428045",
-      "tmdb_id": 365141,
-      "title": "Whoopi Goldberg's Fontaine... Why Am I Straight?",
-      "performer": null,
-      "release_date": "1988-08-06",
-      "poster_path": null,
-      "popularity": 0.2805,
-      "original_language": "en",
-      "vote_average": 7.8,
-      "vote_count": 4,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tmdb:375412",
       "tmdb_id": 375412,
       "title": "Comedy Aid 2015",
@@ -1895,20 +1881,6 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt4060962",
-      "tmdb_id": 380856,
-      "title": "A Stand Up Guy",
-      "performer": null,
-      "release_date": "2016-02-09",
-      "poster_path": "/141aFvHTqRXQMgUYvKGDhfNa35C.jpg",
-      "popularity": 0.6455,
-      "original_language": "en",
-      "vote_average": 5.1,
-      "vote_count": 13,
-      "tags": [],
-      "last_checked": "2026-11-23"
     },
     {
       "id": "tt5600326",
@@ -2270,20 +2242,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tt1037704",
-      "tmdb_id": 776141,
-      "title": "The Bob Hope All Star Christmas Comedy Special",
-      "performer": null,
-      "release_date": "1977-12-19",
-      "poster_path": null,
-      "popularity": 0.6545,
-      "original_language": "en",
-      "vote_average": 6.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tt2121253",
       "tmdb_id": 79980,
       "title": "Angelos Epithemiou and Friends",
@@ -2455,20 +2413,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:969070",
-      "tmdb_id": 969070,
-      "title": "Get Up Stand Up",
-      "performer": null,
-      "release_date": "2016-04-07",
-      "poster_path": "/xXhFXzW23NpDfMxsQH6XubgLrj5.jpg",
-      "popularity": 0.4371,
-      "original_language": "id",
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-23"
-    },
-    {
       "id": "tmdb:972382",
       "tmdb_id": 972382,
       "title": "Grin til Gavn 2021",
@@ -2582,23 +2526,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 63,
+      "available_comedians": 70,
       "selected_comedians": [
-        "Frankie Boyle",
-        "Tim Minchin",
-        "Donald Glover",
-        "Stephen Lynch",
+        "Maz Jobrani",
+        "Julio Torres",
+        "Tig Notaro",
         "Gianmarco Soresi",
-        "Adam Ray",
-        "Stephen Merchant",
+        "Frank Zappa",
+        "Daniel Sloss",
         "Peter Kay",
-        "Greg Davies",
-        "Jeff Foxworthy",
         "Joe Pera",
-        "Hank Green",
-        "Rory Scovel",
-        "Russell Howard",
-        "Eddie Griffin"
+        "Them Idiots",
+        "Atsuko Okatsuka",
+        "Josh Johnson",
+        "Stephen Lynch",
+        "Whoopi Goldberg",
+        "Spalding Gray",
+        "Henry Cho"
       ]
     }
   }

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt42057132",
+      "type": "movie",
+      "name": "Jack Tucker: Comedy Standup Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt38575417",
       "type": "movie",
       "name": "Nikki Glaser: Good Girl",
@@ -67,6 +74,13 @@
       "type": "movie",
       "name": "Kanan Gill : What Is This? (also Original)",
       "poster": "https://image.tmdb.org/t/p/w500/zg8UQVKAbSkqHQNdYaHfg8BS3Ov.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1682794",
+      "type": "movie",
+      "name": "Brad Wenzel: Desperate Times",
+      "poster": "https://image.tmdb.org/t/p/w500/m0oK0NgX12vDUqntJKpjeYOajAk.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -144,6 +158,13 @@
       "type": "movie",
       "name": "Alison Wheeler : La Promesse d'un soir",
       "poster": "https://image.tmdb.org/t/p/w500/n0EI2tNFxjyDp8tFFL1eAdgJJ2L.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43493860",
+      "type": "movie",
+      "name": "We're Looking For People Who Do Huge Numbers On Social Media",
+      "poster": "https://image.tmdb.org/t/p/w500/cpqdABu3B2KKHPx9Pk1AW9DfSJf.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -326,27 +347,6 @@
       "type": "movie",
       "name": "Tim Hawkins: Fist Bump",
       "poster": "https://image.tmdb.org/t/p/w500/tE790dmeTcwBoghEp29Z2UU4yk7.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1641904",
-      "type": "movie",
-      "name": "Mike Vecchione: Live from the Stress Factory",
-      "poster": "https://image.tmdb.org/t/p/w500/yfO0GthfkM0koCPMYSLW17Yjnrl.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38188489",
-      "type": "movie",
-      "name": "Sommore: Chandelier Fly",
-      "poster": "https://image.tmdb.org/t/p/w500/tHPMQFFmAMdTwg9s2hDlsSIyW2a.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38882543",
-      "type": "movie",
-      "name": "Evan Hull: Big Cool Bug",
-      "poster": "https://image.tmdb.org/t/p/w500/7QwWDyXipafug9dIQEjVboLeYVF.jpg",
       "releaseInfo": "2026"
     }
   ]

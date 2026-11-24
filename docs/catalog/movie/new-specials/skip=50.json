@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1710092",
+      "type": "movie",
+      "name": "Ricardo O’Farrill: Corto Circuito",
+      "poster": "https://image.tmdb.org/t/p/w500/eY7xutUwX92vkrjnBKu0fse9Sjn.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt36428359",
       "type": "movie",
       "name": "Whitmer Thomas: Terminal Crew of Dudes",
@@ -339,13 +346,6 @@
       "type": "movie",
       "name": "The Birth of a Forehead",
       "poster": "https://image.tmdb.org/t/p/w500/tr7PiGlCtl2eZi5z8tAd47CICjQ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt42057132",
-      "type": "movie",
-      "name": "Jack Tucker: Comedy Standup Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
       "releaseInfo": "2026"
     }
   ]

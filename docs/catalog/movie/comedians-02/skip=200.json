@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt43467994",
+      "type": "movie",
+      "name": "Edy Modica: I'm Just Like You (And It Sucks)",
+      "poster": "https://image.tmdb.org/t/p/w500/jiYm7mtbcJKd7NyZnixc467r849.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt8400808",
+      "type": "movie",
+      "name": "Élie Kakou : Vidéo pirate du Zénith",
+      "poster": "https://image.tmdb.org/t/p/w500/bqVGWHrzC4mQEtgpClcS7Yiq3x5.jpg",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt4069364",
+      "type": "movie",
+      "name": "Élie Kakou au Cirque d'Hiver",
+      "poster": "https://image.tmdb.org/t/p/w500/otMeqyGytDSxCniVUK5iJV7X4CF.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt8400794",
+      "type": "movie",
+      "name": "Élie Kakou à l'Olympia : Déjà !",
+      "poster": "https://image.tmdb.org/t/p/w500/sINvATfdHE1aj0Ys0TxUqTwGdcP.jpg",
+      "releaseInfo": "1994"
+    },
+    {
       "id": "tmdb:1410113",
       "type": "movie",
       "name": "Elis James: Derwydd",
@@ -321,34 +349,6 @@
       "name": "Frankie Boyle: If I Could Reach Out Through Your TV and Strangle You, I Would",
       "poster": "https://image.tmdb.org/t/p/w500/cQW8JtsXbm0noUDGsFdZh2qUmZW.jpg",
       "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2710694",
-      "type": "movie",
-      "name": "Frankie Boyle: The Last Days of Sodom",
-      "poster": "https://image.tmdb.org/t/p/w500/2vbv0X6byXr9p0aIfeH9l8HBeBU.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt34601055",
-      "type": "movie",
-      "name": "Frankie Quiñones: Damn That's Crazy",
-      "poster": "https://image.tmdb.org/t/p/w500/4M7FjKWCiESXF1wjp9ksS36iD8L.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt9426212",
-      "type": "movie",
-      "name": "Gabriel \"Fluffy\" Iglesias: One Show Fits All",
-      "poster": "https://image.tmdb.org/t/p/w500/jUt2Zz7sClVIG1co2V9D9iSLN93.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt1082588",
-      "type": "movie",
-      "name": "Gabriel Iglesias: Hot and Fluffy",
-      "poster": "https://image.tmdb.org/t/p/w500/hYYiubXgtEmWvsaKVp3ssAzUr9l.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

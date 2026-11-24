@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt1213574",
+      "type": "movie",
+      "name": "Chris Rock: Kill the Messenger",
+      "poster": "https://image.tmdb.org/t/p/w500/cIuIOVRl558GziBkX3GbpsVGaik.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "tt8005338",
       "type": "movie",
       "name": "Chris Rock: Tamborine",
@@ -339,13 +346,6 @@
       "name": "Ya no es lo mismo",
       "poster": "https://image.tmdb.org/t/p/w500/xojtzGFFuZCTXrZjLSQr4eRhXmi.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1336526",
-      "type": "movie",
-      "name": "Daniel Sosa: Especial de Día de Muertos",
-      "poster": "https://image.tmdb.org/t/p/w500/mOPUEf5mimJBiuiKf7sO9Mxw0tM.jpg",
-      "releaseInfo": "2021"
     }
   ]
 }

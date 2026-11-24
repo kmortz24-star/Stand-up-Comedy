@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt38129244",
+      "type": "movie",
+      "name": "Jay Jurden: Yes Ma'am",
+      "poster": "https://image.tmdb.org/t/p/w500/13Y4XglXH2X11YWeVXEjBpOuU2A.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1142116",
+      "type": "movie",
+      "name": "Jay Larson: Sounds Like Bruce",
+      "poster": "https://image.tmdb.org/t/p/w500/5SBdJGksvx5ojwhLuBTPYrAdc9V.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt1675303",
       "type": "movie",
       "name": "The 1984 Los Angeles Comedy Competition With Host Jay Leno",
@@ -153,6 +167,13 @@
       "name": "Jeff Dye: Last Cowboy in LA",
       "poster": "https://image.tmdb.org/t/p/w500/cBMRIY5nsknFpUlvekULKlZpU9q.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0945387",
+      "type": "movie",
+      "name": "Redneck Comedy Roundup",
+      "poster": "https://image.tmdb.org/t/p/w500/lAAkXl9RD0h3EIVQNTAYTrc4b60.jpg",
+      "releaseInfo": "2005"
     },
     {
       "id": "tt18314220",
@@ -326,27 +347,6 @@
       "name": "Jerry Seinfeld: I'm Telling You for the Last Time",
       "poster": "https://image.tmdb.org/t/p/w500/jffjpqXw6W9x6etUSYBkMPEQWRY.jpg",
       "releaseInfo": "1998"
-    },
-    {
-      "id": "tt7310906",
-      "type": "movie",
-      "name": "Jerry Before Seinfeld",
-      "poster": "https://image.tmdb.org/t/p/w500/1HsldceVUztgRztwp3pOaVRJVlp.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt12117854",
-      "type": "movie",
-      "name": "Jerry Seinfeld: 23 Hours to Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/qvAymJkltRoaxvievYiJfXGusD3.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt13649688",
-      "type": "movie",
-      "name": "Best of Stand-Up 2020",
-      "poster": "https://image.tmdb.org/t/p/w500/y778t7hIPMjyY5NNHcJRTs6FJ1w.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

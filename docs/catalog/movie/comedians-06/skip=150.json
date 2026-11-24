@@ -1,6 +1,26 @@
 {
   "metas": [
     {
+      "id": "tt0840297",
+      "type": "movie",
+      "name": "To My Great Chagrin: The Unbelievable Story of Brother Theodore",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tmdb:233482",
+      "type": "movie",
+      "name": "Tobias Dybvad: Sjov mand - Klam personlighed",
+      "poster": "https://image.tmdb.org/t/p/w500/u7zou2fgqHviob6fk3vnwLfQ0nn.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tmdb:368704",
+      "type": "movie",
+      "name": "Tobias Dybvad: Er det ikke dig fra Dybvad?",
+      "poster": "https://image.tmdb.org/t/p/w500/i21jr2kdh6zVL8VTLLX87Rrbg8J.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "tmdb:572019",
       "type": "movie",
       "name": "Tobias Dybvad: Fasser partner",
@@ -327,27 +347,6 @@
       "type": "movie",
       "name": "Urzila Carlson: Just Jokes",
       "poster": "https://image.tmdb.org/t/p/w500/1W1G2Q6C78taO6KT702kOFyyhPJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1773497",
-      "type": "movie",
-      "name": "Urzila Carlson: You Don’t Say",
-      "poster": "https://image.tmdb.org/t/p/w500/qNKDPHbsDQSLAXWsHpIkJOb1KGq.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt44120355",
-      "type": "movie",
-      "name": "Vanessa Gonzalez: Mamona",
-      "poster": "https://image.tmdb.org/t/p/w500/tjlHCPQJZj8qBZaq7SP7BbZ4GuM.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1608545",
-      "type": "movie",
-      "name": "Varun Grover: Nothing Makes Sense",
-      "poster": "https://image.tmdb.org/t/p/w500/b7iAwOZx0c6DezvJaYteDRVQtkF.jpg",
       "releaseInfo": "2026"
     }
   ]

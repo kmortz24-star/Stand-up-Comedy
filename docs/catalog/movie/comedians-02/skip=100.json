@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1336526",
+      "type": "movie",
+      "name": "Daniel Sosa: Especial de Día de Muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/mOPUEf5mimJBiuiKf7sO9Mxw0tM.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tmdb:1341801",
       "type": "movie",
       "name": "Daniel Sosa En Vivo Desde El Woko",
@@ -259,6 +266,13 @@
       "releaseInfo": "1999"
     },
     {
+      "id": "tt0437932",
+      "type": "movie",
+      "name": "Last Laugh '04",
+      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "tt9547338",
       "type": "movie",
       "name": "David Cross: Oh Come On",
@@ -333,20 +347,6 @@
       "name": "Demetri Martin. Person.",
       "poster": "https://image.tmdb.org/t/p/w500/gaG1cisIvh6CHLkYCWncF7wJDLs.jpg",
       "releaseInfo": "2007"
-    },
-    {
-      "id": "tt7725144",
-      "type": "movie",
-      "name": "Demetri Martin: The Overthinker",
-      "poster": "https://image.tmdb.org/t/p/w500/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt31916241",
-      "type": "movie",
-      "name": "Demetri Martin: Demetri Deconstructed",
-      "poster": "https://image.tmdb.org/t/p/w500/cIZwQbAZkpzip3kWXH5yPgKxWRu.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

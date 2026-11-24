@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt7379330",
+      "type": "movie",
+      "name": "Tom Segura: Disgraceful",
+      "poster": "https://image.tmdb.org/t/p/w500/ll5QVhDsp6MbNWWZAGXc8vFu6Y9.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt4970632",
+      "type": "movie",
+      "name": "Tom Segura: Mostly Stories",
+      "poster": "https://image.tmdb.org/t/p/w500/wELcQAA77XLqYL09wZH5FAMkmnU.jpg",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tt1143143",
       "type": "movie",
       "name": "Jeff Dunham: Spark of Insanity",
@@ -218,6 +232,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tt0395474",
+      "type": "movie",
+      "name": "Bill Bailey: Part Troll",
+      "poster": "https://image.tmdb.org/t/p/w500/8uFIMLfqTubGq208haXYJfeTNW2.jpg",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "tt0342317",
       "type": "movie",
       "name": "Eddie Izzard: Circle",
@@ -328,27 +349,6 @@
       "name": "Jim Gaffigan: King Baby",
       "poster": "https://image.tmdb.org/t/p/w500/wcD3IL6NmsioH5R6qCY4yFijWlx.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt28741830",
-      "type": "movie",
-      "name": "Shane Gillis: Beautiful Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt8786466",
-      "type": "movie",
-      "name": "Bert Kreischer: Secret Time",
-      "poster": "https://image.tmdb.org/t/p/w500/copmXyrJzSCyODgcchPgGAjssk7.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt7539884",
-      "type": "movie",
-      "name": "Jack Whitehall: At Large",
-      "poster": "https://image.tmdb.org/t/p/w500/AogLjcJoA8Jw11uLuQ62qyKkHZb.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

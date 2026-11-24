@@ -103,6 +103,13 @@
       "releaseInfo": "2021"
     },
     {
+      "id": "tt0368833",
+      "type": "movie",
+      "name": "Latham Entertainment Presents: An All New Comedy Experience",
+      "poster": "https://image.tmdb.org/t/p/w500/7gX0c69YyO9K5kXfkCNx91VpbCq.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "tt21033382",
       "type": "movie",
       "name": "Sommore: Queen Chandelier",
@@ -338,13 +345,6 @@
       "name": "Susie McCabe: Femme Fatality",
       "poster": "https://image.tmdb.org/t/p/w500/qLIF1liFKwkIDmQX3KQ0eVH2Wha.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1321612",
-      "type": "movie",
-      "name": "Swann Périssé - Last Special Before the End of the World",
-      "poster": "https://image.tmdb.org/t/p/w500/86aZzycuEXxZQdRhtvD57SdBWm6.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }
