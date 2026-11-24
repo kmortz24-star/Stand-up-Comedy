@@ -191,6 +191,10 @@ def fetch_tv_candidates(api, series=SHOWS) -> list[dict]:
                         'show_poster_path': details.get('poster_path'),
                         'show_background_path': details.get('backdrop_path'),
                         'show_overview': details.get('overview') or '',
+                        'show_original_language': details.get('original_language') or '',
+                        'show_spoken_languages': [x.get('iso_639_1') for x in
+                                                  details.get('spoken_languages', []) if x.get('iso_639_1')],
+                        'episode_audio_language': episode.get('original_language') or '',
                         'tmdb_show_id': show_id,
                         'tmdb_episode_id': episode.get('id'),
                         'season_number': season,

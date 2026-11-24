@@ -497,5 +497,10 @@
     "Rahul Subramanian",
     "Redouane Bougheraba",
     "Hazel Brugger"
-  ]
+  ],
+  "english_language_only": true,
+  "exclude_multilingual_tv_shows": [
+    "COMEDIANS of the world"
+  ],
+  "language_backfill_per_run": 350
 }

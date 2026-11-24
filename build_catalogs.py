@@ -18,6 +18,8 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+from language_filters import movie_allowed, performer_non_english_evidence, language_code
+
 
 ROOT = Path(__file__).resolve().parent
 DEFAULT_CONFIG = ROOT / "config.json"
@@ -456,6 +458,8 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         prefix_index[name[:1].casefold()].append(name)
     protected_unrated = established_unrated_performers(config)
     protected_low_rated = established_low_rated_performers(config)
+    english_only = bool(config.get("english_language_only", False))
+    non_english_people = performer_non_english_evidence(records) if english_only else set()
 
     # Resolve high-confidence credits before duplicate detection. Do not
     # rewrite data/specials.json; questionable titles remain in review.
@@ -473,7 +477,9 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         prepared.append(record)
     deduped = dedupe_same_special(prepared)
     for record in deduped:
-        if record["id"] in excluded or release_date(record) > today or too_poorly_rated(record, config):
+        if (record["id"] in excluded or release_date(record) > today
+                or too_poorly_rated(record, config)
+                or not movie_allowed(record, english_only, non_english_people)):
             continue
         if is_event_record(record, config):
             continue
@@ -518,6 +524,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     roasts = [
         r for r in deduped
         if r.get("id") not in excluded and release_date(r) <= today
+        and movie_allowed(r, english_only, non_english_people)
         and is_event_record(r, config)
     ]
     roasts.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
@@ -604,7 +611,9 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
     if config.get("enable_tv_series_catalog", False):
         from tv_catalogs import build_tv_series
         tv_previews, tv_metadatas, tv_counts = build_tv_series(
-            read_json(ROOT / "data/tv_episode_candidates.json", []))
+            read_json(ROOT / "data/tv_episode_candidates.json", []),
+            english_only=bool(config.get("english_language_only", False)),
+            exclude_multilingual=config.get("exclude_multilingual_tv_shows", []))
     resources = ["catalog"]
     if merged_youtube:
         resources.extend([
@@ -833,6 +842,29 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
                     if identifier.startswith("comedians-") for record in items]
         _, breakdown = weekly_roulette(eligible, config, today or date.today())
         report["roulette_mix"] = breakdown
+    if config.get("english_language_only", False):
+        source_with_language = [r for r in records if language_code(r.get("original_language"))]
+        published_ids = {r["id"] for identifier, _, items in groups for r in items}
+        published_movie_records = {r["id"]: r for identifier, _, items in groups
+                                   for r in items if identifier.startswith("comedians-")}
+        source_unknown = [r for r in records if not language_code(r.get("original_language"))]
+        report["english_language_policy"] = {
+            "status": "Known non-English excluded; unknown language needs confirmation",
+            "known_non_english_source_records": sum(
+                language_code(r.get("original_language")) not in {"en", "eng"}
+                for r in source_with_language),
+            "unknown_language_source_records": len(source_unknown),
+            "unknown_language_alphabetical_records": sum(
+                not language_code(r.get("original_language"))
+                for r in published_movie_records.values()),
+            "known_non_english_published_movie_records": sum(
+                language_code(r.get("original_language")) not in {"", "en", "eng"}
+                for r in published_movie_records.values()),
+            "multilingual_tv_shows_excluded": config.get("exclude_multilingual_tv_shows", []),
+            "note": "TMDB original_language is production metadata, not verified spoken audio. "
+                    "Unknowns remain eligible pending automated metadata backfill; "
+                    "YouTube uploads without audio-language metadata require review.",
+        }
     write_json(out_dir / "build_report.json", report)
     return report
 

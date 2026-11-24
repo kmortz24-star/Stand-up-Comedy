@@ -487,6 +487,50 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
     print(f"TMDB candidates: {len(ids)}; fetched: {refreshed}; unique: {len(cache)}", flush=True)
     return cache
 
+def backfill_original_languages(api: TMDB, cache: dict, *, state: dict, today: date,
+                                limit: int = 350) -> int:
+    """Resolve language for legacy movie records over successive refreshes.
+
+    Full TMDB movie metadata is not needed just to learn original_language.
+    Prioritize heavily voted titles so Top Rated/Favorites are corrected first.
+    Never assume a title is English because the language field is blank.
+    """
+    if limit < 1:
+        return 0
+    attempts = state.setdefault("language_backfill_attempts", {})
+    queue = sorted((r for r in cache.values()
+                    if r.get("tmdb_id") and not r.get("original_language")),
+                   key=lambda r: (-int(r.get("vote_count") or 0),
+                                  str(r.get("title") or "")))
+    done = 0
+    for item in queue:
+        tmdb_id = str(item["tmdb_id"])
+        if tmdb_id in attempts:
+            try:
+                if today - date.fromisoformat(attempts[tmdb_id]) < timedelta(days=30):
+                    continue
+            except (TypeError, ValueError):
+                pass
+        if done >= limit:
+            break
+        try:
+            response = api.get(f"/movie/{tmdb_id}")
+        except HTTPError as exc:
+            if exc.code != 404:
+                raise
+            attempts[tmdb_id] = today.isoformat()
+            done += 1
+            continue
+        language = str(response.get("original_language") or "").strip()
+        if language:
+            item["original_language"] = language
+        attempts[tmdb_id] = today.isoformat()
+        done += 1
+    print(f"Legacy language backfill: checked {done} movie records; "
+          f"still missing {sum(not r.get('original_language') for r in cache.values())}", flush=True)
+    return done
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--from-year", type=int, default=1960)
@@ -499,8 +543,12 @@ def main():
     existing = {r["id"]: r for r in read_json(DATA_PATH, []) if r.get("id")}
     state = read_json(STATE_PATH, {})
     config = read_json(CONFIG_PATH, {})
-    fresh = fetch_all(TMDB(), args.from_year, args.to_year, existing, args.refresh_days,
+    tmdb_api = TMDB()
+    fresh = fetch_all(tmdb_api, args.from_year, args.to_year, existing, args.refresh_days,
                       config=config, state=state, max_performer_searches=args.max_comedians)
+    if config.get("english_language_only", False):
+        backfill_original_languages(tmdb_api, fresh, state=state, today=date.today(),
+                                    limit=int(config.get("language_backfill_per_run", 350)))
     for item in read_json(USER_ADDITIONS, []):
         if item.get("id"):
             fresh[item["id"]] = {**fresh.get(item["id"], {}), **item}

@@ -10,6 +10,8 @@ import re
 import unicodedata
 from datetime import date
 
+from language_filters import youtube_allowed
+
 ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 REJECT_TITLE = re.compile(
     r"(?i)\b(?:reaction|interviews?|podcast|trailer|teaser|compilation|"
@@ -99,6 +101,8 @@ def classify(video: dict, config: dict, today: date | None = None) -> tuple[str,
     Not a guarantee of copyright authorization, upload availability, player
     support, or relevance. Everything still needs real-world user verification.
     """
+    if not youtube_allowed(video, bool(config.get("english_language_only", False))):
+        return None
     title = str(video.get("title") or "")
     channel = str(video.get("channel") or "")
     video_id = str(video.get("video_id") or "")

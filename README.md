@@ -249,3 +249,31 @@ Standing. The refresh automatically **skips** shows that cannot be confidently
 matched to a TMDB series, and retains previously indexed episodes if a source
 lookup temporarily fails. Browse/show metadata does not ensure playable streams
 from installed source addons. No changes to Nuvio's external JSON are needed.
+
+### English-language-only catalog policy
+
+`english_language_only` applies across standalone movie catalogs (including
+Top Rated, Fan Favorites, Roulette, alphabeticals, Roasts & Events), YouTube
+preview candidates, and TV episode metadata. Known non-English records are
+omitted from published catalogs, **not deleted** from `data/`.
+
+- TMDB `original_language` is used as a practical indicator, **not a verified
+  transcript of spoken audio**. Legacy source records with no language tag are
+  kept pending verification; an explicit non-English code is excluded. If
+  other works by the same comedian are tagged non-English and no works are
+  tagged English, the missing-language items are conservatively held out.
+- Each TMDB refresh backfills missing language fields for up to
+  `language_backfill_per_run` older films, starting with the most-voted titles.
+  This reduces unknown-language items over successive daily runs.
+- YouTube videos with a non-English audio-language tag are excluded. Many
+  uploads provide **no** audio-language metadata, so those remain unverified
+  previews; playback is not guaranteed.
+- TV episodes with a known non-English language are excluded. The multilingual
+  *COMEDIANS of the world* anthology is held out in full until individual
+  English-language episodes can be verified; other existing English-language
+  series remain intact.
+
+The generated `docs/build_report.json` contains an `english_language_policy`
+section that reports how many source movies still lack language metadata.
+Filtering by spoken audio with zero unknowns would require an additional
+verified source, and should not be claimed from TMDB alone.

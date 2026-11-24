@@ -191,6 +191,8 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
             "suggested_catalog_after_review": suggested,
             "discovered_by": metadata.get("discovered_by", "search"),
             "embeddable": status.get("embeddable"), "last_checked": day,
+            "audio_language": snippet.get("defaultAudioLanguage") or previous.get("audio_language", ""),
+            "default_language": snippet.get("defaultLanguage") or previous.get("default_language", ""),
         }
         return int(not previous)
 

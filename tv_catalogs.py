@@ -10,6 +10,8 @@ from collections import defaultdict
 from datetime import date
 from typing import Any
 
+from language_filters import explicitly_non_english
+
 
 def _positive_int(value: Any) -> int | None:
     try:
@@ -32,7 +34,8 @@ def _release_year(value: str) -> str:
         return ''
 
 
-def build_tv_series(candidates: list[dict]) -> tuple[list[dict], dict[str, dict], dict]:
+def build_tv_series(candidates: list[dict], *, english_only=False,
+                    exclude_multilingual=()) -> tuple[list[dict], dict[str, dict], dict]:
     """Return (catalog previews, show-id keyed full series meta, audit counts).
 
     Keep only unambiguous TV IDs and positive episode identifiers. No fictitious
@@ -40,6 +43,7 @@ def build_tv_series(candidates: list[dict]) -> tuple[list[dict], dict[str, dict]
     """
     by_show: dict[int, dict[tuple[int, int], dict]] = defaultdict(dict)
     show_info: dict[int, dict] = {}
+    excluded_names = {str(n).strip().casefold() for n in exclude_multilingual}
     for row in candidates:
         if not isinstance(row, dict) or row.get('source') != 'tmdb-tv-episode':
             continue
@@ -51,6 +55,11 @@ def build_tv_series(candidates: list[dict]) -> tuple[list[dict], dict[str, dict]
         title = str(row.get('show_title') or '').strip()
         if not title:
             continue
+        if english_only:
+            if title.casefold() in excluded_names:
+                continue
+            if explicitly_non_english(row, fields=("episode_audio_language", "show_original_language")):
+                continue
         info = show_info.setdefault(show_id, row)
         # Prefer records that have visual metadata from a newer TMDB refresh.
         if row.get('show_poster_path') and not info.get('show_poster_path'):
