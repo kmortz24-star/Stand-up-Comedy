@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1699130",
+      "type": "movie",
+      "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
+      "poster": "https://image.tmdb.org/t/p/w500/elkpNoanC6K4gk19PVYC5N6DE2N.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt35003847",
       "type": "movie",
       "name": "Larry Dean: Fudnut",
@@ -68,6 +75,13 @@
       "name": "Laura Laune : La victoire de l'audace",
       "poster": "https://image.tmdb.org/t/p/w500/eAR6R8xxCBM4yCIKRoHItWVDdlX.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tt27792016",
+      "type": "movie",
+      "name": "Laurie Kilmartin: Cis Woke Grief Slut",
+      "poster": "https://image.tmdb.org/t/p/w500/rbk8SMdNYAfaCX1Zm2q3f8UgsS.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt2084872",
@@ -179,6 +193,13 @@
       "type": "movie",
       "name": "Lenny Bruce",
       "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0242595",
+      "type": "movie",
+      "name": "Lenny Go Home",
+      "poster": "https://image.tmdb.org/t/p/w500/wXoWAbXKtMacrXpr6S0iW7uH0lp.jpg",
+      "releaseInfo": "1991"
     },
     {
       "id": "tt30261353",
@@ -325,27 +346,6 @@
       "name": "Lisa Lampanelli: The Queen of Mean",
       "poster": "https://image.tmdb.org/t/p/w500/w9JoGSgRwxongfJj56Y7LzO0ALk.jpg",
       "releaseInfo": "2002"
-    },
-    {
-      "id": "tt0777243",
-      "type": "movie",
-      "name": "Lisa Lampanelli: Take It Like a Man",
-      "poster": "https://image.tmdb.org/t/p/w500/uQkrB0wylAyMLWlXk6ItrYJAf9g.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1340783",
-      "type": "movie",
-      "name": "Lisa Lampanelli: Long Live The Queen",
-      "poster": "https://image.tmdb.org/t/p/w500/tFykMHzwkpnhOJAd8PUwXo2W3JQ.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1842404",
-      "type": "movie",
-      "name": "Lisa Lampanelli: Tough Love",
-      "poster": "https://image.tmdb.org/t/p/w500/1ZH00b2d1wtWt7KLa9vCPGJGgL9.jpg",
-      "releaseInfo": "2011"
     }
   ]
 }

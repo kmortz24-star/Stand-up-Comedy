@@ -361,6 +361,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1028693",
+    "tmdb_id": 1028693,
+    "title": "Sophie Buddle: Smile, Baby",
+    "performer": "Sophie Buddle",
+    "release_date": "2022-08-26",
+    "poster_path": "/3bu2rd14TjS0Cn5Sj3gyLmE4R9V.jpg",
+    "popularity": 0.2751,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt21974318",
     "tmdb_id": 1029269,
     "title": "Bryan Callen: Man Tears",
@@ -1064,6 +1078,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt26006686",
+    "tmdb_id": 1069903,
+    "title": "Steve Hofstetter: The Recipe",
+    "performer": "Steve Hofstetter",
+    "release_date": "2023-01-01",
+    "poster_path": "/4KrXWKjFgyDfS3uhDZVw2IkLOKr.jpg",
+    "popularity": 0.1932,
+    "original_language": "en",
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1075360",
@@ -2903,6 +2931,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1179670",
+    "tmdb_id": 1179670,
+    "title": "Phil Kay: Live at the Museum of Comedy",
+    "performer": "Phil Kay",
+    "release_date": "2023-01-31",
+    "poster_path": "/kb8hUDd7ZtnMJ7w9y12A7RoUabE.jpg",
+    "popularity": 0.0107,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt28496539",
     "tmdb_id": 1179875,
     "title": "Kountry Wayne: A Woman's Prayer",
@@ -3032,6 +3074,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt32755966",
+    "tmdb_id": 1190248,
+    "title": "Harriet Kemsley: Woman Child",
+    "performer": "Harriet Kemsley",
+    "release_date": "2023-10-12",
+    "poster_path": "/i8abqStHMUdEiLiBA7ra2nOZngl.jpg",
+    "popularity": 0.3537,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt0880639",
@@ -3857,6 +3913,34 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1226295",
+    "tmdb_id": 1226295,
+    "title": "Plezīrs",
+    "performer": "Rūdolfs Kugrēns",
+    "release_date": "2020-05-01",
+    "poster_path": "/uD5zlSGNGg6e0snlTAOcqprv2pF.jpg",
+    "popularity": 0.0775,
+    "original_language": "lv",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1226297",
+    "tmdb_id": 1226297,
+    "title": "Kā to ņem",
+    "performer": "Rūdolfs Kugrēns",
+    "release_date": "2020-04-01",
+    "poster_path": "/vSIwn4wPZIXpZHXDkomg7w6P7IG.jpg",
+    "popularity": 0.0275,
+    "original_language": "lv",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt15237684",
     "tmdb_id": 1226809,
     "title": "#patel2016",
@@ -3990,6 +4074,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:1232421",
+    "tmdb_id": 1232421,
+    "title": "Ross Noble: Humournoid",
+    "performer": "Ross Noble",
+    "release_date": "2022-02-07",
+    "poster_path": "/uU239VudvyOWXLGuq83ET8mDcFz.jpg",
+    "popularity": 0.0645,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1232980",
     "tmdb_id": 1232980,
     "title": "Vladimir Bukharov: Investor",
@@ -4067,6 +4165,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt27792016",
+    "tmdb_id": 1238083,
+    "title": "Laurie Kilmartin: Cis Woke Grief Slut",
+    "performer": "Laurie Kilmartin",
+    "release_date": "2024-01-30",
+    "poster_path": "/rbk8SMdNYAfaCX1Zm2q3f8UgsS.jpg",
+    "popularity": 0.3915,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt30222855",
@@ -5180,6 +5292,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1296848",
+    "tmdb_id": 1296848,
+    "title": "Matt Green: That Guy",
+    "performer": "Matt Green",
+    "release_date": "2024-05-26",
+    "poster_path": null,
+    "popularity": 0.227,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1297193",
     "tmdb_id": 1297193,
     "title": "Jérémy Lorca - Amoureux solitaire",
@@ -5390,6 +5516,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt33883401",
+    "tmdb_id": 1309626,
+    "title": "ISMO – Breaking Bad English",
+    "performer": "Ismo Leikola",
+    "release_date": "2024-11-01",
+    "poster_path": "/gXvhYtXGct4soepY5TyiG7rkHwb.jpg",
+    "popularity": 0.3921,
+    "original_language": "fi",
+    "vote_average": 5.2,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1310318",
     "tmdb_id": 1310318,
     "title": "Gianmarco Soresi: A Little Something Special",
@@ -5399,6 +5539,20 @@
     "popularity": 0.2616,
     "original_language": "en",
     "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1311294",
+    "tmdb_id": 1311294,
+    "title": "Steve Hofstetter: Me, Myself, and Id",
+    "performer": "Steve Hofstetter",
+    "release_date": "2024-07-01",
+    "poster_path": "/ztXhtM41L9riPeWDMG0CYU3663R.jpg",
+    "popularity": 0.1946,
+    "original_language": "en",
+    "vote_average": 10.0,
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
@@ -5639,6 +5793,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt32809505",
+    "tmdb_id": 1318531,
+    "title": "Chirayu Mistry: Mistry Solved",
+    "performer": "Chirayu Mistry",
+    "release_date": "2024-06-15",
+    "poster_path": "/u7j1dBhDIftyTa6gOMWg19DMsFT.jpg",
+    "popularity": 0.0747,
+    "original_language": "gu",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1318774",
@@ -6885,6 +7053,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1392077",
+    "tmdb_id": 1392077,
+    "title": "Suzi Ruffell: Snappy",
+    "performer": "Suzi Ruffell",
+    "release_date": "2024-11-18",
+    "poster_path": "/oy2O2kWR7zgD7IuyJ4BJGsX9Sob.jpg",
+    "popularity": 0.2973,
+    "original_language": "en",
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1351656",
     "tmdb_id": 139228,
     "title": "Patrick Kielty - Live",
@@ -7075,6 +7257,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1400148",
+    "tmdb_id": 1400148,
+    "title": "Pranit More: DO VEGANS GIVE BLO*JOB?",
+    "performer": "Pranit More",
+    "release_date": "2024-10-25",
+    "poster_path": "/4Jsv6xzL6YxZoLZFvsZ0ELVsuKG.jpg",
+    "popularity": 0.2317,
+    "original_language": "hi",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1400459",
     "tmdb_id": 1400459,
     "title": "Adam Flood: Clayhead",
@@ -7205,6 +7401,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt35248974",
+    "tmdb_id": 1402811,
+    "title": "Sasha Dolgopolov: New Stand-Up 2024",
+    "performer": "Sasha Dolgopolov",
+    "release_date": "2024-12-20",
+    "poster_path": "/ehqRaGeHIKw5E6Ha2V16cqEGQ2S.jpg",
+    "popularity": 0.1825,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1402973",
     "tmdb_id": 1402973,
     "title": "Seann Walsh: Back From The Bed",
@@ -7308,6 +7518,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt2138088",
+    "tmdb_id": 140566,
+    "title": "Ross Noble: The Headspace Cowboy",
+    "performer": "Ross Noble",
+    "release_date": "2011-11-14",
+    "poster_path": "/iNTJaFyxLW7h9EJ0Ks45UsOHIcw.jpg",
+    "popularity": 0.3698,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt35152839",
@@ -7443,6 +7667,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:1408697",
+    "tmdb_id": 1408697,
+    "title": "Sasha Dolgopolov: My First Stand-Up in English!",
+    "performer": "Sasha Dolgopolov",
+    "release_date": "2024-04-21",
+    "poster_path": "/jlW8mqONxVCYqbbSOZgvuGIj3QX.jpg",
+    "popularity": 0.1506,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1409015",
     "tmdb_id": 1409015,
     "title": "Roué Verveer: Gewoon Roué",
@@ -7558,6 +7796,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1410861",
+    "tmdb_id": 1410861,
+    "title": "Melissa Villaseñor: Welp...What Now?",
+    "performer": "Melissa Villaseñor",
+    "release_date": "2025-01-01",
+    "poster_path": "/cBBfmJmuUK7Y9c64lQsWGLEpu1O.jpg",
+    "popularity": 0.3785,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt35712596",
@@ -9185,6 +9437,34 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1501227",
+    "tmdb_id": 1501227,
+    "title": "TAGAD. Rūdolfa Kugrēna solo izrāde",
+    "performer": "Rūdolfs Kugrēns",
+    "release_date": "2022-08-26",
+    "poster_path": "/5zACxSUucFRZ5Iju7vvQEQ6mCVl.jpg",
+    "popularity": 0.2085,
+    "original_language": "lv",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1501302",
+    "tmdb_id": 1501302,
+    "title": "Turpinājums. Rūdolfa Kugrēna solo stand-up izrāde",
+    "performer": "Rūdolfs Kugrēns",
+    "release_date": "2024-06-12",
+    "poster_path": "/nPqMpoLc2xtxfbs7WmWYXlvEUZ2.jpg",
+    "popularity": 0.1582,
+    "original_language": "lv",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1871356",
     "tmdb_id": 1501739,
     "title": "Rant In Jay Minor",
@@ -9813,6 +10093,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1531170",
+    "tmdb_id": 1531170,
+    "title": "Sasha Dolgopolov: Pressure Makes Diamonds",
+    "performer": "Sasha Dolgopolov",
+    "release_date": "2025-08-15",
+    "poster_path": "/b41m4fHxZeUZ8gVQeOT1dNt9aL8.jpg",
+    "popularity": 0.2373,
+    "original_language": "en",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1532680",
     "tmdb_id": 1532680,
     "title": "Finlay Christie: Aura Farmer",
@@ -10244,6 +10538,20 @@
     "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1553314",
+    "tmdb_id": 1553314,
+    "title": "Steve Hofstetter: Kill the Butterflies",
+    "performer": "Steve Hofstetter",
+    "release_date": "2025-09-24",
+    "poster_path": "/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+    "popularity": 0.4918,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1553948",
@@ -11839,6 +12147,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1609450",
+    "tmdb_id": 1609450,
+    "title": "Janey Godley: Still Got It",
+    "performer": "Janey Godley",
+    "release_date": "2024-12-18",
+    "poster_path": null,
+    "popularity": 0.2152,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1609484",
@@ -17297,6 +17619,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt0766219",
+    "tmdb_id": 23666,
+    "title": "Ross Noble: Sonic Waffle",
+    "performer": "Ross Noble",
+    "release_date": "2005-10-03",
+    "poster_path": "/nk7e8RnX9ikpZnycoLRx48ieQ8A.jpg",
+    "popularity": 0.211,
+    "original_language": "en",
+    "vote_average": 6.5,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt3387320",
     "tmdb_id": 237209,
     "title": "Greg Davies: The Back of My Mum's Head",
@@ -17308,6 +17644,20 @@
     "vote_count": 12,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0401759",
+    "tmdb_id": 23760,
+    "title": "Ross Noble: Unrealtime",
+    "performer": "Ross Noble",
+    "release_date": "2004-02-21",
+    "poster_path": "/9Uy8vTwpBzLmYgMwyqlxQsSvG6O.jpg",
+    "popularity": 0.0964,
+    "original_language": "en",
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt3486648",
@@ -17401,6 +17751,20 @@
     "vote_count": 11,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt6409196",
+    "tmdb_id": 241727,
+    "title": "Gaspard Proust tapine",
+    "performer": "Gaspard Proust",
+    "release_date": "2013-12-03",
+    "poster_path": "/SrfyIRRQEy2uAnqlOXqe2iXmiJ.jpg",
+    "popularity": 0.112,
+    "original_language": "fr",
+    "vote_average": 7.0,
+    "vote_count": 33,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1515750",
@@ -18539,6 +18903,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1585995",
+    "tmdb_id": 28245,
+    "title": "Ross Noble: Nobleism",
+    "performer": "Ross Noble",
+    "release_date": "2009-01-01",
+    "poster_path": "/rohGJ36j1wfxm0IabwcW5pD29re.jpg",
+    "popularity": 0.1089,
+    "original_language": "en",
+    "vote_average": 6.5,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:284992",
     "tmdb_id": 284992,
     "title": "Caribbean Combo: Tijd voor Caribbean Combo",
@@ -19481,6 +19859,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt4374814",
+    "tmdb_id": 323986,
+    "title": "Rosie O'Donnell: A Heartfelt Stand Up",
+    "performer": "Rosie O'Donnell",
+    "release_date": "2015-02-14",
+    "poster_path": "/e6jrpV3w6ziZszcLIwu1NuHLWrs.jpg",
+    "popularity": 0.5256,
+    "original_language": "en",
+    "vote_average": 7.8,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt4497142",
     "tmdb_id": 324281,
     "title": "Knock Knock, It's Tig Notaro",
@@ -19875,6 +20267,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt1230462",
+    "tmdb_id": 34171,
+    "title": "Marcus Brigstocke: Planet Corduroy",
+    "performer": "Marcus Brigstocke",
+    "release_date": "2007-11-26",
+    "poster_path": "/foLsz7ELOsilKzUYlqUseGjDWPd.jpg",
+    "popularity": 0.2753,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt31869794",
     "tmdb_id": 342061,
     "title": "Chris Ramsey Live: All Growed Up",
@@ -20061,6 +20467,34 @@
     "original_language": "en",
     "vote_average": 7.3,
     "vote_count": 11,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1324892",
+    "tmdb_id": 35048,
+    "title": "Ross Noble: Fizzy Logic",
+    "performer": "Ross Noble",
+    "release_date": "2007-11-12",
+    "poster_path": "/4aZBJcSLRl0AOzTcZACqfcoVXyA.jpg",
+    "popularity": 0.3582,
+    "original_language": "en",
+    "vote_average": 7.1,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1305069",
+    "tmdb_id": 35050,
+    "title": "Ross Noble: Randomist",
+    "performer": "Ross Noble",
+    "release_date": "2006-11-06",
+    "poster_path": "/AupSU2I9jO5L9pJNz2feOncVJkE.jpg",
+    "popularity": 0.0879,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -20953,6 +21387,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1584933",
+    "tmdb_id": 38194,
+    "title": "Ross Noble: Live at Regent's Park",
+    "performer": "Ross Noble",
+    "release_date": "2004-10-11",
+    "poster_path": "/8bn6NZ5wUwfa53EdPgPQFoy86ux.jpg",
+    "popularity": 0.2034,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5066564",
     "tmdb_id": 383567,
     "title": "Theo Von: No Offense",
@@ -21143,6 +21591,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:39445",
+    "tmdb_id": 39445,
+    "title": "Ross Noble: Live at The Apollo",
+    "performer": "Ross Noble",
+    "release_date": "2004-09-27",
+    "poster_path": "/iYNUJnK9BT5BoGH9BoCegsaGLzc.jpg",
+    "popularity": 0.0893,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5708172",
     "tmdb_id": 394499,
     "title": "Porta dos Fundos: Contrato Vitalício",
@@ -21166,6 +21628,20 @@
     "original_language": "en",
     "vote_average": 6.7,
     "vote_count": 15,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt5671762",
+    "tmdb_id": 395045,
+    "title": "Steve Hofstetter: Ginger Kid",
+    "performer": "Steve Hofstetter",
+    "release_date": "2015-01-01",
+    "poster_path": "/fNhq58FVvbR7MoArmc70ZsRQDak.jpg",
+    "popularity": 0.1748,
+    "original_language": "en",
+    "vote_average": 6.0,
+    "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -23016,6 +23492,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt7728754",
+    "tmdb_id": 485603,
+    "title": "Orny Adams: More Than Loud",
+    "performer": "Orny Adams",
+    "release_date": "2017-12-01",
+    "poster_path": "/cmG88pHs5jNGp5zFJGICb7cln1X.jpg",
+    "popularity": 0.2967,
+    "original_language": "en",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:485830",
     "tmdb_id": 485830,
     "title": "Michael Schøt: Ulykkeligt Vidende",
@@ -23468,6 +23958,20 @@
     "vote_count": 21,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt8507516",
+    "tmdb_id": 501013,
+    "title": "Fakkah Fuzz: Almost Banned",
+    "performer": "Fakkah Fuzz",
+    "release_date": "2018-01-26",
+    "poster_path": "/e4zruRZ49WuZRDfzvPwCZ42IEvO.jpg",
+    "popularity": 0.2225,
+    "original_language": "en",
+    "vote_average": 4.6,
+    "vote_count": 7,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2400374",
@@ -25050,6 +25554,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt10422130",
+    "tmdb_id": 587224,
+    "title": "Ismo Leikola - Hyvät Naiset ja Herrat",
+    "performer": "Ismo Leikola",
+    "release_date": "2017-01-01",
+    "poster_path": null,
+    "popularity": 0.1341,
+    "original_language": "fi",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt9817258",
     "tmdb_id": 587682,
     "title": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
@@ -25153,6 +25671,20 @@
     "original_language": "en",
     "vote_average": 6.8,
     "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:592123",
+    "tmdb_id": 592123,
+    "title": "Steve Hofstetter: Secret Optimist",
+    "performer": "Steve Hofstetter",
+    "release_date": "2018-12-31",
+    "poster_path": "/zyMbhQaXVHLB54ilIB4faYciT02.jpg",
+    "popularity": 0.1761,
+    "original_language": "en",
+    "vote_average": 6.0,
+    "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -25496,7 +26028,7 @@
     "id": "tt30261353",
     "tmdb_id": 61474,
     "title": "Lenny Henry Live - So Much Things To Say",
-    "performer": null,
+    "performer": "Lenny Henry",
     "release_date": "2005-11-07",
     "poster_path": "/kB6EnT38LdC2x9k4SwaiQtBEPCH.jpg",
     "popularity": 0.1764,
@@ -26424,6 +26956,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt0333395",
+    "tmdb_id": 668199,
+    "title": "Emo Philips Live! At the Hasty Pudding Theatre",
+    "performer": "Emo Philips",
+    "release_date": "1987-03-28",
+    "poster_path": "/uNgA3kIDKCVSA5UoVbzfkY9wcp.jpg",
+    "popularity": 0.2847,
+    "original_language": "en",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:668755",
     "tmdb_id": 668755,
     "title": "Thomas Warberg: Perfektion, overskud og andre lorteord",
@@ -26676,6 +27222,20 @@
     "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt39898780",
+    "tmdb_id": 682949,
+    "title": "Nurlan Saburov: IQ",
+    "performer": "Nurlan Saburov",
+    "release_date": "2018-12-03",
+    "poster_path": "/g4MQgNeiF4zenhozsAT7ceICVAo.jpg",
+    "popularity": 0.2346,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt10372162",
@@ -26989,6 +27549,20 @@
     "vote_count": 20,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:706445",
+    "tmdb_id": 706445,
+    "title": "Kev Adams - Live from Marseille",
+    "performer": "Kev Adams",
+    "release_date": "2015-12-02",
+    "poster_path": "/43Xcl845fOV0yA66QN0ld5c70Q9.jpg",
+    "popularity": 0.0771,
+    "original_language": "fr",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:706714",
@@ -27388,6 +27962,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt0242595",
+    "tmdb_id": 743431,
+    "title": "Lenny Go Home",
+    "performer": "Lenny Henry",
+    "release_date": "1991-01-01",
+    "poster_path": "/wXoWAbXKtMacrXpr6S0iW7uH0lp.jpg",
+    "popularity": 0.2144,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0089035",
     "tmdb_id": 74413,
     "title": "Frank Zappa: Does Humor Belong in Music?",
@@ -27400,6 +27988,20 @@
     "vote_count": 6,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt13105350",
+    "tmdb_id": 744584,
+    "title": "Ross Noble: ‘El Hablador",
+    "performer": "Ross Noble",
+    "release_date": "2020-09-19",
+    "poster_path": "/AlHGE1yCUQv1WpWFeKqZEtujMUv.jpg",
+    "popularity": 0.231,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1999192",
@@ -27479,6 +28081,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:749862",
+    "tmdb_id": 749862,
+    "title": "Steen Molzen: Pædagog på afveje",
+    "performer": "Steen Molzen",
+    "release_date": "2019-04-01",
+    "poster_path": "/4lZL6JbHVlbi3M26m9peuV3kJqp.jpg",
+    "popularity": 0.0455,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:750386",
@@ -27684,6 +28300,20 @@
     "vote_count": 32,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt21093358",
+    "tmdb_id": 763363,
+    "title": "Jen Brister - Meaningless",
+    "performer": "Jen Brister",
+    "release_date": "2020-02-24",
+    "poster_path": "/cv03RkCO8F9CoNHueH46qYQluxH.jpg",
+    "popularity": 0.0973,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:765285",
@@ -29119,6 +29749,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:861645",
+    "tmdb_id": 861645,
+    "title": "Janneke de Bijl: Zonder zin kan het ook",
+    "performer": "Janneke de Bijl",
+    "release_date": "2021-08-15",
+    "poster_path": "/g2hssXsxLRphLwW7iDveGvAw95H.jpg",
+    "popularity": 0.4211,
+    "original_language": "nl",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt15281420",
     "tmdb_id": 865732,
     "title": "Rosebud Baker: Whiskey Fists",
@@ -29291,6 +29935,20 @@
     "vote_count": 287,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt21093390",
+    "tmdb_id": 881943,
+    "title": "Shappi Khorsandi: Live In SoHo",
+    "performer": "Shappi Khorsandi",
+    "release_date": "2020-08-03",
+    "poster_path": "/tEs3Zx9l4ObKiRihLis1NGara0Q.jpg",
+    "popularity": 0.3153,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt13701918",
@@ -30116,6 +30774,20 @@
     "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:963013",
+    "tmdb_id": 963013,
+    "title": "Paul Rabliauskas: UNCLE",
+    "performer": "Paul Rabliauskas",
+    "release_date": "2022-04-15",
+    "poster_path": "/miyNUhlXB5vdcodje9if6IzmbZt.jpg",
+    "popularity": 0.2542,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2364613",

@@ -292,6 +292,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tt32809505",
+      "type": "movie",
+      "name": "Chirayu Mistry: Mistry Solved",
+      "poster": "https://image.tmdb.org/t/p/w500/u7j1dBhDIftyTa6gOMWg19DMsFT.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1805664",
       "type": "movie",
       "name": "Chloe Radcliffe: Eyes Down Here",
@@ -339,13 +346,6 @@
       "name": "Chris Distefano: The Half Hour",
       "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt10942332",
-      "type": "movie",
-      "name": "Chris Distefano: Size 38 Waist",
-      "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
-      "releaseInfo": "2019"
     }
   ]
 }

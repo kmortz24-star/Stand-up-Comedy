@@ -239,6 +239,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:706445",
+      "type": "movie",
+      "name": "Kev Adams - Live from Marseille",
+      "poster": "https://image.tmdb.org/t/p/w500/43Xcl845fOV0yA66QN0ld5c70Q9.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "tt2400374",
       "type": "movie",
       "name": "Kevin Bridges: The Story So Far...",
@@ -341,13 +348,6 @@
       "name": "Kevin Hart: Zero F**ks Given",
       "poster": "https://image.tmdb.org/t/p/w500/mGQBQTyVqbGWiAMLPNdRuyyjQKO.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt28227488",
-      "type": "movie",
-      "name": "Kevin Hart: Reality Check",
-      "poster": "https://image.tmdb.org/t/p/w500/bTiBP0zTDMO9UyrJvKoBScjEmxQ.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

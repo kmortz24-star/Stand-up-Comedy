@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1436689",
+      "type": "movie",
+      "name": "Camille Solari: Hello New Zealand My Life In Pink",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1522128",
+      "type": "movie",
+      "name": "Till Reiners - Mein Italien",
+      "poster": "https://image.tmdb.org/t/p/w500/33dUFWw9fvQqjZyhNbl7tfRAfzO.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1739199",
       "type": "movie",
       "name": "Comédie Queer, la scène des Outre-mer",

@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:1702960",
+      "type": "movie",
+      "name": "GOAT Pandemonium Ge on all tempo",
+      "poster": "https://image.tmdb.org/t/p/w500/aeSAvkv3xsLYJd7w07wZiBq0GKu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1155064",
+      "type": "movie",
+      "name": "Geoffrey Asmus: The Only Funny White Man",
+      "poster": "https://image.tmdb.org/t/p/w500/fAVa0fYWurce5TUQ6hKjHx6VrpE.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1308317",
+      "type": "movie",
+      "name": "Geoffrey Asmus: Live In Sacramento",
+      "poster": "https://image.tmdb.org/t/p/w500/igI1d6IbzTMh3oiupbd5KBRN9mj.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0249854",
+      "type": "movie",
+      "name": "George Carlin: On Location at USC",
+      "poster": "https://image.tmdb.org/t/p/w500/401TNpSzviX1VDzc0hzcaksONQF.jpg",
+      "releaseInfo": "1977"
+    },
+    {
       "id": "tt0249853",
       "type": "movie",
       "name": "George Carlin: Again!",

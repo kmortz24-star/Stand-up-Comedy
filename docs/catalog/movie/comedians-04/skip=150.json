@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt0777243",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Take It Like a Man",
+      "poster": "https://image.tmdb.org/t/p/w500/uQkrB0wylAyMLWlXk6ItrYJAf9g.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1340783",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Long Live The Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/tFykMHzwkpnhOJAd8PUwXo2W3JQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1842404",
+      "type": "movie",
+      "name": "Lisa Lampanelli: Tough Love",
+      "poster": "https://image.tmdb.org/t/p/w500/1ZH00b2d1wtWt7KLa9vCPGJGgL9.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt4566712",
       "type": "movie",
       "name": "Lisa Lampanelli: Back to the Drawing Board",
@@ -321,32 +342,11 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt36732656",
+      "id": "tt1230462",
       "type": "movie",
-      "name": "Marcus D. Wiley: Marriage Is Major Surgery",
-      "poster": "https://image.tmdb.org/t/p/w500/815nM4BGrs9PPotKEtDNKO18Y03.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt40146770",
-      "type": "movie",
-      "name": "Marcus D. Wiley: Rehab",
-      "poster": "https://image.tmdb.org/t/p/w500/kyXBKuUnre4RfiEwRwBm4xYQ5Ri.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0251739",
-      "type": "movie",
-      "name": "Margaret Cho: I'm the One That I Want",
-      "poster": "https://image.tmdb.org/t/p/w500/7pFwrqCnjycoAvFnXVP6dexO3aC.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt0300274",
-      "type": "movie",
-      "name": "Margaret Cho: Notorious C.H.O.",
-      "poster": "https://image.tmdb.org/t/p/w500/o3aHEzVZ16Vm8jMs4lcuAlVGdo.jpg",
-      "releaseInfo": "2002"
+      "name": "Marcus Brigstocke: Planet Corduroy",
+      "poster": "https://image.tmdb.org/t/p/w500/foLsz7ELOsilKzUYlqUseGjDWPd.jpg",
+      "releaseInfo": "2007"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1405216",
+      "type": "movie",
+      "name": "Damien Power: Not So Funny Now Is It?",
+      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1199723",
       "type": "movie",
       "name": "Dan Andersen: Holder 100",
@@ -339,13 +346,6 @@
       "name": "Dave Chappelle: HBO Comedy Half-Hour",
       "poster": "https://image.tmdb.org/t/p/w500/8aXELrq9TPeEbuN0lCk1rMI7Sh6.jpg",
       "releaseInfo": "1998"
-    },
-    {
-      "id": "tt0251654",
-      "type": "movie",
-      "name": "Dave Chappelle: Killin' Them Softly",
-      "poster": "https://image.tmdb.org/t/p/w500/xQAwaRVkaYtgEbFzsUrYzduJsOd.jpg",
-      "releaseInfo": "2000"
     }
   ]
 }

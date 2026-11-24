@@ -147,6 +147,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1553314",
+      "type": "movie",
+      "name": "Steve Hofstetter: Kill the Butterflies",
+      "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt43674207",
       "type": "movie",
       "name": "Mayce Galoni: Live at the Blue Grotto",
@@ -314,6 +321,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1531170",
+      "type": "movie",
+      "name": "Sasha Dolgopolov: Pressure Makes Diamonds",
+      "poster": "https://image.tmdb.org/t/p/w500/b41m4fHxZeUZ8gVQeOT1dNt9aL8.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1530287",
       "type": "movie",
       "name": "Haseeb Khan: Love Percentage",
@@ -332,19 +346,6 @@
       "type": "movie",
       "name": "Jim Jefferies: Two Limb Policy",
       "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1436689",
-      "type": "movie",
-      "name": "Camille Solari: Hello New Zealand My Life In Pink",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1522128",
-      "type": "movie",
-      "name": "Till Reiners - Mein Italien",
-      "poster": "https://image.tmdb.org/t/p/w500/33dUFWw9fvQqjZyhNbl7tfRAfzO.jpg",
       "releaseInfo": "2025"
     }
   ]

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt10942332",
+      "type": "movie",
+      "name": "Chris Distefano: Size 38 Waist",
+      "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tt19875708",
       "type": "movie",
       "name": "Chris Distefano: Speshy Weshy",
@@ -336,13 +343,6 @@
       "id": "tmdb:1269168",
       "type": "movie",
       "name": "Damien Power at The Scottish Prince",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1405216",
-      "type": "movie",
-      "name": "Damien Power: Not So Funny Now Is It?",
-      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
       "releaseInfo": "2024"
     }
   ]

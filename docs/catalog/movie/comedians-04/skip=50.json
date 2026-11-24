@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt28227488",
+      "type": "movie",
+      "name": "Kevin Hart: Reality Check",
+      "poster": "https://image.tmdb.org/t/p/w500/bTiBP0zTDMO9UyrJvKoBScjEmxQ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt38948229",
       "type": "movie",
       "name": "Kevin Hart: Acting My Age",
@@ -339,13 +346,6 @@
       "name": "Lara Ricote: GRL/LATNX/DEF",
       "poster": "https://image.tmdb.org/t/p/w500/pmZsPmEZpREuHlBgftjnCPDokhA.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1699130",
-      "type": "movie",
-      "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
-      "poster": "https://image.tmdb.org/t/p/w500/elkpNoanC6K4gk19PVYC5N6DE2N.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

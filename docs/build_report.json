@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 340,
+    "New Specials": 342,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -9,13 +9,13 @@
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 59,
     "Comedians AB": 381,
-    "CDEFG": 395,
-    "HIJ": 321,
-    "KLM": 339,
-    "NOPQR": 303,
-    "STUVWXYZ": 303
+    "CDEFG": 399,
+    "HIJ": 327,
+    "KLM": 345,
+    "NOPQR": 323,
+    "STUVWXYZ": 315
   },
-  "total_unique_records": 2301,
+  "total_unique_records": 2349,
   "needs_review": [
     {
       "id": "tmdb:1022459",

@@ -243,6 +243,27 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1408697",
+      "type": "movie",
+      "name": "Sasha Dolgopolov: My First Stand-Up in English!",
+      "poster": "https://image.tmdb.org/t/p/w500/jlW8mqONxVCYqbbSOZgvuGIj3QX.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt35248974",
+      "type": "movie",
+      "name": "Sasha Dolgopolov: New Stand-Up 2024",
+      "poster": "https://image.tmdb.org/t/p/w500/ehqRaGeHIKw5E6Ha2V16cqEGQ2S.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1531170",
+      "type": "movie",
+      "name": "Sasha Dolgopolov: Pressure Makes Diamonds",
+      "poster": "https://image.tmdb.org/t/p/w500/b41m4fHxZeUZ8gVQeOT1dNt9aL8.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1226082",
       "type": "movie",
       "name": "Sashi Perera: Endings",
@@ -324,27 +345,6 @@
       "name": "Sebastian Maniscalco: Aren't You Embarrassed?",
       "poster": "https://image.tmdb.org/t/p/w500/3S0iITseGs572hEQzzXbKjphV69.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt9482786",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: Stay Hungry",
-      "poster": "https://image.tmdb.org/t/p/w500/qxrHollpTX5QPMz7DZbeKvpwiba.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt23623660",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: Is it Me?",
-      "poster": "https://image.tmdb.org/t/p/w500/fRzJ0KU6Lw3Ew7eJXLJAzlnRPXv.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt34253990",
-      "type": "movie",
-      "name": "Sebastian Maniscalco: It Ain't Right",
-      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
   "metas": [
     {
+      "id": "tt1439235",
+      "type": "movie",
+      "name": "Jim Jefferies: I Swear to God",
+      "poster": "https://image.tmdb.org/t/p/w500/8GyTQCTnXE5JExI9Z8lncyRCpoO.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1935828",
+      "type": "movie",
+      "name": "Jim Jefferies: Alcoholocaust",
+      "poster": "https://image.tmdb.org/t/p/w500/8qyfH2KEV5MGt4opGp5GiPhqavC.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2274356",
+      "type": "movie",
+      "name": "Jim Jefferies: Fully Functional",
+      "poster": "https://image.tmdb.org/t/p/w500/ospzpJrBaCorNQlZC6VFBqwwUjk.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3958494",
+      "type": "movie",
+      "name": "Jim Jefferies: Bare",
+      "poster": "https://image.tmdb.org/t/p/w500/pqGtStSCU0F3cZyEItCaqol24Mi.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5849950",
+      "type": "movie",
+      "name": "Jim Jefferies: Freedumb",
+      "poster": "https://image.tmdb.org/t/p/w500/pveFZQKiUomWAxXu65zGSwiKoKD.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8617844",
+      "type": "movie",
+      "name": "Jim Jefferies: This Is Me Now",
+      "poster": "https://image.tmdb.org/t/p/w500/wwsPAZuz5WUkzjZJMgM0sFXjZES.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt12588160",
       "type": "movie",
       "name": "Jim Jefferies: Intolerant",
@@ -304,47 +346,6 @@
       "name": "Jo Koy: Blue in the Face",
       "poster": "https://image.tmdb.org/t/p/w500/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0788011",
-      "type": "movie",
-      "name": "An Audience with Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/wnRwtOXsDJ2ZSxRR0FVXjoBJ6mJ.jpg",
-      "releaseInfo": "1984"
-    },
-    {
-      "id": "tmdb:1491602",
-      "type": "movie",
-      "name": "Joan Rivers Live at the Apollo",
-      "poster": "https://image.tmdb.org/t/p/w500/eJaDmWuX40keZCeKi63XDBWoMdO.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt2043891",
-      "type": "movie",
-      "name": "Joan Rivers: (Still A) Live at the London Palladium",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0788012",
-      "type": "movie",
-      "name": "An Audience with Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/gbywys9oQ3IQJ4Tz7EjUS818ySI.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt2519318",
-      "type": "movie",
-      "name": "Joan Rivers: Don't Start with Me",
-      "poster": "https://image.tmdb.org/t/p/w500/rRoaJow1NCKsxGycS78YccNybrf.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tmdb:1527703",
-      "type": "movie",
-      "name": "The Courage to Stand Up",
-      "poster": "https://image.tmdb.org/t/p/w500/t5RcXyiLwtlmTI065okLTEkNufR.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }
