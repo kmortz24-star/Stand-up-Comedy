@@ -53,6 +53,16 @@ class YoutubeCatalogTests(unittest.TestCase):
         self.assertIsNone(classify(video('bad id', 'Ari Matti stand up special', 'Ari Matti'), CONFIG))
         self.assertIsNone(classify(video('ggggggggggg', 'Random Person | Aaron Adams | Stand Up Comedy', 'SpamTV'), CONFIG))
 
+    def test_artist_site_verified_mitch_special_exception(self):
+        v = video('mV_mqyqcUjQ', 'Bad Girls: A Mitch Fatel Comedy Special',
+                  'MyComedyStore', 3660, 'Mitch Fatel')
+        self.assertIsNone(classify(v, CONFIG))  # Untrusted channel by itself.
+        v['artist_website_url'] = 'https://mitchfatel.com/'
+        v['artist_site_embed_verified'] = True
+        self.assertEqual(classify(v, CONFIG), ('youtube-full-specials', 'Mitch Fatel'))
+        v['title'] = 'Unrelated comedy special'
+        self.assertIsNone(classify(v, CONFIG))  # Must actually identify comic.
+
     def test_duplicate_video_keeps_one_youtube_meta(self):
         v = video('hhhhhhhhhhh', 'The Joke | Ashley Monique | Stand Up Comedy', "Don't Tell Comedy")
         rows = preview_rows([v, v], CONFIG)

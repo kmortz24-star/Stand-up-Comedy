@@ -117,7 +117,13 @@ def classify(video: dict, config: dict, today: date | None = None) -> tuple[str,
         return None
     trusted = any(key in channel.casefold() for key in TRUSTED_CHANNELS)
     creator_channel = name_in_title(performer, channel)
-    if not (trusted or creator_channel):
+    # Rare, explicitly reviewed one-offs: an artist's official site embeds
+    # the exact YouTube video. Do not treat search attribution as verification.
+    artist_site = str(video.get("artist_website_url") or "")
+    artist_verified = (video.get("artist_site_embed_verified") is True
+                       and artist_site.startswith("https://")
+                       and name_in_title(performer, title))
+    if not (trusted or creator_channel or artist_verified):
         return None
     if seconds >= 35 * 60:
         return ("youtube-full-specials", performer)

@@ -42,6 +42,14 @@ This will not find *every* special in every catalog, and some sources may lack p
 
 The underlying TMDB data remains available in `data/specials.json` for reconsideration; low ratings do not permanently delete it.
 
+### Manually verified YouTube exception
+
+Mitch Fatel's *Bad Girls* is included as a **YouTube-backed candidate** in the
+alphabeticals because the artist's own website embeds that exact public upload.
+This is the one requested manual exception. It is not treated as a TMDB film,
+and YouTube playback in Nuvio remains unverified (external link available).
+The verification flag requires artist-site evidence and a matching comedian name.
+
 ## Comedy Central Presents and HBO showcases: episode discovery (new)
 
 `fetch_tv_sets.py` searches TMDB's **TV series and episode index**, independently of the movie-special search. It checks **Comedy Central Presents**, **HBO Comedy Half-Hour** and **One Night Stand**, and records each episode's show, season, episode number, featured comedian (when identifiable), and TMDB episode ID.
