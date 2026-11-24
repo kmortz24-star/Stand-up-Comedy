@@ -267,7 +267,7 @@
   "roulette_discovery_min_rating": 6.5,
   "roulette_discovery_min_votes": 5,
   "enable_ranked_150": true,
-  "ranked_list_size": 150,
+  "ranked_list_size": 200,
   "top_rated_min_votes": 20,
   "fan_favorites_min_votes": 10,
   "fan_favorites_min_rating": 6.5,
@@ -513,5 +513,32 @@
   ],
   "ranking_excluded_titles": [
     "George Carlin: 40 Years of Comedy"
+  ],
+  "tv_show_priority_order": [
+    "Comedy Central Presents",
+    "Def Comedy Jam",
+    "Last Comic Standing",
+    "Live at the Apollo",
+    "One Night Stand",
+    "Premium Blend",
+    "HBO Comedy Half Hour",
+    "The Standups",
+    "Roast Battle",
+    "Just for Laughs: All Access",
+    "Comedy Central Stand-Up Presents",
+    "John Oliver's New York Stand-Up Show",
+    "Gotham Comedy Live",
+    "This Is Not Happening",
+    "The Half Hour",
+    "Live at Gotham",
+    "ComicView",
+    "Gabriel Iglesias Presents Stand-Up Revolution",
+    "The Comedy Lineup",
+    "Tiffany Haddish Presents: They Ready",
+    "The Degenerates",
+    "Comedy Underground with Dave Attell",
+    "Comedy Now!",
+    "Live from the BBC",
+    "The New Negroes"
   ]
 }

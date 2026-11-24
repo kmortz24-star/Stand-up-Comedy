@@ -1,11 +1,11 @@
 # Stand-Up Comedy — Nuvio catalog
 
-A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials still use your installed playback providers (Meteor/Comet); selected YouTube preview cards offer their own experimental in-app playback and an external YouTube link. The three TV showcases appear as **series with episodes** (metadata-only: playback depends on other addons). This does **not** change the Nuvio collection order.
+A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials still use your installed playback providers (Meteor/Comet); selected YouTube preview cards offer their own experimental in-app playback and an external YouTube link. The stand-up TV shows appear as **series with episodes** (metadata-only: playback depends on other addons). This does **not** change the Nuvio collection order.
 
 ## Current rows (14 original movie rows plus one TV series row)
 
 1. New Specials
-2. Top Rated — up to 150 TMDB-rated specials
+2. Top Rated — up to 200 TMDB-rated specials
 3. Fan Favorites — up to 200 audience favorites; overlap with Top Rated is allowed
 4. Comedy Roulette — 60 weekly picks, targeting 15 different comedians per tier (well known / B-tier / classic / discovery)
 5. Hidden Gems — 30 weekly picks
@@ -13,7 +13,7 @@ A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials
 7. Viral & Rising Comedians
 8. Roasts & Comedy Events
 9–14. Six alphabetical rows, with names sorted by **first / stage name** and specials from **oldest to newest**
-15. **Stand-Up TV Series** — Comedy Central Presents, HBO Comedy Half Hour and One Night Stand; browse the seasons and individual comedian episodes within each show
+15. **Stand-Up TV Shows** — 25 currently indexed English-language shows, ordered by audience familiarity first (Comedy Central Presents, Def Comedy Jam, Last Comic Standing, etc.); browse the seasons and individual episodes within each show
 
 The six alphabet IDs stay stable when we rebalance letter groups. They are currently AB / CDEFG / HIJ / KLM / NOPQR / STUVWXYZ, based on actual catalog counts. **No Nuvio JSON import is needed** for updates to these GitHub-hosted catalogs.
 
@@ -39,7 +39,7 @@ This will not find *every* special in every catalog, and some sources may lack p
 - Repairs explicit performer labels such as `Comedy Central Presents: Dave Attell`, and names that appear before a clear title separator; known names come from cached specials, configured comedians and the Wikidata roster.
 - Keeps the presenting host separate from the featured comedian when the title explicitly names both (such as Gabriel Iglesias presenting Rick Gutierrez).
 - Places roasts/group events in their dedicated row, not automatically into a comedian's solo alphabetical list.
-- Preserves the 60-item weekly Roulette layout, 150 Top Rated and 200 Fan Favorites rows and stable alphabet/catalog IDs.
+- Preserves the 60-item weekly Roulette layout, 200 Top Rated and 200 Fan Favorites rows and stable alphabet/catalog IDs.
 
 The underlying TMDB data remains available in `data/specials.json` for reconsideration; low ratings do not permanently delete it.
 
@@ -51,11 +51,11 @@ This is the one requested manual exception. It is not treated as a TMDB film,
 and YouTube playback in Nuvio remains unverified (external link available).
 The verification flag requires artist-site evidence and a matching comedian name.
 
-## Comedy Central Presents and HBO showcases: TV series catalog (v8)
+## Stand-Up TV Shows (v8 onward)
 
-`fetch_tv_sets.py` searches TMDB's **TV series and episode index** for **Comedy Central Presents**, **HBO Comedy Half Hour**, and **One Night Stand**, storing each episode's season, number, title and featured comedian (when identifiable) in `data/tv_episode_candidates.json`.
+`fetch_tv_sets.py` searches TMDB's **TV series and episode index** for a configurable roster of stand-up showcase and comedy series, storing each episode's season, number, title and featured comedian (when identifiable) in `data/tv_episode_candidates.json`.
 
-`tv_catalogs.py` publishes a new **Stand-Up TV Series** *series-type* row with these three shows. Opening a show presents all discovered seasons and episodes under **real TMDB show IDs**, for example `tmdb:4787:11:19` for the Mitch Fatel episode of Comedy Central Presents. It publishes `/meta/series/tmdb:4787.json` and similar metadata endpoints and adds a `series` catalog to the manifest. It does not create fake standalone movies or host any video streams. **Playback is unverified** and depends on separately installed providers (Meteor/Comet/YouStream as appropriate) resolving each TMDB episode; some older episodes may have no playable sources. A GitHub workflow refresh is required to publish the new row.
+`tv_catalogs.py` publishes the existing **Stand-Up TV Shows** *series-type* row with the discovered shows. Opening a show presents all discovered seasons and episodes under **real TMDB show IDs**, for example `tmdb:4787:11:19` for the Mitch Fatel episode of Comedy Central Presents. It publishes `/meta/series/tmdb:4787.json` and similar metadata endpoints and adds a `series` catalog to the manifest. It does not create fake standalone movies or host any video streams. **Playback is unverified** and depends on separately installed providers (Meteor/Comet/YouStream as appropriate) resolving each TMDB episode; some older episodes may have no playable sources. A GitHub workflow refresh is required to publish the new row.
 
 No additional API key is needed. Future TMDB refreshes will also store show poster/backdrop paths for better Nuvio artwork. Existing independent TMDB movie records remain in their alphabetical categories. Toggle `enable_tv_series_catalog` off in `config.json` to hide the TV row.
 
@@ -228,7 +228,7 @@ by this addon's static `meta/movie/standupyt_*.json` and
 `stream/movie/standupyt_*.json` files. The stream offers an **experimental
 in-app YouTube** choice and a **browser/YouTube-app link**; support varies by
 Nuvio version. These are unverified review candidates and are not part of the
-curated Top 150, Fan Favorites or Roulette rankings. YouStream is no longer
+curated Top Rated, Fan Favorites or Roulette rankings. YouStream is no longer
 needed to resolve these merged entries (though users may keep it installed).
 The original `youtube`-type preview rows are removed from the manifest.
 
@@ -278,9 +278,9 @@ section that reports how many source movies still lack language metadata.
 Filtering by spoken audio with zero unknowns would require an additional
 verified source, and should not be claimed from TMDB alone.
 
-### Ranking refinements (v13)
+### Ranking refinements (v13, expanded in v14)
 
-- **Top Rated:** 150 entries; Bayesian-weighted TMDB average with a 25-vote prior,
+- **Top Rated:** 200 entries after the v14 expansion; Bayesian-weighted TMDB average with a 25-vote prior,
   still requiring at least 20 TMDB votes.
 - **Fan Favorites:** 200 entries in the *existing* category and ID (no Nuvio
   JSON import). Audience approval and sample size plus a small editorial
@@ -289,3 +289,16 @@ verified source, and should not be claimed from TMDB alone.
   rankings and movie catalogs are generated. Retrospectives like
   *George Carlin: 40 Years of Comedy* stay in alphabeticals but not rankings.
 - Exclusions are rules in `config.json`, not deletions from `data/specials.json`.
+
+### Top Rated 200 and TV show ordering (v14)
+
+`ranked_list_size` is now **200**, with the same weighted-rating method and
+the same `top-150-rated` catalog ID as before. Keeping this existing URL/ID
+avoids breaking installed Nuvio addons; the label remains **Top Rated**.
+
+The **Stand-Up TV Shows** row now orders existing shows according to
+`tv_show_priority_order` in `config.json`: familiar titles first, all
+remaining/newly discovered shows following alphabetically. This is an
+editorial recognizability order, **not** a measured watch-count ranking.
+Every series retains all its previously indexed seasons and episodes. No
+new catalog row or Nuvio JSON import is required.

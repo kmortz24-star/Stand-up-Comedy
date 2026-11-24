@@ -35,7 +35,7 @@ def _release_year(value: str) -> str:
 
 
 def build_tv_series(candidates: list[dict], *, english_only=False,
-                    exclude_multilingual=()) -> tuple[list[dict], dict[str, dict], dict]:
+                    exclude_multilingual=(), priority_order=()) -> tuple[list[dict], dict[str, dict], dict]:
     """Return (catalog previews, show-id keyed full series meta, audit counts).
 
     Keep only unambiguous TV IDs and positive episode identifiers. No fictitious
@@ -72,7 +72,15 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
     previews: list[dict] = []
     details: dict[str, dict] = {}
     counts: dict[str, int] = {}
-    for show_id, episode_map in sorted(by_show.items(), key=lambda pair: str(show_info[pair[0]]['show_title']).casefold()):
+    # Recognition-first is an editorial order, not a fabricated viewing metric.
+    # Any newly discovered shows not listed explicitly follow alphabetically.
+    ranks = {str(name).strip().casefold(): idx for idx, name in enumerate(priority_order)
+             if str(name).strip()}
+    def show_sort(item):
+        name = str(show_info[item[0]]['show_title']).strip().casefold()
+        return (ranks.get(name, len(ranks)), name, item[0])
+
+    for show_id, episode_map in sorted(by_show.items(), key=show_sort):
         info = show_info[show_id]
         show_name = str(info['show_title']).strip()
         show_key = f'tmdb:{show_id}'

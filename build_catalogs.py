@@ -650,7 +650,8 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
         tv_previews, tv_metadatas, tv_counts = build_tv_series(
             read_json(ROOT / "data/tv_episode_candidates.json", []),
             english_only=bool(config.get("english_language_only", False)),
-            exclude_multilingual=config.get("exclude_multilingual_tv_shows", []))
+            exclude_multilingual=config.get("exclude_multilingual_tv_shows", []),
+            priority_order=config.get("tv_show_priority_order", []))
     resources = ["catalog"]
     if merged_youtube:
         resources.extend([
@@ -868,7 +869,7 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
     if config.get("enable_ranked_150", False):
         report["rankings"] = {
             "source": "TMDB audience vote_average + vote_count",
-            "top_150_rated": f"Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum {config.get('top_rated_min_votes', 20)} votes",
+            "top_rated": f"Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum {config.get('top_rated_min_votes', 20)} votes; top {config.get('ranked_list_size', 150)}",
             "fan_favorites": f"Bayesian-weighted TMDB ratings plus participation and modest A/B-roster bonus; top {config.get('fan_favorites_size', config.get('ranked_list_size', 150))}; editorial proxy, not a dedicated audience poll",
             "overlap_allowed": True,
             "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed" if config.get("rankings_english_only", False) else "All languages",
