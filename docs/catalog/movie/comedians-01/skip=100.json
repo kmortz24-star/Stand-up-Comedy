@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:158328",
-      "type": "movie",
-      "name": "Ben Elton: The Get A Grip Tour Live",
-      "poster": "https://image.tmdb.org/t/p/w500/ozWb9ujjDZUrKEty0myblta7ynS.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt32801084",
       "type": "movie",
       "name": "Ben Elton: Live",
@@ -148,13 +141,6 @@
       "releaseInfo": "2008"
     },
     {
-      "id": "tt1717578",
-      "type": "movie",
-      "name": "Bill Burr: Let It Go",
-      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
-      "releaseInfo": "2010"
-    },
-    {
       "id": "tt2290153",
       "type": "movie",
       "name": "Bill Burr: You People Are All The Same",
@@ -181,13 +167,6 @@
       "name": "Bill Burr: Paper Tiger",
       "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt20723672",
-      "type": "movie",
-      "name": "Bill Burr Presents: Friends Who Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/9gSpgNwjP3Qg8LAsrBgo1Fu6QdL.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt21106500",
@@ -349,6 +328,26 @@
       "name": "Bill Maher: Live From Oklahoma",
       "poster": "https://image.tmdb.org/t/p/w500/ucKMETsi8KuL9XcCTgECJA4DoUq.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt18271228",
+      "type": "movie",
+      "name": "Bill Maher: #Adulting",
+      "poster": "https://image.tmdb.org/t/p/w500/7CwC1vVE6Zzs4pGlhYpw5THJijq.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34491055",
+      "type": "movie",
+      "name": "Bill Maher: Is Anyone Else Seeing This?",
+      "poster": "https://image.tmdb.org/t/p/w500/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:777819",
+      "type": "movie",
+      "name": "Billy Connolly: In Concert",
+      "releaseInfo": "1978"
     }
   ]
 }

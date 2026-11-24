@@ -245,6 +245,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt37666574",
+      "type": "movie",
+      "name": "Joe DeRosa: I Never Promised You a Rose Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/3hw1R78ASegnOJ4bERBXuW7k8E8.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt34492387",
       "type": "movie",
       "name": "Zarna Garg: Practical People Win",
@@ -340,13 +347,6 @@
       "type": "movie",
       "name": "Atsuko Okatsuka: Father",
       "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt36462322",
-      "type": "movie",
-      "name": "Mike Birbiglia: The Good Life",
-      "poster": "https://image.tmdb.org/t/p/w500/zAlU7tRd2jNtilSrqakkiSi02OQ.jpg",
       "releaseInfo": "2025"
     }
   ]

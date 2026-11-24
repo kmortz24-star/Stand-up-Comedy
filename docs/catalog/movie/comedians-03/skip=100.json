@@ -43,6 +43,13 @@
       "releaseInfo": "1996"
     },
     {
+      "id": "tt0246641",
+      "type": "movie",
+      "name": "George Carlin: Back in Town",
+      "poster": "https://image.tmdb.org/t/p/w500/fXa1iidyPpspNBp3tgPTNa8ghhS.jpg",
+      "releaseInfo": "1996"
+    },
+    {
       "id": "tt0246645",
       "type": "movie",
       "name": "George Carlin: You Are All Diseased",
@@ -344,13 +351,6 @@
       "name": "Heather McDonald: I Don't Mean to Brag",
       "poster": "https://image.tmdb.org/t/p/w500/4OLDiL6mcZJGCxDylcz4YPHLGgt.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt0823176",
-      "type": "movie",
-      "name": "Henry Cho: What's That Clickin' Noise?",
-      "poster": "https://image.tmdb.org/t/p/w500/tHGcqFwgnwIOM9MRvS1FMRuDQHu.jpg",
-      "releaseInfo": "2006"
     }
   ]
 }

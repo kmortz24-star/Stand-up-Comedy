@@ -282,6 +282,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "tt7331748",
+      "type": "movie",
+      "name": "Joe DeRosa: You Let Me Down",
+      "poster": "https://image.tmdb.org/t/p/w500/l3SwuB2KhXjQTcJ1pAy9c2yaPUp.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "standupyt_qXQR_eqfFUg",
       "type": "movie",
       "name": "I Never Promised You A Rose Garden | 2025 Comedy Special of the Year | Joe DeRosa Stand Up Comedy [YouTube]",
@@ -303,6 +310,19 @@
       "name": "Joe List: This Year's Material",
       "poster": "https://image.tmdb.org/t/p/w500/2I3w6Q98N6wlu1YN7YeeLaTKNH7.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt28692116",
+      "type": "movie",
+      "name": "Joe List: Enough for Everybody",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt36436543",
+      "type": "movie",
+      "name": "Joe List: Small Ball",
+      "poster": "https://image.tmdb.org/t/p/w500/9J608KbfkQ22tNhbXDRZSHwTbNy.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "standupyt_odtAJ2kPdqc",
@@ -333,27 +353,6 @@
       "name": "Joe Rogan: Live from the Belly of the Beast",
       "poster": "https://image.tmdb.org/t/p/w500/13pLWdgoCVsYUEMIdZxMDvSepiK.jpg",
       "releaseInfo": "2001"
-    },
-    {
-      "id": "tt0822818",
-      "type": "movie",
-      "name": "Joe Rogan: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/iwcrJ1uUwIFmBPpiFPGXgfQiOq6.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1530890",
-      "type": "movie",
-      "name": "Joe Rogan: Talking Monkeys in Space",
-      "poster": "https://image.tmdb.org/t/p/w500/jfhsL2uUno38p48SlHWXzK7DRiV.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt2584582",
-      "type": "movie",
-      "name": "Joe Rogan: Live from the Tabernacle",
-      "poster": "https://image.tmdb.org/t/p/w500/hv9HC5VcOF4JlD8VNlgQquwjN6.jpg",
-      "releaseInfo": "2012"
     }
   ]
 }

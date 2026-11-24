@@ -1,26 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt18271228",
-      "type": "movie",
-      "name": "Bill Maher: #Adulting",
-      "poster": "https://image.tmdb.org/t/p/w500/7CwC1vVE6Zzs4pGlhYpw5THJijq.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt34491055",
-      "type": "movie",
-      "name": "Bill Maher: Is Anyone Else Seeing This?",
-      "poster": "https://image.tmdb.org/t/p/w500/wa7MdHEzHxwMqXy2bPA5pD5VDVY.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:777819",
-      "type": "movie",
-      "name": "Billy Connolly: In Concert",
-      "releaseInfo": "1978"
-    },
-    {
       "id": "tt0189377",
       "type": "movie",
       "name": "An Audience with Billy Connolly",
@@ -347,6 +327,27 @@
       "name": "Brian Regan - Something's Wrong with the Regan Boy",
       "poster": "https://image.tmdb.org/t/p/w500/oH74ixg9OtcYH1BXBSjBAb4lmsN.jpg",
       "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0808179",
+      "type": "movie",
+      "name": "Brian Regan: I Walked on the Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9zEm1zCva3w8O3rFb7J1dOYWoC6.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1043434",
+      "type": "movie",
+      "name": "Brian Regan: Standing Up",
+      "poster": "https://image.tmdb.org/t/p/w500/n3FSd5uCjrFC623xkMb2Yd6Cdfv.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1284973",
+      "type": "movie",
+      "name": "Brian Regan: The Epitome of Hyperbole",
+      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
+      "releaseInfo": "2008"
     }
   ]
 }

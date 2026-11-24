@@ -209,6 +209,20 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt0497633",
+      "type": "movie",
+      "name": "Larry the Cable Guy: Git-R-Done",
+      "poster": "https://image.tmdb.org/t/p/w500/xj13KoJX2zVd5R1cfDP8JM4i4cn.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0949746",
+      "type": "movie",
+      "name": "Larry the Cable Guy: Morning Constitutions",
+      "poster": "https://image.tmdb.org/t/p/w500/jiyEwdFW55D5TuxZ6a6UH1CeHgz.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "tt1471846",
       "type": "movie",
       "name": "Larry the Cable Guy: Tailgate Party",
@@ -333,20 +347,6 @@
       "name": "Lewis Black: Stark Raving Black",
       "poster": "https://image.tmdb.org/t/p/w500/gvznuG9TcntGbXnoATMQCE9g7C4.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt3091320",
-      "type": "movie",
-      "name": "Lewis Black: Old Yeller - Live at the Borgata",
-      "poster": "https://image.tmdb.org/t/p/w500/ztRbpovhJOj9VGBJ554tvNtl0hy.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt27036683",
-      "type": "movie",
-      "name": "Lewis Black: Tragically, I Need You",
-      "poster": "https://image.tmdb.org/t/p/w500/jEJOElZRNrkHAd9T1sGVxczfRhd.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

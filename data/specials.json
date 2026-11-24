@@ -1,5 +1,14 @@
 [
   {
+    "id": "tt28692116",
+    "title": "Joe List: Enough for Everybody",
+    "performer": "Joe List",
+    "release_date": "2023-01-01",
+    "release_date_precision": "year",
+    "original_language": "en",
+    "tags": []
+  },
+  {
     "id": "tt12298986",
     "tmdb_id": 1000003,
     "title": "Graham Kay: Stupid Jokes",
@@ -196,6 +205,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt21431084",
+    "title": "Tim Dillon: A Real Hero",
+    "performer": "Tim Dillon",
+    "release_date": "2022-08-16",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1013441,
+    "poster_path": "/hkL4f5h5gRg8UzAHZVmlCiZN2zF.jpg",
+    "popularity": 0.3511,
+    "vote_average": 5.5,
+    "vote_count": 10,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt21342096",
     "tmdb_id": 1013842,
     "title": "Jo Koy: Live from the Los Angeles Forum",
@@ -222,6 +245,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tt19770866",
+    "title": "Sheng Wang: Sweet and Juicy",
+    "performer": "Sheng Wang",
+    "release_date": "2022-09-06",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1015999,
+    "poster_path": "/2MztxUClBbU3LTkmtmamkBA0nVv.jpg",
+    "popularity": 0.4771,
+    "vote_average": 7.3,
+    "vote_count": 14,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt21870580",
@@ -1593,6 +1630,20 @@
     "vote_average": 3.5,
     "vote_count": 1,
     "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt24165132",
+    "title": "Nate Bargatze: Hello World",
+    "performer": "Nate Bargatze",
+    "release_date": "2023-01-31",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1080787,
+    "poster_path": "/kOenGdO6Ig5tHQPZ5FErMkmmlV0.jpg",
+    "popularity": 0.4228,
+    "vote_average": 7.5,
+    "vote_count": 33,
     "last_checked": "2026-11-24"
   },
   {
@@ -4760,6 +4811,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt29231774",
+    "title": "Ralph Barbosa: Cowabunga",
+    "performer": "Ralph Barbosa",
+    "release_date": "2023-10-31",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1198879,
+    "poster_path": "/hh5gZVUQgbfpCOi658M3EnrwuZM.jpg",
+    "popularity": 0.2283,
+    "vote_average": 6.1,
+    "vote_count": 7,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt29712087",
     "tmdb_id": 1198933,
     "title": "Leo Reich: Literally Who Cares?!",
@@ -4814,6 +4879,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "da"
+  },
+  {
+    "id": "tt29867137",
+    "title": "Stavros Halkias: Fat Rascal",
+    "performer": "Stavros Halkias",
+    "release_date": "2023-12-05",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1200108,
+    "poster_path": "/e0nc4i2G4LaAUJEEfQJyn5OPdql.jpg",
+    "popularity": 0.4848,
+    "vote_average": 5.8,
+    "vote_count": 11,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt29865781",
@@ -9828,6 +9907,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt34379477",
+    "title": "Michelle Buteau: A Buteau-ful Mind at Radio City Music Hall",
+    "performer": "Michelle Buteau",
+    "release_date": "2024-12-30",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1397315,
+    "poster_path": "/nwaJMFfAXUlouzfigpNFCOObsCK.jpg",
+    "popularity": 0.7339,
+    "vote_average": 6.1,
+    "vote_count": 8,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0439553",
     "tmdb_id": 13976,
     "title": "Dylan Moran: Monster",
@@ -12138,6 +12231,20 @@
     "original_language": "en"
   },
   {
+    "id": "tt36436543",
+    "title": "Joe List: Small Ball",
+    "performer": "Joe List",
+    "release_date": "2025-05-21",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1461683,
+    "poster_path": "/9J608KbfkQ22tNhbXDRZSHwTbNy.jpg",
+    "popularity": 0.6261,
+    "vote_average": 6.0,
+    "vote_count": 3,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt36413638",
     "tmdb_id": 1461983,
     "title": "Tim Dillon: I'm Your Mother",
@@ -13354,6 +13461,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tt37666574",
+    "title": "Joe DeRosa: I Never Promised You a Rose Garden",
+    "performer": "Joe DeRosa",
+    "release_date": "2025-07-21",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 1517426,
+    "poster_path": "/3hw1R78ASegnOJ4bERBXuW7k8E8.jpg",
+    "popularity": 0.4899,
+    "vote_average": 5.2,
+    "vote_count": 4,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1518266",
@@ -22456,6 +22577,20 @@
     "original_language": "en"
   },
   {
+    "id": "tt0949746",
+    "title": "Larry the Cable Guy: Morning Constitutions",
+    "performer": "Larry the Cable Guy",
+    "release_date": "2007-06-03",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 20833,
+    "poster_path": "/jiyEwdFW55D5TuxZ6a6UH1CeHgz.jpg",
+    "popularity": 0.3327,
+    "vote_average": 7.2,
+    "vote_count": 5,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1390471",
     "tmdb_id": 20837,
     "title": "Jim Gaffigan: King Baby",
@@ -23014,6 +23149,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tt0823187",
+    "title": "Russell Peters: Outsourced",
+    "performer": "Russell Peters",
+    "release_date": "2006-08-01",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 23077,
+    "poster_path": "/2uIS6bXgFlzUUdCsDX7jMVw3zBK.jpg",
+    "popularity": 0.4768,
+    "vote_average": 7.088,
+    "vote_count": 40,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2769276",
@@ -26754,6 +26903,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt4653606",
+    "title": "Nate Bargatze: Full Time Magic",
+    "performer": "Nate Bargatze",
+    "release_date": "2015-04-28",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 338689,
+    "poster_path": "/1s4RGBJrXKBwGRv73Dcqsoak91X.jpg",
+    "popularity": 0.5495,
+    "vote_average": 7.0,
+    "vote_count": 12,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt4669186",
     "tmdb_id": 339927,
     "title": "Kevin Hart: What Now?",
@@ -26866,6 +27029,20 @@
     "original_language": "en"
   },
   {
+    "id": "tt4766892",
+    "title": "Nick Swardson: Taste It",
+    "performer": "Nick Swardson",
+    "release_date": "2015-05-25",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 342546,
+    "poster_path": "/8tQvVUZeWudQipcIuq5R10WHw4M.jpg",
+    "popularity": 0.5612,
+    "vote_average": 6.1,
+    "vote_count": 8,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0148668",
     "tmdb_id": 34505,
     "title": "Bill Hicks: Relentless",
@@ -26919,6 +27096,20 @@
     "vote_average": 8.0,
     "vote_count": 32,
     "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0246641",
+    "title": "George Carlin: Back in Town",
+    "performer": "George Carlin",
+    "release_date": "1996-03-30",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 34509,
+    "poster_path": "/fXa1iidyPpspNBp3tgPTNa8ghhS.jpg",
+    "popularity": 0.849,
+    "vote_average": 7.7,
+    "vote_count": 84,
     "last_checked": "2026-11-24"
   },
   {
@@ -27171,6 +27362,20 @@
     "vote_average": 0.0,
     "vote_count": 0,
     "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt4920096",
+    "title": "Tig Notaro: Boyish Girl Interrupted",
+    "performer": "Tig Notaro",
+    "release_date": "2015-08-22",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 355177,
+    "poster_path": "/4PJblie1AmshTgycCv8iJ0e20Gy.jpg",
+    "popularity": 0.4471,
+    "vote_average": 6.9,
+    "vote_count": 21,
     "last_checked": "2026-11-24"
   },
   {
@@ -28546,6 +28751,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt0497633",
+    "title": "Larry the Cable Guy: Git-R-Done",
+    "performer": "Larry the Cable Guy",
+    "release_date": "2004-05-23",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 39483,
+    "poster_path": "/xj13KoJX2zVd5R1cfDP8JM4i4cn.jpg",
+    "popularity": 0.4607,
+    "vote_average": 4.6,
+    "vote_count": 11,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5671762",
     "tmdb_id": 395045,
     "title": "Steve Hofstetter: Ginger Kid",
@@ -29092,6 +29311,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt6295304",
+    "title": "Sebastian Maniscalco: Why Would You Do That?",
+    "performer": "Sebastian Maniscalco",
+    "release_date": "2016-10-01",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 415735,
+    "poster_path": "/5Y0MuIBRYmrOpczR00Lsi4iBVnq.jpg",
+    "popularity": 0.5772,
+    "vote_average": 7.3,
+    "vote_count": 36,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5753806",
     "tmdb_id": 416290,
     "title": "Cedric the Entertainer: Live from the Ville",
@@ -29174,6 +29407,20 @@
     "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt7331748",
+    "title": "Joe DeRosa: You Let Me Down",
+    "performer": "Joe DeRosa",
+    "release_date": "2017-02-03",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 419157,
+    "poster_path": "/l3SwuB2KhXjQTcJ1pAy9c2yaPUp.jpg",
+    "popularity": 0.4777,
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt6665988",
@@ -33208,6 +33455,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt9014006",
+    "title": "Sam Morril: Positive Influence",
+    "performer": "Sam Morril",
+    "release_date": "2018-09-14",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 548532,
+    "poster_path": "/nNK7ZUzcIP8ZNAHnu8yX6JLkIuS.jpg",
+    "popularity": 0.5684,
+    "vote_average": 6.5,
+    "vote_count": 11,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt10340662",
     "tmdb_id": 548594,
     "title": "Comedy Aid 2018",
@@ -33779,6 +34040,20 @@
     "vote_average": 0.0,
     "vote_count": 0,
     "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt9618280",
+    "title": "Ron Funches: Giggle Fit",
+    "performer": "Ron Funches",
+    "release_date": "2019-01-04",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 572593,
+    "poster_path": "/rtXLWt30qgBeiRnRUD1xoWpa2bR.jpg",
+    "popularity": 0.3073,
+    "vote_average": 8.7,
+    "vote_count": 9,
     "last_checked": "2026-11-24"
   },
   {
@@ -36008,6 +36283,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt11798038",
+    "title": "Sam Morril: I Got This",
+    "performer": "Sam Morril",
+    "release_date": "2020-02-11",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 672992,
+    "poster_path": "/eXND00Zufd1gfSNyntaGLHaOsjM.jpg",
+    "popularity": 0.3602,
+    "vote_average": 7.6,
+    "vote_count": 15,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5626820",
     "tmdb_id": 67312,
     "title": "Roué Verveer: Voorwaardelijk Vrij",
@@ -36425,6 +36714,20 @@
     "vote_average": 0.0,
     "vote_count": 0,
     "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt12087624",
+    "title": "Sincerely Louis C.K.",
+    "performer": "Louis C.K.",
+    "release_date": "2020-04-04",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 689643,
+    "poster_path": "/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
+    "popularity": 0.8358,
+    "vote_average": 7.381,
+    "vote_count": 130,
     "last_checked": "2026-11-24"
   },
   {
@@ -37688,6 +37991,20 @@
     "original_language": "fr"
   },
   {
+    "id": "tt12509942",
+    "title": "Michelle Buteau: Welcome to Buteaupia",
+    "performer": "Michelle Buteau",
+    "release_date": "2020-09-28",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 747999,
+    "poster_path": "/9cZNfEZuGA4KnVGyhymjYv0GCTc.jpg",
+    "popularity": 0.6045,
+    "vote_average": 7.1,
+    "vote_count": 21,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:748014",
     "tmdb_id": 748014,
     "title": "Grin til gavn 2020",
@@ -38876,6 +39193,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tt14078164",
+    "title": "Nate Bargatze: The Greatest Average American",
+    "performer": "Nate Bargatze",
+    "release_date": "2021-03-18",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 799573,
+    "poster_path": "/7X0FS5F5qyJK1nyxpIIlzYJtM1V.jpg",
+    "popularity": 0.975,
+    "vote_average": 7.2,
+    "vote_count": 41,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2121253",
@@ -40320,6 +40651,20 @@
     "original_language": "en"
   },
   {
+    "id": "tt15579188",
+    "title": "Theo Von: Regular People",
+    "performer": "Theo Von",
+    "release_date": "2021-10-19",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 886883,
+    "poster_path": "/xjo30E2uZXbYGXJXOd4Nlhb0Plm.jpg",
+    "popularity": 0.4581,
+    "vote_average": 6.1,
+    "vote_count": 17,
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt2580170",
     "tmdb_id": 88796,
     "title": "Comedy Aid 2011",
@@ -40836,6 +41181,20 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tt15338656",
+    "title": "Ms. Pat: Y'all Wanna Hear Something Crazy?",
+    "performer": "Ms. Pat",
+    "release_date": "2022-02-08",
+    "original_language": "en",
+    "tags": [],
+    "tmdb_id": 927968,
+    "poster_path": "/y3OUJLQshuKRP7tCz4X7tc5352.jpg",
+    "popularity": 0.6873,
+    "vote_average": 5.8,
+    "vote_count": 13,
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1096860",

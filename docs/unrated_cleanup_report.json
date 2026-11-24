@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1633,
-    "remaining_alphabetical_movies": 1309,
+    "original_alphabetical_movies": 1655,
+    "remaining_alphabetical_movies": 1331,
     "unrated_movies_hidden": 324,
-    "unrated_established_movies_kept": 143
+    "unrated_established_movies_kept": 144
   },
   "hidden": [
     {
@@ -1103,13 +1103,13 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
@@ -2339,6 +2339,11 @@
       "id": "tt2043891",
       "performer": "Joan Rivers",
       "title": "Joan Rivers: (Still A) Live at the London Palladium"
+    },
+    {
+      "id": "tt28692116",
+      "performer": "Joe List",
+      "title": "Joe List: Enough for Everybody"
     },
     {
       "id": "tt35653066",

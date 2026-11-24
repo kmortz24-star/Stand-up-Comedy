@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt3091320",
+      "type": "movie",
+      "name": "Lewis Black: Old Yeller - Live at the Borgata",
+      "poster": "https://image.tmdb.org/t/p/w500/ztRbpovhJOj9VGBJ554tvNtl0hy.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt27036683",
+      "type": "movie",
+      "name": "Lewis Black: Tragically, I Need You",
+      "poster": "https://image.tmdb.org/t/p/w500/jEJOElZRNrkHAd9T1sGVxczfRhd.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "standupyt_RzisHAg7OMc",
       "type": "movie",
       "name": "Lewis Black | Thanks for Risking Your Life (Full Comedy Special) [YouTube]",
@@ -211,6 +225,13 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "tt12087624",
+      "type": "movie",
+      "name": "Sincerely Louis C.K.",
+      "poster": "https://image.tmdb.org/t/p/w500/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt16478030",
       "type": "movie",
       "name": "Louis C.K.: Sorry",
@@ -328,27 +349,6 @@
       "name": "Margaret Cho: I'm the One That I Want",
       "poster": "https://image.tmdb.org/t/p/w500/7pFwrqCnjycoAvFnXVP6dexO3aC.jpg",
       "releaseInfo": "2000"
-    },
-    {
-      "id": "tt0300274",
-      "type": "movie",
-      "name": "Margaret Cho: Notorious C.H.O.",
-      "poster": "https://image.tmdb.org/t/p/w500/o3aHEzVZ16Vm8jMs4lcuAlVGdo.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt0404844",
-      "type": "movie",
-      "name": "Margaret Cho: CHO Revolution",
-      "poster": "https://image.tmdb.org/t/p/w500/b13GW7OwOFSICi4hbBTG0xpfQlo.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0462333",
-      "type": "movie",
-      "name": "Margaret Cho: Assassin",
-      "poster": "https://image.tmdb.org/t/p/w500/kJDlPJpGDIN0WFBt2V6FWcDF7t9.jpg",
-      "releaseInfo": "2005"
     }
   ]
 }

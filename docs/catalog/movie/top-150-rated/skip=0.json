@@ -211,6 +211,13 @@
       "releaseInfo": "2002"
     },
     {
+      "id": "tt0246641",
+      "type": "movie",
+      "name": "George Carlin: Back in Town",
+      "poster": "https://image.tmdb.org/t/p/w500/fXa1iidyPpspNBp3tgPTNa8ghhS.jpg",
+      "releaseInfo": "1996"
+    },
+    {
       "id": "tt3958494",
       "type": "movie",
       "name": "Jim Jefferies: Bare",
@@ -342,13 +349,6 @@
       "name": "Gabriel Iglesias: Hot and Fluffy",
       "poster": "https://image.tmdb.org/t/p/w500/hYYiubXgtEmWvsaKVp3ssAzUr9l.jpg",
       "releaseInfo": "2007"
-    },
-    {
-      "id": "tt0395474",
-      "type": "movie",
-      "name": "Bill Bailey: Part Troll",
-      "poster": "https://image.tmdb.org/t/p/w500/8uFIMLfqTubGq208haXYJfeTNW2.jpg",
-      "releaseInfo": "2004"
     }
   ]
 }

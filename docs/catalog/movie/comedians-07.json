@@ -36,6 +36,20 @@
       "releaseInfo": "1991"
     },
     {
+      "id": "tt9014006",
+      "type": "movie",
+      "name": "Sam Morril: Positive Influence",
+      "poster": "https://image.tmdb.org/t/p/w500/nNK7ZUzcIP8ZNAHnu8yX6JLkIuS.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11798038",
+      "type": "movie",
+      "name": "Sam Morril: I Got This",
+      "poster": "https://image.tmdb.org/t/p/w500/eXND00Zufd1gfSNyntaGLHaOsjM.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt21836654",
       "type": "movie",
       "name": "Sam Morril: Same Time Tomorrow",
@@ -185,6 +199,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tt6295304",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Why Would You Do That?",
+      "poster": "https://image.tmdb.org/t/p/w500/5Y0MuIBRYmrOpczR00Lsi4iBVnq.jpg",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tt9482786",
       "type": "movie",
       "name": "Sebastian Maniscalco: Stay Hungry",
@@ -290,6 +311,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt19770866",
+      "type": "movie",
+      "name": "Sheng Wang: Sweet and Juicy",
+      "poster": "https://image.tmdb.org/t/p/w500/2MztxUClBbU3LTkmtmamkBA0nVv.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt36933778",
       "type": "movie",
       "name": "Sheng Wang: Purple",
@@ -323,34 +351,6 @@
       "name": "Sinbad: Afros and Bellbottoms",
       "poster": "https://image.tmdb.org/t/p/w500/gAYv6aZ7i4aQ9FztzM26Fx7KreZ.jpg",
       "releaseInfo": "1993"
-    },
-    {
-      "id": "tt0938333",
-      "type": "movie",
-      "name": "Sinbad: Son of a Preacher Man",
-      "poster": "https://image.tmdb.org/t/p/w500/xlED5cY9TxY6j22nLgd6WT6RXU9.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0938332",
-      "type": "movie",
-      "name": "Sinbad: Nothin' but the Funk",
-      "poster": "https://image.tmdb.org/t/p/w500/1jCLrDVXsn7hWlrPpILrM2BKuvK.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tt1305823",
-      "type": "movie",
-      "name": "Sommore: The Queen Stands Alone",
-      "poster": "https://image.tmdb.org/t/p/w500/z7tb2ACzcp5qdsTd5t7bPWkbRF1.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt4172758",
-      "type": "movie",
-      "name": "Sommore: The Reign Continues",
-      "poster": "https://image.tmdb.org/t/p/w500/dSQDcBiWDAOfEVPFhpZiYwatpXu.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

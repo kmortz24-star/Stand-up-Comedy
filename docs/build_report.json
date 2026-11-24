@@ -1,23 +1,23 @@
 {
   "counts": {
-    "New Specials": 152,
+    "New Specials": 153,
     "Top Rated": 200,
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
-    "Comedy Legends": 47,
+    "Comedy Legends": 48,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 66,
-    "Comedians AB": 213,
+    "Roasts & Comedy Events": 67,
+    "Comedians AB": 210,
     "CD": 184,
-    "EFGHI": 166,
-    "J": 189,
-    "KLM": 232,
-    "NOPQR": 184,
-    "STUVWXYZ": 182,
+    "EFGHI": 167,
+    "J": 192,
+    "KLM": 238,
+    "NOPQR": 191,
+    "STUVWXYZ": 190,
     "Stand-Up TV Shows": 25
   },
-  "total_unique_records": 3006,
+  "total_unique_records": 3032,
   "needs_review": [
     {
       "id": "tt0322129",
@@ -1046,10 +1046,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1633,
-    "remaining_alphabetical_movies": 1309,
+    "original_alphabetical_movies": 1655,
+    "remaining_alphabetical_movies": 1331,
     "unrated_movies_hidden": 324,
-    "unrated_established_movies_kept": 143
+    "unrated_established_movies_kept": 144
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
@@ -1058,7 +1058,7 @@
     "low_rated_movies_hidden": 50,
     "hidden_low_sample_1_to_4_votes": 47,
     "hidden_5_plus_votes": 3,
-    "low_rated_established_movies_kept": 448,
+    "low_rated_established_movies_kept": 456,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -1138,27 +1138,26 @@
     "b_tier": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 46,
+      "available_comedians": 47,
       "selected_comedians": [
         "Tom Papa",
         "Chelsea Peretti",
         "Sam Tallent",
-        "Kyle Kinane",
+        "Kurt Metzger",
         "Stavros Halkias",
         "Hasan Minhaj",
         "Chris Distefano",
-        "Moshe Kasher",
-        "Michael Che",
-        "Michelle Wolf",
-        "Sheng Wang",
+        "Mike Birbiglia",
         "Matt Rife",
-        "Nick Kroll",
+        "Michael Che",
+        "Sheng Wang",
+        "Mark Normand",
+        "Neal Brennan",
         "Dusty Slay",
         "Pete Holmes"
       ],
       "not_yet_indexed": [
-        "Bobby Lee",
-        "Joe DeRosa"
+        "Bobby Lee"
       ]
     },
     "classic_older": {
@@ -1189,23 +1188,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 113,
+      "available_comedians": 116,
       "selected_comedians": [
-        "Matteo Lane",
-        "Dwayne Perkins",
+        "Paul Chowdhry",
+        "Josh Johnson",
+        "Ron Funches",
         "Tiffany Haddish",
-        "Vir Das",
-        "Billy Crystal",
-        "Rory Scovel",
-        "Russell Brand",
-        "Gilbert Gottfried",
-        "Pete Davidson",
-        "Sarah Millican",
-        "Jim Carrey",
-        "Billy Connolly",
+        "Jeff Arcuri",
+        "Nick Offerman",
+        "RUSSELL BRAND",
+        "Mo Gilligan",
+        "Jon Stewart",
         "Chris Porter",
-        "Roy Wood Jr.",
-        "Greg Davies"
+        "Rory Scovel",
+        "Julio Torres",
+        "Drew Lynch",
+        "Ricky Gervais Live 4",
+        "Billy Connolly"
       ]
     }
   },

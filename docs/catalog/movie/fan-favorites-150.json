@@ -288,6 +288,13 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "tt0246641",
+      "type": "movie",
+      "name": "George Carlin: Back in Town",
+      "poster": "https://image.tmdb.org/t/p/w500/fXa1iidyPpspNBp3tgPTNa8ghhS.jpg",
+      "releaseInfo": "1996"
+    },
+    {
       "id": "tt1346974",
       "type": "movie",
       "name": "Jimmy Carr: In Concert",
@@ -300,6 +307,13 @@
       "name": "Louis C.K.: Live at The Comedy Store",
       "poster": "https://image.tmdb.org/t/p/w500/9ULqaND2rzNFL4OAxCbSrY7UWem.jpg",
       "releaseInfo": "2015"
+    },
+    {
+      "id": "tt12087624",
+      "type": "movie",
+      "name": "Sincerely Louis C.K.",
+      "poster": "https://image.tmdb.org/t/p/w500/vk2c6UzgnLinjzGvoQ2QZsauPEV.jpg",
+      "releaseInfo": "2020"
     },
     {
       "id": "tt0206636",
@@ -335,20 +349,6 @@
       "name": "Kevin Hart: I'm a Grown Little Man",
       "poster": "https://image.tmdb.org/t/p/w500/xixDPGXhg9Kz93HspsDo1iHf5PO.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt0287460",
-      "type": "movie",
-      "name": "George Carlin: Complaints & Grievances",
-      "poster": "https://image.tmdb.org/t/p/w500/qUMJgSvji7ZFI8RxiGRumW0UJKs.jpg",
-      "releaseInfo": "2001"
-    },
-    {
-      "id": "tt3500822",
-      "type": "movie",
-      "name": "Tom Segura: Completely Normal",
-      "poster": "https://image.tmdb.org/t/p/w500/hguiOqqFzYPwIIm6GZBjTAjiqzH.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

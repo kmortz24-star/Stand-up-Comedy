@@ -6,7 +6,7 @@
     "low_rated_movies_hidden": 50,
     "hidden_low_sample_1_to_4_votes": 47,
     "hidden_5_plus_votes": 3,
-    "low_rated_established_movies_kept": 448,
+    "low_rated_established_movies_kept": 456,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -511,13 +511,6 @@
       "rating": 6.0
     },
     {
-      "id": "tt24640480",
-      "performer": "Andrew Santino",
-      "title": "Cheeseburger",
-      "votes": 22,
-      "rating": 5.818
-    },
-    {
       "id": "tt34381932",
       "performer": "Andrew Santino",
       "title": "Andrew Santino: White Noise",
@@ -600,13 +593,6 @@
       "title": "Big Jay Oakerson: They",
       "votes": 2,
       "rating": 4.5
-    },
-    {
-      "id": "tt20723672",
-      "performer": "Bill Burr",
-      "title": "Bill Burr Presents: Friends Who Kill",
-      "votes": 91,
-      "rating": 5.4
     },
     {
       "id": "tt8245444",
@@ -1862,11 +1848,25 @@
       "rating": 5.75
     },
     {
+      "id": "tt7331748",
+      "performer": "Joe DeRosa",
+      "title": "Joe DeRosa: You Let Me Down",
+      "votes": 1,
+      "rating": 5.0
+    },
+    {
       "id": "tt33419876",
       "performer": "Joe Gatto",
       "title": "Joe Gatto: Messing with People",
       "votes": 2,
       "rating": 1.2
+    },
+    {
+      "id": "tt36436543",
+      "performer": "Joe List",
+      "title": "Joe List: Small Ball",
+      "votes": 3,
+      "rating": 6.0
     },
     {
       "id": "tt7183876",
@@ -2154,6 +2154,13 @@
       "title": "Kurt Braunohler: Perfectly Stupid",
       "votes": 1,
       "rating": 3.5
+    },
+    {
+      "id": "tt0497633",
+      "performer": "Larry the Cable Guy",
+      "title": "Larry the Cable Guy: Git-R-Done",
+      "votes": 11,
+      "rating": 4.6
     },
     {
       "id": "tt1471846",
@@ -2471,6 +2478,13 @@
       "rating": 6.4
     },
     {
+      "id": "tt34379477",
+      "performer": "Michelle Buteau",
+      "title": "Michelle Buteau: A Buteau-ful Mind at Radio City Music Hall",
+      "votes": 8,
+      "rating": 6.1
+    },
+    {
       "id": "tt2137119",
       "performer": "Micky Flanagan",
       "title": "Micky Flanagan: Live - The Out Out Tour",
@@ -2563,7 +2577,7 @@
     },
     {
       "id": "tt1144913",
-      "performer": "Mo'nique",
+      "performer": "Mo'Nique",
       "title": "Mo'nique: I Coulda Been Your Cellmate",
       "votes": 5,
       "rating": 6.2
@@ -2574,6 +2588,13 @@
       "title": "My Name Is Mo'Nique",
       "votes": 6,
       "rating": 4.2
+    },
+    {
+      "id": "tt15338656",
+      "performer": "Ms. Pat",
+      "title": "Ms. Pat: Y'all Wanna Hear Something Crazy?",
+      "votes": 13,
+      "rating": 5.8
     },
     {
       "id": "tt37333173",
@@ -2623,6 +2644,13 @@
       "title": "Nick Swardson: Seriously, Who Farted?",
       "votes": 19,
       "rating": 6.4
+    },
+    {
+      "id": "tt4766892",
+      "performer": "Nick Swardson",
+      "title": "Nick Swardson: Taste It",
+      "votes": 8,
+      "rating": 6.1
     },
     {
       "id": "tt15204492",
@@ -2756,6 +2784,13 @@
       "title": "Phil Wang: Wang in There, Baby!",
       "votes": 10,
       "rating": 5.9
+    },
+    {
+      "id": "tt29231774",
+      "performer": "Ralph Barbosa",
+      "title": "Ralph Barbosa: Cowabunga",
+      "votes": 7,
+      "rating": 6.1
     },
     {
       "id": "tt36421934",
@@ -2941,14 +2976,14 @@
     },
     {
       "id": "tt1692221",
-      "performer": "Russell Brand",
+      "performer": "RUSSELL BRAND",
       "title": "Russell Brand: Scandalous",
       "votes": 14,
       "rating": 5.3
     },
     {
       "id": "tt9349942",
-      "performer": "Russell Brand",
+      "performer": "RUSSELL BRAND",
       "title": "RUSSELL BRAND: RE:BIRTH",
       "votes": 36,
       "rating": 6.4
@@ -3143,6 +3178,13 @@
       "rating": 6.0
     },
     {
+      "id": "tt29867137",
+      "performer": "Stavros Halkias",
+      "title": "Stavros Halkias: Fat Rascal",
+      "votes": 11,
+      "rating": 5.8
+    },
+    {
       "id": "tt36999013",
       "performer": "Steph Tolev",
       "title": "Steph Tolev: Filth Queen",
@@ -3227,6 +3269,13 @@
       "rating": 6.1
     },
     {
+      "id": "tt15579188",
+      "performer": "Theo Von",
+      "title": "Theo Von: Regular People",
+      "votes": 17,
+      "rating": 6.1
+    },
+    {
       "id": "tt48933405",
       "performer": "Theo Von",
       "title": "Theo Von: I'm Doing Fine",
@@ -3239,6 +3288,13 @@
       "title": "Tig Notaro: Happy to Be Here",
       "votes": 54,
       "rating": 6.194
+    },
+    {
+      "id": "tt21431084",
+      "performer": "Tim Dillon",
+      "title": "Tim Dillon: A Real Hero",
+      "votes": 10,
+      "rating": 5.5
     },
     {
       "id": "tt36413638",
