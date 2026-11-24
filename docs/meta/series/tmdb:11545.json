@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "id": "tmdb:11545",
+    "type": "series",
+    "name": "Comedy Now!",
+    "releaseInfo": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/pl1VY8Umi9PtWbsqm595KfzUTqd.jpg",
+    "description": "Comedy Now! is a Canadian comedy television series which debuted in 1997 featuring the newest in Canadian comedic talent. The show has won numerous Gemini Awards as well as many international awards. It is broadcast in Canada on The Comedy Network and CTV. In the United States, the program airs on Comedy Central.\n\nThe show has started the careers of notable Canadian comedians, including Brent Butt, Gavin Crawford, Shaun Majumder, Russell Peters, and Harland Williams and has showcased comedians like Eric Tunney.",
+    "videos": [
+      {
+        "id": "tmdb:11545:1:1",
+        "title": "Mike Bullard",
+        "season": 1,
+        "episode": 1,
+        "overview": "Stand-up performance featuring Mike Bullard."
+      },
+      {
+        "id": "tmdb:11545:1:2",
+        "title": "Lou Eisen - Rhapsody In Lou",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "tmdb:11545:1:3",
+        "title": "Stewart Francis - Swimming Back To Shore",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "tmdb:11545:1:9",
+        "title": "Russell Peters: Show Me The Funny",
+        "season": 1,
+        "episode": 9,
+        "released": "1997-08-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Russell Peters."
+      },
+      {
+        "id": "tmdb:11545:9:4",
+        "title": "Greg Cochran",
+        "season": 9,
+        "episode": 4,
+        "released": "2011-04-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Greg Cochran."
+      },
+      {
+        "id": "tmdb:11545:11:7",
+        "title": "Episode 7",
+        "season": 11,
+        "episode": 7,
+        "released": "2008-07-26T00:00:00.000Z",
+        "overview": "Stand-up performance featuring James Cunningham."
+      }
+    ]
+  }
+}

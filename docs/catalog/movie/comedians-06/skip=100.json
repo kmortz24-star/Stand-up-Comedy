@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt12712404",
+      "type": "movie",
+      "name": "Simon Talbot: Make Denmark Great Again",
+      "poster": "https://image.tmdb.org/t/p/w500/78Vee9BJDhSjXXpmj7Qu5kvtFSJ.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:757538",
+      "type": "movie",
+      "name": "Simon Talbot - The Surrogate Comedy Show",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tmdb:776259",
       "type": "movie",
       "name": "Simon Talbot: Danish Invasion",
@@ -197,6 +210,13 @@
       "releaseInfo": "1987"
     },
     {
+      "id": "tt8716334",
+      "type": "movie",
+      "name": "Springsteen on Broadway",
+      "poster": "https://image.tmdb.org/t/p/w500/ng9F8AbD82ldwwdZpCvTAUAQ0rr.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt31923069",
       "type": "movie",
       "name": "Springsteen: Deliver Me from Nowhere",
@@ -329,27 +349,6 @@
       "name": "Steve Hofstetter: The Recipe",
       "poster": "https://image.tmdb.org/t/p/w500/4KrXWKjFgyDfS3uhDZVw2IkLOKr.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1311294",
-      "type": "movie",
-      "name": "Steve Hofstetter: Me, Myself, and Id",
-      "poster": "https://image.tmdb.org/t/p/w500/ztXhtM41L9riPeWDMG0CYU3663R.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1553314",
-      "type": "movie",
-      "name": "Steve Hofstetter: Kill the Butterflies",
-      "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0393555",
-      "type": "movie",
-      "name": "Steve Martin: On Location with Steve Martin",
-      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
-      "releaseInfo": "1976"
     }
   ]
 }

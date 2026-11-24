@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt3500822",
+      "type": "movie",
+      "name": "Tom Segura: Completely Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/hguiOqqFzYPwIIm6GZBjTAjiqzH.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "tt1783772",
       "type": "movie",
       "name": "Ricky Gervais: Out of England 2",
@@ -342,13 +349,6 @@
       "name": "George Carlin: Playin' with Your Head",
       "poster": "https://image.tmdb.org/t/p/w500/j4WkiRSDMACb54L50bmF6iQaKFu.jpg",
       "releaseInfo": "1986"
-    },
-    {
-      "id": "tt9169592",
-      "type": "movie",
-      "name": "Wanda Sykes: Not Normal",
-      "poster": "https://image.tmdb.org/t/p/w500/rgP8ZrffMCWZE3XKf5NpTuO5YX7.jpg",
-      "releaseInfo": "2019"
     }
   ]
 }

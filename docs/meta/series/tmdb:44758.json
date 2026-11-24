@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "id": "tmdb:44758",
+    "type": "series",
+    "name": "The Half Hour",
+    "releaseInfo": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/ciZlDJmfIpWTUUcqJDHHHbEYJfa.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/nSWMNLDyGEuU948jmzoQe3gFFDU.jpg",
+    "description": "The Half Hour shines a spotlight on some of the funniest and most unique voices in stand-up comedy. You'll never guess how long each episode is.",
+    "videos": [
+      {
+        "id": "tmdb:44758:1:1",
+        "title": "Rory Scovel",
+        "season": 1,
+        "episode": 1,
+        "released": "2012-05-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rory Scovel."
+      },
+      {
+        "id": "tmdb:44758:1:2",
+        "title": "Michael Palascak",
+        "season": 1,
+        "episode": 2,
+        "released": "2012-05-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Michael Palascak."
+      },
+      {
+        "id": "tmdb:44758:1:3",
+        "title": "Na'im Lynn",
+        "season": 1,
+        "episode": 3,
+        "released": "2012-05-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Na'im Lynn."
+      },
+      {
+        "id": "tmdb:44758:1:4",
+        "title": "Neal Brennan",
+        "season": 1,
+        "episode": 4,
+        "released": "2012-05-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Neal Brennan."
+      },
+      {
+        "id": "tmdb:44758:1:5",
+        "title": "Brendon",
+        "season": 1,
+        "episode": 5,
+        "released": "2012-05-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Brendon."
+      },
+      {
+        "id": "tmdb:44758:1:6",
+        "title": "Nick Vatterott",
+        "season": 1,
+        "episode": 6,
+        "released": "2012-05-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nick Vatterott."
+      },
+      {
+        "id": "tmdb:44758:1:7",
+        "title": "Theo Von",
+        "season": 1,
+        "episode": 7,
+        "released": "2012-06-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Theo Von."
+      },
+      {
+        "id": "tmdb:44758:1:8",
+        "title": "Maronzio Vance",
+        "season": 1,
+        "episode": 8,
+        "released": "2012-06-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Maronzio Vance."
+      },
+      {
+        "id": "tmdb:44758:1:9",
+        "title": "Joe Mande",
+        "season": 1,
+        "episode": 9,
+        "released": "2012-06-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe Mande."
+      },
+      {
+        "id": "tmdb:44758:1:10",
+        "title": "Garfunkel and Oates",
+        "season": 1,
+        "episode": 10,
+        "released": "2012-06-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:44758:1:11",
+        "title": "David O'Doherty",
+        "season": 1,
+        "episode": 11,
+        "released": "2012-06-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring David O'Doherty."
+      },
+      {
+        "id": "tmdb:44758:1:12",
+        "title": "Jesse Popp",
+        "season": 1,
+        "episode": 12,
+        "released": "2012-06-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jesse Popp."
+      },
+      {
+        "id": "tmdb:44758:2:1",
+        "title": "Dan Soder",
+        "season": 2,
+        "episode": 1,
+        "released": "2013-05-04T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dan Soder."
+      },
+      {
+        "id": "tmdb:44758:2:2",
+        "title": "Nikki Glaser",
+        "season": 2,
+        "episode": 2,
+        "released": "2013-05-04T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nikki Glaser."
+      },
+      {
+        "id": "tmdb:44758:2:3",
+        "title": "Erik Griffin",
+        "season": 2,
+        "episode": 3,
+        "released": "2013-05-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Erik Griffin."
+      },
+      {
+        "id": "tmdb:44758:2:4",
+        "title": "Joe DeRosa",
+        "season": 2,
+        "episode": 4,
+        "released": "2013-05-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe DeRosa."
+      },
+      {
+        "id": "tmdb:44758:2:5",
+        "title": "Dan St. Germain",
+        "season": 2,
+        "episode": 5,
+        "released": "2013-05-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dan St. Germain."
+      },
+      {
+        "id": "tmdb:44758:2:6",
+        "title": "Sean O'Connor",
+        "season": 2,
+        "episode": 6,
+        "released": "2013-05-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sean O'Connor."
+      },
+      {
+        "id": "tmdb:44758:2:7",
+        "title": "Jonah Ray",
+        "season": 2,
+        "episode": 7,
+        "released": "2013-05-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jonah Ray."
+      },
+      {
+        "id": "tmdb:44758:2:8",
+        "title": "Gabe Liedman",
+        "season": 2,
+        "episode": 8,
+        "released": "2013-05-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Gabe Liedman."
+      },
+      {
+        "id": "tmdb:44758:2:9",
+        "title": "Jared Logan",
+        "season": 2,
+        "episode": 9,
+        "released": "2013-06-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jared Logan."
+      },
+      {
+        "id": "tmdb:44758:2:10",
+        "title": "Mike Lawrence",
+        "season": 2,
+        "episode": 10,
+        "released": "2013-06-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mike Lawrence."
+      },
+      {
+        "id": "tmdb:44758:2:11",
+        "title": "Lil Rel Howery",
+        "season": 2,
+        "episode": 11,
+        "released": "2013-06-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Lil Rel Howery."
+      },
+      {
+        "id": "tmdb:44758:2:12",
+        "title": "Cristela Alonzo",
+        "season": 2,
+        "episode": 12,
+        "released": "2013-06-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Cristela Alonzo."
+      },
+      {
+        "id": "tmdb:44758:2:13",
+        "title": "Andy Haynes",
+        "season": 2,
+        "episode": 13,
+        "released": "2013-06-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Andy Haynes."
+      },
+      {
+        "id": "tmdb:44758:2:14",
+        "title": "Ben Kronberg",
+        "season": 2,
+        "episode": 14,
+        "released": "2013-06-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ben Kronberg."
+      },
+      {
+        "id": "tmdb:44758:2:15",
+        "title": "Baron Vaughn",
+        "season": 2,
+        "episode": 15,
+        "released": "2013-06-22T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Baron Vaughn."
+      },
+      {
+        "id": "tmdb:44758:2:16",
+        "title": "Sean Patton",
+        "season": 2,
+        "episode": 16,
+        "released": "2013-06-22T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sean Patton."
+      },
+      {
+        "id": "tmdb:44758:2:17",
+        "title": "Brody Stevens",
+        "season": 2,
+        "episode": 17,
+        "released": "2014-01-05T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Brody Stevens."
+      },
+      {
+        "id": "tmdb:44758:3:1",
+        "title": "Chris Distefano",
+        "season": 3,
+        "episode": 1,
+        "released": "2014-06-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Chris Distefano."
+      },
+      {
+        "id": "tmdb:44758:3:2",
+        "title": "Michael Che",
+        "season": 3,
+        "episode": 2,
+        "released": "2014-06-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Michael Che."
+      },
+      {
+        "id": "tmdb:44758:3:3",
+        "title": "Tommy Johnagin",
+        "season": 3,
+        "episode": 3,
+        "released": "2014-06-13T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tommy Johnagin."
+      },
+      {
+        "id": "tmdb:44758:3:4",
+        "title": "Adam Newman",
+        "season": 3,
+        "episode": 4,
+        "released": "2014-06-13T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Adam Newman."
+      },
+      {
+        "id": "tmdb:44758:3:5",
+        "title": "Chris Gethard",
+        "season": 3,
+        "episode": 5,
+        "released": "2014-06-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Chris Gethard."
+      },
+      {
+        "id": "tmdb:44758:3:6",
+        "title": "Ron Funches",
+        "season": 3,
+        "episode": 6,
+        "released": "2014-06-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ron Funches."
+      },
+      {
+        "id": "tmdb:44758:3:7",
+        "title": "Fortune Feimster",
+        "season": 3,
+        "episode": 7,
+        "released": "2014-06-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Fortune Feimster."
+      },
+      {
+        "id": "tmdb:44758:3:8",
+        "title": "Yannis Pappas",
+        "season": 3,
+        "episode": 8,
+        "released": "2014-06-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Yannis Pappas."
+      },
+      {
+        "id": "tmdb:44758:3:9",
+        "title": "Damien Lemon",
+        "season": 3,
+        "episode": 9,
+        "released": "2014-07-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Damien Lemon."
+      },
+      {
+        "id": "tmdb:44758:3:10",
+        "title": "Rachel Feinstein",
+        "season": 3,
+        "episode": 10,
+        "released": "2014-07-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rachel Feinstein."
+      },
+      {
+        "id": "tmdb:44758:3:11",
+        "title": "Mark Normand",
+        "season": 3,
+        "episode": 11,
+        "released": "2014-07-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mark Normand."
+      },
+      {
+        "id": "tmdb:44758:3:12",
+        "title": "Joe Wengert",
+        "season": 3,
+        "episode": 12,
+        "released": "2014-07-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe Wengert."
+      },
+      {
+        "id": "tmdb:44758:3:13",
+        "title": "Kurt Braunohler",
+        "season": 3,
+        "episode": 13,
+        "released": "2014-07-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kurt Braunohler."
+      },
+      {
+        "id": "tmdb:44758:3:14",
+        "title": "Joe Zimmerman",
+        "season": 3,
+        "episode": 14,
+        "released": "2014-07-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe Zimmerman."
+      },
+      {
+        "id": "tmdb:44758:4:1",
+        "title": "Liza Treyger",
+        "season": 4,
+        "episode": 1,
+        "released": "2015-08-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Liza Treyger."
+      },
+      {
+        "id": "tmdb:44758:4:2",
+        "title": "Hampton Yount",
+        "season": 4,
+        "episode": 2,
+        "released": "2015-08-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Hampton Yount."
+      },
+      {
+        "id": "tmdb:44758:4:3",
+        "title": "Michelle Buteau",
+        "season": 4,
+        "episode": 3,
+        "released": "2015-09-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Michelle Buteau."
+      },
+      {
+        "id": "tmdb:44758:4:4",
+        "title": "Barry Rothbart",
+        "season": 4,
+        "episode": 4,
+        "released": "2015-09-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Barry Rothbart."
+      },
+      {
+        "id": "tmdb:44758:4:5",
+        "title": "Brooks Wheelan",
+        "season": 4,
+        "episode": 5,
+        "released": "2015-09-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Brooks Wheelan."
+      },
+      {
+        "id": "tmdb:44758:4:6",
+        "title": "Andy Woodhull",
+        "season": 4,
+        "episode": 6,
+        "released": "2015-09-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Andy Woodhull."
+      },
+      {
+        "id": "tmdb:44758:4:7",
+        "title": "Randy Liedtke",
+        "season": 4,
+        "episode": 7,
+        "released": "2015-10-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Randy Liedtke."
+      },
+      {
+        "id": "tmdb:44758:4:8",
+        "title": "Beth Stelling",
+        "season": 4,
+        "episode": 8,
+        "released": "2015-10-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Beth Stelling."
+      },
+      {
+        "id": "tmdb:44758:4:9",
+        "title": "Sam Morril",
+        "season": 4,
+        "episode": 9,
+        "released": "2015-10-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sam Morril."
+      },
+      {
+        "id": "tmdb:44758:4:10",
+        "title": "Joe List",
+        "season": 4,
+        "episode": 10,
+        "released": "2015-10-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe List."
+      },
+      {
+        "id": "tmdb:44758:4:11",
+        "title": "Sean Donnelly",
+        "season": 4,
+        "episode": 11,
+        "released": "2015-11-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sean Donnelly."
+      },
+      {
+        "id": "tmdb:44758:4:12",
+        "title": "Phil Hanley",
+        "season": 4,
+        "episode": 12,
+        "released": "2015-11-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Phil Hanley."
+      },
+      {
+        "id": "tmdb:44758:4:13",
+        "title": "Tone Bell",
+        "season": 4,
+        "episode": 13,
+        "released": "2015-11-29T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tone Bell."
+      },
+      {
+        "id": "tmdb:44758:4:14",
+        "title": "Andrew Santino",
+        "season": 4,
+        "episode": 14,
+        "released": "2015-11-29T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Andrew Santino."
+      },
+      {
+        "id": "tmdb:44758:5:1",
+        "title": "Noah Gardenswartz",
+        "season": 5,
+        "episode": 1,
+        "released": "2016-08-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Noah Gardenswartz."
+      },
+      {
+        "id": "tmdb:44758:5:2",
+        "title": "Ramon Rivas II",
+        "season": 5,
+        "episode": 2,
+        "released": "2016-08-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ramon Rivas II."
+      },
+      {
+        "id": "tmdb:44758:5:3",
+        "title": "Joe Machi",
+        "season": 5,
+        "episode": 3,
+        "released": "2016-09-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe Machi."
+      },
+      {
+        "id": "tmdb:44758:5:4",
+        "title": "Drew Michael",
+        "season": 5,
+        "episode": 4,
+        "released": "2016-09-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Drew Michael."
+      },
+      {
+        "id": "tmdb:44758:5:5",
+        "title": "Aparna Nancherla",
+        "season": 5,
+        "episode": 5,
+        "released": "2016-09-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Aparna Nancherla."
+      },
+      {
+        "id": "tmdb:44758:5:6",
+        "title": "Nate Fernald",
+        "season": 5,
+        "episode": 6,
+        "released": "2016-09-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nate Fernald."
+      },
+      {
+        "id": "tmdb:44758:5:7",
+        "title": "Ali Siddiq",
+        "season": 5,
+        "episode": 7,
+        "released": "2016-09-17T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ali Siddiq."
+      },
+      {
+        "id": "tmdb:44758:5:8",
+        "title": "Cy Amundson",
+        "season": 5,
+        "episode": 8,
+        "released": "2016-09-17T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Cy Amundson."
+      },
+      {
+        "id": "tmdb:44758:5:9",
+        "title": "Emily Heller",
+        "season": 5,
+        "episode": 9,
+        "released": "2016-09-24T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Emily Heller."
+      },
+      {
+        "id": "tmdb:44758:5:10",
+        "title": "Erik Bergstrom",
+        "season": 5,
+        "episode": 10,
+        "released": "2016-09-24T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Erik Bergstrom."
+      },
+      {
+        "id": "tmdb:44758:5:11",
+        "title": "Martha Kelly",
+        "season": 5,
+        "episode": 11,
+        "released": "2016-10-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Martha Kelly."
+      },
+      {
+        "id": "tmdb:44758:5:12",
+        "title": "Nick Turner",
+        "season": 5,
+        "episode": 12,
+        "released": "2016-10-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nick Turner."
+      },
+      {
+        "id": "tmdb:44758:5:13",
+        "title": "Mike Recine",
+        "season": 5,
+        "episode": 13,
+        "released": "2016-10-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mike Recine."
+      },
+      {
+        "id": "tmdb:44758:5:14",
+        "title": "Jacqueline Novak",
+        "season": 5,
+        "episode": 14,
+        "released": "2016-10-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jacqueline Novak."
+      },
+      {
+        "id": "tmdb:44758:5:15",
+        "title": "Naomi Ekperigin",
+        "season": 5,
+        "episode": 15,
+        "released": "2016-10-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Naomi Ekperigin."
+      },
+      {
+        "id": "tmdb:44758:5:16",
+        "title": "Ahmed Bharoocha",
+        "season": 5,
+        "episode": 16,
+        "released": "2016-10-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ahmed Bharoocha."
+      },
+      {
+        "id": "tmdb:44758:5:17",
+        "title": "Matthew Broussard",
+        "season": 5,
+        "episode": 17,
+        "released": "2016-10-22T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Matthew Broussard."
+      }
+    ]
+  }
+}

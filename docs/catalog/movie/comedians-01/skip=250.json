@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt35924806",
+      "type": "movie",
+      "name": "Bert Kreischer: Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt28997186",
       "type": "movie",
       "name": "Beth Stelling: If You Didn't Want Me Then",
@@ -341,13 +348,6 @@
       "name": "An Audience with Billy Connolly",
       "poster": "https://image.tmdb.org/t/p/w500/42U4c0vwDaqN72Kum5zHitVFS5i.jpg",
       "releaseInfo": "1985"
-    },
-    {
-      "id": "tt0228067",
-      "type": "movie",
-      "name": "Billy Connolly: Billy and Albert (Live at the Royal Albert Hall)",
-      "poster": "https://image.tmdb.org/t/p/w500/v1VZ8Yc5A9rExXYBHhRAOXlSFgI.jpg",
-      "releaseInfo": "1987"
     }
   ]
 }

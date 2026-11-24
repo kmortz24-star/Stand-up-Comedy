@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "id": "tmdb:1699",
+    "type": "series",
+    "name": "Last Comic Standing",
+    "releaseInfo": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/niuE91WVx8TcFNzL972Qb6pHrhD.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/k2k4TeOnOXxy3bPt1LSjf4uWdqP.jpg",
+    "description": "A nationwide talent search accepting the best professional and non-professional stand-up comedians. Once the selection process is narrowed to 10, the show covers the contestants as they live together and compete for an exclusive contract with NBC, and to be called the Last Comic Standing.",
+    "videos": [
+      {
+        "id": "tmdb:1699:1:1",
+        "title": "West Coast Semi-Finals",
+        "season": 1,
+        "episode": 1,
+        "released": "2003-06-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring West Coast Semi-Finals."
+      },
+      {
+        "id": "tmdb:1699:1:2",
+        "title": "East Coast Semi-Finals",
+        "season": 1,
+        "episode": 2,
+        "released": "2003-06-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring East Coast Semi-Finals."
+      },
+      {
+        "id": "tmdb:1699:1:3",
+        "title": "Las Vegas Finals",
+        "season": 1,
+        "episode": 3,
+        "released": "2003-06-17T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Las Vegas Finals."
+      },
+      {
+        "id": "tmdb:1699:1:4",
+        "title": "Move-in, Move-out",
+        "season": 1,
+        "episode": 4,
+        "released": "2003-06-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:5",
+        "title": "Rats! (Literally and figuratively)",
+        "season": 1,
+        "episode": 5,
+        "released": "2003-07-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:6",
+        "title": "You Can't Beat Dat",
+        "season": 1,
+        "episode": 6,
+        "released": "2003-07-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring You Can't Beat Dat."
+      },
+      {
+        "id": "tmdb:1699:1:7",
+        "title": "Take Dat, Dave Mordal!",
+        "season": 1,
+        "episode": 7,
+        "released": "2003-07-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:8",
+        "title": "Comic Reunion!",
+        "season": 1,
+        "episode": 8,
+        "released": "2003-07-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:9",
+        "title": "Jokers Beat a Full House",
+        "season": 1,
+        "episode": 9,
+        "released": "2003-07-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:10",
+        "title": "Finale (1)",
+        "season": 1,
+        "episode": 10,
+        "released": "2003-08-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:1:11",
+        "title": "Finale (2)",
+        "season": 1,
+        "episode": 11,
+        "released": "2003-08-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:1",
+        "title": "Eight-City Auditions",
+        "season": 2,
+        "episode": 1,
+        "released": "2004-06-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Eight-City Auditions."
+      },
+      {
+        "id": "tmdb:1699:2:2",
+        "title": "New York Semi-finals",
+        "season": 2,
+        "episode": 2,
+        "released": "2004-06-09T00:00:00.000Z",
+        "overview": "Stand-up performance featuring New York Semi-finals."
+      },
+      {
+        "id": "tmdb:1699:2:3",
+        "title": "Las Vegas Finals (1)",
+        "season": 2,
+        "episode": 3,
+        "released": "2004-06-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:4",
+        "title": "Las Vegas Finals (2)",
+        "season": 2,
+        "episode": 4,
+        "released": "2004-06-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:5",
+        "title": "Into the House",
+        "season": 2,
+        "episode": 5,
+        "released": "2004-06-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:6",
+        "title": "The Tour Bus",
+        "season": 2,
+        "episode": 6,
+        "released": "2004-06-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:7",
+        "title": "Roast Challenge",
+        "season": 2,
+        "episode": 7,
+        "released": "2004-07-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Roast Challenge."
+      },
+      {
+        "id": "tmdb:1699:2:8",
+        "title": "One for the Kids",
+        "season": 2,
+        "episode": 8,
+        "released": "2004-07-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:9",
+        "title": "The Return of the Eliminated",
+        "season": 2,
+        "episode": 9,
+        "released": "2004-07-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:10",
+        "title": "The Wild Card",
+        "season": 2,
+        "episode": 10,
+        "released": "2004-07-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:11",
+        "title": "Wild Card Vote Results",
+        "season": 2,
+        "episode": 11,
+        "released": "2004-07-29T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Wild Card Vote Results."
+      },
+      {
+        "id": "tmdb:1699:2:12",
+        "title": "The Final Six",
+        "season": 2,
+        "episode": 12,
+        "released": "2004-08-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:13",
+        "title": "From 6 to 3",
+        "season": 2,
+        "episode": 13,
+        "released": "2004-08-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:14",
+        "title": "The Final Three",
+        "season": 2,
+        "episode": 14,
+        "released": "2004-08-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:2:15",
+        "title": "The Season Finale",
+        "season": 2,
+        "episode": 15,
+        "released": "2004-08-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:3:1",
+        "title": "Season Premiere",
+        "season": 3,
+        "episode": 1,
+        "released": "2004-08-30T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Season Premiere."
+      },
+      {
+        "id": "tmdb:1699:3:2",
+        "title": "Week One",
+        "season": 3,
+        "episode": 2,
+        "released": "2004-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Week One."
+      },
+      {
+        "id": "tmdb:1699:3:3",
+        "title": "Week Two",
+        "season": 3,
+        "episode": 3,
+        "released": "2004-09-07T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Week Two."
+      },
+      {
+        "id": "tmdb:1699:3:4",
+        "title": "Week Three",
+        "season": 3,
+        "episode": 4,
+        "released": "2004-09-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Week Three."
+      },
+      {
+        "id": "tmdb:1699:3:5",
+        "title": "Week Four",
+        "season": 3,
+        "episode": 5,
+        "released": "2004-09-21T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Week Four."
+      },
+      {
+        "id": "tmdb:1699:3:6",
+        "title": "Jay Mohr Roast",
+        "season": 3,
+        "episode": 6,
+        "released": "2004-09-28T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jay Mohr Roast."
+      },
+      {
+        "id": "tmdb:1699:3:7",
+        "title": "The Final Battle",
+        "season": 3,
+        "episode": 7,
+        "released": "2004-10-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:3:8",
+        "title": "Finale",
+        "season": 3,
+        "episode": 8,
+        "released": "2004-10-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:1",
+        "title": "Talent Scouts Look for Aspiring Comics",
+        "season": 4,
+        "episode": 1,
+        "released": "2006-05-30T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:2",
+        "title": "Round One of the Semifinals",
+        "season": 4,
+        "episode": 2,
+        "released": "2006-06-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:3",
+        "title": "Final Round of the Semifinals",
+        "season": 4,
+        "episode": 3,
+        "released": "2006-06-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:4",
+        "title": "Fourth Episode of Season 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2006-06-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:5",
+        "title": "Fifth Episode of Season 4",
+        "season": 4,
+        "episode": 5,
+        "released": "2006-06-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:6",
+        "title": "Sixth Episode of Season 4",
+        "season": 4,
+        "episode": 6,
+        "released": "2006-07-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:7",
+        "title": "5 Comics Remain",
+        "season": 4,
+        "episode": 7,
+        "released": "2006-07-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:8",
+        "title": "The Final Four",
+        "season": 4,
+        "episode": 8,
+        "released": "2006-07-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:9",
+        "title": "The Final Three",
+        "season": 4,
+        "episode": 9,
+        "released": "2006-08-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:10",
+        "title": "Season Finale (1)",
+        "season": 4,
+        "episode": 10,
+        "released": "2006-08-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:4:11",
+        "title": "Season Finale (2)",
+        "season": 4,
+        "episode": 11,
+        "released": "2006-08-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:1",
+        "title": "Auditions 1  - New York City, Montreal, San Antonio",
+        "season": 5,
+        "episode": 1,
+        "released": "2007-06-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:2",
+        "title": "Auditions 2  - New York City, Montreal, San Antonio",
+        "season": 5,
+        "episode": 2,
+        "released": "2007-06-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:3",
+        "title": "Auditions 3 - Los Angeles, Australia",
+        "season": 5,
+        "episode": 3,
+        "released": "2007-06-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:4",
+        "title": "Auditions 4  - London,Minneapolis",
+        "season": 5,
+        "episode": 4,
+        "released": "2007-06-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:5",
+        "title": "Auditions 5  - Tempe",
+        "season": 5,
+        "episode": 5,
+        "released": "2007-07-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:6",
+        "title": "Semi-Finals Part 1",
+        "season": 5,
+        "episode": 6,
+        "released": "2007-07-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:7",
+        "title": "Semi-Finals Part 2",
+        "season": 5,
+        "episode": 7,
+        "released": "2007-07-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:8",
+        "title": "The Final 10",
+        "season": 5,
+        "episode": 8,
+        "released": "2007-08-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:9",
+        "title": "The Final 8",
+        "season": 5,
+        "episode": 9,
+        "released": "2007-08-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:10",
+        "title": "The Final 7",
+        "season": 5,
+        "episode": 10,
+        "released": "2007-08-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:11",
+        "title": "The Final 5",
+        "season": 5,
+        "episode": 11,
+        "released": "2007-08-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:12",
+        "title": "The Final Four",
+        "season": 5,
+        "episode": 12,
+        "released": "2007-08-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:13",
+        "title": "The Final Three",
+        "season": 5,
+        "episode": 13,
+        "released": "2007-09-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:14",
+        "title": "The Final 2",
+        "season": 5,
+        "episode": 14,
+        "released": "2007-09-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:5:15",
+        "title": "The Finale",
+        "season": 5,
+        "episode": 15,
+        "released": "2007-09-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:1",
+        "title": "Auditions 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2008-05-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:2",
+        "title": "Auditions 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2008-05-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:3",
+        "title": "Auditions 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2008-06-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:4",
+        "title": "Auditions 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2008-06-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:5",
+        "title": "Auditions 5",
+        "season": 6,
+        "episode": 5,
+        "released": "2008-06-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:6",
+        "title": "Semifinals",
+        "season": 6,
+        "episode": 6,
+        "released": "2008-06-26T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Semifinals."
+      },
+      {
+        "id": "tmdb:1699:6:7",
+        "title": "Semifinals 2",
+        "season": 6,
+        "episode": 7,
+        "released": "2008-07-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:8",
+        "title": "Episode 8",
+        "season": 6,
+        "episode": 8,
+        "released": "2008-07-10T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mRDLW7VWQryIG3fqvXU9OgR1bYM.jpg"
+      },
+      {
+        "id": "tmdb:1699:6:9",
+        "title": "Episode 9",
+        "season": 6,
+        "episode": 9,
+        "released": "2008-07-17T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2SvGtBpiZbADwxi6nHWSwsXJVNx.jpg"
+      },
+      {
+        "id": "tmdb:1699:6:10",
+        "title": "Episode 10",
+        "season": 6,
+        "episode": 10,
+        "released": "2008-07-24T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1ObU8s4B9vtoX4AED84B7KZR5Cv.jpg"
+      },
+      {
+        "id": "tmdb:1699:6:11",
+        "title": "Episode 11",
+        "season": 6,
+        "episode": 11,
+        "released": "2008-07-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:6:12",
+        "title": "Season Finale",
+        "season": 6,
+        "episode": 12,
+        "released": "2008-08-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:1",
+        "title": "Auditions 1, Los Angeles",
+        "season": 7,
+        "episode": 1,
+        "released": "2010-06-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:2",
+        "title": "Auditions 2, New York City",
+        "season": 7,
+        "episode": 2,
+        "released": "2010-06-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:3",
+        "title": "Auditions 3, New York City",
+        "season": 7,
+        "episode": 3,
+        "released": "2010-06-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:4",
+        "title": "Semifinals, Round 1",
+        "season": 7,
+        "episode": 4,
+        "released": "2010-06-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:5",
+        "title": "Semifinals, Round 2",
+        "season": 7,
+        "episode": 5,
+        "released": "2010-07-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:6",
+        "title": "Top 10",
+        "season": 7,
+        "episode": 6,
+        "released": "2010-07-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:7",
+        "title": "Top 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2010-07-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:8",
+        "title": "Top 6",
+        "season": 7,
+        "episode": 8,
+        "released": "2010-07-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:9",
+        "title": "Top 5",
+        "season": 7,
+        "episode": 9,
+        "released": "2010-08-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:7:10",
+        "title": "Season Finale",
+        "season": 7,
+        "episode": 10,
+        "released": "2010-08-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:1",
+        "title": "Premiere (Invitationals 1 & 2)",
+        "season": 8,
+        "episode": 1,
+        "released": "2014-05-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:2",
+        "title": "Invitational 3",
+        "season": 8,
+        "episode": 2,
+        "released": "2014-05-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:3",
+        "title": "Invitational 4",
+        "season": 8,
+        "episode": 3,
+        "released": "2014-06-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:4",
+        "title": "Semifinal Night 1",
+        "season": 8,
+        "episode": 4,
+        "released": "2014-06-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:5",
+        "title": "Semifinal Night 2",
+        "season": 8,
+        "episode": 5,
+        "released": "2014-06-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:6",
+        "title": "Challenge 1 - Sketch",
+        "season": 8,
+        "episode": 6,
+        "released": "2014-06-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:7",
+        "title": "Challenge 2 - Talk Show",
+        "season": 8,
+        "episode": 7,
+        "released": "2014-07-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:8",
+        "title": "Challenge 3 - Universal Tram Experience",
+        "season": 8,
+        "episode": 8,
+        "released": "2014-07-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:9",
+        "title": "Challenge 4 - Roast",
+        "season": 8,
+        "episode": 9,
+        "released": "2014-07-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:10",
+        "title": "Finals - Top 5 to 4",
+        "season": 8,
+        "episode": 10,
+        "released": "2014-07-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:11",
+        "title": "Finals - Top 4 to 3",
+        "season": 8,
+        "episode": 11,
+        "released": "2014-08-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:8:12",
+        "title": "2 Hour Finale - Top 3 to 1",
+        "season": 8,
+        "episode": 12,
+        "released": "2014-08-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:1",
+        "title": "The Premiere",
+        "season": 9,
+        "episode": 1,
+        "released": "2015-07-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:2",
+        "title": "The Invitationals (2)",
+        "season": 9,
+        "episode": 2,
+        "released": "2015-07-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:3",
+        "title": "The Invitationals (3)",
+        "season": 9,
+        "episode": 3,
+        "released": "2015-08-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:4",
+        "title": "The Invitationals (4)",
+        "season": 9,
+        "episode": 4,
+        "released": "2015-08-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:5",
+        "title": "The Semifinals (1)",
+        "season": 9,
+        "episode": 5,
+        "released": "2015-08-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:6",
+        "title": "The Semifinals (2)",
+        "season": 9,
+        "episode": 6,
+        "released": "2015-08-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:7",
+        "title": "The Showdowns",
+        "season": 9,
+        "episode": 7,
+        "released": "2015-09-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:1699:9:8",
+        "title": "The Finale",
+        "season": 9,
+        "episode": 8,
+        "released": "2015-09-09T00:00:00.000Z"
+      }
+    ]
+  }
+}

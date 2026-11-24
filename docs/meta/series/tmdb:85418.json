@@ -1,0 +1,392 @@
+{
+  "meta": {
+    "id": "tmdb:85418",
+    "type": "series",
+    "name": "COMEDIANS of the world",
+    "releaseInfo": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/stqF0UyUVhN4g6mqKGoPxMJP6c4.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/pfeOdl8QKS85lOi3xAdZqSWcTKR.jpg",
+    "description": "Global stand-up comedy series features a diverse set of comics from 13 regions bringing their perspectives on what's funny around the world.",
+    "videos": [
+      {
+        "id": "tmdb:85418:1:1",
+        "title": "Joel Dommett",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joel Dommett."
+      },
+      {
+        "id": "tmdb:85418:1:2",
+        "title": "Mae Martin",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mae Martin."
+      },
+      {
+        "id": "tmdb:85418:1:3",
+        "title": "Nish Kumar",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nish Kumar."
+      },
+      {
+        "id": "tmdb:85418:1:4",
+        "title": "Ellie Taylor",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ellie Taylor."
+      },
+      {
+        "id": "tmdb:85418:1:5",
+        "title": "Neal Brennan",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Neal Brennan."
+      },
+      {
+        "id": "tmdb:85418:1:6",
+        "title": "Chris D'Elia",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Chris D'Elia."
+      },
+      {
+        "id": "tmdb:85418:1:7",
+        "title": "Nicole Byer",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nicole Byer."
+      },
+      {
+        "id": "tmdb:85418:1:8",
+        "title": "Nick Swardson",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nick Swardson."
+      },
+      {
+        "id": "tmdb:85418:1:9",
+        "title": "Urzila Carlson",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Urzila Carlson."
+      },
+      {
+        "id": "tmdb:85418:1:10",
+        "title": "Joel Creasey",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joel Creasey."
+      },
+      {
+        "id": "tmdb:85418:1:11",
+        "title": "Nazeem Hussain",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Nazeem Hussain."
+      },
+      {
+        "id": "tmdb:85418:1:12",
+        "title": "Cal Wilson",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Cal Wilson."
+      },
+      {
+        "id": "tmdb:85418:1:13",
+        "title": "Riaad Moosa",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Riaad Moosa."
+      },
+      {
+        "id": "tmdb:85418:1:14",
+        "title": "Tumi Morake",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tumi Morake."
+      },
+      {
+        "id": "tmdb:85418:1:15",
+        "title": "Loyiso Gola",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Loyiso Gola."
+      },
+      {
+        "id": "tmdb:85418:1:16",
+        "title": "Loyiso Madinga",
+        "season": 1,
+        "episode": 16,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Loyiso Madinga."
+      },
+      {
+        "id": "tmdb:85418:1:17",
+        "title": "DeAnne Smith",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring DeAnne Smith."
+      },
+      {
+        "id": "tmdb:85418:1:18",
+        "title": "Ivan Decker",
+        "season": 1,
+        "episode": 18,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ivan Decker."
+      },
+      {
+        "id": "tmdb:85418:1:19",
+        "title": "Dave Merheje",
+        "season": 1,
+        "episode": 19,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dave Merheje."
+      },
+      {
+        "id": "tmdb:85418:1:20",
+        "title": "K. Trevor Wilson",
+        "season": 1,
+        "episode": 20,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring K. Trevor Wilson."
+      },
+      {
+        "id": "tmdb:85418:1:21",
+        "title": "Atul Khatri",
+        "season": 1,
+        "episode": 21,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Atul Khatri."
+      },
+      {
+        "id": "tmdb:85418:1:22",
+        "title": "Aditi Mittal",
+        "season": 1,
+        "episode": 22,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Aditi Mittal."
+      },
+      {
+        "id": "tmdb:85418:1:23",
+        "title": "Amit Tandon",
+        "season": 1,
+        "episode": 23,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Amit Tandon."
+      },
+      {
+        "id": "tmdb:85418:1:24",
+        "title": "Enissa Amani",
+        "season": 1,
+        "episode": 24,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Enissa Amani."
+      },
+      {
+        "id": "tmdb:85418:1:25",
+        "title": "Ilka Bessin",
+        "season": 1,
+        "episode": 25,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ilka Bessin."
+      },
+      {
+        "id": "tmdb:85418:1:26",
+        "title": "Kaya Yanar",
+        "season": 1,
+        "episode": 26,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kaya Yanar."
+      },
+      {
+        "id": "tmdb:85418:1:27",
+        "title": "Shirley Souagnon",
+        "season": 1,
+        "episode": 27,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Shirley Souagnon."
+      },
+      {
+        "id": "tmdb:85418:1:28",
+        "title": "Jason Brokerss",
+        "season": 1,
+        "episode": 28,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jason Brokerss."
+      },
+      {
+        "id": "tmdb:85418:1:29",
+        "title": "Tania Dutel",
+        "season": 1,
+        "episode": 29,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tania Dutel."
+      },
+      {
+        "id": "tmdb:85418:1:30",
+        "title": "Donel Jack'sman",
+        "season": 1,
+        "episode": 30,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Donel Jack'sman."
+      },
+      {
+        "id": "tmdb:85418:1:31",
+        "title": "Martijn Koning",
+        "season": 1,
+        "episode": 31,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Martijn Koning."
+      },
+      {
+        "id": "tmdb:85418:1:32",
+        "title": "Soundos el Ahmadi",
+        "season": 1,
+        "episode": 32,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Soundos El Ahmadi."
+      },
+      {
+        "id": "tmdb:85418:1:33",
+        "title": "Rayen Panday",
+        "season": 1,
+        "episode": 33,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rayen Panday."
+      },
+      {
+        "id": "tmdb:85418:1:34",
+        "title": "Thiago Ventura",
+        "season": 1,
+        "episode": 34,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Thiago Ventura."
+      },
+      {
+        "id": "tmdb:85418:1:35",
+        "title": "Mhel Marrer",
+        "season": 1,
+        "episode": 35,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mhel Marrer."
+      },
+      {
+        "id": "tmdb:85418:1:36",
+        "title": "Afonso Padilha",
+        "season": 1,
+        "episode": 36,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Afonso Padilha."
+      },
+      {
+        "id": "tmdb:85418:1:37",
+        "title": "Franco Escamilla",
+        "season": 1,
+        "episode": 37,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Franco Escamilla.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2lhfDbsZvMy7IwSB9EvjDhmH6m2.jpg"
+      },
+      {
+        "id": "tmdb:85418:1:38",
+        "title": "Hugo El Cojo Feliz",
+        "season": 1,
+        "episode": 38,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Hugo El Cojo Feliz.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/23WBRqzSFJG4h8hFi23IbafeOoC.jpg"
+      },
+      {
+        "id": "tmdb:85418:1:39",
+        "title": "Gaby Llanas",
+        "season": 1,
+        "episode": 39,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Gaby Llanas.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/akSNC7Ih2IfpWsWKwHTm7bXuRRz.jpg"
+      },
+      {
+        "id": "tmdb:85418:1:40",
+        "title": "Ibraheem Alkhairallah",
+        "season": 1,
+        "episode": 40,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ibraheem Alkhairallah."
+      },
+      {
+        "id": "tmdb:85418:1:41",
+        "title": "Rawsan Hallak",
+        "season": 1,
+        "episode": 41,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rawsan Hallak."
+      },
+      {
+        "id": "tmdb:85418:1:42",
+        "title": "Adi Khalefa",
+        "season": 1,
+        "episode": 42,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Adi Khalefa."
+      },
+      {
+        "id": "tmdb:85418:1:43",
+        "title": "Moayad Alnefaie",
+        "season": 1,
+        "episode": 43,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Moayad Alnefaie."
+      },
+      {
+        "id": "tmdb:85418:1:44",
+        "title": "Louis-José Houde",
+        "season": 1,
+        "episode": 44,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Louis-José Houde."
+      },
+      {
+        "id": "tmdb:85418:1:45",
+        "title": "François Bellefeuille",
+        "season": 1,
+        "episode": 45,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring François Bellefeuille."
+      },
+      {
+        "id": "tmdb:85418:1:46",
+        "title": "Katherine Levac",
+        "season": 1,
+        "episode": 46,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Katherine Levac."
+      },
+      {
+        "id": "tmdb:85418:1:47",
+        "title": "Adib Alkhalidey",
+        "season": 1,
+        "episode": 47,
+        "released": "2019-01-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Adib Alkhalidey."
+      }
+    ]
+  }
+}

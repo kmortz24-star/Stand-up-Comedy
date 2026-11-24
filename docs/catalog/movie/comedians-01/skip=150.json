@@ -311,6 +311,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt35913136",
+      "type": "movie",
+      "name": "Are You Garbage: Route 66 Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/xNtfkVcRUU8u4zJSvYMw9nUtBMU.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt23401842",
       "type": "movie",
       "name": "Ari Shaffir: Revenge for the Holocaust",
@@ -344,13 +351,6 @@
       "name": "Ari Shaffir: America's Sweetheart",
       "poster": "https://image.tmdb.org/t/p/w500/qzFjVXte2FfV4dXZWgQvHGWhHmt.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt11256966",
-      "type": "movie",
-      "name": "Arjen Lubach: LIVE",
-      "poster": "https://image.tmdb.org/t/p/w500/lv4L12y3Fr4oOmjTCGWtxb0nRgO.jpg",
-      "releaseInfo": "2019"
     }
   ]
 }

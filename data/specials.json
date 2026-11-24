@@ -245,6 +245,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1019686",
+    "tmdb_id": 1019686,
+    "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
+    "performer": "Roy 'Chubby' Brown",
+    "release_date": "2022-01-22",
+    "poster_path": "/eJPoS7KReVcobQKddaf4v8rpMCo.jpg",
+    "popularity": 0.1746,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt24240494",
     "tmdb_id": 1019919,
     "title": "Jacob Taarnhøj: Krøllehjern'",
@@ -999,6 +1013,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1052293",
+    "tmdb_id": 1052293,
+    "title": "Count Arthur Strong: And This Is Me!",
+    "performer": "Count Arthur Strong",
+    "release_date": "2022-11-17",
+    "poster_path": "/dqqAfEzjhTzU0Cg15eXhZenceUn.jpg",
+    "popularity": 0.1364,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt23939056",
     "tmdb_id": 1052391,
     "title": "Sean Patton: Number One",
@@ -1120,6 +1148,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt16116658",
+    "tmdb_id": 1058031,
+    "title": "Luke Heggie: Have That",
+    "performer": "Luke Heggie",
+    "release_date": "2020-02-06",
+    "poster_path": "/3EwvH4bSrtV9Mn3NL3JzU2Jygx8.jpg",
+    "popularity": 0.3655,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1457726",
     "tmdb_id": 105952,
     "title": "Huge",
@@ -1158,6 +1200,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0778741",
+    "tmdb_id": 1063531,
+    "title": "Howie Mandel On Ice",
+    "performer": "Howie Mandel",
+    "release_date": "1997-04-03",
+    "poster_path": "/wzADLkRT19fwgpEEXdNOuI76ZAg.jpg",
+    "popularity": 0.2299,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt35357642",
@@ -1384,6 +1440,20 @@
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1076547",
+    "tmdb_id": 1076547,
+    "title": "Gad Elmaleh : D'ailleurs",
+    "performer": "Gad Elmaleh",
+    "release_date": "2023-01-20",
+    "poster_path": "/ytFZNGrbPuKTaLBjNWllD4YxIcb.jpg",
+    "popularity": 0.4959,
+    "original_language": "fr",
+    "vote_average": 7.0,
+    "vote_count": 13,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -1909,6 +1979,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt4241034",
+    "tmdb_id": 1099200,
+    "title": "Kenny Sebastian: Journey to the Center of My Brain",
+    "performer": "Kenny Sebastian",
+    "release_date": "2014-11-17",
+    "poster_path": "/arz62hL3t3CvUDMeBiXLRswCgMd.jpg",
+    "popularity": 0.1933,
+    "original_language": "en",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt21458670",
     "tmdb_id": 1100169,
     "title": "Jinkx Monsoon: Red Head Redemption",
@@ -2013,6 +2097,20 @@
     "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt11668996",
+    "tmdb_id": 1105442,
+    "title": "Claudia Oshry: Disgraced Queen",
+    "performer": "Claudia Oshry",
+    "release_date": "2020-06-30",
+    "poster_path": "/1zWefCSxy6ypxNAVI3ouD7tYigP.jpg",
+    "popularity": 0.4982,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt26249174",
@@ -2307,6 +2405,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt27451273",
+    "tmdb_id": 1113860,
+    "title": "Milton Jones: Milton Impossible",
+    "performer": "Milton Jones",
+    "release_date": "2023-04-07",
+    "poster_path": "/68z2DfzHuMgjpVUQt04uMgxpIQL.jpg",
+    "popularity": 0.2598,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1114092",
@@ -3486,6 +3598,76 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1172958",
+    "tmdb_id": 1172958,
+    "title": "Yonatan Barak: the real thing",
+    "performer": "Yonatan Barak",
+    "release_date": "2016-07-01",
+    "poster_path": null,
+    "popularity": 0.0479,
+    "original_language": "he",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1172964",
+    "tmdb_id": 1172964,
+    "title": "Yonatan Barak: Psychopath",
+    "performer": "Yonatan Barak",
+    "release_date": "2019-12-20",
+    "poster_path": "/5EhUlb2qckw8U3OItJmZlxji2Pk.jpg",
+    "popularity": 0.1172,
+    "original_language": "he",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1172973",
+    "tmdb_id": 1172973,
+    "title": "Yonatan Barak: wet flip flops",
+    "performer": "Yonatan Barak",
+    "release_date": "2021-11-28",
+    "poster_path": "/imGrBYhQWjnHHpXVOZOlmTS1Kmu.jpg",
+    "popularity": 0.0347,
+    "original_language": "he",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1172984",
+    "tmdb_id": 1172984,
+    "title": "Yonatan Barak: unjustified hatred",
+    "performer": "Yonatan Barak",
+    "release_date": "2022-12-18",
+    "poster_path": "/x33rrLluegQLb65gH35KqQym6x3.jpg",
+    "popularity": 0.0694,
+    "original_language": "he",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1172990",
+    "tmdb_id": 1172990,
+    "title": "Yonatan Barak: fake news",
+    "performer": "Yonatan Barak",
+    "release_date": "2024-03-23",
+    "poster_path": "/52vWSWPc4iGHrG2pQbvhqHvOu7r.jpg",
+    "popularity": 0.1392,
+    "original_language": "he",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt28267801",
     "tmdb_id": 1174076,
     "title": "Don Rickles Live Pine Knob Music Theatre",
@@ -3592,6 +3774,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1177534",
+    "tmdb_id": 1177534,
+    "title": "Keith Lowell Jensen: What I Was Arrested For",
+    "performer": "Keith Lowell Jensen",
+    "release_date": "2023-07-07",
+    "poster_path": "/vrtC1lgTkMwhqRAJ9zSpkYxORy0.jpg",
+    "popularity": 0.399,
+    "original_language": "en",
+    "vote_average": 2.5,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1177746",
     "tmdb_id": 1177746,
     "title": "Curtis Walker - NextUp Special",
@@ -3626,6 +3822,20 @@
     "release_date": "2017-08-25",
     "poster_path": "/renzTocQOFx7MowBrYyWJeo2hq7.jpg",
     "popularity": 0.0974,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1178170",
+    "tmdb_id": 1178170,
+    "title": "Jack Tucker: Comedy Standup Hour",
+    "performer": "Jack Tucker",
+    "release_date": "2022-08-28",
+    "poster_path": "/mp5TH60mbh2oDolaHsQsRUEsOt5.jpg",
+    "popularity": 0.1043,
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -3883,6 +4093,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt26929701",
+    "tmdb_id": 1179799,
+    "title": "Luke Heggie: I Already Told You",
+    "performer": "Luke Heggie",
+    "release_date": "2022-11-11",
+    "poster_path": "/erZ3t8jqQE4dYq9kjxZhdcjJe7Z.jpg",
+    "popularity": 0.1956,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt28496539",
     "tmdb_id": 1179875,
     "title": "Kountry Wayne: A Woman's Prayer",
@@ -3929,6 +4153,34 @@
     "release_date": "",
     "poster_path": null,
     "popularity": 0.0145,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1179968",
+    "tmdb_id": 1179968,
+    "title": "Roy Chubby Brown - Jingle B*@!*cks",
+    "performer": "Roy Chubby Brown",
+    "release_date": "",
+    "poster_path": null,
+    "popularity": 0.0,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1179969",
+    "tmdb_id": 1179969,
+    "title": "Roy Chubby Brown: Crowd Pleaser",
+    "performer": "Roy Chubby Brown",
+    "release_date": "",
+    "poster_path": null,
+    "popularity": 0.0025,
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -4162,6 +4414,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt29261000",
+    "tmdb_id": 1192429,
+    "title": "Heather McMahan: Son I Never Had",
+    "performer": "Heather McMahan",
+    "release_date": "2023-10-17",
+    "poster_path": "/jyisUv3KVPgrEJ3gWOUaPPVI65p.jpg",
+    "popularity": 0.5353,
+    "original_language": "en",
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt29543598",
     "tmdb_id": 1193125,
     "title": "Kevin Hart & Chris Rock: Headliners Only",
@@ -4199,6 +4465,20 @@
     "original_language": "en",
     "vote_average": 10.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1194926",
+    "tmdb_id": 1194926,
+    "title": "Marc Jennings: Original Sound",
+    "performer": "Marc Jennings",
+    "release_date": "",
+    "poster_path": "/skg6CXDjL7l18oAOf4TjVkiY2Rd.jpg",
+    "popularity": 0.2069,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -4525,6 +4805,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt1486726",
+    "tmdb_id": 1213702,
+    "title": "Howie Mandel: Live from Carnegie Mall",
+    "performer": "Howie Mandel",
+    "release_date": "1985-01-01",
+    "poster_path": null,
+    "popularity": 0.3885,
+    "original_language": "en",
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt30218365",
@@ -5236,6 +5530,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt2309170",
+    "tmdb_id": 123095,
+    "title": "Kathy Griffin: Seaman 1st Class",
+    "performer": "Kathy Griffin",
+    "release_date": "2012-07-26",
+    "poster_path": "/g2zNMsuIg6S4UpLUYNdpuCNzvMR.jpg",
+    "popularity": 0.3918,
+    "original_language": "en",
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1231442",
     "tmdb_id": 1231442,
     "title": "Stewart Francis: Into the Punset",
@@ -5274,6 +5582,20 @@
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt2192038",
+    "tmdb_id": 123279,
+    "title": "Kathy Griffin: Pants Off",
+    "performer": "Kathy Griffin",
+    "release_date": "2011-09-20",
+    "poster_path": "/jFMqmbPc1FQwMLCSy4Fi0aL1iFc.jpg",
+    "popularity": 0.3856,
+    "original_language": "en",
+    "vote_average": 6.5,
+    "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -5478,6 +5800,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt31194520",
+    "tmdb_id": 1242596,
+    "title": "Rory Scovel: Religion, Sex and a Few Things In Between",
+    "performer": "Rory Scovel",
+    "release_date": "2024-02-21",
+    "poster_path": "/ppHg8tRmTZyhpT2VeLlLSq4ycQv.jpg",
+    "popularity": 0.5768,
+    "original_language": "en",
+    "vote_average": 5.786,
+    "vote_count": 7,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1243081",
@@ -6186,6 +6522,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1270753",
+    "tmdb_id": 1270753,
+    "title": "Yonatan Barak - World champion of comedy",
+    "performer": "Yonatan Barak",
+    "release_date": "",
+    "poster_path": null,
+    "popularity": 0.0025,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt32046453",
@@ -7673,6 +8023,76 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt1075035",
+    "tmdb_id": 133377,
+    "title": "Roy Chubby Brown: Kick-Arse Chubbs",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2006-11-06",
+    "poster_path": "/xct0HM3A2XrZeiV7IXEKnHZRFmu.jpg",
+    "popularity": 0.2705,
+    "original_language": "en",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0359918",
+    "tmdb_id": 133381,
+    "title": "Roy Chubby Brown: Standing Room Only",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2002-11-11",
+    "poster_path": "/tEhcHaty2a5CIyMQV8WtacwNYG9.jpg",
+    "popularity": 0.3155,
+    "original_language": "en",
+    "vote_average": 6.8,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1075037",
+    "tmdb_id": 133388,
+    "title": "Roy Chubby Brown: Saturday Night Beaver",
+    "performer": "Roy Chubby Brown",
+    "release_date": "1996-10-30",
+    "poster_path": "/zwO1H22sOmtPOnC2hAuOcI7Dyt1.jpg",
+    "popularity": 0.2045,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0262340",
+    "tmdb_id": 133630,
+    "title": "Roy Chubby Brown: Clitoris Allsorts - Live at Blackpool",
+    "performer": "Roy Chubby Brown",
+    "release_date": "1995-11-06",
+    "poster_path": "/fo1QKtPr1xDuPp5SuZ064UQZsDn.jpg",
+    "popularity": 0.1935,
+    "original_language": "en",
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0369881",
+    "tmdb_id": 133637,
+    "title": "Roy Chubby Brown: Stocking Filler",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2001-11-12",
+    "poster_path": "/m40FjQszcuFYMdGlGmEvpaFo8vj.jpg",
+    "popularity": 0.224,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1336526",
     "tmdb_id": 1336526,
     "title": "Daniel Sosa: Especial de Día de Muertos",
@@ -8388,6 +8808,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1365657",
+    "tmdb_id": 1365657,
+    "title": "Heather McMahan: Breadwinner",
+    "performer": "Heather McMahan",
+    "release_date": "2024-10-11",
+    "poster_path": "/n5VJPeF6U7xWy7URXywBQEIov7R.jpg",
+    "popularity": 0.2288,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt31321952",
     "tmdb_id": 1366626,
     "title": "Kim Congdon: Childless Milf",
@@ -8617,6 +9051,34 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt1075040",
+    "tmdb_id": 138152,
+    "title": "Roy Chubby Brown: Thunder B*!!*cks",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2000-11-30",
+    "poster_path": "/iYKRrENhwVQstbTZbwSX28LrPLc.jpg",
+    "popularity": 0.2002,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt32808338",
+    "tmdb_id": 1381796,
+    "title": "Mike Cannon: White Privilege Homeless",
+    "performer": "Mike Cannon",
+    "release_date": "2023-12-13",
+    "poster_path": null,
+    "popularity": 0.1093,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1382342",
     "tmdb_id": 1382342,
     "title": "Matt Stewart Live at Stupid Old Studios",
@@ -8627,6 +9089,20 @@
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt2217861",
+    "tmdb_id": 138323,
+    "title": "Louie Anderson: Big Baby Boomer",
+    "performer": "Louie Anderson",
+    "release_date": "2012-04-01",
+    "poster_path": "/nbZan3apGerlbfy8ksnI9eXzleO.jpg",
+    "popularity": 0.3535,
+    "original_language": "en",
+    "vote_average": 7.2,
+    "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -8642,6 +9118,20 @@
     "vote_count": 16,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0165165",
+    "tmdb_id": 138396,
+    "title": "Roy Chubby Brown: Chubby Goes Down Under And Other Sticky Regions",
+    "performer": "Roy Chubby Brown",
+    "release_date": "1998-10-01",
+    "poster_path": "/huUqLRtibpHJth6eVX3zyHk2xfZ.jpg",
+    "popularity": 0.4462,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt35349842",
@@ -8869,6 +9359,20 @@
     "original_language": "en",
     "vote_average": 7.5,
     "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1075041",
+    "tmdb_id": 139296,
+    "title": "Roy Chubby Brown: You Fat Bastard!",
+    "performer": "Roy Chubby Brown",
+    "release_date": "1999-11-15",
+    "poster_path": "/gFjiWvea4fzcLJ6c36BBWJfp9eu.jpg",
+    "popularity": 0.2995,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -9438,6 +9942,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt32982833",
+    "tmdb_id": 1406359,
+    "title": "Roy Wood Jr.: Lonely Flowers",
+    "performer": "Roy Wood Jr.",
+    "release_date": "2025-01-16",
+    "poster_path": "/uxAJmb9RDgT9udAMALBjLEWKCpj.jpg",
+    "popularity": 1.4517,
+    "original_language": "en",
+    "vote_average": 4.8,
+    "vote_count": 11,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt35152839",
     "tmdb_id": 1406447,
     "title": "Paul Chowdhry: Family Friendly Comedian",
@@ -9902,6 +10420,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:1419203",
+    "tmdb_id": 1419203,
+    "title": "Frankie Quiñones: Superhomies",
+    "performer": "Frankie Quiñones",
+    "release_date": "2021-07-09",
+    "poster_path": "/kWQrcMhrztXXUKqegMfQlNudqrv.jpg",
+    "popularity": 0.1353,
+    "original_language": "en",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1420054",
     "tmdb_id": 1420054,
     "title": "Christian Fuhlendorff - Ærlig talt",
@@ -10020,6 +10552,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt4197658",
+    "tmdb_id": 142685,
+    "title": "Philippe Geubels: Hoe Moet Het Nu Verder?",
+    "performer": "Philippe Geubels",
+    "release_date": "2012-09-21",
+    "poster_path": "/7KN1DSYaXf74eLR7iHudyUMyafs.jpg",
+    "popularity": 0.191,
+    "original_language": "nl",
+    "vote_average": 6.2,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt35638446",
@@ -10439,6 +10985,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt35913136",
+    "tmdb_id": 1440462,
+    "title": "Are You Garbage: Route 66 Tour",
+    "performer": "Are You Garbage",
+    "release_date": "2025-02-25",
+    "poster_path": "/xNtfkVcRUU8u4zJSvYMw9nUtBMU.jpg",
+    "popularity": 0.2266,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1440601",
     "tmdb_id": 1440601,
     "title": "Luca Ravenna - Red Sox",
@@ -10449,6 +11009,20 @@
     "original_language": "it",
     "vote_average": 8.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:144100",
+    "tmdb_id": 144100,
+    "title": "Roy Chubby Brown's Front Page Boobs",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2012-11-12",
+    "poster_path": "/smIKcCIts5t0uqZRNePzU1h28eu.jpg",
+    "popularity": 0.4634,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -10491,6 +11065,20 @@
     "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt2573024",
+    "tmdb_id": 144318,
+    "title": "Rhod Gilbert: The Man With The Flaming Battenberg Tattoo",
+    "performer": "Rhod Gilbert",
+    "release_date": "2012-11-19",
+    "poster_path": "/xA4o2Oc86bmqpNpLU9LFXj8c2Q9.jpg",
+    "popularity": 0.3509,
+    "original_language": "en",
+    "vote_average": 7.6,
+    "vote_count": 8,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt4943818",
@@ -10598,6 +11186,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1445996",
+    "tmdb_id": 1445996,
+    "title": "Derrick Stroup: Yelling My Feelings",
+    "performer": "Derrick Stroup",
+    "release_date": "2023-12-16",
+    "poster_path": "/kaxbxDDzSnzqcHkKY3IYc3cSoRu.jpg",
+    "popularity": 0.2525,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2488254",
@@ -11064,6 +11666,20 @@
     "vote_count": 6,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1463280",
+    "tmdb_id": 1463280,
+    "title": "Yonatan Barak: World Champion in Comedy",
+    "performer": "Yonatan Barak",
+    "release_date": "2025-04-10",
+    "poster_path": null,
+    "popularity": 0.142,
+    "original_language": "he",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt36519331",
@@ -12284,6 +12900,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1524643",
+    "tmdb_id": 1524643,
+    "title": "Ruslan Belyy: Your Voice",
+    "performer": "Ruslan Belyy",
+    "release_date": "2025-07-23",
+    "poster_path": "/rEVtkt0tBKNB6frUEsYRYsnqCiq.jpg",
+    "popularity": 0.2305,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0085474",
     "tmdb_id": 15251,
     "title": "Eddie Murphy: Delirious",
@@ -12399,6 +13029,20 @@
     "original_language": "en",
     "vote_average": 10.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:1531561",
+    "tmdb_id": 1531561,
+    "title": "Ricardo Pérez: Especial 4/20",
+    "performer": "Ricardo Pérez",
+    "release_date": "2023-04-20",
+    "poster_path": "/2iv6PXfB6I3pThcyqgxWrCqomnI.jpg",
+    "popularity": 0.0998,
+    "original_language": "es",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -13486,6 +14130,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1572049",
+    "tmdb_id": 1572049,
+    "title": "Phoebe Robinson: I Don't Wanna Work Anymore",
+    "performer": "Phoebe Robinson",
+    "release_date": "2025-10-07",
+    "poster_path": null,
+    "popularity": 0.4701,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1572982",
     "tmdb_id": 1572982,
     "title": "Brian Mørk: Langt over grænsen",
@@ -14175,6 +14833,20 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1589619",
+    "tmdb_id": 1589619,
+    "title": "Howie Mandel: Howie Spent Our Summer",
+    "performer": "Howie Mandel",
+    "release_date": "1992-06-06",
+    "poster_path": null,
+    "popularity": 0.2344,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1589792",
@@ -17450,6 +18122,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:1705367",
+    "tmdb_id": 1705367,
+    "title": "Gabriel Rutledge: A Reasonable Hour",
+    "performer": "Gabriel Rutledge",
+    "release_date": "2026-05-15",
+    "poster_path": null,
+    "popularity": 0.063,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1705530",
     "tmdb_id": 1705530,
     "title": "Cojo Feliz: Última Vida",
@@ -18792,6 +19478,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt12970198",
+    "tmdb_id": 1763732,
+    "title": "Phoebe Robinson: Sorry, Harriet Tubman",
+    "performer": "Phoebe Robinson",
+    "release_date": "2021-01-01",
+    "poster_path": "/4gjNeKFg5RiJ6E26LLgw9CGpks.jpg",
+    "popularity": 0.1111,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:1765359",
     "tmdb_id": 1765359,
     "title": "Franjo",
@@ -18869,6 +19569,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:1770059",
+    "tmdb_id": 1770059,
+    "title": "Are You Garbage Presents: American Garbage",
+    "performer": "Kevin Ryan",
+    "release_date": "2026-09-13",
+    "poster_path": "/rpwRQN00L7mw57QQvqCRCOTbkb6.jpg",
+    "popularity": 0.3489,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:1770089",
@@ -19907,6 +20621,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:1827977",
+    "tmdb_id": 1827977,
+    "title": "Rory Scovel: Improvised in Brooklyn",
+    "performer": "Rory Scovel",
+    "release_date": "2026-11-15",
+    "poster_path": "/vdlz9clK50eadRmE6xLzIjPCwba.jpg",
+    "popularity": 0.4455,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt51299438",
     "tmdb_id": 1828300,
     "title": "Chad Daniels: Nothing to Fix",
@@ -20375,6 +21103,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt2888642",
+    "tmdb_id": 199546,
+    "title": "Kathy Griffin: Calm Down Gurrl",
+    "performer": "Kathy Griffin",
+    "release_date": "2013-06-04",
+    "poster_path": "/inNSSwV1AzvDi3uggOE8Gfeqeiw.jpg",
+    "popularity": 0.5537,
+    "original_language": "en",
+    "vote_average": 5.6,
+    "vote_count": 7,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0975673",
     "tmdb_id": 19993,
     "title": "George Lopez: America's Mexican",
@@ -20658,6 +21400,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt5242012",
+    "tmdb_id": 211578,
+    "title": "Gerry Dee: No Reading Ahead - Live in Concert",
+    "performer": "Gerry Dee",
+    "release_date": "2007-10-30",
+    "poster_path": "/ttrBLdWQSlUoRXZ1sId8wZmfa0r.jpg",
+    "popularity": 0.3757,
+    "original_language": "en",
+    "vote_average": 1.5,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt1135090",
     "tmdb_id": 21231,
     "title": "Katt Williams: American Hustle",
@@ -20934,6 +21690,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt0951386",
+    "tmdb_id": 22407,
+    "title": "Theo Maassen: Tegen beter weten in",
+    "performer": "Theo Maassen",
+    "release_date": "2006-12-30",
+    "poster_path": "/EWRPpTu04sSvXzDalMY3SLatzp.jpg",
+    "popularity": 0.3968,
+    "original_language": "nl",
+    "vote_average": 7.1,
+    "vote_count": 8,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0423871",
     "tmdb_id": 22427,
     "title": "Blue Collar Comedy Tour Rides Again",
@@ -20946,6 +21716,20 @@
     "vote_count": 35,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt0869151",
+    "tmdb_id": 22431,
+    "title": "Theo Maassen: Ruwe Pit",
+    "performer": "Theo Maassen",
+    "release_date": "1998-12-30",
+    "poster_path": "/rb3rKiP10QqUsi4iQyL3i4cUfTe.jpg",
+    "popularity": 0.2644,
+    "original_language": "nl",
+    "vote_average": 6.2,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1043434",
@@ -21423,6 +22207,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt0435636",
+    "tmdb_id": 23992,
+    "title": "Eddie Griffin: Voodoo Child",
+    "performer": "Eddie Griffin",
+    "release_date": "1997-05-31",
+    "poster_path": "/us4rE7nsIAEW1weyeCDbNO3RsTZ.jpg",
+    "popularity": 0.3471,
+    "original_language": "en",
+    "vote_average": 6.1,
+    "vote_count": 12,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt3321174",
     "tmdb_id": 239972,
     "title": "Simon Talbot: Talle Alene I Verden",
@@ -21527,6 +22325,20 @@
     "vote_count": 191,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt3404120",
+    "tmdb_id": 244808,
+    "title": "Kathy Griffin: Record Breaker",
+    "performer": "Kathy Griffin",
+    "release_date": "2013-12-18",
+    "poster_path": "/7CdvHW2fUNTEpgq7MDbOggPJnIX.jpg",
+    "popularity": 0.3906,
+    "original_language": "en",
+    "vote_average": 7.1,
+    "vote_count": 7,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt0231542",
@@ -21736,6 +22548,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt3441700",
+    "tmdb_id": 250114,
+    "title": "Nick Offerman: American Ham",
+    "performer": "Nick Offerman",
+    "release_date": "2014-01-23",
+    "poster_path": "/2Z8lC8DUEZQrmEASJNADX7sj8a6.jpg",
+    "popularity": 0.5353,
+    "original_language": "en",
+    "vote_average": 6.923,
+    "vote_count": 39,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt3482362",
     "tmdb_id": 250263,
     "title": "Neal Brennan: Women and Black Dudes",
@@ -21908,6 +22734,20 @@
     "vote_count": 36,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:254898",
+    "tmdb_id": 254898,
+    "title": "Gerry Dee: New Year’s Eve 2013",
+    "performer": "Gerry Dee",
+    "release_date": "2013-12-31",
+    "poster_path": null,
+    "popularity": 0.1796,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2170618",
@@ -22144,6 +22984,76 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1415208",
+    "tmdb_id": 26016,
+    "title": "Kathy Griffin: She'll Cut a Bitch",
+    "performer": "Kathy Griffin",
+    "release_date": "2009-04-15",
+    "poster_path": "/xfTLMnwdo57rCrj78aOUv6RJHHS.jpg",
+    "popularity": 0.516,
+    "original_language": "en",
+    "vote_average": 7.2,
+    "vote_count": 10,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1150945",
+    "tmdb_id": 26017,
+    "title": "Kathy Griffin: Straight to Hell",
+    "performer": "Kathy Griffin",
+    "release_date": "2007-11-29",
+    "poster_path": "/20i06InuW3QpbEJlKqHQBVuxYBu.jpg",
+    "popularity": 0.4024,
+    "original_language": "en",
+    "vote_average": 6.7,
+    "vote_count": 11,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0470131",
+    "tmdb_id": 26020,
+    "title": "Kathy Griffin: Allegedly",
+    "performer": "Kathy Griffin",
+    "release_date": "2004-11-30",
+    "poster_path": "/64XDwqsDX2H7uBsJrzMJ2OC7WRa.jpg",
+    "popularity": 0.3716,
+    "original_language": "en",
+    "vote_average": 6.8,
+    "vote_count": 14,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0803016",
+    "tmdb_id": 26054,
+    "title": "Kathy Griffin: Strong Black Woman",
+    "performer": "Kathy Griffin",
+    "release_date": "2006-05-09",
+    "poster_path": "/zZBPUoygev74uIO8601NLyiRgUw.jpg",
+    "popularity": 0.3561,
+    "original_language": "en",
+    "vote_average": 6.2,
+    "vote_count": 10,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0438129",
+    "tmdb_id": 26057,
+    "title": "Kathy Griffin: The D-List",
+    "performer": "Kathy Griffin",
+    "release_date": "2004-03-24",
+    "poster_path": "/hKAqZ4WmKjtAZmzmtkGnWEl0ie6.jpg",
+    "popularity": 0.4206,
+    "original_language": "en",
+    "vote_average": 6.9,
+    "vote_count": 11,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0497531",
     "tmdb_id": 26140,
     "title": "Stewart Lee: Stand-Up Comedian",
@@ -22209,6 +23119,20 @@
     "vote_count": 22,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0848574",
+    "tmdb_id": 261612,
+    "title": "Gary Gulman: Boyish Man",
+    "performer": "Gary Gulman",
+    "release_date": "2005-06-01",
+    "poster_path": "/yrNFBRtrauezo9VBub3cosPXI1R.jpg",
+    "popularity": 0.3326,
+    "original_language": "en",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt3596842",
@@ -22359,6 +23283,20 @@
     "vote_count": 16,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt2763654",
+    "tmdb_id": 26489,
+    "title": "Philippe Geubels: Droog",
+    "performer": "Philippe Geubels",
+    "release_date": "2009-11-18",
+    "poster_path": "/gUnYE7bGetaSJu6ZRTM7ra6sD1D.jpg",
+    "popularity": 0.0967,
+    "original_language": "nl",
+    "vote_average": 6.5,
+    "vote_count": 8,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1562276",
@@ -22876,6 +23814,20 @@
     "original_language": "en",
     "vote_average": 10.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1833117",
+    "tmdb_id": 28125,
+    "title": "Jacob Tingleff - Tingleff, Tingleff eller Tingleff",
+    "performer": "Jacob Tingleff",
+    "release_date": "2008-10-27",
+    "poster_path": "/2Bah74C15wnd9OGATJRBYWfJxD7.jpg",
+    "popularity": 0.2825,
+    "original_language": "da",
+    "vote_average": 5.8,
+    "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -23456,6 +24408,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tt0298844",
+    "tmdb_id": 30274,
+    "title": "Gad Elmaleh - Décalages",
+    "performer": "Gad Elmaleh",
+    "release_date": "1997-09-01",
+    "poster_path": "/2ZFa8zSJbYkvwhWlbR9qGdEjsry.jpg",
+    "popularity": 0.3076,
+    "original_language": "fr",
+    "vote_average": 6.263,
+    "vote_count": 40,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:303744",
     "tmdb_id": 303744,
     "title": "Just for Laughs Stand Up, Vol. 1: Best of the Uptown Comics",
@@ -23659,6 +24625,20 @@
     "vote_count": 196,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:308643",
+    "tmdb_id": 308643,
+    "title": "Roy Chubby Brown - Don't Get Fit Get Fat",
+    "performer": "Roy 'Chubby' Brown",
+    "release_date": "2014-11-24",
+    "poster_path": "/ptYW67dmi0KRcvMIsIgJKwITuOH.jpg",
+    "popularity": 0.1306,
+    "original_language": "en",
+    "vote_average": 6.2,
+    "vote_count": 5,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1315713",
@@ -24059,6 +25039,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tmdb:322808",
+    "tmdb_id": 322808,
+    "title": "Martin Nørgaard: En Time på Huset",
+    "performer": "Martin Nørgaard",
+    "release_date": "2014-05-12",
+    "poster_path": "/g6cguAam2oq7mIEBR0tpRS05A6U.jpg",
+    "popularity": 0.2815,
+    "original_language": "da",
+    "vote_average": 8.5,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0228067",
     "tmdb_id": 32288,
     "title": "Billy Connolly: Billy and Albert (Live at the Royal Albert Hall)",
@@ -24428,6 +25422,62 @@
     "vote_count": 29,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt0284138",
+    "tmdb_id": 334938,
+    "title": "Gallagher: Over Your Head",
+    "performer": "Gallagher",
+    "release_date": "1984-01-01",
+    "poster_path": "/gNhiGQWYjXux09cYHL6CFsJhQyI.jpg",
+    "popularity": 0.3227,
+    "original_language": "en",
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0281875",
+    "tmdb_id": 334941,
+    "title": "Gallagher: the Bookkeeper",
+    "performer": "Gallagher",
+    "release_date": "1985-06-22",
+    "poster_path": "/yIqYXtzfzzoNQGduT5no2EpfsFu.jpg",
+    "popularity": 0.1117,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt1790703",
+    "tmdb_id": 335574,
+    "title": "Gallagher: Two Real",
+    "performer": "Gallagher",
+    "release_date": "1982-04-19",
+    "poster_path": "/iyViPvWMrvEpiqAzbTWlDjIQjqQ.jpg",
+    "popularity": 0.1887,
+    "original_language": "en",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0285129",
+    "tmdb_id": 335577,
+    "title": "Gallagher: Melon Crazy",
+    "performer": "Gallagher",
+    "release_date": "1984-02-08",
+    "poster_path": "/cM3Oi0hr4U7E4aSPdQ5aTvAAIfm.jpg",
+    "popularity": 0.1858,
+    "original_language": "en",
+    "vote_average": 7.0,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1741637",
@@ -24879,6 +25929,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:354653",
+    "tmdb_id": 354653,
+    "title": "Keith Lowell Jensen: Cats Made of Rabbits",
+    "performer": "Keith Lowell Jensen",
+    "release_date": "2011-09-27",
+    "poster_path": "/pHM374XA5oMfYwiaTl3m0Ug50du.jpg",
+    "popularity": 0.1768,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt4909348",
     "tmdb_id": 355178,
     "title": "Amy Schumer: Live at the Apollo",
@@ -24903,6 +25967,20 @@
     "vote_count": 8,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt43613575",
+    "tmdb_id": 35550,
+    "title": "Milton Jones: Live Universe Tour: Part One: Earth",
+    "performer": "Milton Jones",
+    "release_date": "2010-11-22",
+    "poster_path": "/9H0BWplj7SfEBLM9qRH6owl5c1b.jpg",
+    "popularity": 0.2992,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt1530890",
@@ -25312,6 +26390,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:369133",
+    "tmdb_id": 369133,
+    "title": "Roy Chubby Brown - Hangs up the Helmet Live",
+    "performer": "Roy 'Chubby' Brown",
+    "release_date": "2015-11-16",
+    "poster_path": "/pkIcNhuZaEaJDOgYD47yh5iRFsD.jpg",
+    "popularity": 0.2415,
+    "original_language": "en",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0305727",
     "tmdb_id": 36963,
     "title": "Kevin James: Sweat the Small Stuff",
@@ -25703,6 +26795,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt6051412",
+    "tmdb_id": 380057,
+    "title": "Rory Scovel: The Charleston Special",
+    "performer": "Rory Scovel",
+    "release_date": "2015-10-27",
+    "poster_path": "/oVs3HrnwZNPviYlAQmhXDGvyM6t.jpg",
+    "popularity": 0.44,
+    "original_language": "en",
+    "vote_average": 7.1,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt5275780",
     "tmdb_id": 380061,
     "title": "Cameron Esposito: Marriage Material",
@@ -25906,6 +27012,34 @@
     "vote_count": 6,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0285132",
+    "tmdb_id": 386658,
+    "title": "Gallagher: Totally New",
+    "performer": "Gallagher",
+    "release_date": "1982-04-28",
+    "poster_path": "/siGdznIr2RjwhTjzi1b7gvQKsRZ.jpg",
+    "popularity": 0.1148,
+    "original_language": "en",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0285130",
+    "tmdb_id": 386659,
+    "title": "Gallagher: Smashing Cheeseheads",
+    "performer": "Gallagher",
+    "release_date": "1998-04-29",
+    "poster_path": "/yx9ss0Y2gyNoX6I29YWvqj0PpDF.jpg",
+    "popularity": 0.0712,
+    "original_language": "en",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt5222724",
@@ -26150,6 +27284,20 @@
     "original_language": "en",
     "vote_average": 6.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt5661030",
+    "tmdb_id": 396109,
+    "title": "Gary Gulman: It's About Time",
+    "performer": "Gary Gulman",
+    "release_date": "2016-05-01",
+    "poster_path": "/cCrBOXkFVV8aVyF73cMDpRnhJiu.jpg",
+    "popularity": 0.2857,
+    "original_language": "en",
+    "vote_average": 6.7,
+    "vote_count": 13,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -26930,6 +28078,20 @@
     "original_language": "en",
     "vote_average": 6.9,
     "vote_count": 8,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt9530692",
+    "tmdb_id": 427055,
+    "title": "Roy Chubby Brown: Great British Jerk Off",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2016-11-21",
+    "poster_path": "/gQi5rtIID1ft5cMat1ZkN5zLxGy.jpg",
+    "popularity": 0.2951,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -27761,6 +28923,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt6318432",
+    "tmdb_id": 453764,
+    "title": "Kenny Sebastian: Don't Be That Guy",
+    "performer": "Kenny Sebastian",
+    "release_date": "2017-04-23",
+    "poster_path": "/nJGam4JG0sd6GHlutjA61KEEI7V.jpg",
+    "popularity": 0.3019,
+    "original_language": "en",
+    "vote_average": 7.2,
+    "vote_count": 14,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:45462",
     "tmdb_id": 45462,
     "title": "Hennes Bender - Live in der Stadt, die es nicht gibt.",
@@ -27812,6 +28988,20 @@
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt0234018",
+    "tmdb_id": 457298,
+    "title": "Kathy Griffin: Hot Cup of Talk",
+    "performer": "Kathy Griffin",
+    "release_date": "1998-08-14",
+    "poster_path": "/ueSwmA2TpIXEyXCvjERwOnwvQ2C.jpg",
+    "popularity": 0.5153,
+    "original_language": "en",
+    "vote_average": 9.0,
+    "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -28073,6 +29263,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:46238",
+    "tmdb_id": 46238,
+    "title": "Rune Klan - Three in One",
+    "performer": "Rune Klan",
+    "release_date": "2003-10-10",
+    "poster_path": "/rrUSKLudGPHJLCLypvMDsm4vxA2.jpg",
+    "popularity": 0.3791,
+    "original_language": "da",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt8089850",
     "tmdb_id": 462836,
     "title": "Henk Rijckaert: Het Experiment",
@@ -28179,6 +29383,20 @@
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:468175",
+    "tmdb_id": 468175,
+    "title": "Eddie Griffin's Last Stand",
+    "performer": "Eddie Griffin",
+    "release_date": "2003-12-01",
+    "poster_path": "/i7RZbJB9S9OA8O47Yl6jsNf3kJs.jpg",
+    "popularity": 0.3152,
+    "original_language": "en",
+    "vote_average": 9.0,
+    "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -29127,6 +30345,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tmdb:497921",
+    "tmdb_id": 497921,
+    "title": "The 3rd Annual Howie Mandel Stand-up Gala",
+    "performer": null,
+    "release_date": "2017-12-27",
+    "poster_path": "/ki3G61S8tvVikHAoquEqCBJCwHG.jpg",
+    "popularity": 0.0601,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt7827042",
     "tmdb_id": 498092,
     "title": "Unsportsmanlike Comedy with Rob Gronkowski",
@@ -29153,6 +30385,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt7842288",
+    "tmdb_id": 500246,
+    "title": "Eddie Griffin: Undeniable",
+    "performer": "Eddie Griffin",
+    "release_date": "2018-02-09",
+    "poster_path": "/p6Rto9VBudDMT5WTAF0PEgzcO9k.jpg",
+    "popularity": 0.1729,
+    "original_language": "en",
+    "vote_average": 7.3,
+    "vote_count": 6,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2121810",
@@ -29302,6 +30548,20 @@
     "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt7924798",
+    "tmdb_id": 502616,
+    "title": "Fred Armisen: Standup for Drummers",
+    "performer": "Fred Armisen",
+    "release_date": "2018-02-06",
+    "poster_path": "/2thxqf0Rbm2GaphAfAUdP8dvpXg.jpg",
+    "popularity": 0.6506,
+    "original_language": "en",
+    "vote_average": 6.4,
+    "vote_count": 34,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt2075226",
@@ -29618,6 +30878,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1388340",
+    "tmdb_id": 51459,
+    "title": "Eddie Griffin: Freedom of Speech",
+    "performer": "Eddie Griffin",
+    "release_date": "2008-04-08",
+    "poster_path": "/qsGrZgwOs8B6Jqen0ECBJ6UgfEG.jpg",
+    "popularity": 0.4804,
+    "original_language": "en",
+    "vote_average": 7.3,
+    "vote_count": 11,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:51518",
     "tmdb_id": 51518,
     "title": "Louis-José Houde: Suivre la parade",
@@ -29628,6 +30902,34 @@
     "original_language": "fr",
     "vote_average": 8.0,
     "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:515584",
+    "tmdb_id": 515584,
+    "title": "Louie Anderson: Live at the Guthrie",
+    "performer": "Louie Anderson",
+    "release_date": "1987-09-13",
+    "poster_path": "/6G6wYgo1VcfYStPUAvkeq9DNdt2.jpg",
+    "popularity": 0.2178,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt8060054",
+    "tmdb_id": 515883,
+    "title": "Rahul Subramanian: Kal Main Udega",
+    "performer": "Rahul Subramanian",
+    "release_date": "2018-03-16",
+    "poster_path": "/qqIiGJg1nXhNnfHbgfe1Zw5JNqy.jpg",
+    "popularity": 0.354,
+    "original_language": "en",
+    "vote_average": 7.3,
+    "vote_count": 12,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -30020,6 +31322,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt7635268",
+    "tmdb_id": 528178,
+    "title": "Louie Anderson: Big Underwear",
+    "performer": "Louie Anderson",
+    "release_date": "2018-04-03",
+    "poster_path": "/AfAUSTmtdScAc5AXYJRicUKIQJo.jpg",
+    "popularity": 0.4088,
+    "original_language": "en",
+    "vote_average": 6.8,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt8467922",
     "tmdb_id": 529414,
     "title": "Franco Escamilla: por la anécdota",
@@ -30059,6 +31375,20 @@
     "vote_count": 312,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0284139",
+    "tmdb_id": 52962,
+    "title": "Gallagher: Stuck in the 60's",
+    "performer": "Gallagher",
+    "release_date": "1983-05-19",
+    "poster_path": "/q6rmLsjByvtV7g87XGYAJKQAoBK.jpg",
+    "popularity": 0.2894,
+    "original_language": "en",
+    "vote_average": 4.6,
+    "vote_count": 7,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt0391525",
@@ -30150,6 +31480,20 @@
     "original_language": "en",
     "vote_average": 6.7,
     "vote_count": 18,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:534015",
+    "tmdb_id": 534015,
+    "title": "Phil Wang: Mellow Yellow",
+    "performer": "Phil Wang",
+    "release_date": "2016-09-22",
+    "poster_path": "/uH6p5435sLTE1pZE5EW0kJfBt7n.jpg",
+    "popularity": 0.3365,
+    "original_language": "en",
+    "vote_average": 6.0,
+    "vote_count": 2,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -30261,6 +31605,20 @@
     "vote_count": 83,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tmdb:536573",
+    "tmdb_id": 536573,
+    "title": "Simon Munnery: Renegade Plumber",
+    "performer": "Simon Munnery",
+    "release_date": "2018-07-17",
+    "poster_path": "/nd3rEsYjfgXqOZNSjAhD9rDSoDd.jpg",
+    "popularity": 0.2436,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:537132",
@@ -30753,6 +32111,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt8716334",
+    "tmdb_id": 563708,
+    "title": "Springsteen on Broadway",
+    "performer": "Bruce Springsteen",
+    "release_date": "2018-12-15",
+    "poster_path": "/ng9F8AbD82ldwwdZpCvTAUAQ0rr.jpg",
+    "popularity": 0.6391,
+    "original_language": "en",
+    "vote_average": 7.9,
+    "vote_count": 50,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt8583190",
     "tmdb_id": 563815,
     "title": "Christopher Titus: Amerigeddon",
@@ -30888,6 +32260,20 @@
     "original_language": "en",
     "vote_average": 6.75,
     "vote_count": 20,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt8713370",
+    "tmdb_id": 569872,
+    "title": "Howie Mandel Presents Howie Mandel at the Howie Mandel Comedy Club",
+    "performer": "Howie Mandel",
+    "release_date": "2019-01-18",
+    "poster_path": "/yNkbpYLUaXp4PIwOJ4X9ed0GNqN.jpg",
+    "popularity": 0.3631,
+    "original_language": "en",
+    "vote_average": 6.2,
+    "vote_count": 4,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -32186,6 +33572,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt10409666",
+    "tmdb_id": 627016,
+    "title": "Gary Gulman: The Great Depresh",
+    "performer": "Gary Gulman",
+    "release_date": "2019-10-05",
+    "poster_path": "/6mTFlRNsvZIKrPdmjUOfXXcRvBo.jpg",
+    "popularity": 0.5107,
+    "original_language": "en",
+    "vote_average": 6.2,
+    "vote_count": 13,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt9721832",
     "tmdb_id": 628533,
     "title": "Fern Brady: Male Comedienne",
@@ -32384,6 +33784,20 @@
     "original_language": "en",
     "vote_average": 6.071,
     "vote_count": 28,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt10294440",
+    "tmdb_id": 640472,
+    "title": "The 4th Annual Howie Mandel Stand-Up Extravaganza",
+    "performer": null,
+    "release_date": "2018-12-20",
+    "poster_path": "/49HdETWg5efe6bFxJBqG4anPJ2Y.jpg",
+    "popularity": 0.0172,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -33122,6 +34536,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt11909856",
+    "tmdb_id": 674775,
+    "title": "Howie Mandel's 5th Annual All-Star Gala",
+    "performer": "Howie Mandel",
+    "release_date": "2020-02-19",
+    "poster_path": "/203m2nPTc1SvAkGbgTMNtRaxczG.jpg",
+    "popularity": 0.6004,
+    "original_language": "en",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:67516",
@@ -33877,6 +35305,20 @@
     "last_checked": "2026-11-19"
   },
   {
+    "id": "tt12241424",
+    "tmdb_id": 707504,
+    "title": "Kenny Sebastian: The Most Interesting Person in the Room",
+    "performer": "Kenny Sebastian",
+    "release_date": "2020-05-29",
+    "poster_path": "/6OL1wR6YonDJDoLWrcviDfyZtOy.jpg",
+    "popularity": 0.1912,
+    "original_language": "en",
+    "vote_average": 6.3,
+    "vote_count": 14,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt0188516",
     "tmdb_id": 70770,
     "title": "Comedy's Dirtiest Dozen",
@@ -33975,6 +35417,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt42320697",
+    "tmdb_id": 712064,
+    "title": "Ruslan Belyy: Indicator",
+    "performer": "Ruslan Belyy",
+    "release_date": "2020-01-26",
+    "poster_path": "/6juihNzJMNpTeN8zlgjuoS6pUgj.jpg",
+    "popularity": 0.0974,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt13882702",
     "tmdb_id": 712091,
     "title": "Blanche Gardin - Il faut que je vous parle",
@@ -34052,6 +35508,20 @@
     "release_date": "2015-10-25",
     "poster_path": "/xsDIQq4qPkqlSkbcQ03qOqkJLPJ.jpg",
     "popularity": 0.3426,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:714228",
+    "tmdb_id": 714228,
+    "title": "Kostya Pushkin: Indecent",
+    "performer": "Kostya Pushkin",
+    "release_date": "2016-03-06",
+    "poster_path": "/5tUpAfQuWrt4z4p0EFBjo6E8K9F.jpg",
+    "popularity": 0.0709,
     "original_language": "ru",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -34430,6 +35900,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-23"
+  },
+  {
+    "id": "tt21093380",
+    "tmdb_id": 738819,
+    "title": "Rhys James: Forgives",
+    "performer": "Rhys James",
+    "release_date": "2018-05-31",
+    "poster_path": "/d3oSesKCqroIOON79VROE8rzhcw.jpg",
+    "popularity": 0.1559,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt12930476",
@@ -34911,6 +36395,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt13400146",
+    "tmdb_id": 760653,
+    "title": "Hazel Brugger: Tropical",
+    "performer": "Hazel Brugger",
+    "release_date": "2020-12-02",
+    "poster_path": "/pn85WeAehNAZFbf4rapcwjYGVr7.jpg",
+    "popularity": 0.3986,
+    "original_language": "de",
+    "vote_average": 5.9,
+    "vote_count": 9,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt13417126",
     "tmdb_id": 761519,
     "title": "Carl Stanley: Född 1996",
@@ -35035,6 +36533,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt0285131",
+    "tmdb_id": 76798,
+    "title": "Gallagher: The Maddest",
+    "performer": "Gallagher",
+    "release_date": "1983-01-01",
+    "poster_path": "/frDKuWLEkmBlpPnZLcicYr1uSRP.jpg",
+    "popularity": 0.1589,
+    "original_language": "en",
+    "vote_average": 6.9,
+    "vote_count": 5,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt13444348",
     "tmdb_id": 769281,
     "title": "Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special",
@@ -35145,6 +36657,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1029214",
+    "tmdb_id": 776171,
+    "title": "Roy Chubby Brown: Britain's Rudest Comedian",
+    "performer": "Roy Chubby Brown",
+    "release_date": "2007-05-08",
+    "poster_path": "/69LWoO1Fh0ivC5pw9ZsrVPx0aIG.jpg",
+    "popularity": 0.2436,
+    "original_language": "en",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:776259",
     "tmdb_id": 776259,
     "title": "Simon Talbot: Danish Invasion",
@@ -35182,6 +36708,20 @@
     "original_language": "en",
     "vote_average": 6.188,
     "vote_count": 8,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:77746",
+    "tmdb_id": 77746,
+    "title": "Simon Munnery: Hello",
+    "performer": "Simon Munnery",
+    "release_date": "2011-01-01",
+    "poster_path": "/aa852am2azYpzOV53syqaCbUKeg.jpg",
+    "popularity": 0.1797,
+    "original_language": "en",
+    "vote_average": 5.2,
+    "vote_count": 3,
     "tags": [],
     "last_checked": "2026-11-24"
   },
@@ -35362,6 +36902,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:782161",
+    "tmdb_id": 782161,
+    "title": "Louie Anderson: Louie in St. Louie",
+    "performer": "Louie Anderson",
+    "release_date": "1993-06-12",
+    "poster_path": "/3vY6h5QvhomtsaJhnsfizTLVXZ9.jpg",
+    "popularity": 0.2983,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt9402868",
@@ -36071,6 +37625,20 @@
     "last_checked": "2026-11-23"
   },
   {
+    "id": "tmdb:812317",
+    "tmdb_id": 812317,
+    "title": "The Naughty Show: Bad Girls of Comedy",
+    "performer": "Kim Cea",
+    "release_date": "2005-01-01",
+    "poster_path": "/4Lf8zorqnNy3UmdPGcE7jzKYcI3.jpg",
+    "popularity": 0.5889,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tt2129950",
     "tmdb_id": 81378,
     "title": "Carlos Mencia: New Territory",
@@ -36206,6 +37774,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:817454",
+    "tmdb_id": 817454,
+    "title": "Ruslan Belyy: I am Mine!",
+    "performer": "Ruslan Belyy",
+    "release_date": "2021-04-11",
+    "poster_path": "/o3GhjWaOiH0M9hrDYH3iswIu5mG.jpg",
+    "popularity": 0.0912,
+    "original_language": "ru",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tmdb:81819",
@@ -36545,6 +38127,20 @@
     "last_checked": "2026-11-24"
   },
   {
+    "id": "tt1243465",
+    "tmdb_id": 839410,
+    "title": "Kathy Griffin: HBO Comedy Hour",
+    "performer": "Kathy Griffin",
+    "release_date": "1996-10-18",
+    "poster_path": "/2rtS8a3Z6Uen5scd1We8QwLwuv2.jpg",
+    "popularity": 0.3709,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
     "id": "tmdb:839432",
     "tmdb_id": 839432,
     "title": "Kevin Hart: \"What Now?\" All Access",
@@ -36678,6 +38274,20 @@
     "vote_count": 0,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tt0309812",
+    "tmdb_id": 84964,
+    "title": "Louie Anderson: Mom! Louie's Looking at Me Again!",
+    "performer": "Louie Anderson",
+    "release_date": "1989-12-10",
+    "poster_path": null,
+    "popularity": 0.2271,
+    "original_language": "en",
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt30948499",
@@ -36986,6 +38596,20 @@
     "release_date": "2020-08-03",
     "poster_path": "/tEs3Zx9l4ObKiRihLis1NGara0Q.jpg",
     "popularity": 0.3153,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tt15513290",
+    "tmdb_id": 882292,
+    "title": "Phoebe Robinson: Sorry, Harriet Tubman",
+    "performer": "Phoebe Robinson",
+    "release_date": "2021-10-14",
+    "poster_path": "/gQu4J4Rt9KMaaVR9oxXSzvYD0WA.jpg",
+    "popularity": 0.5763,
     "original_language": "en",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -37570,6 +39194,34 @@
     "vote_count": 1,
     "tags": [],
     "last_checked": "2026-11-19"
+  },
+  {
+    "id": "tmdb:929714",
+    "tmdb_id": 929714,
+    "title": "Louie Anderson: The Louie Anderson Show",
+    "performer": "Louie Anderson",
+    "release_date": "1988-09-10",
+    "poster_path": "/ruON4IE617fHofyTUYMuiizdDW3.jpg",
+    "popularity": 0.2479,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
+  },
+  {
+    "id": "tmdb:930088",
+    "tmdb_id": 930088,
+    "title": "Jackie Kashian: Stay Kashian",
+    "performer": "Jackie Kashian",
+    "release_date": "2021-11-16",
+    "poster_path": "/zWVGUmQnZdLqfRO9BzKzkkzIK5i.jpg",
+    "popularity": 0.3035,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-24"
   },
   {
     "id": "tt19862496",

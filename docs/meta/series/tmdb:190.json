@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "id": "tmdb:190",
+    "type": "series",
+    "name": "Def Comedy Jam",
+    "releaseInfo": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/ksjgVXKnovogx01Xqf9GzYKIZKq.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/vqjAu8Qdkc4uwJVlypU8Pep3QL5.jpg",
+    "description": "Def Comedy Jam is a HBO television series produced by Russell Simmons.\n\nThe series had its original run from July 1, 1992 to January 1, 1997. The show returned on HBO's fall lineup in 2006. Def Comedy Jam helped to launch the careers of several African-American stand-up comedians.",
+    "videos": [
+      {
+        "id": "tmdb:190:1:1",
+        "title": "Steve White, Derrick Fox, Yvette Wilson, Joe Torry",
+        "season": 1,
+        "episode": 1,
+        "released": "1992-03-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:1:2",
+        "title": "Ricky Harris, Reggie McFadden, Anthony J. Brown, Adele Givens",
+        "season": 1,
+        "episode": 2
+      },
+      {
+        "id": "tmdb:190:1:3",
+        "title": "Bernard Jeffrey McCollough (Bernie Mac), Steve Harvey, Vince D. Rodney Winfield",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "tmdb:190:1:4",
+        "title": "Laura Hayes, Bill Bellamy, Ted Carpenter, George Rogers (G.I. George)",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "tmdb:190:1:5",
+        "title": "Pierre Edwards, D.L. Hughley, A.J. Jamal, Marva Moncrieffe (Simply Marvalous)",
+        "season": 1,
+        "episode": 5
+      },
+      {
+        "id": "tmdb:190:1:6",
+        "title": "William Wilson, Michael Colyar, Tony Brown, Ajai Sanders",
+        "season": 1,
+        "episode": 6
+      },
+      {
+        "id": "tmdb:190:1:7",
+        "title": "Robin Montague, Tommy Chunn, James Stephens III, Tony Woods",
+        "season": 1,
+        "episode": 7
+      },
+      {
+        "id": "tmdb:190:1:8",
+        "title": "Reynaldo Rey, Eddie Griffin, Darcel Blagmon (Fat Doctor), Arceneaux & Mitchell",
+        "season": 1,
+        "episode": 8
+      },
+      {
+        "id": "tmdb:190:2:1",
+        "title": "Alonzo Jones (Hamburger), Chris Tucker, Bernie Mac, Kevin Anthony",
+        "season": 2,
+        "episode": 1,
+        "released": "1992-08-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:2",
+        "title": "Cedric the Entertainer, Andre Covington, Angela Means",
+        "season": 2,
+        "episode": 2,
+        "released": "1992-08-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:3",
+        "title": "Lester Barrie, Royale, JB Smoove, and Myra J",
+        "season": 2,
+        "episode": 3,
+        "released": "1992-08-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:4",
+        "title": "Chinnita Morris (Chocolate), Dave Chappelle, D.L. Hughley, Mystro Clark",
+        "season": 2,
+        "episode": 4,
+        "released": "1992-08-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:5",
+        "title": "Buddy Lewis, Chriss Charles, Marc Knox (Flex), Ken Cox",
+        "season": 2,
+        "episode": 5,
+        "released": "1992-09-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:6",
+        "title": "George Willborn, Bill Bellamy, Kenny Howell, J'Vonne Pearson",
+        "season": 2,
+        "episode": 6,
+        "released": "1992-09-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:7",
+        "title": "Charles Cozart, Kevin Lee, Adele Givens, Anthony Johnson",
+        "season": 2,
+        "episode": 7,
+        "released": "1992-09-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:8",
+        "title": "Karen Addison, Michael Colyar, Terrence Bruton (Jay), Mike Bonner",
+        "season": 2,
+        "episode": 8,
+        "released": "1992-09-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:9",
+        "title": "Aries Spears, Arnez E. Johnson (Arnez J.), William Stephenson, Ellen Cleghorne",
+        "season": 2,
+        "episode": 9,
+        "released": "1992-10-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:10",
+        "title": "Kahil Shkymba (The Great Kris Kringle), Marva Moncrieffe (Simply Marvalous), Bradley Lowery, Jonathan Slocumb",
+        "season": 2,
+        "episode": 10,
+        "released": "1992-10-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:11",
+        "title": "Terry Willis (Terry Tuff), Joe Torry, Thea Vidale, Melvin George III",
+        "season": 2,
+        "episode": 11,
+        "released": "1992-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:2:12",
+        "title": "Rushion McDonald, Brandon Bowlin, Ted Carpenter, T.P. Hearn",
+        "season": 2,
+        "episode": 12,
+        "released": "1992-10-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:1",
+        "title": "Daniel Gardner, Chris Thomas, Mark Jackson (Faceman), Tracey Morgan",
+        "season": 3,
+        "episode": 1,
+        "released": "1993-07-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:2",
+        "title": "Garfield, Sheryl Underwood, Chris Tucker, Warren Hutcherson",
+        "season": 3,
+        "episode": 2,
+        "released": "1993-07-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:3",
+        "title": "Carl Strong, Adele Givens, Cortez W. Jackson (Cortez), Dave Edwards",
+        "season": 3,
+        "episode": 3,
+        "released": "1993-07-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:4",
+        "title": "Bill Hill, Chriss Charles, Kool Bubba Ice, Darryl Littleton (D'Militant)",
+        "season": 3,
+        "episode": 4,
+        "released": "1993-07-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:5",
+        "title": "Faizon Love, Reggie McFadden, Royale Watkins, Yvette Wilson",
+        "season": 3,
+        "episode": 5,
+        "released": "1993-08-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:6",
+        "title": "Mark Wheatle, Terry Hodges, Joe Torry, Wan Dexter",
+        "season": 3,
+        "episode": 6,
+        "released": "1993-08-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:7",
+        "title": "Gordon Brown III (Doo Doo Brown), Steve Harvey, Lenny Varnedoe, Warren Thomas",
+        "season": 3,
+        "episode": 7,
+        "released": "1993-08-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:8",
+        "title": "Andrew Ford (Downtown Tony Brown), Ardie Foqua, Melanie Comacho",
+        "season": 3,
+        "episode": 8,
+        "released": "1993-08-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:9",
+        "title": "Rickey Smiley, Laura Hayes, Dante Carter, Sherman Golden",
+        "season": 3,
+        "episode": 9,
+        "released": "1993-09-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:10",
+        "title": "Marvin Thomas, Henry Welch, Ricky Harris, Blair Shannon",
+        "season": 3,
+        "episode": 10,
+        "released": "1993-09-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:11",
+        "title": "Lester Bibbs, Ted Carpenter, Cory Z. Miller (Zooman), Edwonda White",
+        "season": 3,
+        "episode": 11,
+        "released": "1993-09-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:3:12",
+        "title": "Doug Starks, Arnez E. Johnson (Arnez J.), T.J. McGhee, Cathy Melton",
+        "season": 3,
+        "episode": 12,
+        "released": "1993-09-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:4:1",
+        "title": "Episode 1",
+        "season": 4,
+        "episode": 1
+      },
+      {
+        "id": "tmdb:190:4:2",
+        "title": "Episode 2",
+        "season": 4,
+        "episode": 2
+      },
+      {
+        "id": "tmdb:190:4:3",
+        "title": "Episode 3",
+        "season": 4,
+        "episode": 3
+      },
+      {
+        "id": "tmdb:190:4:4",
+        "title": "Episode 4",
+        "season": 4,
+        "episode": 4
+      },
+      {
+        "id": "tmdb:190:4:5",
+        "title": "Episode 5",
+        "season": 4,
+        "episode": 5
+      },
+      {
+        "id": "tmdb:190:4:6",
+        "title": "Episode 6",
+        "season": 4,
+        "episode": 6
+      },
+      {
+        "id": "tmdb:190:4:7",
+        "title": "Episode 7",
+        "season": 4,
+        "episode": 7
+      },
+      {
+        "id": "tmdb:190:4:8",
+        "title": "Episode 8",
+        "season": 4,
+        "episode": 8
+      },
+      {
+        "id": "tmdb:190:4:9",
+        "title": "Episode 9",
+        "season": 4,
+        "episode": 9
+      },
+      {
+        "id": "tmdb:190:4:10",
+        "title": "Episode 10",
+        "season": 4,
+        "episode": 10
+      },
+      {
+        "id": "tmdb:190:4:11",
+        "title": "Episode 11",
+        "season": 4,
+        "episode": 11
+      },
+      {
+        "id": "tmdb:190:4:12",
+        "title": "Episode 12",
+        "season": 4,
+        "episode": 12
+      },
+      {
+        "id": "tmdb:190:5:1",
+        "title": "Episode 1",
+        "season": 5,
+        "episode": 1
+      },
+      {
+        "id": "tmdb:190:5:2",
+        "title": "Episode 2",
+        "season": 5,
+        "episode": 2
+      },
+      {
+        "id": "tmdb:190:5:3",
+        "title": "Episode 3",
+        "season": 5,
+        "episode": 3
+      },
+      {
+        "id": "tmdb:190:5:4",
+        "title": "Episode 4",
+        "season": 5,
+        "episode": 4
+      },
+      {
+        "id": "tmdb:190:5:5",
+        "title": "Episode 5",
+        "season": 5,
+        "episode": 5
+      },
+      {
+        "id": "tmdb:190:5:6",
+        "title": "Episode 6",
+        "season": 5,
+        "episode": 6
+      },
+      {
+        "id": "tmdb:190:5:7",
+        "title": "Episode 7",
+        "season": 5,
+        "episode": 7
+      },
+      {
+        "id": "tmdb:190:5:8",
+        "title": "Episode 8",
+        "season": 5,
+        "episode": 8
+      },
+      {
+        "id": "tmdb:190:5:9",
+        "title": "Episode 9",
+        "season": 5,
+        "episode": 9
+      },
+      {
+        "id": "tmdb:190:5:10",
+        "title": "Episode 10",
+        "season": 5,
+        "episode": 10
+      },
+      {
+        "id": "tmdb:190:5:11",
+        "title": "Episode 11",
+        "season": 5,
+        "episode": 11
+      },
+      {
+        "id": "tmdb:190:5:12",
+        "title": "Episode 12",
+        "season": 5,
+        "episode": 12
+      },
+      {
+        "id": "tmdb:190:10:1",
+        "title": "Tony Rock,Sommore,Capone",
+        "season": 10,
+        "episode": 1,
+        "released": "2006-09-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:2",
+        "title": "Vince Morris,Adele Givens,EarthQuake",
+        "season": 10,
+        "episode": 2,
+        "released": "2006-09-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:3",
+        "title": "Jay Phillips,Dominique,Tony Roberts",
+        "season": 10,
+        "episode": 3,
+        "released": "2006-09-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:4",
+        "title": "Kevin Hart,Melanie Comarcho,Kat Williams",
+        "season": 10,
+        "episode": 4,
+        "released": "2006-10-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:5",
+        "title": "Bruce Bruce,Deray,D.L. Hughley",
+        "season": 10,
+        "episode": 5,
+        "released": "2006-10-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:6",
+        "title": "Aris Spears,J.J.,Arnez J",
+        "season": 10,
+        "episode": 6,
+        "released": "2006-10-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:7",
+        "title": "Alex Thomas,Roz,Don",
+        "season": 10,
+        "episode": 7,
+        "released": "2006-10-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:8",
+        "title": "Esau McGraw,Leslie,Bill Bellamy",
+        "season": 10,
+        "episode": 8,
+        "released": "2006-11-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:9",
+        "title": "Joe Clair,Jasper Redd,Mark Curry,Red Grant",
+        "season": 10,
+        "episode": 9,
+        "released": "2006-11-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:10",
+        "title": "Rodney Perry,Talent,Deon Cole,Kenny Howell",
+        "season": 10,
+        "episode": 10,
+        "released": "2006-11-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:10:11",
+        "title": "T. Rex,Corey Holcomb,Chris Spencer,Guy Torry",
+        "season": 10,
+        "episode": 11,
+        "released": "2006-11-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:1",
+        "title": "Vincent Oshana, Gina Yashere, Capone, Damon Wayans Jr.",
+        "season": 11,
+        "episode": 1,
+        "released": "2008-01-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:2",
+        "title": "Gilson Lubin, Vanessa Fraction, Patrice O'Neal",
+        "season": 11,
+        "episode": 2,
+        "released": "2008-01-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:3",
+        "title": "Smokey, Tiffany Haddish, Big Rome, Tony Roberts",
+        "season": 11,
+        "episode": 3,
+        "released": "2008-01-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:4",
+        "title": "Roy Wood Jr., Kyle Groom, Russell Peters",
+        "season": 11,
+        "episode": 4,
+        "released": "2008-01-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:5",
+        "title": "Wil Sylvince, Cory Fernandez, Ted Carpenter",
+        "season": 11,
+        "episode": 5,
+        "released": "2008-02-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:6",
+        "title": "K-Dubb, DeRay Davis, Vargus Mason, Earthquake",
+        "season": 11,
+        "episode": 6,
+        "released": "2008-02-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:7",
+        "title": "David Arnold, Gerard, Timmy Hall, Rasheed",
+        "season": 11,
+        "episode": 7,
+        "released": "2008-02-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:8",
+        "title": "Malik S.,David Raibon,B. Cole,Gerald Kelly",
+        "season": 11,
+        "episode": 8,
+        "released": "2008-02-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:9",
+        "title": "Damon Williams, Sean Larkins, B-Phlat, TuRae",
+        "season": 11,
+        "episode": 9,
+        "released": "2008-03-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:190:11:10",
+        "title": "Marcus Combs, Ali, Chris Thomas, Alex Scott",
+        "season": 11,
+        "episode": 10,
+        "released": "2008-03-09T00:00:00.000Z"
+      }
+    ]
+  }
+}

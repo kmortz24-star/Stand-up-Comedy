@@ -156,6 +156,83 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt1243465",
+      "type": "movie",
+      "name": "Kathy Griffin: HBO Comedy Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/2rtS8a3Z6Uen5scd1We8QwLwuv2.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0234018",
+      "type": "movie",
+      "name": "Kathy Griffin: Hot Cup of Talk",
+      "poster": "https://image.tmdb.org/t/p/w500/ueSwmA2TpIXEyXCvjERwOnwvQ2C.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0438129",
+      "type": "movie",
+      "name": "Kathy Griffin: The D-List",
+      "poster": "https://image.tmdb.org/t/p/w500/hKAqZ4WmKjtAZmzmtkGnWEl0ie6.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0470131",
+      "type": "movie",
+      "name": "Kathy Griffin: Allegedly",
+      "poster": "https://image.tmdb.org/t/p/w500/64XDwqsDX2H7uBsJrzMJ2OC7WRa.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0803016",
+      "type": "movie",
+      "name": "Kathy Griffin: Strong Black Woman",
+      "poster": "https://image.tmdb.org/t/p/w500/zZBPUoygev74uIO8601NLyiRgUw.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1150945",
+      "type": "movie",
+      "name": "Kathy Griffin: Straight to Hell",
+      "poster": "https://image.tmdb.org/t/p/w500/20i06InuW3QpbEJlKqHQBVuxYBu.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1415208",
+      "type": "movie",
+      "name": "Kathy Griffin: She'll Cut a Bitch",
+      "poster": "https://image.tmdb.org/t/p/w500/xfTLMnwdo57rCrj78aOUv6RJHHS.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2192038",
+      "type": "movie",
+      "name": "Kathy Griffin: Pants Off",
+      "poster": "https://image.tmdb.org/t/p/w500/jFMqmbPc1FQwMLCSy4Fi0aL1iFc.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2309170",
+      "type": "movie",
+      "name": "Kathy Griffin: Seaman 1st Class",
+      "poster": "https://image.tmdb.org/t/p/w500/g2zNMsuIg6S4UpLUYNdpuCNzvMR.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2888642",
+      "type": "movie",
+      "name": "Kathy Griffin: Calm Down Gurrl",
+      "poster": "https://image.tmdb.org/t/p/w500/inNSSwV1AzvDi3uggOE8Gfeqeiw.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3404120",
+      "type": "movie",
+      "name": "Kathy Griffin: Record Breaker",
+      "poster": "https://image.tmdb.org/t/p/w500/7CdvHW2fUNTEpgq7MDbOggPJnIX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "tt38667192",
       "type": "movie",
       "name": "Kathy Griffin: My Life on the PTSD-List",
@@ -240,11 +317,25 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:354653",
+      "type": "movie",
+      "name": "Keith Lowell Jensen: Cats Made of Rabbits",
+      "poster": "https://image.tmdb.org/t/p/w500/pHM374XA5oMfYwiaTl3m0Ug50du.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tmdb:268932",
       "type": "movie",
       "name": "420 Friendly Comedy Special",
       "poster": "https://image.tmdb.org/t/p/w500/oeVYvkTCLB3eFVZfKT0zDZHVn3G.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:1177534",
+      "type": "movie",
+      "name": "Keith Lowell Jensen: What I Was Arrested For",
+      "poster": "https://image.tmdb.org/t/p/w500/vrtC1lgTkMwhqRAJ9zSpkYxORy0.jpg",
+      "releaseInfo": "2023"
     },
     {
       "id": "tmdb:1706990",
@@ -259,96 +350,6 @@
       "name": "Kelsey Cook: Mark Your Territory",
       "poster": "https://image.tmdb.org/t/p/w500/cHg78ebc8mMlgh59yBWUlppJykG.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt43698006",
-      "type": "movie",
-      "name": "Kelsey Cook: Happy Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt8466562",
-      "type": "movie",
-      "name": "Ken Jeong: You Complete Me, Ho",
-      "poster": "https://image.tmdb.org/t/p/w500/xhrJCFM3tWWQnRKUGYzrmczVTRX.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1674151",
-      "type": "movie",
-      "name": "Professor of Tomfoolery",
-      "poster": "https://image.tmdb.org/t/p/w500/88T2GUqQE4p1Z175gDu5HGvRsdB.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:706445",
-      "type": "movie",
-      "name": "Kev Adams - Live from Marseille",
-      "poster": "https://image.tmdb.org/t/p/w500/43Xcl845fOV0yA66QN0ld5c70Q9.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt2400374",
-      "type": "movie",
-      "name": "Kevin Bridges: The Story So Far...",
-      "poster": "https://image.tmdb.org/t/p/w500/xLx1VdHzA3cs6R05fzbFxDdMibw.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt4088134",
-      "type": "movie",
-      "name": "Kevin Bridges: Live at the Commonwealth",
-      "poster": "https://image.tmdb.org/t/p/w500/lKnpPa0tToCfZeh9Or05VJznhTU.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt4088138",
-      "type": "movie",
-      "name": "Kevin Bridges: Live at the Referendum",
-      "poster": "https://image.tmdb.org/t/p/w500/4o1Qf8u7vgFhxuU0dLrpwWcWJKl.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt9509058",
-      "type": "movie",
-      "name": "Kevin Bridges: The Brand New Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/dcV0QEXsjjj45JorAUMyt5EdwOg.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt35302823",
-      "type": "movie",
-      "name": "Kevin Hart: Standing Tall",
-      "poster": "https://image.tmdb.org/t/p/w500/gPzHQ2o647WYOqkr83RobwiytuD.jpg"
-    },
-    {
-      "id": "tt1420554",
-      "type": "movie",
-      "name": "Kevin Hart: I'm a Grown Little Man",
-      "poster": "https://image.tmdb.org/t/p/w500/xixDPGXhg9Kz93HspsDo1iHf5PO.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1714196",
-      "type": "movie",
-      "name": "Kevin Hart: Seriously Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/xzmEzbqIS52IhfN7InU2KsljY04.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt1999192",
-      "type": "movie",
-      "name": "Kevin Hart: Laugh at My Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/jk7C5sIDHSGiJjBQz6bmPNP1WOF.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2609912",
-      "type": "movie",
-      "name": "Kevin Hart: Let Me Explain",
-      "poster": "https://image.tmdb.org/t/p/w500/lzYQkVuEN0zw2JvJsMUsOU47nb4.jpg",
-      "releaseInfo": "2013"
     }
   ]
 }

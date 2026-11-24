@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "id": "tmdb:12208",
+    "type": "series",
+    "name": "One Night Stand",
+    "releaseInfo": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/bW58NbN6s1wo3O9BkPwVnUHUtrW.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/nswDu1FQPpuR4etDvvcoK2r27ON.jpg",
+    "description": "A series of stand-up comedy specials.",
+    "videos": [
+      {
+        "id": "tmdb:12208:1:1",
+        "title": "Judy Tenuta",
+        "season": 1,
+        "episode": 1,
+        "released": "1989-02-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Judy Tenuta."
+      },
+      {
+        "id": "tmdb:12208:1:2",
+        "title": "Kevin Meaney",
+        "season": 1,
+        "episode": 2,
+        "released": "1989-02-22T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kevin Meaney."
+      },
+      {
+        "id": "tmdb:12208:1:3",
+        "title": "Joy Behar",
+        "season": 1,
+        "episode": 3,
+        "released": "1989-03-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joy Behar."
+      },
+      {
+        "id": "tmdb:12208:1:4",
+        "title": "Bob Nelson",
+        "season": 1,
+        "episode": 4,
+        "released": "1989-03-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bob Nelson."
+      },
+      {
+        "id": "tmdb:12208:1:5",
+        "title": "Blake Clark",
+        "season": 1,
+        "episode": 5,
+        "released": "1989-03-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Blake Clark."
+      },
+      {
+        "id": "tmdb:12208:1:6",
+        "title": "Kevin Pollak",
+        "season": 1,
+        "episode": 6,
+        "released": "1989-03-22T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kevin Pollak."
+      },
+      {
+        "id": "tmdb:12208:1:7",
+        "title": "Rita Rudner",
+        "season": 1,
+        "episode": 7,
+        "released": "1989-03-29T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rita Rudner."
+      },
+      {
+        "id": "tmdb:12208:1:8",
+        "title": "Bill Maher",
+        "season": 1,
+        "episode": 8,
+        "released": "1989-04-05T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bill Maher."
+      },
+      {
+        "id": "tmdb:12208:1:9",
+        "title": "Paula Poundstone",
+        "season": 1,
+        "episode": 9,
+        "released": "1989-04-12T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Paula Poundstone."
+      },
+      {
+        "id": "tmdb:12208:1:10",
+        "title": "Dom Irrera",
+        "season": 1,
+        "episode": 10,
+        "released": "1989-04-19T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dom Irrera."
+      },
+      {
+        "id": "tmdb:12208:1:11",
+        "title": "Barry Sobel",
+        "season": 1,
+        "episode": 11,
+        "released": "1989-04-26T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Barry Sobel."
+      },
+      {
+        "id": "tmdb:12208:1:12",
+        "title": "Damon Wayans",
+        "season": 1,
+        "episode": 12,
+        "released": "1989-05-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Damon Wayans."
+      },
+      {
+        "id": "tmdb:12208:2:1",
+        "title": "Larry Miller",
+        "season": 2,
+        "episode": 1,
+        "released": "1990-02-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Larry Miller."
+      },
+      {
+        "id": "tmdb:12208:2:2",
+        "title": "Bobby Slayton",
+        "season": 2,
+        "episode": 2,
+        "released": "1990-04-07T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bobby Slayton."
+      },
+      {
+        "id": "tmdb:12208:2:3",
+        "title": "Ellen DeGeneres",
+        "season": 2,
+        "episode": 3,
+        "released": "1990-02-24T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ellen DeGeneres."
+      },
+      {
+        "id": "tmdb:12208:2:4",
+        "title": "Robin Harris",
+        "season": 2,
+        "episode": 4,
+        "released": "1990-03-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Robin Harris."
+      },
+      {
+        "id": "tmdb:12208:2:5",
+        "title": "Mike Binder",
+        "season": 2,
+        "episode": 5,
+        "released": "1990-03-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mike Binder."
+      },
+      {
+        "id": "tmdb:12208:2:6",
+        "title": "Charles Fleischer",
+        "season": 2,
+        "episode": 6,
+        "released": "1990-03-17T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Charles Fleischer."
+      },
+      {
+        "id": "tmdb:12208:2:7",
+        "title": "Ritch Shydner",
+        "season": 2,
+        "episode": 7,
+        "released": "1990-03-24T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ritch Shydner."
+      },
+      {
+        "id": "tmdb:12208:2:8",
+        "title": "Jake Johannsen",
+        "season": 2,
+        "episode": 8,
+        "released": "1990-03-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jake Johannsen."
+      },
+      {
+        "id": "tmdb:12208:2:9",
+        "title": "Bobby Slayton",
+        "season": 2,
+        "episode": 9,
+        "released": "1990-04-07T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bobby Slayton."
+      },
+      {
+        "id": "tmdb:12208:2:10",
+        "title": "Will Durst",
+        "season": 2,
+        "episode": 10,
+        "released": "1990-04-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Will Durst."
+      },
+      {
+        "id": "tmdb:12208:2:11",
+        "title": "Diane Ford",
+        "season": 2,
+        "episode": 11,
+        "released": "1990-04-21T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Diane Ford."
+      },
+      {
+        "id": "tmdb:12208:2:12",
+        "title": "Dennis Wolfberg",
+        "season": 2,
+        "episode": 12,
+        "released": "1990-04-28T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dennis Wolfberg."
+      },
+      {
+        "id": "tmdb:12208:3:1",
+        "title": "Rick Overton",
+        "season": 3,
+        "episode": 1,
+        "released": "1991-02-09T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rick Overton."
+      },
+      {
+        "id": "tmdb:12208:3:2",
+        "title": "Rick Aviles",
+        "season": 3,
+        "episode": 2,
+        "released": "1991-02-16T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Rick Aviles."
+      },
+      {
+        "id": "tmdb:12208:3:3",
+        "title": "Mark Curry",
+        "season": 3,
+        "episode": 3,
+        "released": "1991-02-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mark Curry."
+      },
+      {
+        "id": "tmdb:12208:3:4",
+        "title": "Allan Havey",
+        "season": 3,
+        "episode": 4,
+        "released": "1991-03-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Allan Havey."
+      },
+      {
+        "id": "tmdb:12208:3:5",
+        "title": "Jeff Marder",
+        "season": 3,
+        "episode": 5,
+        "released": "1991-03-09T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jeff Marder."
+      },
+      {
+        "id": "tmdb:12208:3:6",
+        "title": "Taylor Negron",
+        "season": 3,
+        "episode": 6,
+        "released": "1991-03-16T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Taylor Negron."
+      },
+      {
+        "id": "tmdb:12208:3:7",
+        "title": "Martin Lawrence",
+        "season": 3,
+        "episode": 7,
+        "released": "1991-03-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Martin Lawrence."
+      },
+      {
+        "id": "tmdb:12208:3:8",
+        "title": "The Higgins Boys and Gruber",
+        "season": 3,
+        "episode": 8,
+        "released": "1991-03-30T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12208:3:9",
+        "title": "Jimmy Tingle",
+        "season": 3,
+        "episode": 9,
+        "released": "1991-04-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jimmy Tingle."
+      },
+      {
+        "id": "tmdb:12208:3:10",
+        "title": "Cathy Ladman",
+        "season": 3,
+        "episode": 10,
+        "released": "1991-04-13T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Cathy Ladman."
+      },
+      {
+        "id": "tmdb:12208:3:11",
+        "title": "George Wallace",
+        "season": 3,
+        "episode": 11,
+        "released": "1991-04-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring George Wallace."
+      },
+      {
+        "id": "tmdb:12208:3:12",
+        "title": "Bill Hicks",
+        "season": 3,
+        "episode": 12,
+        "released": "1991-04-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bill Hicks.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/knqbPfWmc9bFt29MtDhDPRjzq7N.jpg"
+      },
+      {
+        "id": "tmdb:12208:3:13",
+        "title": "Norm Macdonald",
+        "season": 3,
+        "episode": 13,
+        "released": "1991-05-04T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Norm Macdonald."
+      },
+      {
+        "id": "tmdb:12208:3:14",
+        "title": "Brian Haley",
+        "season": 3,
+        "episode": 14,
+        "released": "1991-05-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Brian Haley."
+      },
+      {
+        "id": "tmdb:12208:3:15",
+        "title": "Michael Colyar",
+        "season": 3,
+        "episode": 15,
+        "released": "1991-05-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Michael Colyar."
+      },
+      {
+        "id": "tmdb:12208:4:1",
+        "title": "Bill Maher",
+        "season": 4,
+        "episode": 1,
+        "released": "1992-07-19T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bill Maher."
+      },
+      {
+        "id": "tmdb:12208:4:2",
+        "title": "Mario Joyner",
+        "season": 4,
+        "episode": 2,
+        "released": "1992-07-26T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Mario Joyner."
+      },
+      {
+        "id": "tmdb:12208:4:3",
+        "title": "Lew Schneider",
+        "season": 4,
+        "episode": 3,
+        "released": "1992-08-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Lew Schneider."
+      },
+      {
+        "id": "tmdb:12208:4:4",
+        "title": "John Riggi",
+        "season": 4,
+        "episode": 4,
+        "released": "1992-08-09T00:00:00.000Z",
+        "overview": "Stand-up performance featuring John Riggi."
+      },
+      {
+        "id": "tmdb:12208:4:5",
+        "title": "Eddie Griffin",
+        "season": 4,
+        "episode": 5,
+        "released": "1992-08-16T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Eddie Griffin."
+      },
+      {
+        "id": "tmdb:12208:4:6",
+        "title": "Ellen DeGeneres",
+        "season": 4,
+        "episode": 6,
+        "released": "1992-08-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ellen DeGeneres."
+      },
+      {
+        "id": "tmdb:12208:4:7",
+        "title": "Allan Havey",
+        "season": 4,
+        "episode": 7,
+        "released": "1992-09-06T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Allan Havey."
+      },
+      {
+        "id": "tmdb:12208:4:8",
+        "title": "Susie Essman",
+        "season": 4,
+        "episode": 8,
+        "released": "1992-09-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Susie Essman."
+      },
+      {
+        "id": "tmdb:12208:4:9",
+        "title": "Colin Quinn",
+        "season": 4,
+        "episode": 9,
+        "released": "1992-09-27T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Colin Quinn."
+      },
+      {
+        "id": "tmdb:12208:4:10",
+        "title": "Dana Gould",
+        "season": 4,
+        "episode": 10,
+        "released": "1992-10-04T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dana Gould."
+      },
+      {
+        "id": "tmdb:12208:4:11",
+        "title": "D. L. Hughley",
+        "season": 4,
+        "episode": 11,
+        "released": "1992-10-11T00:00:00.000Z",
+        "overview": "Stand-up performance featuring D. L. Hughley."
+      },
+      {
+        "id": "tmdb:12208:4:12",
+        "title": "Diane Ford",
+        "season": 4,
+        "episode": 12,
+        "released": "1992-10-18T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Diane Ford."
+      },
+      {
+        "id": "tmdb:12208:4:13",
+        "title": "Dom Irrera",
+        "season": 4,
+        "episode": 13,
+        "released": "1992-10-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dom Irrera."
+      },
+      {
+        "id": "tmdb:12208:4:14",
+        "title": "Gilbert Gottfried",
+        "season": 4,
+        "episode": 14,
+        "released": "1992-11-01T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Gilbert Gottfried."
+      },
+      {
+        "id": "tmdb:12208:4:15",
+        "title": "Jon Hayman",
+        "season": 4,
+        "episode": 15,
+        "released": "1992-11-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jon Hayman."
+      },
+      {
+        "id": "tmdb:12208:4:16",
+        "title": "Joe Bolster",
+        "season": 4,
+        "episode": 16,
+        "released": "1992-11-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Joe Bolster."
+      },
+      {
+        "id": "tmdb:12208:5:1",
+        "title": "Louis C.K.",
+        "season": 5,
+        "episode": 1,
+        "released": "2005-08-19T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Louis C.K..",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sWJOBLMw4UUc3BK52v6vKEw0npv.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:2",
+        "title": "Earthquake",
+        "season": 5,
+        "episode": 2,
+        "released": "2005-08-26T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Earthquake.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1ddwZhUoTDSn59h4mbWDUUrahi5.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:3",
+        "title": "Kevin Brennan",
+        "season": 5,
+        "episode": 3,
+        "released": "2005-09-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kevin Brennan.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4lN2uZB6Gydg2I6dJ7twOfXpIEn.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:4",
+        "title": "Flight of the Conchords",
+        "season": 5,
+        "episode": 4,
+        "released": "2005-09-09T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4kWDY745KjxUoCA0TS4k1xfkRrf.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:5",
+        "title": "Bill Burr",
+        "season": 5,
+        "episode": 5,
+        "released": "2005-09-16T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bill Burr.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cvgZnRCCIY3IFL7qY4ipKcmUgfe.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:6",
+        "title": "Caroline Rhea",
+        "season": 5,
+        "episode": 6,
+        "released": "2005-09-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Caroline Rhea.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sewzz1xgyEkx7Y2LsBruq6JvATf.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:7",
+        "title": "Omid Djalili",
+        "season": 5,
+        "episode": 7,
+        "released": "2005-09-30T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Omid Djalili.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/90zYLmxjcs2m6H2hjzgjYlZXINL.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:8",
+        "title": "Patrice O'Neal",
+        "season": 5,
+        "episode": 8,
+        "released": "2005-10-07T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Patrice O'Neal.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6dMj9phCT3yjIk7b4AszrfaJpoN.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:9",
+        "title": "Bonnie McFarlane",
+        "season": 5,
+        "episode": 9,
+        "released": "2005-10-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Bonnie McFarlane.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jCJM79xaVYkBA8ZuCD2Bcmiur8m.jpg"
+      },
+      {
+        "id": "tmdb:12208:5:10",
+        "title": "Jim Norton",
+        "season": 5,
+        "episode": 10,
+        "released": "2005-10-21T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jim Norton.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/51BpgAIioI09bhDJwOA5zjwYjxl.jpg"
+      }
+    ]
+  }
+}

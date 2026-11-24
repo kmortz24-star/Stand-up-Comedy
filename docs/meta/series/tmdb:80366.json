@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "id": "tmdb:80366",
+    "type": "series",
+    "name": "The Comedy Lineup",
+    "releaseInfo": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/uEzTdhK3sy2QYUGMvC4gyWqgX7Y.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/xaKq6YbCNWC32alQJvvX6gxuGN6.jpg",
+    "description": "A diverse group of up-and-coming comedians perform 15-minute sets in this stand-up comedy showcase series.",
+    "videos": [
+      {
+        "id": "tmdb:80366:1:1",
+        "title": "Michelle Buteau",
+        "season": 1,
+        "episode": 1,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Michelle Buteau.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/5OfxstDH9dKYxhgpiEZz96aEk1B.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:2",
+        "title": "Ian Karmel",
+        "season": 1,
+        "episode": 2,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Ian Karmel.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/w4cmLKuJxGw4eIKfgdC6stcBsCg.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:3",
+        "title": "Taylor Tomlinson",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Taylor Tomlinson.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/gVB0mCEBEg4cJOGQg5gv52BQmwZ.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:4",
+        "title": "Sam Jay",
+        "season": 1,
+        "episode": 4,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sam Jay.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/f2Ej0M7emICijhjDuENnR7NHUm.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:5",
+        "title": "Phil Wang",
+        "season": 1,
+        "episode": 5,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Phil Wang.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zd7YfICl1lOALM6aFhaNxUpRw9o.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:6",
+        "title": "Sabrina Jalees",
+        "season": 1,
+        "episode": 6,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Sabrina Jalees.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/z46YjDJ5eCFQNW6dWMdC6QSemSt.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:7",
+        "title": "Jak Knight",
+        "season": 1,
+        "episode": 7,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Jak Knight.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/nppUTcSKqvB2d7EMwYL41LSgCVx.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:8",
+        "title": "Tim Dillon",
+        "season": 1,
+        "episode": 8,
+        "released": "2018-07-03T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tim Dillon.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4O5TymXMxib2js8I43qOEUGdQmI.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:9",
+        "title": "Janelle James",
+        "season": 1,
+        "episode": 9,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Janelle James.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6ZpeyfS0txLMUNjhmjmjDcZk1bp.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:10",
+        "title": "Matteo Lane",
+        "season": 1,
+        "episode": 10,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Matteo Lane.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hwLpNn0J8bMopOUwszGDO3oLN9q.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:11",
+        "title": "Aisling Bea",
+        "season": 1,
+        "episode": 11,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Aisling Bea.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1xk49ms51ackV5P6EFHVfZfLK4S.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:12",
+        "title": "Josh Johnson",
+        "season": 1,
+        "episode": 12,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Josh Johnson.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4VqvVbOoY0jFZ2qNZjNUWEXOSSg.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:13",
+        "title": "Emma Willmann",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Emma Willmann.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1PI4Lce2prLXUIozNhgVJgoFCbJ.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:14",
+        "title": "Max Silvestri",
+        "season": 1,
+        "episode": 14,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Max Silvestri.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jZVs2LKtjUeMGV80I1lkLcqnto0.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:15",
+        "title": "JR De Guzman",
+        "season": 1,
+        "episode": 15,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring JR De Guzman.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1slbPibijE8X4a6Qfs4HqM2Q53.jpg"
+      },
+      {
+        "id": "tmdb:80366:1:16",
+        "title": "Kate Willett",
+        "season": 1,
+        "episode": 16,
+        "released": "2018-08-31T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kate Willett.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3MQr8BrFVp6rr5zrbtWQdxa5dKw.jpg"
+      }
+    ]
+  }
+}

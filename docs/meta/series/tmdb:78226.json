@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "id": "tmdb:78226",
+    "type": "series",
+    "name": "Just for Laughs: All Access",
+    "releaseInfo": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/nMNKuiTVh4efJgRc2dRF5dCIT5a.jpg",
+    "description": "Just For Laughs: All Access is an exclusive stand-up series that features the biggest names from around the world. From the stages of Montreal’s grand Place des Arts and gritty Club Soda, Just For Laughs brings you the very best in stand-up today.",
+    "videos": [
+      {
+        "id": "tmdb:78226:1:1",
+        "title": "The Muppets All-Star Comedy Gala",
+        "season": 1,
+        "episode": 1,
+        "released": "2012-12-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:2:1",
+        "title": "Seth Meyers",
+        "season": 2,
+        "episode": 1,
+        "released": "2014-03-23T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Seth Meyers."
+      },
+      {
+        "id": "tmdb:78226:5:1",
+        "title": "Hosted by Russell Peters",
+        "season": 5,
+        "episode": 1,
+        "released": "2017-09-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:2",
+        "title": "Hosted by Sebastian Maniscalco",
+        "season": 5,
+        "episode": 2,
+        "released": "2017-10-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:3",
+        "title": "Hosted by Jay Pharoah",
+        "season": 5,
+        "episode": 3,
+        "released": "2017-10-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:4",
+        "title": "Featuring Ronny Chieng",
+        "season": 5,
+        "episode": 4,
+        "released": "2017-10-20T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Featuring Ronny Chieng."
+      },
+      {
+        "id": "tmdb:78226:5:5",
+        "title": "Hosted by Nikki Glaser",
+        "season": 5,
+        "episode": 5,
+        "released": "2017-10-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:6",
+        "title": "Hosted by David Cross",
+        "season": 5,
+        "episode": 6,
+        "released": "2017-11-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:7",
+        "title": "Featuring Jim Norton",
+        "season": 5,
+        "episode": 7,
+        "released": "2017-11-10T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Featuring Jim Norton."
+      },
+      {
+        "id": "tmdb:78226:5:8",
+        "title": "Hosted by Grace Helbig & Mamrie Hart",
+        "season": 5,
+        "episode": 8,
+        "released": "2017-11-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:9",
+        "title": "Featuring Gad Elmaleh",
+        "season": 5,
+        "episode": 9,
+        "released": "2017-11-24T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Featuring Gad Elmaleh."
+      },
+      {
+        "id": "tmdb:78226:5:10",
+        "title": "Featuring Nick Thune",
+        "season": 5,
+        "episode": 10,
+        "released": "2017-11-25T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Featuring Nick Thune."
+      },
+      {
+        "id": "tmdb:78226:5:11",
+        "title": "Hosted by Deon Cole",
+        "season": 5,
+        "episode": 11,
+        "released": "2017-12-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:5:12",
+        "title": "Featuring Jimmy Carr",
+        "season": 5,
+        "episode": 12,
+        "released": "2017-12-15T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Featuring Jimmy Carr."
+      },
+      {
+        "id": "tmdb:78226:5:13",
+        "title": "Hosted by Carrie Fisher",
+        "season": 5,
+        "episode": 13,
+        "released": "2017-12-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:1",
+        "title": "Hosted by Colin Jost & Michael Che",
+        "season": 6,
+        "episode": 1,
+        "released": "2018-02-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:2",
+        "title": "Hosted by Sugar Sammy",
+        "season": 6,
+        "episode": 2,
+        "released": "2018-02-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:3",
+        "title": "Hosted by Mike Birbiglia",
+        "season": 6,
+        "episode": 3,
+        "released": "2018-02-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:4",
+        "title": "Hosted by The Lucas Brothers",
+        "season": 6,
+        "episode": 4,
+        "released": "2018-02-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:5",
+        "title": "Hosted by Natasha Leggero",
+        "season": 6,
+        "episode": 5,
+        "released": "2018-03-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:6",
+        "title": "Hosted by David Spade",
+        "season": 6,
+        "episode": 6,
+        "released": "2018-03-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:7",
+        "title": "Hosted by Wyatt Cenac",
+        "season": 6,
+        "episode": 7,
+        "released": "2018-03-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:8",
+        "title": "Hosted by Robert Kelly",
+        "season": 6,
+        "episode": 8,
+        "released": "2018-03-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:9",
+        "title": "Hosted by Moshe Kasher",
+        "season": 6,
+        "episode": 9,
+        "released": "2018-03-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:10",
+        "title": "Hosted by Ari Shaffir",
+        "season": 6,
+        "episode": 10,
+        "released": "2018-04-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:11",
+        "title": "Hosted by Mike Birbiglia",
+        "season": 6,
+        "episode": 11,
+        "released": "2018-04-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:12",
+        "title": "Hosted by Lil Rel Howery",
+        "season": 6,
+        "episode": 12,
+        "released": "2018-04-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:78226:6:13",
+        "title": "Hosted by Lilly Singh",
+        "season": 6,
+        "episode": 13,
+        "released": "2018-04-28T00:00:00.000Z"
+      }
+    ]
+  }
+}

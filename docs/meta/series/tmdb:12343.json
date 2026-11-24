@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "id": "tmdb:12343",
+    "type": "series",
+    "name": "Premium Blend",
+    "releaseInfo": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/jdxWRQ6C2p1tq2I0b7Gk0yC2d1Y.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/gw4lusdg6pdWELr6VadVzs2zE1C.jpg",
+    "description": "Premium Blend was a stand-up comedy series that aired on the American cable television channel Comedy Central from 1997 to 2005.",
+    "videos": [
+      {
+        "id": "tmdb:12343:1:1",
+        "title": "Episode 101",
+        "season": 1,
+        "episode": 1,
+        "released": "1997-11-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:1:2",
+        "title": "Episode 102",
+        "season": 1,
+        "episode": 2,
+        "released": "1997-12-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:1:3",
+        "title": "Episode 103",
+        "season": 1,
+        "episode": 3,
+        "released": "1997-12-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:1:4",
+        "title": "Episode 104",
+        "season": 1,
+        "episode": 4,
+        "released": "1997-12-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:1:5",
+        "title": "Episode 105",
+        "season": 1,
+        "episode": 5,
+        "released": "1997-12-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:1",
+        "title": "Episode 2002",
+        "season": 2,
+        "episode": 1,
+        "released": "1998-05-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:2",
+        "title": "Episode  206",
+        "season": 2,
+        "episode": 2,
+        "released": "1998-05-30T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:3",
+        "title": "Episode  205",
+        "season": 2,
+        "episode": 3,
+        "released": "1998-06-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:4",
+        "title": "Episode 202",
+        "season": 2,
+        "episode": 4,
+        "released": "1998-06-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:5",
+        "title": "Episode 203",
+        "season": 2,
+        "episode": 5,
+        "released": "1998-06-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:6",
+        "title": "Episode 201",
+        "season": 2,
+        "episode": 6,
+        "released": "1998-06-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:7",
+        "title": "Episode 204",
+        "season": 2,
+        "episode": 7,
+        "released": "1998-07-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:2:8",
+        "title": "Episode 2001",
+        "season": 2,
+        "episode": 8,
+        "released": "1998-09-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:1",
+        "title": "Episode 302",
+        "season": 3,
+        "episode": 1,
+        "released": "1999-12-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:2",
+        "title": "Episode 309",
+        "season": 3,
+        "episode": 2,
+        "released": "1999-12-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:3",
+        "title": "Episode 301",
+        "season": 3,
+        "episode": 3,
+        "released": "1999-12-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:4",
+        "title": "Episode 303",
+        "season": 3,
+        "episode": 4,
+        "released": "1999-12-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:5",
+        "title": "Episode 307",
+        "season": 3,
+        "episode": 5,
+        "released": "2000-01-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:6",
+        "title": "Episode 306",
+        "season": 3,
+        "episode": 6,
+        "released": "2000-01-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:7",
+        "title": "Episode 305",
+        "season": 3,
+        "episode": 7,
+        "released": "2000-01-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:8",
+        "title": "Episode 310",
+        "season": 3,
+        "episode": 8,
+        "released": "2000-01-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:9",
+        "title": "Episode 304",
+        "season": 3,
+        "episode": 9,
+        "released": "2000-02-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:10",
+        "title": "Episode 311",
+        "season": 3,
+        "episode": 10,
+        "released": "2000-02-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:11",
+        "title": "Episode 308",
+        "season": 3,
+        "episode": 11,
+        "released": "2000-02-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:3:12",
+        "title": "Episode 312",
+        "season": 3,
+        "episode": 12,
+        "released": "2000-02-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:1",
+        "title": "Episode 404",
+        "season": 4,
+        "episode": 1,
+        "released": "2000-12-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:2",
+        "title": "Episode 409",
+        "season": 4,
+        "episode": 2,
+        "released": "2000-12-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:3",
+        "title": "Episode 410",
+        "season": 4,
+        "episode": 3,
+        "released": "2000-12-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:4",
+        "title": "Episode 406",
+        "season": 4,
+        "episode": 4,
+        "released": "2000-12-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:5",
+        "title": "Episode 401",
+        "season": 4,
+        "episode": 5,
+        "released": "2001-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:6",
+        "title": "Episode 405",
+        "season": 4,
+        "episode": 6,
+        "released": "2001-01-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:7",
+        "title": "Episode 403",
+        "season": 4,
+        "episode": 7,
+        "released": "2001-01-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:8",
+        "title": "Episode 402",
+        "season": 4,
+        "episode": 8,
+        "released": "2001-01-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:9",
+        "title": "Episode 407",
+        "season": 4,
+        "episode": 9,
+        "released": "2001-01-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:10",
+        "title": "Episode 408",
+        "season": 4,
+        "episode": 10,
+        "released": "2001-01-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:11",
+        "title": "Episode 411",
+        "season": 4,
+        "episode": 11,
+        "released": "2001-02-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:4:12",
+        "title": "Episode 412",
+        "season": 4,
+        "episode": 12,
+        "released": "2001-02-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:1",
+        "title": "Episode 509",
+        "season": 5,
+        "episode": 1,
+        "released": "2001-10-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:2",
+        "title": "Episode 502",
+        "season": 5,
+        "episode": 2,
+        "released": "2001-10-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:3",
+        "title": "Episode 504",
+        "season": 5,
+        "episode": 3,
+        "released": "2001-10-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:4",
+        "title": "Episode 503",
+        "season": 5,
+        "episode": 4,
+        "released": "2001-10-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:5",
+        "title": "Episode 505",
+        "season": 5,
+        "episode": 5,
+        "released": "2001-11-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:6",
+        "title": "Episode 506",
+        "season": 5,
+        "episode": 6,
+        "released": "2001-11-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:7",
+        "title": "Episode 508",
+        "season": 5,
+        "episode": 7,
+        "released": "2001-11-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:8",
+        "title": "Episode 501",
+        "season": 5,
+        "episode": 8,
+        "released": "2001-11-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:9",
+        "title": "Episode 510",
+        "season": 5,
+        "episode": 9,
+        "released": "2001-11-30T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:10",
+        "title": "Episode 507",
+        "season": 5,
+        "episode": 10,
+        "released": "2001-12-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:11",
+        "title": "Episode 511",
+        "season": 5,
+        "episode": 11,
+        "released": "2001-12-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:5:12",
+        "title": "Episode 512",
+        "season": 5,
+        "episode": 12,
+        "released": "2001-12-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:1",
+        "title": "Episode 601",
+        "season": 6,
+        "episode": 1,
+        "released": "2002-10-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:2",
+        "title": "Episode 603",
+        "season": 6,
+        "episode": 2,
+        "released": "2002-11-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:3",
+        "title": "Episode 604",
+        "season": 6,
+        "episode": 3,
+        "released": "2002-11-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:4",
+        "title": "Episode 605",
+        "season": 6,
+        "episode": 4,
+        "released": "2002-11-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:5",
+        "title": "Episode 607",
+        "season": 6,
+        "episode": 5,
+        "released": "2002-11-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:6",
+        "title": "Episode 606",
+        "season": 6,
+        "episode": 6,
+        "released": "2002-12-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:7",
+        "title": "Episode 608",
+        "season": 6,
+        "episode": 7,
+        "released": "2002-12-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:8",
+        "title": "Episode 602",
+        "season": 6,
+        "episode": 8,
+        "released": "2002-12-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:9",
+        "title": "Episode 609",
+        "season": 6,
+        "episode": 9,
+        "released": "2002-12-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:10",
+        "title": "Episode 610",
+        "season": 6,
+        "episode": 10,
+        "released": "2003-01-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:11",
+        "title": "Episode 611",
+        "season": 6,
+        "episode": 11,
+        "released": "2003-01-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:6:12",
+        "title": "Episode 612",
+        "season": 6,
+        "episode": 12,
+        "released": "2003-01-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:1",
+        "title": "Episode 701",
+        "season": 7,
+        "episode": 1,
+        "released": "2003-11-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:2",
+        "title": "Episode 704",
+        "season": 7,
+        "episode": 2,
+        "released": "2003-12-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:3",
+        "title": "Episode 703",
+        "season": 7,
+        "episode": 3,
+        "released": "2003-12-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:4",
+        "title": "Episode 706",
+        "season": 7,
+        "episode": 4,
+        "released": "2003-12-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:5",
+        "title": "Episode 707",
+        "season": 7,
+        "episode": 5,
+        "released": "2004-01-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:6",
+        "title": "Episode 705",
+        "season": 7,
+        "episode": 6,
+        "released": "2004-01-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:7",
+        "title": "Episode 708",
+        "season": 7,
+        "episode": 7,
+        "released": "2004-01-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:8",
+        "title": "Episode 709",
+        "season": 7,
+        "episode": 8,
+        "released": "2004-01-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:9",
+        "title": "Episode 710",
+        "season": 7,
+        "episode": 9,
+        "released": "2004-01-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:10",
+        "title": "Episode 711",
+        "season": 7,
+        "episode": 10,
+        "released": "2004-01-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:11",
+        "title": "Episode 712",
+        "season": 7,
+        "episode": 11,
+        "released": "2004-01-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:7:12",
+        "title": "Episode 702",
+        "season": 7,
+        "episode": 12,
+        "released": "2004-01-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:1",
+        "title": "Episode 801",
+        "season": 8,
+        "episode": 1,
+        "released": "2004-11-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:2",
+        "title": "Episode 812",
+        "season": 8,
+        "episode": 2,
+        "released": "2004-12-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:3",
+        "title": "Episode 807",
+        "season": 8,
+        "episode": 3,
+        "released": "2004-12-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:4",
+        "title": "Episode 811",
+        "season": 8,
+        "episode": 4,
+        "released": "2005-01-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:5",
+        "title": "Episode 808",
+        "season": 8,
+        "episode": 5,
+        "released": "2005-01-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:6",
+        "title": "Episode 803",
+        "season": 8,
+        "episode": 6,
+        "released": "2005-01-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:7",
+        "title": "Episode 805",
+        "season": 8,
+        "episode": 7,
+        "released": "2005-01-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:8",
+        "title": "Episode 802",
+        "season": 8,
+        "episode": 8,
+        "released": "2005-02-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:9",
+        "title": "Episode 804",
+        "season": 8,
+        "episode": 9,
+        "released": "2005-03-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:10",
+        "title": "Episode 806",
+        "season": 8,
+        "episode": 10,
+        "released": "2005-03-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:11",
+        "title": "Episode 809",
+        "season": 8,
+        "episode": 11,
+        "released": "2005-04-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:8:12",
+        "title": "Episode 810",
+        "season": 8,
+        "episode": 12,
+        "released": "2005-04-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:1",
+        "title": "Johnny Lampert, Natasha Leggero, Stephen Rannazzisi, Roy Wood Jr.",
+        "season": 9,
+        "episode": 1,
+        "released": "2005-11-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:2",
+        "title": "Pete Holmes, Chris Mata, Ricky Smiley, Rich Williams",
+        "season": 9,
+        "episode": 2,
+        "released": "2005-11-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:3",
+        "title": "Michelle Buteau, Todd Levin, Sebastian, Michael Somerville",
+        "season": 9,
+        "episode": 3,
+        "released": "2005-12-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:4",
+        "title": "Felipe Esparza, Val Kappa, Dan Levy, Kevin Shea",
+        "season": 9,
+        "episode": 4,
+        "released": "2005-12-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:5",
+        "title": "John Roy, Gilson Lubin, Jim Hamilton, Kelly MacFarland",
+        "season": 9,
+        "episode": 5,
+        "released": "2005-12-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:6",
+        "title": "W. Kamau Bell, Tracy Esposito, Pete Lee, David Huntsberger",
+        "season": 9,
+        "episode": 6,
+        "released": "2005-12-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:7",
+        "title": "Dan Ahdoot, Mario DiGiorgio, Blair Butler, Kyle Cease",
+        "season": 9,
+        "episode": 7,
+        "released": "2006-01-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:8",
+        "title": "Bret Ernst, Matt Goldich, Rhetha Jones, Bobby Miyamoto",
+        "season": 9,
+        "episode": 8,
+        "released": "2006-01-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:9",
+        "title": "Rebecca Corry, Anthony Jeselnik, Jamie Lissow, Damon Williams",
+        "season": 9,
+        "episode": 9,
+        "released": "2006-01-13T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:10",
+        "title": "Carlos Oscar, Rena Zager, Kevin Williams, Harris Stanton",
+        "season": 9,
+        "episode": 10,
+        "released": "2006-01-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:11",
+        "title": "Joe De Rosa, Suzanne Whang, Prescott Tolk, Royale Watkins",
+        "season": 9,
+        "episode": 11,
+        "released": "2006-01-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:12343:9:12",
+        "title": "Frank Santorelli, Aziz Ansari, Brendon Walsh, Jo Koy",
+        "season": 9,
+        "episode": 12,
+        "released": "2006-01-27T00:00:00.000Z"
+      }
+    ]
+  }
+}

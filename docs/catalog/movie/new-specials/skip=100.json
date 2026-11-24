@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1769517",
+      "type": "movie",
+      "name": "Charles Haycock: Freezer Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/fTZKRpvyrJV1zfmqK19f4qemG2M.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41269788",
+      "type": "movie",
+      "name": "Wanda Sykes: Legacy",
+      "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt38687274",
       "type": "movie",
       "name": "Lisa Ann Walter: It Was an Accident",
@@ -19,6 +33,12 @@
       "type": "movie",
       "name": "Hazel Brugger: Still Awake",
       "poster": "https://image.tmdb.org/t/p/w500/zLyWqqrnA2HSJB2VdhdQUwavbVK.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1705367",
+      "type": "movie",
+      "name": "Gabriel Rutledge: A Reasonable Hour",
       "releaseInfo": "2026"
     },
     {
@@ -324,27 +344,6 @@
       "type": "movie",
       "name": "Derrick Stroup: Nostalgic",
       "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt40544688",
-      "type": "movie",
-      "name": "David Cross: The End of the Beginning of the End",
-      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1648740",
-      "type": "movie",
-      "name": "Gary Owen: No Hard Feelings",
-      "poster": "https://image.tmdb.org/t/p/w500/kAR9bFerk7aOpB37JEIpRmGMEem.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt40548551",
-      "type": "movie",
-      "name": "Cameron Esposito: Nine Months",
-      "poster": "https://image.tmdb.org/t/p/w500/lPyWhutl8EXzBHE9w9kZukcRRZq.jpg",
       "releaseInfo": "2026"
     }
   ]

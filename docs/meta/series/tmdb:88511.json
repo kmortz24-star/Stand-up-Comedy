@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:88511",
+    "type": "series",
+    "name": "The New Negroes",
+    "releaseInfo": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/8HEpxEXjSCOdJPGBI2OmvlbQWCj.jpg",
+    "description": "Stand-up and music show hosted by Baron Vaughn and Open Mike Eagle, which promises to prove that the black experience is about more than just one thing.\n\nA smorgasbord of comedic talent from black artists in the form of stand up comedy and rap music.",
+    "videos": [
+      {
+        "id": "tmdb:88511:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-04-09T00:00:00.000Z"
+      }
+    ]
+  }
+}

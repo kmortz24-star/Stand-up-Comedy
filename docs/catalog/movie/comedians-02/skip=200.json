@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt31433262",
+      "type": "movie",
+      "name": "Dave Attell: Hot Cross Buns",
+      "poster": "https://image.tmdb.org/t/p/w500/zgre4IOW2Bpyd64oclf36oh0Z9F.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0876707",
+      "type": "movie",
+      "name": "Dave Chappelle: HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8aXELrq9TPeEbuN0lCk1rMI7Sh6.jpg",
+      "releaseInfo": "1998"
+    },
+    {
       "id": "tt0251654",
       "type": "movie",
       "name": "Dave Chappelle: Killin' Them Softly",
@@ -333,19 +347,6 @@
       "name": "Deon Cole: Cole-Blooded Seminar",
       "poster": "https://image.tmdb.org/t/p/w500/k5X1mnl7b2o1jInJpP6eK6FysE3.jpg",
       "releaseInfo": "2016"
-    },
-    {
-      "id": "tt13444608",
-      "type": "movie",
-      "name": "Deon Cole: Workin' It Out",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt23024594",
-      "type": "movie",
-      "name": "Deon Cole: Charleen's Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/jinfpjAukYygPVOBWvZStD0CjS3.jpg",
-      "releaseInfo": "2022"
     }
   ]
 }

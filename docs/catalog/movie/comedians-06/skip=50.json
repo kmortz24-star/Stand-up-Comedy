@@ -304,10 +304,24 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "tmdb:77746",
+      "type": "movie",
+      "name": "Simon Munnery: Hello",
+      "poster": "https://image.tmdb.org/t/p/w500/aa852am2azYpzOV53syqaCbUKeg.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tmdb:334379",
       "type": "movie",
       "name": "Simon Munnery: Fylm",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:536573",
+      "type": "movie",
+      "name": "Simon Munnery: Renegade Plumber",
+      "poster": "https://image.tmdb.org/t/p/w500/nd3rEsYjfgXqOZNSjAhD9rDSoDd.jpg",
+      "releaseInfo": "2018"
     },
     {
       "id": "tt2113048",
@@ -329,19 +343,6 @@
       "name": "Simon Talbot: Mr. Copenhagen",
       "poster": "https://image.tmdb.org/t/p/w500/4qSdO89d5R3PX4Gtqd6814s9lAA.jpg",
       "releaseInfo": "2016"
-    },
-    {
-      "id": "tt12712404",
-      "type": "movie",
-      "name": "Simon Talbot: Make Denmark Great Again",
-      "poster": "https://image.tmdb.org/t/p/w500/78Vee9BJDhSjXXpmj7Qu5kvtFSJ.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:757538",
-      "type": "movie",
-      "name": "Simon Talbot - The Surrogate Comedy Show",
-      "releaseInfo": "2020"
     }
   ]
 }

@@ -22,10 +22,45 @@
       "idPrefixes": [
         "standupyt_"
       ]
+    },
+    {
+      "name": "meta",
+      "types": [
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:11545",
+        "tmdb:12208",
+        "tmdb:12343",
+        "tmdb:133818",
+        "tmdb:16903",
+        "tmdb:1699",
+        "tmdb:190",
+        "tmdb:233598",
+        "tmdb:36159",
+        "tmdb:42",
+        "tmdb:44758",
+        "tmdb:4787",
+        "tmdb:57324",
+        "tmdb:59746",
+        "tmdb:64964",
+        "tmdb:65770",
+        "tmdb:72671",
+        "tmdb:73943",
+        "tmdb:78226",
+        "tmdb:80366",
+        "tmdb:819",
+        "tmdb:82820",
+        "tmdb:83591",
+        "tmdb:85418",
+        "tmdb:88511",
+        "tmdb:92379"
+      ]
     }
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "catalogs": [
     {
@@ -188,6 +223,18 @@
       "id": "comedians-06",
       "type": "movie",
       "name": "STUVWXYZ",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "standup-tv-series",
+      "type": "series",
+      "name": "Stand-Up TV Shows",
       "pageSize": 50,
       "extra": [
         {

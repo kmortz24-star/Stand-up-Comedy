@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1311294",
+      "type": "movie",
+      "name": "Steve Hofstetter: Me, Myself, and Id",
+      "poster": "https://image.tmdb.org/t/p/w500/ztXhtM41L9riPeWDMG0CYU3663R.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1553314",
+      "type": "movie",
+      "name": "Steve Hofstetter: Kill the Butterflies",
+      "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0393555",
+      "type": "movie",
+      "name": "Steve Martin: On Location with Steve Martin",
+      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
+      "releaseInfo": "1976"
+    },
+    {
       "id": "tt0356076",
       "type": "movie",
       "name": "Steve Martin's Best Show Ever",
@@ -326,26 +347,6 @@
       "name": "Taylor Tomlinson: Prodigal Daughter",
       "poster": "https://image.tmdb.org/t/p/w500/5n85A8bspgGBhIZ2HnNfbbr6GRe.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt12526744",
-      "type": "movie",
-      "name": "Tez Ilyas - Teztify",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1721694",
-      "type": "movie",
-      "name": "Thanos Fotas - Live på Cirkus",
-      "poster": "https://image.tmdb.org/t/p/w500/cmGWsfcJYXBLeNwqDTkDytl3yy6.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt1799921",
-      "type": "movie",
-      "name": "The All-Star Show: Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/flFW6S1XHOqGWW70sdFBnWjmt3l.jpg",
-      "releaseInfo": "2010"
     }
   ]
 }

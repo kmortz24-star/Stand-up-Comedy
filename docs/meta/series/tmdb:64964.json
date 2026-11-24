@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "id": "tmdb:64964",
+    "type": "series",
+    "name": "Comedy Underground with Dave Attell",
+    "releaseInfo": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/o5W8ubhdkChFrezDFS488hVAv6u.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/gwOl7p6gQwZYBqpmCwhjBw5gJrF.jpg",
+    "description": "Comedy Underground with Dave Attell: 8 indexed stand-up episodes. Episode availability depends on installed streaming addons.",
+    "videos": [
+      {
+        "id": "tmdb:64964:1:1",
+        "title": "Joe DeRosa, Jermaine Fowler, Jay Oakerson, Jeff Ross",
+        "season": 1,
+        "episode": 1,
+        "released": "2014-04-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:2",
+        "title": "Ari Shaffir, Pete Davidson, Brad Williams, Amy Schumer",
+        "season": 1,
+        "episode": 2,
+        "released": "2014-04-19T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:3",
+        "title": "Kurt Metzger, Nikki Glaser, Mike Vecchione, Triumph the Insult Comic Dog",
+        "season": 1,
+        "episode": 3,
+        "released": "2014-04-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:4",
+        "title": "Russ Meneve, April Macie, Ralphie May, Artie Lange",
+        "season": 1,
+        "episode": 4,
+        "released": "2014-05-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:5",
+        "title": "Lynne Koplitz, Milton Howery, Judah Friedlander",
+        "season": 1,
+        "episode": 5,
+        "released": "2014-05-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:6",
+        "title": "Louis Katz, Robert Kelly, Luenell, Jim Norton",
+        "season": 1,
+        "episode": 6,
+        "released": "2014-05-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:7",
+        "title": "Ali Wong, Junior Stopka, Jimmy Shubert",
+        "season": 1,
+        "episode": 7,
+        "released": "2014-05-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:64964:1:8",
+        "title": "Jesse Joyce, Al Jackson, Tom Rhodes",
+        "season": 1,
+        "episode": 8,
+        "released": "2014-05-31T00:00:00.000Z"
+      }
+    ]
+  }
+}

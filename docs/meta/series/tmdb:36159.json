@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "id": "tmdb:36159",
+    "type": "series",
+    "name": "John Oliver's New York Stand-Up Show",
+    "releaseInfo": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/58SLx5YE6mfeqv8KSH3yozEXQzo.jpg",
+    "description": "John Oliver's New York Stand-Up Show is a stand-up comedy television series that currently airs on Comedy Central in the United States. Hosted by British comedian John Oliver, who is best known for his work on The Daily Show, the show features new material by both up-and-coming and established comedians. Each episode features four performers, including the headliner but not Oliver.",
+    "videos": [
+      {
+        "id": "tmdb:36159:1:1",
+        "title": "Maria Bamford, Nick Kroll (as Fabrice Fabrice), Greg Fitzsimmons, and Eugene Mirman",
+        "season": 1,
+        "episode": 1,
+        "released": "2010-01-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:1:2",
+        "title": "Mary Lynn Rajskub, Matt Braunger, Hari Kondabolu, and Brian Posehn",
+        "season": 1,
+        "episode": 2,
+        "released": "2010-01-15T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:1:3",
+        "title": "Pete Holmes, Hannibal Buress, Matt McCarthy, and Janeane Garofalo",
+        "season": 1,
+        "episode": 3,
+        "released": "2010-01-22T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:1:4",
+        "title": "Maria Bamford, Hannibal Buress, Amy Schumer, and Marc Maron",
+        "season": 1,
+        "episode": 4,
+        "released": "2010-01-29T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:1:5",
+        "title": "Nick Kroll, Chris Hardwick, Matt Braunger, and Kristen Schaal",
+        "season": 1,
+        "episode": 5,
+        "released": "2010-02-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:1:6",
+        "title": "Chris Hardwick, Mary Lynn Rajskub, Greg Fitzsimmons, and Paul F. Tompkins",
+        "season": 1,
+        "episode": 6,
+        "released": "2010-02-12T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:1",
+        "title": "Kyle Kinane, Glenn Wool, Rory Scovel, and Pete Holmes",
+        "season": 2,
+        "episode": 1,
+        "released": "2011-03-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:2",
+        "title": "Deon Cole, Moshe Kasher, Marina Franklin, and Maria Bamford",
+        "season": 2,
+        "episode": 2,
+        "released": "2011-03-31T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:3",
+        "title": "Anthony Jeselnik, Rory Albanese, Deon Cole, Tommy Johnagin, and David Koechner",
+        "season": 2,
+        "episode": 3,
+        "released": "2011-04-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:4",
+        "title": "Mike Lawrence, Marina Franklin, Brendon Walsh, and Greg Behrendt",
+        "season": 2,
+        "episode": 4,
+        "released": "2011-04-14T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:5",
+        "title": "Brendon Walsh, Glenn Wool, Kumail Nanjiani, and Kirk Fox",
+        "season": 2,
+        "episode": 5,
+        "released": "2011-04-21T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:2:6",
+        "title": "Kumail Nanjiani, Jen Kirkman, Kyle Kinane, and Al Madrigal",
+        "season": 2,
+        "episode": 6,
+        "released": "2011-04-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:1",
+        "title": "Hari Kondabolu, Mark Normand, Ben Kronberg, and Wyatt Cenac",
+        "season": 3,
+        "episode": 1,
+        "released": "2012-07-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:2",
+        "title": "Jared Logan, Adam Newman, Emily Heller, and Hannibal Buress",
+        "season": 3,
+        "episode": 2,
+        "released": "2012-07-27T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:3",
+        "title": "Leo Allen, Al Jackson, Sheng Wang and Marc Maron",
+        "season": 3,
+        "episode": 3,
+        "released": "2012-08-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:4",
+        "title": "Mike Lawrence, Andy Zaltzman, Kurt Braunohler and David O'Doherty",
+        "season": 3,
+        "episode": 4,
+        "released": "2012-08-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:5",
+        "title": "Michael Che, Iliza Shlesinger, Hari Kondabolu and Michael Ian Black",
+        "season": 3,
+        "episode": 5,
+        "released": "2012-08-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:3:6",
+        "title": "Dan St. Germain, Adam Lowitt, Andy Zaltzman and Dana Gould",
+        "season": 3,
+        "episode": 6,
+        "released": "2012-08-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:1",
+        "title": "Nick Turner, Colin Jost, Reggie Watts.",
+        "season": 4,
+        "episode": 1,
+        "released": "2013-07-26T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:2",
+        "title": "Joe Zimmerman; Sara Schaefer; Tom Lennon",
+        "season": 4,
+        "episode": 2,
+        "released": "2013-08-02T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:3",
+        "title": "James Adomian; Jessi Klein; Pete Holmes.",
+        "season": 4,
+        "episode": 3,
+        "released": "2013-08-09T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:4",
+        "title": "Morgan Murphy, Seth Herzog, Rory Scovel",
+        "season": 4,
+        "episode": 4,
+        "released": "2013-08-16T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:5",
+        "title": "Phil Hanley, Brooke Van Poppelen, Gary Gulman",
+        "season": 4,
+        "episode": 5,
+        "released": "2013-08-23T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:6",
+        "title": "Ron Funches, Mark Forward, Dan Soder",
+        "season": 4,
+        "episode": 6,
+        "released": "2013-08-30T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:7",
+        "title": "Ali Wong, Travon Free, Paul. F. Tompkins",
+        "season": 4,
+        "episode": 7,
+        "released": "2013-09-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:36159:4:8",
+        "title": "Joe Mande, Jamie Lee, W. Kamau Bell",
+        "season": 4,
+        "episode": 8,
+        "released": "2013-09-13T00:00:00.000Z"
+      }
+    ]
+  }
+}

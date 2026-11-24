@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt11256966",
+      "type": "movie",
+      "name": "Arjen Lubach: LIVE",
+      "poster": "https://image.tmdb.org/t/p/w500/lv4L12y3Fr4oOmjTCGWtxb0nRgO.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tt35227072",
       "type": "movie",
       "name": "Arjen Lubach: STRIJDER",
@@ -343,13 +350,6 @@
       "name": "Bert Kreischer: Razzle Dazzle",
       "poster": "https://image.tmdb.org/t/p/w500/4jIKENHrHUxFZPSN352UznKv9GA.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt35924806",
-      "type": "movie",
-      "name": "Bert Kreischer: Lucky",
-      "poster": "https://image.tmdb.org/t/p/w500/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

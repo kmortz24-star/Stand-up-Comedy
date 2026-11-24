@@ -1,10 +1,30 @@
 {
   "metas": [
     {
+      "id": "tt13444608",
+      "type": "movie",
+      "name": "Deon Cole: Workin' It Out",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt23024594",
+      "type": "movie",
+      "name": "Deon Cole: Charleen's Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/jinfpjAukYygPVOBWvZStD0CjS3.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt26121370",
       "type": "movie",
       "name": "Out of the Loop",
       "poster": "https://image.tmdb.org/t/p/w500/tcXdKnmzcZGrrgI9B2oQ3hysBAy.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1445996",
+      "type": "movie",
+      "name": "Derrick Stroup: Yelling My Feelings",
+      "poster": "https://image.tmdb.org/t/p/w500/kaxbxDDzSnzqcHkKY3IYc3cSoRu.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -324,27 +344,6 @@
       "name": "Drew Michael: Lovely",
       "poster": "https://image.tmdb.org/t/p/w500/qhR6rtQJOit57ZSR3lXnof57XTP.jpg",
       "releaseInfo": "2013"
-    },
-    {
-      "id": "tt8563704",
-      "type": "movie",
-      "name": "Drew Michael",
-      "poster": "https://image.tmdb.org/t/p/w500/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt16153658",
-      "type": "movie",
-      "name": "drew michael: red blue green",
-      "poster": "https://image.tmdb.org/t/p/w500/3fGrQ1mMhNhVW8bH084nVCNfxyn.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt28091575",
-      "type": "movie",
-      "name": "Dustin Nickerson: Runs in the Family",
-      "poster": "https://image.tmdb.org/t/p/w500/vv3IFbyYA8JcSwgdVMHszqKRvSm.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

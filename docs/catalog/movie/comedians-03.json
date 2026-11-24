@@ -197,6 +197,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt13400146",
+      "type": "movie",
+      "name": "Hazel Brugger: Tropical",
+      "poster": "https://image.tmdb.org/t/p/w500/pn85WeAehNAZFbf4rapcwjYGVr7.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt38974602",
       "type": "movie",
       "name": "Immer noch wach",
@@ -216,6 +223,20 @@
       "name": "Heather McDonald: I Don't Mean to Brag",
       "poster": "https://image.tmdb.org/t/p/w500/4OLDiL6mcZJGCxDylcz4YPHLGgt.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "tt29261000",
+      "type": "movie",
+      "name": "Heather McMahan: Son I Never Had",
+      "poster": "https://image.tmdb.org/t/p/w500/jyisUv3KVPgrEJ3gWOUaPPVI65p.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1365657",
+      "type": "movie",
+      "name": "Heather McMahan: Breadwinner",
+      "poster": "https://image.tmdb.org/t/p/w500/n5VJPeF6U7xWy7URXywBQEIov7R.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt47793872",
@@ -326,27 +347,6 @@
       "name": "Horatio Gould: Sweet Prince",
       "poster": "https://image.tmdb.org/t/p/w500/pZ81WpIq2KFNSXneGC0UCw7H70g.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1703374",
-      "type": "movie",
-      "name": "Horatio Gould: Space Cowboy",
-      "poster": "https://image.tmdb.org/t/p/w500/s5kJzjqGnDxnPH6IrcIoMIXcuSL.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt13602362",
-      "type": "movie",
-      "name": "Hot Jokes: A Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/xM1WoFm06OzWG2OndtzhpN0pMgQ.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt0252108",
-      "type": "movie",
-      "name": "The Young Comedians All-Star Reunion",
-      "poster": "https://image.tmdb.org/t/p/w500/iNu8LxND2nQfDHKnUtd51XbJGgN.jpg",
-      "releaseInfo": "1986"
     }
   ]
 }

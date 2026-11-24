@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "id": "tmdb:92379",
+    "type": "series",
+    "name": "Tiffany Haddish Presents: They Ready",
+    "releaseInfo": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/l5qyP6lDsHDGdLsSCHbCg8FvgxV.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/xn1dmvIkK0WbLoTbLSUPE0hdxiZ.jpg",
+    "description": "Tiffany Haddish introduces her favorite comedians in a series of stand-up performances.",
+    "videos": [
+      {
+        "id": "tmdb:92379:1:1",
+        "title": "Tracey Ashley",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tracey Ashley."
+      },
+      {
+        "id": "tmdb:92379:1:2",
+        "title": "Flame Monroe",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Flame Monroe."
+      },
+      {
+        "id": "tmdb:92379:1:3",
+        "title": "Aida Rodriguez",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Aida Rodriguez."
+      },
+      {
+        "id": "tmdb:92379:1:4",
+        "title": "Marlo Williams",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Marlo Williams."
+      },
+      {
+        "id": "tmdb:92379:1:5",
+        "title": "April Macie",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring April Macie."
+      },
+      {
+        "id": "tmdb:92379:1:6",
+        "title": "Chaunté Wayans",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-08-14T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Chaunté Wayans."
+      },
+      {
+        "id": "tmdb:92379:2:1",
+        "title": "Godfrey",
+        "season": 2,
+        "episode": 1,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Godfrey."
+      },
+      {
+        "id": "tmdb:92379:2:2",
+        "title": "Erin Jackson",
+        "season": 2,
+        "episode": 2,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Erin Jackson."
+      },
+      {
+        "id": "tmdb:92379:2:3",
+        "title": "Tony Woods",
+        "season": 2,
+        "episode": 3,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Tony Woods."
+      },
+      {
+        "id": "tmdb:92379:2:4",
+        "title": "Kimberly Clark",
+        "season": 2,
+        "episode": 4,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Kimberly Clark."
+      },
+      {
+        "id": "tmdb:92379:2:5",
+        "title": "Barbara Carlyle",
+        "season": 2,
+        "episode": 5,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Barbara Carlyle."
+      },
+      {
+        "id": "tmdb:92379:2:6",
+        "title": "Dean Edwards",
+        "season": 2,
+        "episode": 6,
+        "released": "2021-02-02T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Dean Edwards."
+      },
+      {
+        "id": "tmdb:92379:2:7",
+        "title": "The After Show",
+        "season": 2,
+        "episode": 7,
+        "released": "2021-02-02T00:00:00.000Z"
+      }
+    ]
+  }
+}

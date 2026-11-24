@@ -50,6 +50,13 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "tt11668996",
+      "type": "movie",
+      "name": "Claudia Oshry: Disgraced Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/1zWefCSxy6ypxNAVI3ouD7tYigP.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tt30745097",
       "type": "movie",
       "name": "Claudia Oshry: Lean In",
@@ -105,6 +112,13 @@
       "background": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
       "description": "Colum Tyrrell · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1052293",
+      "type": "movie",
+      "name": "Count Arthur Strong: And This Is Me!",
+      "poster": "https://image.tmdb.org/t/p/w500/dqqAfEzjhTzU0Cg15eXhZenceUn.jpg",
+      "releaseInfo": "2022"
     },
     {
       "id": "tmdb:1543968",
@@ -331,22 +345,6 @@
       "background": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
       "description": "Dane Cook · 57 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "standupyt_iQLmVm7f5aI",
-      "type": "movie",
-      "name": "DANE COOK - TROUBLEMAKER (FULL SPECIAL) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
-      "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt37446074",
-      "type": "movie",
-      "name": "It's Worth It by Dani Rovira",
-      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

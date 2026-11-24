@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "id": "tmdb:59746",
+    "type": "series",
+    "name": "Gabriel Iglesias Presents Stand-Up Revolution",
+    "releaseInfo": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/vXLkA9fOd7rRx1hsqX5xdrQHeNq.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/aF3FJASLyFc9bzipjtountIufm2.jpg",
+    "description": "It's a comedy revolution -- unite in uproarious laughter with the \"fluffy\" comic in the Hawaiian shirt! Filmed at the Stand Up Live club in Phoenix, this series features Gabriel Iglesias and a bunch of his funny comedian friends performing routines, plus music from Grammy Award winners Ozomatli, the house band. Iglesias begins each episode with a set of all-new material before introducing a guest comic, some of whom include Cristela Alonzo, Tommy Chunn, Noe Gonzalez, Maz Jobrani, Rudy Moreno, Carlos Oscar, Paul Varghese and Thea Vidale. Martin Moreno is the show announcer and guest commentator.",
+    "videos": [
+      {
+        "id": "tmdb:59746:1:1",
+        "title": "Alferd Robbles/Rick Guiterez",
+        "season": 1,
+        "episode": 1,
+        "released": "2011-10-06T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/gAZ9MVL3CtFFKwiHkujiyiFib4m.jpg"
+      },
+      {
+        "id": "tmdb:59746:1:2",
+        "title": "Dillon Garcia/Rudy Moreno/Paul Varghese",
+        "season": 1,
+        "episode": 2,
+        "released": "2011-10-13T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bfYfZ75E7uBY8nlGH061j9CQ5e2.jpg"
+      },
+      {
+        "id": "tmdb:59746:1:3",
+        "title": "Thea Vidale/Dennis Gaxiola/Noe Gonzalez",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-10-20T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:1:4",
+        "title": "Shaun Latham/Tommy Chunn/Carlos Oscar",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-10-27T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/stfLAN3zfjhhss3EcUwbcJFVSBL.jpg"
+      },
+      {
+        "id": "tmdb:59746:1:5",
+        "title": "Zhivago Blea/Cleto Rodriguez/Edwin San Juan",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-11-03T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:1:6",
+        "title": "Cristela Alonzo/Larry Omaha/Maz Jobrani",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-11-10T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:1:7",
+        "title": "Rick Gutierrez/Thea Vidale/Joey CoCo Diaz",
+        "season": 1,
+        "episode": 7,
+        "released": "2011-11-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:1",
+        "title": "Dov Davidoff/Trevor Noah",
+        "season": 2,
+        "episode": 1,
+        "released": "2012-10-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:2",
+        "title": "Nick Guerra/Gina Yashere",
+        "season": 2,
+        "episode": 2,
+        "released": "2012-10-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:3",
+        "title": "Dillon Garcia/Wil Sylvince",
+        "season": 2,
+        "episode": 3,
+        "released": "2012-10-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:4",
+        "title": "Dustin Ybarra/Thai Rivera",
+        "season": 2,
+        "episode": 4,
+        "released": "2012-10-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:5",
+        "title": "Tony Baker/Alfred Robles",
+        "season": 2,
+        "episode": 5,
+        "released": "2012-11-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:2:6",
+        "title": "Ian Bagg/Pablo Francisco",
+        "season": 2,
+        "episode": 6,
+        "released": "2012-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:1",
+        "title": "Kabir Singh/Lance Patrick",
+        "season": 3,
+        "episode": 1,
+        "released": "2014-10-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:2",
+        "title": "Mark Viera/Barry Brewer",
+        "season": 3,
+        "episode": 2,
+        "released": "2014-10-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:3",
+        "title": "Shaun Latham/Jerry Rocha",
+        "season": 3,
+        "episode": 3,
+        "released": "2014-10-17T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:4",
+        "title": "Steve Simeone/G Reilly",
+        "season": 3,
+        "episode": 4,
+        "released": "2014-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:5",
+        "title": "Ian Bagg/Mike Merrill",
+        "season": 3,
+        "episode": 5,
+        "released": "2014-11-01T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:59746:3:6",
+        "title": "Gina Brillon/Alfred Robles",
+        "season": 3,
+        "episode": 6,
+        "released": "2014-11-08T00:00:00.000Z"
+      }
+    ]
+  }
+}

@@ -43,6 +43,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1827977",
+      "type": "movie",
+      "name": "Rory Scovel: Improvised in Brooklyn",
+      "poster": "https://image.tmdb.org/t/p/w500/vdlz9clK50eadRmE6xLzIjPCwba.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1825512",
       "type": "movie",
       "name": "Deirdre O'Kane: O'Kaning It",
@@ -306,6 +313,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1770059",
+      "type": "movie",
+      "name": "Are You Garbage Presents: American Garbage",
+      "poster": "https://image.tmdb.org/t/p/w500/rpwRQN00L7mw57QQvqCRCOTbkb6.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt41975820",
       "type": "movie",
       "name": "Stavros Halkias: Uncle Stav",
@@ -331,20 +345,6 @@
       "type": "movie",
       "name": "Antoni Rémillard: Impuissant",
       "poster": "https://image.tmdb.org/t/p/w500/zOkbfFuQ4KaBDi2ckvrlfaCqJqr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38641690",
-      "type": "movie",
-      "name": "Jared Freid: The Family Plan",
-      "poster": "https://image.tmdb.org/t/p/w500/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt42654471",
-      "type": "movie",
-      "name": "Stamptown",
-      "poster": "https://image.tmdb.org/t/p/w500/2ZPVi4ThvB3EhAKCYUMQTLTzEbf.jpg",
       "releaseInfo": "2026"
     }
   ]

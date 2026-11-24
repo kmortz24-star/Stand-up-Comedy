@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt8563704",
+      "type": "movie",
+      "name": "Drew Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt16153658",
+      "type": "movie",
+      "name": "drew michael: red blue green",
+      "poster": "https://image.tmdb.org/t/p/w500/3fGrQ1mMhNhVW8bH084nVCNfxyn.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt28091575",
+      "type": "movie",
+      "name": "Dustin Nickerson: Runs in the Family",
+      "poster": "https://image.tmdb.org/t/p/w500/vv3IFbyYA8JcSwgdVMHszqKRvSm.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt51547996",
       "type": "movie",
       "name": "Dustin Nickerson: Is That Your Dad?!",
@@ -167,6 +188,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tt0435636",
+      "type": "movie",
+      "name": "Eddie Griffin: Voodoo Child",
+      "poster": "https://image.tmdb.org/t/p/w500/us4rE7nsIAEW1weyeCDbNO3RsTZ.jpg",
+      "releaseInfo": "1997"
+    },
+    {
       "id": "tt0337996",
       "type": "movie",
       "name": "Eddie Griffin: DysFunktional Family",
@@ -174,11 +202,32 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "tmdb:468175",
+      "type": "movie",
+      "name": "Eddie Griffin's Last Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/i7RZbJB9S9OA8O47Yl6jsNf3kJs.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt1388340",
+      "type": "movie",
+      "name": "Eddie Griffin: Freedom of Speech",
+      "poster": "https://image.tmdb.org/t/p/w500/qsGrZgwOs8B6Jqen0ECBJ6UgfEG.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "tt1772263",
       "type": "movie",
       "name": "Eddie Griffin: You Can Tell 'Em I Said It",
       "poster": "https://image.tmdb.org/t/p/w500/3DxmpcradMnzLsyMy40z5o1iErG.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt7842288",
+      "type": "movie",
+      "name": "Eddie Griffin: Undeniable",
+      "poster": "https://image.tmdb.org/t/p/w500/p6Rto9VBudDMT5WTAF0PEgzcO9k.jpg",
+      "releaseInfo": "2018"
     },
     {
       "id": "tmdb:816724",
@@ -303,55 +352,6 @@
       "name": "Eddie Pepitone: For the Masses",
       "poster": "https://image.tmdb.org/t/p/w500/aBWSGsup7FNnQZbERgFciXZyyuE.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt37499050",
-      "type": "movie",
-      "name": "Eddie Pepitone: The Collapse",
-      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt43467994",
-      "type": "movie",
-      "name": "Edy Modica: I'm Just Like You (And It Sucks)",
-      "poster": "https://image.tmdb.org/t/p/w500/jiYm7mtbcJKd7NyZnixc467r849.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0389960",
-      "type": "movie",
-      "name": "Elayne Boosler: Party of One",
-      "poster": "https://image.tmdb.org/t/p/w500/ekzsyRbJXBzyBymSO4QLaKvtS1b.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0462213",
-      "type": "movie",
-      "name": "Elayne Boosler: Broadway Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/tFJKiXFdjUZ85BzxBK7lIcDaKIL.jpg",
-      "releaseInfo": "1987"
-    },
-    {
-      "id": "tt8421854",
-      "type": "movie",
-      "name": "Elayne Boosler: Top Tomata",
-      "poster": "https://image.tmdb.org/t/p/w500/9fBPFJkQo4wqTs8HQlDYI43PBch.jpg",
-      "releaseInfo": "1989"
-    },
-    {
-      "id": "tt0415126",
-      "type": "movie",
-      "name": "Elayne Boosler: Live Nude Girls",
-      "poster": "https://image.tmdb.org/t/p/w500/qMm3uO4Yq95cppuh9uzICiu4Twh.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tmdb:1178077",
-      "type": "movie",
-      "name": "Elf Lyons: Swan",
-      "poster": "https://image.tmdb.org/t/p/w500/renzTocQOFx7MowBrYyWJeo2hq7.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "standupyt_iQLmVm7f5aI",
+      "type": "movie",
+      "name": "DANE COOK - TROUBLEMAKER (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt37446074",
+      "type": "movie",
+      "name": "It's Worth It by Dani Rovira",
+      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tmdb:1578089",
       "type": "movie",
       "name": "Daniel Kitson: Something",
@@ -330,20 +346,6 @@
       "name": "Dave Attell: Road Work",
       "poster": "https://image.tmdb.org/t/p/w500/rwomGYhFcKtjMOIiYUO5kvHzlO1.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt31433262",
-      "type": "movie",
-      "name": "Dave Attell: Hot Cross Buns",
-      "poster": "https://image.tmdb.org/t/p/w500/zgre4IOW2Bpyd64oclf36oh0Z9F.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0876707",
-      "type": "movie",
-      "name": "Dave Chappelle: HBO Comedy Half-Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/8aXELrq9TPeEbuN0lCk1rMI7Sh6.jpg",
-      "releaseInfo": "1998"
     }
   ]
 }

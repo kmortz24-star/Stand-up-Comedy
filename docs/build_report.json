@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 370,
+    "New Specials": 375,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -8,14 +8,15 @@
     "Comedy Legends": 65,
     "Viral & Rising Comedians": 35,
     "Roasts & Comedy Events": 63,
-    "Comedians AB": 400,
-    "CDEFG": 526,
-    "HIJ": 430,
-    "KLM": 456,
-    "NOPQR": 414,
-    "STUVWXYZ": 417
+    "Comedians AB": 401,
+    "CDEFG": 551,
+    "HIJ": 441,
+    "KLM": 488,
+    "NOPQR": 448,
+    "STUVWXYZ": 429,
+    "Stand-Up TV Shows": 26
   },
-  "total_unique_records": 2876,
+  "total_unique_records": 2994,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -2255,6 +2256,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tmdb:497921",
+      "tmdb_id": 497921,
+      "title": "The 3rd Annual Howie Mandel Stand-up Gala",
+      "performer": null,
+      "release_date": "2017-12-27",
+      "poster_path": "/ki3G61S8tvVikHAoquEqCBJCwHG.jpg",
+      "popularity": 0.0601,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tt1645043",
       "tmdb_id": 525796,
       "title": "Cholo Comedy Slam: Stand Up and Lean Back",
@@ -2388,6 +2403,20 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
+    },
+    {
+      "id": "tt10294440",
+      "tmdb_id": 640472,
+      "title": "The 4th Annual Howie Mandel Stand-Up Extravaganza",
+      "performer": null,
+      "release_date": "2018-12-20",
+      "poster_path": "/49HdETWg5efe6bFxJBqG4anPJ2Y.jpg",
+      "popularity": 0.0172,
+      "original_language": "en",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tmdb:660040",
@@ -2747,6 +2776,40 @@
       "last_checked": "2026-11-19"
     }
   ],
+  "tv_series": {
+    "series_count": 26,
+    "episode_count": 1336,
+    "episodes_by_show": {
+      "COMEDIANS of the world": 47,
+      "Comedy Central Presents": 286,
+      "Comedy Central Stand-Up Presents": 34,
+      "Comedy Now!": 6,
+      "Comedy Underground with Dave Attell": 8,
+      "ComicView": 12,
+      "Def Comedy Jam": 77,
+      "Gabriel Iglesias Presents Stand-Up Revolution": 19,
+      "Gotham Comedy Live": 135,
+      "HBO Comedy Half Hour": 32,
+      "John Oliver's New York Stand-Up Show": 26,
+      "Just for Laughs: All Access": 28,
+      "Last Comic Standing": 102,
+      "Live at Gotham": 30,
+      "Live at the Apollo": 133,
+      "Live from the BBC": 18,
+      "One Night Stand": 65,
+      "Premium Blend": 97,
+      "Roast Battle": 21,
+      "The Comedy Lineup": 16,
+      "The Degenerates": 12,
+      "The Half Hour": 74,
+      "The New Negroes": 1,
+      "The Standups": 18,
+      "This Is Not Happening": 26,
+      "Tiffany Haddish Presents: They Ready": 13
+    },
+    "playback_verified": false,
+    "stream_source": "Other installed Nuvio stream addons; not hosted by this addon"
+  },
   "youtube_merged": {
     "unverified_playback": true,
     "fallback": "YouTube external link",
@@ -2841,23 +2904,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 110,
+      "available_comedians": 117,
       "selected_comedians": [
-        "Lee Evans",
-        "Doug Stanhope",
-        "Kanan Gill",
-        "Joe Pera",
-        "Billy Crystal",
-        "Roy Wood Jr.",
-        "Stewart Lee",
-        "Kirk Fox",
-        "Peter Kay",
-        "Simon Amstell",
-        "Jack Whitehall",
-        "Billy Connolly",
+        "Mo Gilligan",
+        "Rory Scovel",
+        "Josh Johnson",
+        "Tiffany Haddish",
+        "Stephen Lynch",
+        "Joan Rivers",
+        "Russell Howard",
+        "Michael McIntyre",
+        "Joe Lycett",
         "Chris Porter",
-        "Sarah Millican",
-        "Joan Rivers"
+        "Roy Wood Jr.",
+        "James Acaster",
+        "Donald Glover",
+        "Frankie Boyle",
+        "Billy Connolly"
       ]
     }
   }

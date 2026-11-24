@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tt13788804",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Numero Uno",
+      "poster": "https://image.tmdb.org/t/p/w500/z9t50UiNHHbm6JH4swJkgomXFBk.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt35357642",
+      "type": "movie",
+      "name": "Ronald Goedemondt: Met Knielende Knikjes",
+      "poster": "https://image.tmdb.org/t/p/w500/uBkuBsfYlB8y51MTO5I7uH9SohR.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt32323284",
+      "type": "movie",
+      "name": "The Big Team",
+      "poster": "https://image.tmdb.org/t/p/w500/ohE8SM7UyrTRuKyF0dlSWZLPZPE.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt4210030",
+      "type": "movie",
+      "name": "Ronny Chieng: The Ron Way",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt11248800",
+      "type": "movie",
+      "name": "Ronny Chieng: Asian Comedian Destroys America!",
+      "poster": "https://image.tmdb.org/t/p/w500/yZZdeUJ0JI89aZTbHb92bf1JGgK.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt6051412",
+      "type": "movie",
+      "name": "Rory Scovel: The Charleston Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oVs3HrnwZNPviYlAQmhXDGvyM6t.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt7044010",
+      "type": "movie",
+      "name": "Rory Scovel Tries Stand-Up for the First Time",
+      "poster": "https://image.tmdb.org/t/p/w500/lGQp2uymuoOpvZmSpGnNA1pBLh4.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt32809164",
+      "type": "movie",
+      "name": "Rory Scovel: Live Without Fear",
+      "poster": "https://image.tmdb.org/t/p/w500/f25DrhPaK4GMKB1ZFhFJsXk2Ebe.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt31194520",
+      "type": "movie",
+      "name": "Rory Scovel: Religion, Sex and a Few Things In Between",
+      "poster": "https://image.tmdb.org/t/p/w500/ppHg8tRmTZyhpT2VeLlLSq4ycQv.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt43701966",
+      "type": "movie",
+      "name": "Rory Scovel: Show Must Go On",
+      "poster": "https://image.tmdb.org/t/p/w500/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1827977",
+      "type": "movie",
+      "name": "Rory Scovel: Improvised in Brooklyn",
+      "poster": "https://image.tmdb.org/t/p/w500/vdlz9clK50eadRmE6xLzIjPCwba.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0865521",
+      "type": "movie",
+      "name": "Roseanne Barr: Blonde and Bitchin'",
+      "poster": "https://image.tmdb.org/t/p/w500/cUkQQnfPTonMXRroZzCyw11eKXr.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt15281420",
+      "type": "movie",
+      "name": "Rosebud Baker: Whiskey Fists",
+      "poster": "https://image.tmdb.org/t/p/w500/2MZnyP1TDZgWOEc9ueJpZtqkTen.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tmdb:1595059",
       "type": "movie",
       "name": "Rosie Jones: Triple Threat",
@@ -162,191 +252,98 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tmdb:706714",
+      "id": "tmdb:1179968",
       "type": "movie",
-      "name": "Roy Chubby Brown - 50 Shades Of Brown",
-      "poster": "https://image.tmdb.org/t/p/w500/kEgc7KF5ZFx0M0M7yhRAlhWEXvp.jpg",
-      "releaseInfo": "2019"
+      "name": "Roy Chubby Brown - Jingle B*@!*cks"
     },
     {
-      "id": "tt6665988",
+      "id": "tmdb:1179969",
       "type": "movie",
-      "name": "Roy Wood Jr.: Father Figure",
-      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
-      "releaseInfo": "2017"
+      "name": "Roy Chubby Brown: Crowd Pleaser"
     },
     {
-      "id": "tmdb:401997",
+      "id": "tt0262340",
       "type": "movie",
-      "name": "Ruben Søltoft - Mit Hoved",
-      "poster": "https://image.tmdb.org/t/p/w500/7vdZkkM3uf2x62tAr8QrR7Bnr0q.jpg",
-      "releaseInfo": "2016"
+      "name": "Roy Chubby Brown: Clitoris Allsorts - Live at Blackpool",
+      "poster": "https://image.tmdb.org/t/p/w500/fo1QKtPr1xDuPp5SuZ064UQZsDn.jpg",
+      "releaseInfo": "1995"
     },
     {
-      "id": "tmdb:487063",
+      "id": "tt1075037",
       "type": "movie",
-      "name": "Ruben Søltoft: Ting fra min mund",
-      "poster": "https://image.tmdb.org/t/p/w500/53DxPrxyUHHCVAuTTu3RkWpoTPN.jpg",
-      "releaseInfo": "2019"
+      "name": "Roy Chubby Brown: Saturday Night Beaver",
+      "poster": "https://image.tmdb.org/t/p/w500/zwO1H22sOmtPOnC2hAuOcI7Dyt1.jpg",
+      "releaseInfo": "1996"
     },
     {
-      "id": "tmdb:1177155",
+      "id": "tt0165165",
       "type": "movie",
-      "name": "Ruben Søltoft: Hvorfor er der ikke nogen, der har sagt noget?",
-      "poster": "https://image.tmdb.org/t/p/w500/hrzcUVcgXFubWRqV2ViFNuIPL8T.jpg",
-      "releaseInfo": "2025"
+      "name": "Roy Chubby Brown: Chubby Goes Down Under And Other Sticky Regions",
+      "poster": "https://image.tmdb.org/t/p/w500/huUqLRtibpHJth6eVX3zyHk2xfZ.jpg",
+      "releaseInfo": "1998"
     },
     {
-      "id": "tmdb:1226297",
+      "id": "tt1075041",
       "type": "movie",
-      "name": "Kā to ņem",
-      "poster": "https://image.tmdb.org/t/p/w500/vSIwn4wPZIXpZHXDkomg7w6P7IG.jpg",
-      "releaseInfo": "2020"
+      "name": "Roy Chubby Brown: You Fat Bastard!",
+      "poster": "https://image.tmdb.org/t/p/w500/gFjiWvea4fzcLJ6c36BBWJfp9eu.jpg",
+      "releaseInfo": "1999"
     },
     {
-      "id": "tmdb:1226295",
+      "id": "tt1075040",
       "type": "movie",
-      "name": "Plezīrs",
-      "poster": "https://image.tmdb.org/t/p/w500/uD5zlSGNGg6e0snlTAOcqprv2pF.jpg",
-      "releaseInfo": "2020"
+      "name": "Roy Chubby Brown: Thunder B*!!*cks",
+      "poster": "https://image.tmdb.org/t/p/w500/iYKRrENhwVQstbTZbwSX28LrPLc.jpg",
+      "releaseInfo": "2000"
     },
     {
-      "id": "tmdb:1501227",
+      "id": "tt0369881",
       "type": "movie",
-      "name": "TAGAD. Rūdolfa Kugrēna solo izrāde",
-      "poster": "https://image.tmdb.org/t/p/w500/5zACxSUucFRZ5Iju7vvQEQ6mCVl.jpg",
-      "releaseInfo": "2022"
+      "name": "Roy Chubby Brown: Stocking Filler",
+      "poster": "https://image.tmdb.org/t/p/w500/m40FjQszcuFYMdGlGmEvpaFo8vj.jpg",
+      "releaseInfo": "2001"
     },
     {
-      "id": "tmdb:1501302",
+      "id": "tt0359918",
       "type": "movie",
-      "name": "Turpinājums. Rūdolfa Kugrēna solo stand-up izrāde",
-      "poster": "https://image.tmdb.org/t/p/w500/nPqMpoLc2xtxfbs7WmWYXlvEUZ2.jpg",
-      "releaseInfo": "2024"
+      "name": "Roy Chubby Brown: Standing Room Only",
+      "poster": "https://image.tmdb.org/t/p/w500/tEhcHaty2a5CIyMQV8WtacwNYG9.jpg",
+      "releaseInfo": "2002"
     },
     {
-      "id": "tmdb:1653386",
+      "id": "tt1075035",
       "type": "movie",
-      "name": "Rufat Agayev The Bad Rufat",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:81928",
-      "type": "movie",
-      "name": "Rufus Hound: Being Rude",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt1515900",
-      "type": "movie",
-      "name": "Rune Klan: Går large",
-      "poster": "https://image.tmdb.org/t/p/w500/gtle9Gum5RbdbRZT8HCJ6mwIHJt.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt2396624",
-      "type": "movie",
-      "name": "Rune Klan: Det Blå Show",
-      "poster": "https://image.tmdb.org/t/p/w500/yMPa3m5Nf7xhqtEiTjOFUoWC6HO.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tmdb:305629",
-      "type": "movie",
-      "name": "Rune Klan: Det stribede show",
-      "poster": "https://image.tmdb.org/t/p/w500/uYL2QCHTbqxeGhocml7RdZKubaC.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:486318",
-      "type": "movie",
-      "name": "Rune Klan: Barnløs",
-      "poster": "https://image.tmdb.org/t/p/w500/9Ea3jKdssEJyTr5cl4FPrW45Myh.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:869038",
-      "type": "movie",
-      "name": "Rune Klan: Håbefuld",
-      "poster": "https://image.tmdb.org/t/p/w500/9gfBiGdnFhzBc5oGrHqQAsm1gIS.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1163513",
-      "type": "movie",
-      "name": "Rune Klan: Tvivl",
-      "poster": "https://image.tmdb.org/t/p/w500/uhemnPMf0c3f1kj5xytm1whlvGU.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1602582",
-      "type": "movie",
-      "name": "Rune Klan: Idiot",
-      "poster": "https://image.tmdb.org/t/p/w500/vQiI9n4Ex3v13CuyJHQee3Ak9VV.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:714396",
-      "type": "movie",
-      "name": "Ruslan Belyy: Stand-Up Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/hb4Q4aqgBmqhiwZfSjExesG5Mca.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt1300370",
-      "type": "movie",
-      "name": "Russell Brand: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/peajCTa6OossVInrRcx0nSxfkj.jpg",
+      "name": "Roy Chubby Brown: Kick-Arse Chubbs",
+      "poster": "https://image.tmdb.org/t/p/w500/xct0HM3A2XrZeiV7IXEKnHZRFmu.jpg",
       "releaseInfo": "2006"
     },
     {
-      "id": "tt1294207",
+      "id": "tt1029214",
       "type": "movie",
-      "name": "Russell Brand: Doing Life Live",
-      "poster": "https://image.tmdb.org/t/p/w500/5b6TYsGIXDyGNoEtd9PFmYG7hD0.jpg",
+      "name": "Roy Chubby Brown: Britain's Rudest Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/69LWoO1Fh0ivC5pw9ZsrVPx0aIG.jpg",
       "releaseInfo": "2007"
     },
     {
-      "id": "tt1692221",
+      "id": "tmdb:144100",
       "type": "movie",
-      "name": "Russell Brand: Scandalous",
-      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
-      "releaseInfo": "2009"
+      "name": "Roy Chubby Brown's Front Page Boobs",
+      "poster": "https://image.tmdb.org/t/p/w500/smIKcCIts5t0uqZRNePzU1h28eu.jpg",
+      "releaseInfo": "2012"
     },
     {
-      "id": "tt3397430",
+      "id": "tmdb:308643",
       "type": "movie",
-      "name": "Russell Brand: Messiah Complex",
-      "poster": "https://image.tmdb.org/t/p/w500/3vvigE3kZ1bteqOnDCqYJreonzJ.jpg",
-      "releaseInfo": "2013"
+      "name": "Roy Chubby Brown - Don't Get Fit Get Fat",
+      "poster": "https://image.tmdb.org/t/p/w500/ptYW67dmi0KRcvMIsIgJKwITuOH.jpg",
+      "releaseInfo": "2014"
     },
     {
-      "id": "tt9349942",
+      "id": "tmdb:369133",
       "type": "movie",
-      "name": "RUSSELL BRAND: RE:BIRTH",
-      "poster": "https://image.tmdb.org/t/p/w500/dypTjFImj7pomk0cldvLCYyYvv.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1103103",
-      "type": "movie",
-      "name": "Russell Brand: Brandemic",
-      "poster": "https://image.tmdb.org/t/p/w500/7GXjKlebNjh27bC0T944CkmhcpM.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1433549",
-      "type": "movie",
-      "name": "Russell Howard: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/2vaUS1n9AKoH0aiodvMu4GGmlis.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt2122460",
-      "type": "movie",
-      "name": "Russell Howard: Right Here Right Now",
-      "poster": "https://image.tmdb.org/t/p/w500/4rugTCd6fEMCR4hSV0GebksqwPC.jpg",
-      "releaseInfo": "2011"
+      "name": "Roy Chubby Brown - Hangs up the Helmet Live",
+      "poster": "https://image.tmdb.org/t/p/w500/pkIcNhuZaEaJDOgYD47yh5iRFsD.jpg",
+      "releaseInfo": "2015"
     }
   ]
 }

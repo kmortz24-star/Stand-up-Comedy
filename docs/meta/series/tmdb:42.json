@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "tmdb:42",
+    "type": "series",
+    "name": "ComicView",
+    "releaseInfo": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/iQQ5hsyJzfQGn7nyllQaegpMxnO.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/tH46VjVOaj9TrjyYR5d03cpbLnN.jpg",
+    "description": "ComicView is an American stand-up comedy show that aired on BET on Tuesdays and Fridays from September 1992 to December 2008. The show has been the launching pad for such comedians as Dante, D.L. Hughley, Cedric the Entertainer, Sommore, and Rodney Perry.",
+    "videos": [
+      {
+        "id": "tmdb:42:13:1",
+        "title": "John Henton, Eric Schwartz, Thea Vidale",
+        "season": 13,
+        "episode": 1,
+        "released": "2004-10-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:13:2",
+        "title": "G-Thang, Aries Spears, Darren Carter",
+        "season": 13,
+        "episode": 2,
+        "released": "2004-10-05T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:13:3",
+        "title": "Lil JJ, Chris Tabb, George Wallace",
+        "season": 13,
+        "episode": 3,
+        "released": "2004-10-06T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:13:4",
+        "title": "Rodman, Just June, Steve Brown",
+        "season": 13,
+        "episode": 4,
+        "released": "2004-10-07T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:13:5",
+        "title": "Presents: Doug Williams",
+        "season": 13,
+        "episode": 5,
+        "released": "2004-10-08T00:00:00.000Z",
+        "overview": "Stand-up performance featuring Presents."
+      },
+      {
+        "id": "tmdb:42:14:1",
+        "title": "One Mic Stand, Episode 1",
+        "season": 14,
+        "episode": 1,
+        "released": "2008-08-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:2",
+        "title": "One Mic Stand, Episode 1",
+        "season": 14,
+        "episode": 2,
+        "released": "2008-08-28T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:3",
+        "title": "One Mic Stand, Episode 3",
+        "season": 14,
+        "episode": 3,
+        "released": "2008-09-04T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:4",
+        "title": "One Mic Stand, Episode 4",
+        "season": 14,
+        "episode": 4,
+        "released": "2008-09-11T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:5",
+        "title": "One Mic Stand Episode 5",
+        "season": 14,
+        "episode": 5,
+        "released": "2008-09-18T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:6",
+        "title": "One Mic Stand, Episode 6",
+        "season": 14,
+        "episode": 6,
+        "released": "2008-09-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:42:14:7",
+        "title": "One Mic Stand, Episode 7",
+        "season": 14,
+        "episode": 7,
+        "released": "2008-10-02T00:00:00.000Z"
+      }
+    ]
+  }
+}

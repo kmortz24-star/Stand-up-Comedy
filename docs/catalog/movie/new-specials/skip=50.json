@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt38641690",
+      "type": "movie",
+      "name": "Jared Freid: The Family Plan",
+      "poster": "https://image.tmdb.org/t/p/w500/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt42654471",
+      "type": "movie",
+      "name": "Stamptown",
+      "poster": "https://image.tmdb.org/t/p/w500/2ZPVi4ThvB3EhAKCYUMQTLTzEbf.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt44464871",
       "type": "movie",
       "name": "Prashasti Singh: Divine Feminine",
@@ -333,20 +347,6 @@
       "type": "movie",
       "name": "Rome Davis: Roshambo",
       "poster": "https://image.tmdb.org/t/p/w500/o8DmXGK4Va6TVAo3SMtO5ZjaxHy.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1769517",
-      "type": "movie",
-      "name": "Charles Haycock: Freezer Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/fTZKRpvyrJV1zfmqK19f4qemG2M.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt41269788",
-      "type": "movie",
-      "name": "Wanda Sykes: Legacy",
-      "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
       "releaseInfo": "2026"
     }
   ]

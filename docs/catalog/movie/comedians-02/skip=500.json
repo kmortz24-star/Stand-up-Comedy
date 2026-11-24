@@ -1,6 +1,182 @@
 {
   "metas": [
     {
+      "id": "tt0248826",
+      "type": "movie",
+      "name": "George Carlin: 40 Years of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/pQdyep8PiI72qO99IvP8RiISRv7.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0246645",
+      "type": "movie",
+      "name": "George Carlin: You Are All Diseased",
+      "poster": "https://image.tmdb.org/t/p/w500/6dyDMkaU61ZPDadfsiNqgu6VQvi.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0287460",
+      "type": "movie",
+      "name": "George Carlin: Complaints & Grievances",
+      "poster": "https://image.tmdb.org/t/p/w500/qUMJgSvji7ZFI8RxiGRumW0UJKs.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0484855",
+      "type": "movie",
+      "name": "George Carlin: Life Is Worth Losing",
+      "poster": "https://image.tmdb.org/t/p/w500/djoek5ZJA1J7E6vD0jAoUN5Mqjb.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0963207",
+      "type": "movie",
+      "name": "George Carlin: It's Bad for Ya!",
+      "poster": "https://image.tmdb.org/t/p/w500/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt37992733",
+      "type": "movie",
+      "name": "George Civeris: A Sense of Urgency",
+      "poster": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0332720",
+      "type": "movie",
+      "name": "The Original Latin Kings of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/9vO1cHD0zOxFhWrZ82TxQ5ej3TB.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt6344974",
+      "type": "movie",
+      "name": "George Lopez: Why You Crying?",
+      "poster": "https://image.tmdb.org/t/p/w500/f7BWLplB5ZWnp88wSGj3bLOIDIo.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0975673",
+      "type": "movie",
+      "name": "George Lopez: America's Mexican",
+      "poster": "https://image.tmdb.org/t/p/w500/iLTiLEjFh7tbFjKFNvEsxfYqT70.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1508274",
+      "type": "movie",
+      "name": "George Lopez: Tall, Dark & Chicano",
+      "poster": "https://image.tmdb.org/t/p/w500/be6gNC20qqPjtAt88H75dnU0CZQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2270274",
+      "type": "movie",
+      "name": "George Lopez: It's Not Me, It's You",
+      "poster": "https://image.tmdb.org/t/p/w500/zNhMQYO4flBYT0W0wTyWsUbWbAQ.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt7259600",
+      "type": "movie",
+      "name": "George Lopez: The Wall",
+      "poster": "https://image.tmdb.org/t/p/w500/5rEhJp6e63fbZMfRCZ2htXiEeKx.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt35513767",
+      "type": "movie",
+      "name": "George Lopez: Muy Católico",
+      "poster": "https://image.tmdb.org/t/p/w500/iGvaZaQCXBmUQXnEQCrGfEnaHGI.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt5242012",
+      "type": "movie",
+      "name": "Gerry Dee: No Reading Ahead - Live in Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/ttrBLdWQSlUoRXZ1sId8wZmfa0r.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tmdb:254898",
+      "type": "movie",
+      "name": "Gerry Dee: New Year’s Eve 2013",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt38772625",
+      "type": "movie",
+      "name": "Gerry Dee: Funny You Should Say That",
+      "poster": "https://image.tmdb.org/t/p/w500/lOxrMeq9dVN3YF6zmpgF3alfFGu.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt13353630",
+      "type": "movie",
+      "name": "Gianmarco Soresi: Shelf Life",
+      "poster": "https://image.tmdb.org/t/p/w500/qSiWCkJY20EW0qb3vLV63nJYRaG.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1310318",
+      "type": "movie",
+      "name": "Gianmarco Soresi: A Little Something Special",
+      "poster": "https://image.tmdb.org/t/p/w500/uUfUlOUMMU9CnKLjsJvU7Zp6ehD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt37961407",
+      "type": "movie",
+      "name": "Gianmarco Soresi: Thief of Joy",
+      "poster": "https://image.tmdb.org/t/p/w500/qP2BbsrInyODh0udOYfjn6GXA.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1627384",
+      "type": "movie",
+      "name": "Gianmarco Soresi: Shelf Life Vol. 2",
+      "poster": "https://image.tmdb.org/t/p/w500/10tRMvu6Ex7JTDzAxqWK1A3eJRY.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_sB9eWtzTOq0",
+      "type": "movie",
+      "name": "Gianmarco Soresi: Thief of Joy | Full Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/sB9eWtzTOq0/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/sB9eWtzTOq0/hqdefault.jpg",
+      "description": "Gianmarco Soresi · 66 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0666191",
+      "type": "movie",
+      "name": "Gilbert Gottfried: Command Performance",
+      "poster": "https://image.tmdb.org/t/p/w500/olqavoLleHGX4gJ4AGjLSjWz2R.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt1002448",
+      "type": "movie",
+      "name": "Gilbert Gottfried: Dirty Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/eAEN2J13NEuz52uLmRyFdhfeAIu.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt4324916",
+      "type": "movie",
+      "name": "Can We Take a Joke?",
+      "poster": "https://image.tmdb.org/t/p/w500/wwf6CChUR5m5P4lJ2eqtrmIJHIb.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0080790",
+      "type": "movie",
+      "name": "Gilda Live",
+      "poster": "https://image.tmdb.org/t/p/w500/4aEfaYYrM276bfo7Pw5I74FZN5X.jpg",
+      "releaseInfo": "1980"
+    },
+    {
       "id": "tt39381562",
       "type": "movie",
       "name": "Gili: Raar, hè?!",
@@ -173,13 +349,6 @@
       "name": "Guy Montgomery: My Brain Is Blowing Me Crazy",
       "poster": "https://image.tmdb.org/t/p/w500/3vwbXp5OPiITUFd8PYzcdcUtlQk.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36826060",
-      "type": "movie",
-      "name": "Guy Montgomery: 50,000,000 Guy Fans Can't Be Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/jzcTbsxCvUUJGoxU8wTwK91OzAj.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }
