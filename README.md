@@ -99,3 +99,52 @@ python3 build_catalogs.py
 ## Attribution
 
 This product uses the TMDB API but is not endorsed or certified by TMDB. Movie metadata and poster art: [TMDB](https://www.themoviedb.org). Other discovery leads: [Wikidata](https://www.wikidata.org) (CC0). Video metadata: [YouTube Data API](https://developers.google.com/youtube/v3). A stream provider is a separate component from the metadata catalog. Verify applicable API terms before broader distribution.
+
+### Discovery (v2)
+
+Discovery is no longer limited to TMDB stand-up keywords. The scheduled job
+rotates through a Wikidata comedian roster, searches each person's TMDB film
+credits, checks Wikidata works via their IMDb IDs (`/find/{imdb_id}`), and
+searches an independent rotating queue of *exact special titles*. Title leads
+are in `Wikidata-discovered title leads`, including historically verified items
+that keyword search has missed. The YouTube step searches those same titles and
+keeps results in `data/youtube_candidates.json` for review.
+
+**Important:** IMDb-only titles remain *discovery targets*, not catalog records,
+until a TMDB match is confirmed. YouStream is an independent playback addon,
+not an API for looking up an IMDb title or guaranteeing in-app playback. A
+GitHub Actions green check confirms metadata discovery, **not** playability.
+IMDb official bulk datasets are not downloaded by this pipeline: they're very
+large and have separate non-commercial-use restrictions. Those can be
+considered for a future weekly index after verifying permitted use.
+
+### Discovery audit principle
+
+Missing titles (e.g. fan-reported gaps) are **checks**, not forced imports. The fetcher builds its candidate list from metadata discovery and comedian filmographies; it does not insert example IMDb or YouTube IDs just to make test titles appear. After each live GitHub refresh, compare the generated output against those known missing titles. Offline unit tests cannot prove that an external API supplies a particular missing special.
+
+### Discovery coverage update (automatic; no hand-seeded specials)
+
+- Wikidata now supplies independently indexed *stand-up works even if neither a
+  TMDB ID nor an IMDb ID is attached*. This metadata is used as a lead, not as
+  automatic evidence that a random movie or YouTube video is playable.
+- Existing Wikidata IMDb identifiers are resolved using TMDB's `/find/{id}` API.
+  Titles with no IDs are searched exactly and require stand-up evidence.
+- Performer filmographies and movie title searches remain complementary inputs.
+- YouTube rotates through up to 48 comedians and 20 independent titles a day,
+  searches up to 50 results per query, and scans uploads from
+  reputable comedy channels it discovers, using channel/playlist APIs. It
+  preserves public videos as *review candidates*, including embed eligibility;
+  it does not publish speculative YouTube streams into Nuvio's movie catalog.
+- Discovery rotates and stores cursors in `data/discovery_state.json`. GitHub
+  Actions persists this file, so an ordinary run continues where the prior one
+  stopped.
+
+**Not an IMDb scraper:** IMDb's bulk data is licensed for limited personal and
+noncommercial use and cannot simply be republished as a public movie database.
+Our public addon gets IMDb IDs from independently sourced Wikidata records and
+TMDB public metadata, not scraped IMDb pages or bulk-dataset republishing.
+
+**Proof standard:** An offline test only verifies program behavior. To confirm
+that a previously missing real special is actually found, inspect the live
+results after GitHub Actions runs. No example titles or IDs are forcibly
+inserted to produce a pass.

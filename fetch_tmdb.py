@@ -94,7 +94,7 @@ def lookup_keywords(api: TMDB) -> set[int]:
 
 
 def name_prefix(title: str, name: str) -> bool:
-    """A strong title match such as 'Mitch Fatel Is Magical' or 'Dave: Live'."""
+    """A strong title match such as 'Jane Doe: Live'."""
     if not name or len(name) < 4:
         return False
     return bool(re.match(r"^" + re.escape(name) + r"(?=$|\s*[:–—-]\s*|['’]s\b|\s+(?:is|live|stand.?up|special|at|in|on)\b)",
@@ -107,7 +107,12 @@ def titled_special(result: dict, performer: str | None = None) -> bool:
     if performer and name_prefix(title, performer):
         # Require either distinctive special wording or a description explicitly
         # describing stand-up, so a biopic isn't accepted just by a name match.
-        return bool(re.search(r"(?i)stand.?up|comedy special|live (?:at|in|from)|one.man.show|comic|comedian", title + " " + overview))
+        context = title + " " + overview
+        # Avoid documentary/actor roles bearing the performer's name. The
+        # string "comic" alone is especially unsafe (it may be a surname).
+        strong = re.search(r"(?i)stand[ -]?up|comedy special|live (?:at|in|from)|one.man.show|comedian (?:performs|takes|returns|presents|onstage)", context)
+        documentary = re.search(r"(?i)\b(?:documentary|biography|behind.the.scenes|making.of|portrait of)\b", context)
+        return bool(strong) and not (documentary and not re.search(r"(?i)stand[ -]?up|comedy special", context))
     return bool(re.search(r"(?i)\bstand[ -]?up\b|\bcomedy special\b|\broast (?:battle|of)\b", title)
                 and re.search(r"(?i)stand.?up|comedian|comedians|live performance|roast|comedy special", overview))
 
@@ -122,6 +127,38 @@ def search_performer_ids(api: TMDB, performer: str) -> set[int]:
         for page in range(1, pages + 1):
             rows = first if page == 1 else api.get("/search/movie", query=query, page=page, include_adult="false")
             ids.update(int(row["id"]) for row in rows.get("results", []) if titled_special(row, performer))
+    return ids
+
+
+def search_performer_credits(api: TMDB, performer: str) -> set[int]:
+    """Search a comedian's actual TMDB movie credits rather than just tags.
+
+    The movie must still *look like stand-up*; merely appearing in a comedy
+    feature never qualifies. This path can find specials without a keyword or
+    without the comedian's name in the indexed title.
+    """
+    people = api.get('/search/person', query=performer, page=1).get('results', [])
+    matching = [person for person in people if norm(person.get('name') or '') == norm(performer)]
+    # Ambiguous identical name credits aren't safely attributable.
+    if len(matching) != 1:
+        return set()
+    movie_id = int(matching[0]['id'])
+    credits = api.get(f'/person/{movie_id}/movie_credits')
+    ids = set()
+    for row in credits.get('cast', []):
+        if row.get('adult') or not row.get('id'):
+            continue
+        character = str(row.get('character') or '')
+        title = str(row.get('title') or row.get('original_title') or '')
+        overview = str(row.get('overview') or '')
+        # Performer self-credits and explicitly stand-up descriptions are strong
+        # corroboration. A random acting role is not sufficient.
+        self_credit = re.search(r'(?i)\bself\b|\bcomedian\b|\bhimself\b|\bherself\b', character)
+        strong_context = re.search(r'(?i)stand[ -]?up (?:comedy|special|performance|set)|comedy special|live stand[ -]?up', overview)
+        documentary = re.search(r'(?i)\b(?:documentary|biography|behind.the.scenes|making.of|portrait of)\b', overview)
+        if ((titled_special(row, performer) and (self_credit or name_prefix(title, performer) or strong_context))
+                or (self_credit and strong_context and not documentary)):
+            ids.add(int(row['id']))
     return ids
 
 
@@ -161,7 +198,8 @@ def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
     result = set()
     checked = state.setdefault("checked_works", {})
     deadline = (today - timedelta(days=90)).isoformat()
-    works = [r for r in state.get("works", []) if checked.get(r["qid"], "") <= deadline]
+    works = [r for r in state.get("works", []) if (r.get("tmdb") or r.get("imdb"))
+             and checked.get(r["qid"], "") <= deadline]
     works.sort(key=lambda row: (checked.get(row["qid"], ""), row["qid"]))
     for row in works[:max_checks]:
         qid = row["qid"]
@@ -173,6 +211,69 @@ def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
             result.update(int(item["id"]) for item in movies)
         checked[qid] = today.isoformat()
     return result - known_ids
+
+
+def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 24) -> list[dict]:
+    """Rotate title leads independently discovered in Wikidata.
+
+    This is *not* a list of user-provided exceptions. Wikidata often lacks
+    movie IDs, and those leads should still get exact title searches.
+    """
+    candidates = {}
+    existing_ids = {r.get("id") for r in cache.values()}
+    existing_tmdbs = {str(r.get("tmdb_id")) for r in cache.values() if r.get("tmdb_id")}
+    for work in state.get("works", []):
+        title = str(work.get("name") or "").strip()
+        if not (5 <= len(title) <= 130):
+            continue
+        if (work.get("imdb") and work["imdb"] in existing_ids) or (work.get("tmdb") and work["tmdb"] in existing_tmdbs):
+            continue
+        key = str(work.get("qid") or norm(title))
+        candidates[key] = {"title": title, "imdb_id": work.get("imdb") or "",
+                           "tmdb_id": work.get("tmdb") or "", "performer": work.get("performer") or "",
+                           "source": "wikidata", "source_id": key}
+    checked = state.setdefault("searched_titles", {})
+    cutoff = (today - timedelta(days=60)).isoformat()
+    # Respect both old normalized-title cursors and new Wikidata-QID cursors
+    # during upgrade so previously checked works are not searched again at once.
+    def last_checked(row):
+        return checked.get(row["source_id"], checked.get(norm(row["title"]), ""))
+    due = [row for row in candidates.values() if last_checked(row) <= cutoff]
+    due.sort(key=lambda row: (last_checked(row),
+                              0 if row["imdb_id"] or row["tmdb_id"] else 1,
+                              row["title"].casefold()))
+    return due[:limit]
+
+
+def search_exact_title_ids(api: TMDB, lead: dict) -> set[int]:
+    """Exact ID first; fallback to matching title AND stand-up context."""
+    found = set()
+    imdb = str(lead.get("imdb_id") or "")
+    if re.fullmatch(r"tt\d+", imdb):
+        response = api.get(f"/find/{imdb}", external_source="imdb_id")
+        found.update(int(row["id"]) for row in response.get("movie_results", []))
+    tmdb = str(lead.get("tmdb_id") or "")
+    if tmdb.isdecimal():
+        found.add(int(tmdb))
+    if found:
+        return found
+    title = str(lead.get("title") or "")
+    if not title:
+        return set()
+    response = api.get("/search/movie", query=title, include_adult="false", page=1)
+    key = norm(title)
+    for row in response.get("results", []):
+        actual = norm(row.get("title") or row.get("original_title") or "")
+        if not actual or actual != key:
+            continue
+        overview = str(row.get("overview") or "")
+        # The independent title's genre is evidence of a stand-up work, but
+        # not proof that a same-named movie is the right one.
+        standup_overview = re.search(r"(?i)stand[ -]?up|comedy special|live comedy|comedians? (?:perform|onstage)", overview)
+        documentary = re.search(r"(?i)\b(documentary|biopic|portrait of|behind.the.scenes)\b", overview)
+        if titled_special(row, lead.get("performer")) or (standup_overview and not documentary):
+            found.add(int(row["id"]))
+    return found
 
 def likely_performer(title: str, cast: list[dict]) -> str | None:
     """Use explicit solo-comic titles, not generic show titles or roast hosts."""
@@ -247,16 +348,40 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
     due = scheduled_names(names, curated, state, cache, today=today,
                           max_searches=max_performer_searches)
     performer_hints = {}
+    verified_credit_hints = {}
     for index, name in enumerate(due, 1):
-        for movie_id in search_performer_ids(api, name):
+        # Two independent routes: textual lookup and actual performer filmography.
+        # A special can be in the credits even when its title omits the comedian.
+        discovered_ids = search_performer_ids(api, name)
+        try:
+            credit_ids = search_performer_credits(api, name)
+        except HTTPError as exc:
+            if exc.code != 404:
+                raise
+            credit_ids = set()
+        for movie_id in discovered_ids | credit_ids:
             ids.add(movie_id)
             performer_hints.setdefault(movie_id, name)
+        for movie_id in credit_ids:
+            verified_credit_hints.setdefault(movie_id, name)
         state["searched_performers"][norm(name)] = today.isoformat()
         if index % 30 == 0:
             print(f"Searched {index}/{len(due)} individual comedians across the rotating roster", flush=True)
 
     # Independently cataloged Wikidata works with TMDB/IMDb identifiers.
     ids.update(discover_work_ids(api, state, ids, today=today))
+    # Search another rotating batch of *specific special titles*, including
+    # Wikidata works absent from TMDB tags (never hand-entered exceptions).
+    title_leads = title_search_queue(state, cache, today=today)
+    for lead in title_leads:
+        matched = search_exact_title_ids(api, lead)
+        ids.update(matched)
+        for movie_id in matched:
+            if lead.get('performer'):
+                performer_hints.setdefault(movie_id, lead['performer'])
+        state['searched_titles'][lead['source_id']] = today.isoformat()
+    state["last_discovery_title_searches"] = len(title_leads)
+    print(f"Exact-title searches: {len(title_leads)}; TMDB candidate IDs now {len(ids)}", flush=True)
     state["last_run"] = today.isoformat()
     state["last_discovery"] = {"wikidata_people": len(state.get("roster", [])),
                                "wikidata_works": len(state.get("works", [])),
@@ -276,7 +401,10 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
                 # Backfill previously unidentified performer only if its title
                 # strongly proves the name; no guessing from a random cast member.
                 hint = performer_hints.get(movie_id)
-                if hint and not previous.get("performer") and name_prefix(previous.get("title", ""), hint):
+                if hint and not previous.get("performer") and (name_prefix(previous.get("title", ""), hint)
+                    or verified_credit_hints.get(movie_id) == hint
+                    or any(norm(lead['title']) == norm(previous.get('title', '')) and
+                           norm(lead.get('performer', '')) == norm(hint) for lead in title_leads)):
                     previous["performer"] = hint
                 continue
         try:
@@ -287,7 +415,10 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
                 continue
             raise
         hint = performer_hints.get(movie_id)
-        if not record.get("performer") and hint and name_prefix(record["title"], hint):
+        if not record.get("performer") and hint and (name_prefix(record["title"], hint) or
+              verified_credit_hints.get(movie_id) == hint or
+              any(norm(lead['title']) == norm(record['title']) and norm(lead.get('performer', '')) == norm(hint)
+                  for lead in title_leads)):
             record["performer"] = hint
         if previous:
             # Don't erase a verified existing comedian credit when an updated

@@ -13,7 +13,8 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
-USER_AGENT = "NuvioStandupCatalog/1.1 (https://github.com/kmortz24-star/Stand-up-Comedy; metadata discovery)"
+USER_AGENT = "NuvioStandupCatalog/1.2 (https://github.com/kmortz24-star/Stand-up-Comedy; metadata discovery)"
+DISCOVERY_SCHEMA_VERSION = 2
 
 # Exact occupational and genre identifiers, NOT a search for a few names.
 PEOPLE_QUERY = """
@@ -22,15 +23,23 @@ SELECT DISTINCT ?person ?name WHERE {
   FILTER(LANG(?name) = "en")
 } LIMIT 6000
 """
+# A useful special may have a title but no IMDb/TMDB ID. Do not discard it.
+# Include stand-up genres attached either as genre or as type, and surface
+# named performers when Wikidata has that metadata.
 WORKS_QUERY = """
-SELECT DISTINCT ?work ?name ?imdb ?tmdb WHERE {
+SELECT DISTINCT ?work ?name ?imdb ?tmdb ?performerName WHERE {
   VALUES ?genre { wd:Q145806 wd:Q140299056 }
-  ?work wdt:P136 ?genre .
+  { ?work wdt:P136 ?genre . } UNION { ?work wdt:P31 ?genre . }
+  ?work rdfs:label ?name .
+  FILTER(LANG(?name) = "en")
   OPTIONAL { ?work wdt:P345 ?imdb . }
   OPTIONAL { ?work wdt:P4947 ?tmdb . }
-  OPTIONAL { ?work rdfs:label ?name . FILTER(LANG(?name) = "en") }
-  FILTER(BOUND(?imdb) || BOUND(?tmdb))
-} LIMIT 4000
+  OPTIONAL {
+    { ?work wdt:P175 ?performer . } UNION { ?work wdt:P371 ?performer . }
+    ?performer rdfs:label ?performerName .
+    FILTER(LANG(?performerName) = "en")
+  }
+} LIMIT 6000
 """
 
 
@@ -72,13 +81,22 @@ def parse_works(rows: list[dict]) -> list[dict]:
     works = {}
     for row in rows:
         qid = entity_id(binding(row, "work"))
+        name = binding(row, "name")
         imdb, tmdb = binding(row, "imdb"), binding(row, "tmdb")
-        if not qid.startswith("Q") or not ((imdb.startswith("tt") and imdb[2:].isdigit()) or tmdb.isdecimal()):
+        if not (qid.startswith("Q") and 5 <= len(name) <= 160):
             continue
+        # Invalid IDs are not treated as proof of a movie match, but the title
+        # remains a legitimate metadata lead worth searching exactly.
+        imdb = imdb if imdb.startswith("tt") and imdb[2:].isdigit() else ""
+        tmdb = tmdb if tmdb.isdecimal() else ""
         existing = works.get(qid, {})
-        works[qid] = {"qid": qid, "name": binding(row, "name") or existing.get("name", ""),
-                      "imdb": imdb or existing.get("imdb", ""), "tmdb": tmdb or existing.get("tmdb", "")}
+        performer = binding(row, "performerName") or existing.get("performer", "")
+        works[qid] = {"qid": qid, "name": name,
+                      "imdb": imdb or existing.get("imdb", ""),
+                      "tmdb": tmdb or existing.get("tmdb", ""),
+                      "performer": performer}
     return sorted(works.values(), key=lambda row: row["qid"])
+
 
 
 def refresh_wikidata(state: dict, *, today, max_age_days: int = 7, query_fn=sparql) -> dict:
@@ -88,7 +106,8 @@ def refresh_wikidata(state: dict, *, today, max_age_days: int = 7, query_fn=spar
         last = date.fromisoformat(state.get("wikidata_refreshed", ""))
     except ValueError:
         last = date(1900, 1, 1)
-    if last >= today - timedelta(days=max_age_days) and state.get("roster"):
+    if (last >= today - timedelta(days=max_age_days) and state.get("roster")
+            and state.get("wikidata_schema") == DISCOVERY_SCHEMA_VERSION):
         return state
     updated = False
     for key, query, parser in (("roster", PEOPLE_QUERY, parse_people), ("works", WORKS_QUERY, parse_works)):
@@ -104,4 +123,8 @@ def refresh_wikidata(state: dict, *, today, max_age_days: int = 7, query_fn=spar
             print(f"Wikidata {key} unavailable ({type(exc).__name__}); cached discovery continues", flush=True)
     if updated:
         state["wikidata_refreshed"] = today.isoformat()
+        # Failed sources can retain their older cache, but a new schema is
+        # considered active only after the expanded works query succeeds.
+        if state.get('works') and any('performer' in w for w in state['works']):
+            state["wikidata_schema"] = DISCOVERY_SCHEMA_VERSION
     return state
