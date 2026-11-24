@@ -502,13 +502,20 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
         if catalog_dir.exists():
             shutil.rmtree(catalog_dir)
 
+    # Optional YouTube review rows use the standard yt_id: / youtube protocol.
+    # Installed YouStream is responsible for metadata and playback; we publish
+    # neither streams nor a promise that playback will work on every Nuvio TV.
+    youtube_rows = {}
+    if config.get("enable_youtube_preview_catalogs", False):
+        from youtube_catalogs import preview_rows
+        youtube_rows = preview_rows(read_json(ROOT / "data/youtube_candidates.json", []), config, today)
     manifest = {
         "id": config["addon_id"],
-        "version": "1.1.0",
+        "version": "1.2.0" if youtube_rows else "1.1.0",
         "name": config["addon_name"],
-        "description": "Automatically organized stand-up comedy catalogs; no playback streams.",
+        "description": "Automatically organized stand-up comedy catalogs; YouTube rows are unverified previews via YouStream.",
         "resources": ["catalog"],
-        "types": ["movie"],
+        "types": ["movie", "youtube"] if youtube_rows else ["movie"],
         "catalogs": [],
         "behaviorHints": {"configurable": False, "configurationRequired": False},
     }
@@ -535,8 +542,36 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
         terminal_skip = ((len(records_in_catalog) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
         if terminal_skip:
             write_json(catalog_path / identifier / f"skip={terminal_skip}.json", {"metas": []})
+    if youtube_rows:
+        # Put the preview rows into the *same* addon without replacing the
+        # existing movie categories or modifying the Nuvio collection JSON.
+        names = {
+            "youtube-viral-rising": "Viral & Rising — YouTube Sets (Preview)",
+            "youtube-hidden-gems": "Hidden Gems — YouTube Sets (Preview)",
+            "youtube-full-specials": "Full Stand-Up Specials — YouTube (Preview)",
+        }
+        for identifier, label in names.items():
+            previews = youtube_rows.get(identifier, [])
+            if not previews:
+                continue
+            manifest["catalogs"].append({
+                "id": identifier, "type": "youtube", "name": label,
+                "pageSize": PAGE_SIZE,
+                "extra": [{"name": "skip", "isRequired": False}],
+            })
+            counts[label] = len(previews)
+            folder = out_dir / "catalog" / "youtube"
+            for skip in range(0, len(previews), PAGE_SIZE):
+                file = f"{identifier}.json" if skip == 0 else f"{identifier}/skip={skip}.json"
+                write_json(folder / file, {"metas": previews[skip:skip + PAGE_SIZE]})
+            write_json(folder / identifier / "skip=0.json", {"metas": previews[:PAGE_SIZE]})
+            end = ((len(previews) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
+            write_json(folder / identifier / f"skip={end}.json", {"metas": []})
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if youtube_rows:
+        report["youtube_preview"] = {"type": "youtube", "requires": "YouStream addon", "unverified_playback": True,
+                                     "counts": {k: len(v) for k, v in youtube_rows.items()}}
     if config.get("enable_ranked_150", False):
         report["rankings"] = {
             "source": "TMDB audience vote_average + vote_count",

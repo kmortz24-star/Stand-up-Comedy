@@ -2,7 +2,7 @@
 
 A GitHub Pages-hosted, Stremio-compatible **metadata catalog** for Nuvio. It does **not** provide streams, replace Meteor/Comet, or change the Nuvio collection order.
 
-## Current rows (14)
+## Current rows (14 original + optional YouTube preview rows)
 
 1. New Specials
 2. Top Rated — up to 150 TMDB-rated specials
@@ -22,7 +22,7 @@ The six alphabet IDs stay stable when we rebalance letter groups. They are curre
 
 - Multiple TMDB stand-up-specific **keywords** rather than a single tag.
 - TMDB **title search** for stand-up, specials, and roasts, with cautious title/description matching.
-- A rotating **Wikidata stand-up comedian roster**, obtained by *occupation*, not by a fixed list of names. Up to 120 comedians are searched by name per daily run, and each is retried after 45 days. The rotating roster also includes existing/curated performers as a fallback.
+- A rotating **Wikidata stand-up comedian roster**, obtained by *occupation*, not by a fixed list of names. Up to 200 comedians are searched by name per daily run, and each is retried after 45 days. The rotating roster also includes existing/curated performers as a fallback.
 - **Wikidata stand-up genre titles**, matched to TMDB using their published TMDB movie IDs or IMDb identifiers via TMDB's `/find/{id}` endpoint. This is cross-referencing, not unauthorized IMDb site scraping.
 
 Wikidata sources are cached in `data/discovery_state.json`. The script refreshes the roster/works at most weekly and keeps the previous cached results when Wikidata is unavailable. Existing `data/specials.json` titles are never discarded just because a third-party service is down.
@@ -50,11 +50,13 @@ TV candidates are saved to **`data/tv_episode_candidates.json`** on the schedule
 
 Our existing independent TMDB movie records such as `Comedy Central Presents: Dave Attell` remain in the collection and can be assigned to their featured comedians.
 
-## YouTube: candidate discovery, not playback (new)
+## YouTube discovery and optional preview catalogs (v6)
 
 `fetch_youtube.py` optionally uses `YOUTUBE_API_KEY` in GitHub Actions to find promising public **full specials and sets at least 10 minutes long**. It searches broad comedy-related phrases plus a rotating set of comedian names, uses `videos.list` to check the actual length, and removes obvious trailers, podcasts, reactions and interviews. A publisher/channel clue is recorded but cannot prove an upload is official.
 
-Candidates go into **`data/youtube_candidates.json` only**. YouTube IDs are **not yet added to the installed Nuvio catalogs**: their playback needs to be tested with an appropriate stream provider first. This avoids a folder full of unplayable entries. If the API key is absent, the YouTube stage simply skips, and TMDB catalogs continue to publish. Do **not** store the key in this repository or in any JSON; add it to GitHub's **Settings → Secrets and variables → Actions** with the name `YOUTUBE_API_KEY`.
+Candidates accumulate in **`data/youtube_candidates.json`**. When `enable_youtube_preview_catalogs` is true, `build_catalogs.py` also creates three separate, clearly labeled **YouTube (Preview)** rows: *Viral & Rising sets*, *Hidden Gems sets*, and *Full Specials*. These rows use Stremio's `youtube` media type and `yt_id:<video-id>` IDs, which the separately installed **YouStream** addon can resolve. The existing movie catalogs are unchanged; YouTube previews are **not silently imported** into alphabeticals or treated as verified movies. YouStream, Nuvio version, region and upload restrictions determine actual playback. A preview may open the browser/YouTube app, fail to load, or be unavailable. Classification is deliberately cautious and needs real viewing to confirm quality and attribution. Turn the preview rows off by setting `enable_youtube_preview_catalogs` to false, then refresh.
+
+If the API key is absent, new YouTube discovery skips and TMDB catalogs continue. **Never put API keys in the repository**; add `YOUTUBE_API_KEY` in GitHub **Settings → Secrets and variables → Actions**.
 
 ## GitHub Actions and publishing
 
@@ -76,12 +78,13 @@ If creating the repo from scratch: make a public GitHub repository, preserve the
 - `config.json`: category settings, exclusion/tag/performer overrides, alphabetical boundaries, Roulette tiers, rating floors.
 - `fetch_tmdb.py`: TMDB metadata fetcher and rolling search scheduler.
 - `discovery_sources.py`: independently retrieved Wikidata people/works.
-- `fetch_youtube.py`: optional YouTube **candidate-only** retrieval.
+- `fetch_youtube.py`: optional YouTube candidate retrieval and daily API-budget handling.
+- `youtube_catalogs.py`: conservative YouTube preview classification and Stremio `youtube` metadata.
 - `fetch_tv_sets.py`: Comedy Central Presents / HBO stand-up TV episode metadata discovery (review only).
 - `data/specials.json`: existing indexed TMDB/IMDb records (updated by Action).
 - `data/manual_additions.json`: hand corrections and extra entries. **Never place API keys here.**
 - `data/discovery_state.json`: generated, scheduled discovery cache; created at first run.
-- `data/youtube_candidates.json`: generated YouTube review leads; not in Nuvio catalogs.
+- `data/youtube_candidates.json`: generated YouTube review leads; eligible candidates can appear only in separately labeled preview rows.
 - `data/tv_episode_candidates.json`: generated TV episode review leads; not in Nuvio catalogs.
 - `docs/build_report.json`: catalog sizes and unidentified performers for review.
 - `docs/`: generated manifest and paginated catalogs.
@@ -130,11 +133,11 @@ Missing titles (e.g. fan-reported gaps) are **checks**, not forced imports. The 
 - Existing Wikidata IMDb identifiers are resolved using TMDB's `/find/{id}` API.
   Titles with no IDs are searched exactly and require stand-up evidence.
 - Performer filmographies and movie title searches remain complementary inputs.
-- YouTube rotates through up to 48 comedians and 20 independent titles a day,
-  searches up to 50 results per query, and scans uploads from
-  reputable comedy channels it discovers, using channel/playlist APIs. It
+- YouTube searches up to six rotating queries **per day across manual and scheduled runs**,
+  checking full specials and 10+ minute sets by name/title. It also scans
+  reputable comedy channel uploads (at most once daily) using inexpensive APIs. It
   preserves public videos as *review candidates*, including embed eligibility;
-  it does not publish speculative YouTube streams into Nuvio's movie catalog.
+  it does not publish speculative YouTube streams into Nuvio's **movie** catalogs; v6 separately exposes cautious YouTube preview catalogs via YouStream.
 - Discovery rotates and stores cursors in `data/discovery_state.json`. GitHub
   Actions persists this file, so an ordinary run continues where the prior one
   stopped.
@@ -162,11 +165,14 @@ Any record without a matching Nuvio movie identity stays out of published movie
 catalogs. There are no manually seeded exceptions for particular specials.
 
 YouTube discovery rotates through the automatically discovered roster and
-specific special titles. To avoid exhausting the default quota, each refresh
-uses at most 32 `search.list` calls (previously 84), plus inexpensive metadata
-and upload-playlist requests. It refreshes new channel uploads and rotates into
-older videos. YouTube candidates remain separate from Nuvio movie catalogs
-until playback and matching are verified.
+specific special titles. To avoid exhausting the default quota, the workflow now makes at most **six
+`search.list` calls per calendar day in total**, including manual reruns, rather
+than dozens per run. It checks results and saves them incrementally, so later
+quota or connection errors do not erase earlier discoveries. It also scans
+trusted channel upload playlists once daily. Ten-plus-minute stand-up sets
+receive a *Hidden Gems* suggestion; long-form shows receive a comedian-row
+suggestion. These are **review labels only**: unverified YouTube videos remain
+separate from Nuvio movie catalogs until playback and matching are checked.
 
 The diagnostics in `data/discovery_state.json` report number of names searched,
 independent titles searched, and source-specific exact-title matches.
@@ -184,10 +190,10 @@ names only**, not manually seeded specials or ID exceptions. Search priority is:
    then the rest of the Wikidata/metadata roster over time.
 
 The Roulette groups and Nuvio catalog categories do not change. Each refresh
-runs `audit_coverage.py`, publishing `docs/coverage_report.json` with each
+generates `docs/coverage_report.json` via `build_catalogs.py` with each
 priority comedian's number of standalone movie records, separately discovered
 TV and YouTube review leads, and unmatched independent metadata titles.
 A **zero** means the catalog is missing a matching movie record; it doesn't
 prove the comedian has no specials. A **nonzero** does not guarantee a complete
 filmography or working playback. The audit never inserts titles, and it never
-publishes unverified YouTube or TV sources to the movie catalogs.
+publishes unverified YouTube or TV sources to the movie catalogs. v6 publishes optional, explicitly labeled `youtube`-type preview metadata; it never publishes video files or promises playback.
