@@ -118,6 +118,39 @@ def too_poorly_rated(record: dict, config: dict) -> bool:
             (votes >= 5 and rating < 2.5))
 
 
+def established_unrated_performers(config: dict) -> set[str]:
+    """Explicit established A/B roster for preserving zero-vote specials.
+
+    The existing roulette tiers and established coverage priorities are the
+    baseline; the short supplemental list closes gaps in those older rosters.
+    No title is added or manually removed from the source database.
+    """
+    rosters = config.get("roulette_groups", {})
+    protected = set(config.get("legends_comedians", []))
+    for group in ("well_known", "b_tier", "classic_older"):
+        protected.update(rosters.get(group, []))
+    protected.update(config.get("coverage_priority", {}).get("established_extra", []))
+    # These were earlier curated as respected B-tier/underrated performers.
+    protected.update(config.get("coverage_priority", {}).get("select_underrated", []))
+    protected.update(config.get("unrated_additional_established", []))
+    return {norm(name).strip() for name in protected if name}
+
+
+def exclude_unrated_unknown(record: dict, config: dict, protected=None) -> bool:
+    """Hide unvoted specials from non-established comics in movie catalogs.
+
+    A zero-vote special is not 'bad': this is just a leaner-catalog preference.
+    Keep source records for future reclassification and reversal. Never apply
+    this rule to TV shows or YouTube clips, which have different rating data.
+    """
+    if not config.get("alphabet_unrated_only_established", False):
+        return False
+    if int(record.get("vote_count") or 0) > 0:
+        return False
+    protected = established_unrated_performers(config) if protected is None else protected
+    return norm(record.get("performer") or "").strip() not in protected
+
+
 def display_title(record: dict) -> str:
     return str(record.get("title", "")).strip() or "Untitled Special"
 
@@ -382,6 +415,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     tag_overrides = config.get("tag_overrides", {})
     accepted, unassigned = [], []
     known_names = known_performer_names(records, config, roster_names)
+    protected_unrated = established_unrated_performers(config)
 
     # Resolve high-confidence credits before duplicate detection. Do not
     # rewrite data/specials.json; questionable titles remain in review.
@@ -403,8 +437,9 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         if is_event_record(record, config):
             continue
         if not record.get("performer") or bucket_for(record["performer"], groups) is None:
+            # Preserve the independent unmatched-title review pool unchanged.
             unassigned.append(record)
-        else:
+        elif not exclude_unrated_unknown(record, config, protected_unrated):
             accepted.append(record)
 
     accepted.sort(key=alphabetical_sort_key)
@@ -658,6 +693,38 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             })
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if config.get("alphabet_unrated_only_established", False):
+        # Compare the same build with the preference disabled, so this report
+        # lists exactly what the unrated rule hides, not unrelated quality cuts.
+        original_config = {**config, "alphabet_unrated_only_established": False}
+        before, _ = categories(records, original_config, today, roster_names=roster_names)
+        before_entries = {r["id"]: r for key, _, rows in before
+                          if key.startswith("comedians-") for r in rows}
+        after_entries = {r["id"]: r for key, _, rows in groups
+                         if key.startswith("comedians-") for r in rows}
+        hidden = sorted((r for rid, r in before_entries.items() if rid not in after_entries),
+                        key=alphabetical_sort_key)
+        kept_unrated = sorted((r for r in after_entries.values()
+                               if int(r.get("vote_count") or 0) == 0),
+                              key=alphabetical_sort_key)
+        summary = {
+            "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
+            "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
+            "reversible": True,
+            "original_alphabetical_movies": len(before_entries),
+            "remaining_alphabetical_movies": len(after_entries),
+            "unrated_movies_hidden": len(hidden),
+            "unrated_established_movies_kept": len(kept_unrated),
+        }
+        report["unrated_cleanup"] = summary
+        write_json(out_dir / "unrated_cleanup_report.json", {
+            "summary": summary,
+            "hidden": [{"id": r["id"], "performer": r["performer"],
+                        "title": r["title"], "release_date": r.get("release_date", "")}
+                       for r in hidden],
+            "kept_unrated": [{"id": r["id"], "performer": r["performer"],
+                              "title": r["title"]} for r in kept_unrated],
+        })
     if tv_metadatas:
         report["tv_series"] = {
             "series_count": len(tv_metadatas), "episode_count": sum(tv_counts.values()),
