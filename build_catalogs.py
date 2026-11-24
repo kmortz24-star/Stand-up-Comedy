@@ -501,26 +501,69 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
         catalog_dir = out_dir / "catalog"
         if catalog_dir.exists():
             shutil.rmtree(catalog_dir)
+        for resource_dir in (out_dir / "meta", out_dir / "stream"):
+            if resource_dir.exists():
+                shutil.rmtree(resource_dir)
 
-    # Optional YouTube review rows use the standard yt_id: / youtube protocol.
-    # Installed YouStream is responsible for metadata and playback; we publish
-    # neither streams nor a promise that playback will work on every Nuvio TV.
+    # YouStream exposes media type ``youtube``. The primary catalogs are movie
+    # type, so mixing its youtube-typed previews directly into movie rows would
+    # cause unreliable navigation. In merged mode, wrap each selected video in
+    # a movie-type card with static metadata and direct YouTube stream choices.
     youtube_rows = {}
+    merged_youtube = {}
+    youtube_resources = {}
     if config.get("enable_youtube_preview_catalogs", False):
-        from youtube_catalogs import preview_rows
-        youtube_rows = preview_rows(read_json(ROOT / "data/youtube_candidates.json", []), config, today)
+        videos = read_json(ROOT / "data/youtube_candidates.json", [])
+        if config.get("merge_youtube_into_existing_catalogs", False):
+            from youtube_catalogs import merged_movie_previews
+            merged_youtube, youtube_resources = merged_movie_previews(videos, config, today)
+        else:
+            from youtube_catalogs import preview_rows
+            youtube_rows = preview_rows(videos, config, today)
     manifest = {
         "id": config["addon_id"],
-        "version": "1.2.0" if youtube_rows else "1.1.0",
+        "version": "1.3.0" if merged_youtube else ("1.2.0" if youtube_rows else "1.1.0"),
         "name": config["addon_name"],
-        "description": "Automatically organized stand-up comedy catalogs; YouTube rows are unverified previews via YouStream.",
-        "resources": ["catalog"],
+        "description": "Automatically organized stand-up comedy catalogs; YouTube previews may open externally.",
+        "resources": (["catalog", {
+            "name": "meta", "types": ["movie"], "idPrefixes": ["standupyt_"]
+        }, {
+            "name": "stream", "types": ["movie"], "idPrefixes": ["standupyt_"]
+        }] if merged_youtube else ["catalog"]),
         "types": ["movie", "youtube"] if youtube_rows else ["movie"],
         "catalogs": [],
         "behaviorHints": {"configurable": False, "configurationRequired": False},
     }
     counts = {}
+    # A single existing category now contains BOTH verified TMDB movies and
+    # candidate YouTube cards; there are no extra YouTube home-screen rows.
+    # Full YouTube specials go into the proper first-name alphabetical section,
+    # after that performer's dated movies (upload year is not release year).
+    full_by_bucket = defaultdict(list)
+    if merged_youtube:
+        for entry in merged_youtube.get("youtube-full-specials", []):
+            index = bucket_for(entry["performer"], config["alphabet_groups"])
+            if index is not None:
+                full_by_bucket[f"comedians-{index + 1:02d}"].append(entry)
+
     for identifier, title, records_in_catalog in groups:
+        movie_items = [meta_preview(r) for r in records_in_catalog]
+        if merged_youtube:
+            if identifier == "viral-and-rising":
+                movie_items.extend(e["meta"] for e in merged_youtube["youtube-viral-rising"])
+            elif identifier == "hidden-gems":
+                movie_items.extend(e["meta"] for e in merged_youtube["youtube-hidden-gems"])
+            elif identifier in full_by_bucket:
+                extras = full_by_bucket[identifier]
+                # Keep first-name order, and each comedian's chronological
+                # movie specials ahead of their YouTube-upload candidates.
+                tuples = [(performer_sort_name(r["performer"]), 0, release_date(r).isoformat(),
+                           norm(display_title(r)), meta_preview(r))
+                          for r in records_in_catalog]
+                tuples.extend((performer_sort_name(e["performer"]), 1, e["uploaded"],
+                               norm(e["meta"]["name"]), e["meta"]) for e in extras)
+                tuples.sort(key=lambda t: t[:4])
+                movie_items = [t[4] for t in tuples]
         manifest["catalogs"].append({
             "id": identifier,
             "type": "movie",
@@ -528,18 +571,18 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             "pageSize": PAGE_SIZE,
             "extra": [{"name": "skip", "isRequired": False}],
         })
-        counts[title] = len(records_in_catalog)
+        counts[title] = len(movie_items)
         catalog_path = out_dir / "catalog" / "movie"
-        for skip in range(0, max(1, len(records_in_catalog)), PAGE_SIZE):
-            items = [meta_preview(r) for r in records_in_catalog[skip:skip + PAGE_SIZE]]
+        for skip in range(0, max(1, len(movie_items)), PAGE_SIZE):
+            items = movie_items[skip:skip + PAGE_SIZE]
             name = f"{identifier}.json" if skip == 0 else f"{identifier}/skip={skip}.json"
             write_json(catalog_path / name, {"metas": items})
         # Some clients explicitly ask for skip=0.
-        write_json(catalog_path / identifier / "skip=0.json", {"metas": [meta_preview(r) for r in records_in_catalog[:PAGE_SIZE]]})
+        write_json(catalog_path / identifier / "skip=0.json", {"metas": movie_items[:PAGE_SIZE]})
         # Explicit end-of-catalog page: some clients continue requesting the
         # next skip even after the last partial page. Return an empty list,
         # not a GitHub Pages 404 (which can leave a spinner retrying).
-        terminal_skip = ((len(records_in_catalog) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
+        terminal_skip = ((len(movie_items) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
         if terminal_skip:
             write_json(catalog_path / identifier / f"skip={terminal_skip}.json", {"metas": []})
     if youtube_rows:
@@ -567,8 +610,28 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             write_json(folder / identifier / "skip=0.json", {"metas": previews[:PAGE_SIZE]})
             end = ((len(previews) + PAGE_SIZE - 1) // PAGE_SIZE) * PAGE_SIZE
             write_json(folder / identifier / f"skip={end}.json", {"metas": []})
+    if youtube_resources:
+        for alias, entry in youtube_resources.items():
+            vid = entry["video_id"]
+            # Static GitHub Pages routes can serve Stremio meta/stream resources.
+            # The in-app option is experimental on Nuvio TV; the external link
+            # should let the TV offer its browser/YouTube-app choice.
+            write_json(out_dir / "meta" / "movie" / f"{alias}.json", {"meta": entry["meta"]})
+            write_json(out_dir / "stream" / "movie" / f"{alias}.json", {
+                "streams": [
+                    {"name": "YouTube (try in app)", "title": "YouTube · Experimental in-app playback", "ytId": vid},
+                    {"name": "YouTube (open externally)", "title": "YouTube · Browser / YouTube app", "externalUrl": f"https://www.youtube.com/watch?v={vid}"},
+                ]
+            })
     write_json(out_dir / "manifest.json", manifest)
     report = {"counts": counts, "total_unique_records": len(unique_records(records)), "needs_review": unassigned}
+    if merged_youtube:
+        report["youtube_merged"] = {
+            "unverified_playback": True, "fallback": "YouTube external link",
+            "counts": {"viral_and_rising_added": len(merged_youtube["youtube-viral-rising"]),
+                       "hidden_gems_added": len(merged_youtube["youtube-hidden-gems"]),
+                       "alphabetical_full_specials_added": sum(len(v) for v in full_by_bucket.values())},
+        }
     if youtube_rows:
         report["youtube_preview"] = {"type": "youtube", "requires": "YouStream addon", "unverified_playback": True,
                                      "counts": {k: len(v) for k, v in youtube_rows.items()}}

@@ -349,5 +349,6 @@
       "Josh Johnson"
     ]
   },
-  "enable_youtube_preview_catalogs": true
+  "enable_youtube_preview_catalogs": true,
+  "merge_youtube_into_existing_catalogs": true
 }

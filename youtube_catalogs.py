@@ -166,3 +166,52 @@ def preview_rows(videos: list[dict], config: dict, today: date | None = None):
         })
     # Most recently published first; source order is published_at descending.
     return groups
+
+
+def merged_movie_previews(videos: list[dict], config: dict, today: date | None = None):
+    """Convert reviewed *candidates* into conventional movie-type cards.
+
+    YouStream uses media type ``youtube``. A movie catalog cannot reliably
+    contain that type, so a unique local ID lets this static addon provide its
+    own movie metadata and external/built-in-YouTube stream choices instead.
+    Only selected candidates qualify. No YouTube bytes are hosted here.
+
+    Returns (category -> entries, id -> {meta, video_id}). Entries contain
+    internal sorting metadata; only their ``meta`` is published.
+    """
+    groups = {"youtube-viral-rising": [], "youtube-hidden-gems": [],
+              "youtube-full-specials": []}
+    resources = {}
+    seen = set()
+    for video in videos:
+        if not isinstance(video, dict):
+            continue
+        video_id = str(video.get("video_id") or "")
+        if video_id in seen:
+            continue
+        classification = classify(video, config, today)
+        if not classification:
+            continue
+        group, performer = classification
+        seen.add(video_id)
+        alias = "standupyt_" + video_id
+        title = str(video.get("title") or "").strip()
+        year = str(video.get("published_at") or "")[:4]
+        meta = {
+            "id": alias,
+            "type": "movie",
+            "name": title + " [YouTube]",
+            "poster": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
+            "background": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
+            "description": (f"{performer} · {int(video.get('seconds') or 0) // 60} minute YouTube upload. "
+                            "Preview candidate: availability and playback are not guaranteed; "
+                            "may open YouTube externally."),
+        }
+        # This reflects upload date, not necessarily the performance's date.
+        if year.isdigit() and len(year) == 4:
+            meta["releaseInfo"] = year
+        entry = {"meta": meta, "performer": performer,
+                 "uploaded": str(video.get("published_at") or "")}
+        groups[group].append(entry)
+        resources[alias] = {"meta": meta, "video_id": video_id}
+    return groups, resources

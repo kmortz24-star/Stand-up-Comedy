@@ -1,8 +1,8 @@
 # Stand-Up Comedy — Nuvio catalog
 
-A GitHub Pages-hosted, Stremio-compatible **metadata catalog** for Nuvio. It does **not** provide streams, replace Meteor/Comet, or change the Nuvio collection order.
+A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials still use your installed playback providers (Meteor/Comet); selected YouTube preview cards offer their own experimental in-app playback and an external YouTube link. This does **not** change the Nuvio collection order.
 
-## Current rows (14 original + optional YouTube preview rows)
+## Current rows (14 original, with YouTube previews merged where appropriate)
 
 1. New Specials
 2. Top Rated — up to 150 TMDB-rated specials
@@ -50,11 +50,11 @@ TV candidates are saved to **`data/tv_episode_candidates.json`** on the schedule
 
 Our existing independent TMDB movie records such as `Comedy Central Presents: Dave Attell` remain in the collection and can be assigned to their featured comedians.
 
-## YouTube discovery and optional preview catalogs (v6)
+## YouTube discovery and optional catalog integration (v7)
 
 `fetch_youtube.py` optionally uses `YOUTUBE_API_KEY` in GitHub Actions to find promising public **full specials and sets at least 10 minutes long**. It searches broad comedy-related phrases plus a rotating set of comedian names, uses `videos.list` to check the actual length, and removes obvious trailers, podcasts, reactions and interviews. A publisher/channel clue is recorded but cannot prove an upload is official.
 
-Candidates accumulate in **`data/youtube_candidates.json`**. When `enable_youtube_preview_catalogs` is true, `build_catalogs.py` also creates three separate, clearly labeled **YouTube (Preview)** rows: *Viral & Rising sets*, *Hidden Gems sets*, and *Full Specials*. These rows use Stremio's `youtube` media type and `yt_id:<video-id>` IDs, which the separately installed **YouStream** addon can resolve. The existing movie catalogs are unchanged; YouTube previews are **not silently imported** into alphabeticals or treated as verified movies. YouStream, Nuvio version, region and upload restrictions determine actual playback. A preview may open the browser/YouTube app, fail to load, or be unavailable. Classification is deliberately cautious and needs real viewing to confirm quality and attribution. Turn the preview rows off by setting `enable_youtube_preview_catalogs` to false, then refresh.
+Candidates accumulate in **`data/youtube_candidates.json`**. With both `enable_youtube_preview_catalogs` and `merge_youtube_into_existing_catalogs` enabled, selected YouTube cards join the corresponding Viral & Rising, Hidden Gems and alphabetical movie rows. They are **unverified previews**, clearly marked `[YouTube]`, with a fallback link to the actual YouTube upload; playback may be in-app, external or unavailable depending on the Nuvio device and YouTube upload. The older separate YouTube preview rows can be restored by disabling `merge_youtube_into_existing_catalogs`. Turn previews off entirely by setting `enable_youtube_preview_catalogs` to false.
 
 If the API key is absent, new YouTube discovery skips and TMDB catalogs continue. **Never put API keys in the repository**; add `YOUTUBE_API_KEY` in GitHub **Settings → Secrets and variables → Actions**.
 
@@ -79,12 +79,12 @@ If creating the repo from scratch: make a public GitHub repository, preserve the
 - `fetch_tmdb.py`: TMDB metadata fetcher and rolling search scheduler.
 - `discovery_sources.py`: independently retrieved Wikidata people/works.
 - `fetch_youtube.py`: optional YouTube candidate retrieval and daily API-budget handling.
-- `youtube_catalogs.py`: conservative YouTube preview classification and Stremio `youtube` metadata.
+- `youtube_catalogs.py`: conservative YouTube classification and optional movie-type preview cards with static playback links.
 - `fetch_tv_sets.py`: Comedy Central Presents / HBO stand-up TV episode metadata discovery (review only).
 - `data/specials.json`: existing indexed TMDB/IMDb records (updated by Action).
 - `data/manual_additions.json`: hand corrections and extra entries. **Never place API keys here.**
 - `data/discovery_state.json`: generated, scheduled discovery cache; created at first run.
-- `data/youtube_candidates.json`: generated YouTube review leads; eligible candidates can appear only in separately labeled preview rows.
+- `data/youtube_candidates.json`: generated YouTube review leads; eligible candidates can appear in the original comedy categories as labeled previews.
 - `data/tv_episode_candidates.json`: generated TV episode review leads; not in Nuvio catalogs.
 - `docs/build_report.json`: catalog sizes and unidentified performers for review.
 - `docs/`: generated manifest and paginated catalogs.
@@ -137,7 +137,7 @@ Missing titles (e.g. fan-reported gaps) are **checks**, not forced imports. The 
   checking full specials and 10+ minute sets by name/title. It also scans
   reputable comedy channel uploads (at most once daily) using inexpensive APIs. It
   preserves public videos as *review candidates*, including embed eligibility;
-  it does not publish speculative YouTube streams into Nuvio's **movie** catalogs; v6 separately exposes cautious YouTube preview catalogs via YouStream.
+  v7 optionally publishes explicitly labeled candidate cards in existing Nuvio **movie** catalogs with a direct link to YouTube; this is a preview, not a verified playable special.
 - Discovery rotates and stores cursors in `data/discovery_state.json`. GitHub
   Actions persists this file, so an ordinary run continues where the prior one
   stopped.
@@ -171,8 +171,8 @@ than dozens per run. It checks results and saves them incrementally, so later
 quota or connection errors do not erase earlier discoveries. It also scans
 trusted channel upload playlists once daily. Ten-plus-minute stand-up sets
 receive a *Hidden Gems* suggestion; long-form shows receive a comedian-row
-suggestion. These are **review labels only**: unverified YouTube videos remain
-separate from Nuvio movie catalogs until playback and matching are checked.
+suggestion. These are **review labels only** until deliberately published as preview cards;
+actual YouTube availability and playback remain unverified.
 
 The diagnostics in `data/discovery_state.json` report number of names searched,
 independent titles searched, and source-specific exact-title matches.
@@ -189,11 +189,38 @@ names only**, not manually seeded specials or ID exceptions. Search priority is:
 3. Other performers with evidence of a TV stand-up appearance and few records,
    then the rest of the Wikidata/metadata roster over time.
 
-The Roulette groups and Nuvio catalog categories do not change. Each refresh
+The Roulette groups and existing Nuvio catalog names do not change. Each refresh
 generates `docs/coverage_report.json` via `build_catalogs.py` with each
 priority comedian's number of standalone movie records, separately discovered
 TV and YouTube review leads, and unmatched independent metadata titles.
 A **zero** means the catalog is missing a matching movie record; it doesn't
 prove the comedian has no specials. A **nonzero** does not guarantee a complete
-filmography or working playback. The audit never inserts titles, and it never
-publishes unverified YouTube or TV sources to the movie catalogs. v6 publishes optional, explicitly labeled `youtube`-type preview metadata; it never publishes video files or promises playback.
+filmography or working playback. The coverage audit never manually inserts titles. Optional YouTube cards are
+unverified previews, not a guarantee of availability or playback; TV episode
+candidates remain separate. No video files are hosted or distributed.
+
+### v7: YouTube sets in the existing comedy categories
+
+When `merge_youtube_into_existing_catalogs` is true, the addon no longer adds
+separate **Viral & Rising — YouTube**, **Hidden Gems — YouTube** or **Full Specials
+— YouTube** rows. Instead it shows:
+
+- 10+ minute rising-comedian sets in **Viral & Rising Comedians**, with the
+  existing TMDB specials.
+- Other short stand-up sets in **Hidden Gems**.
+- Long-form YouTube specials in the appropriate **alphabetical Comedians** row,
+  grouped by the performer's first name. Movie specials retain their original
+  chronological order; YouTube uploads follow that performer's movies because
+  upload year may differ from the performance's release year.
+
+Each new item has `[YouTube]` in the title and is a `movie`-type card backed
+by this addon's static `meta/movie/standupyt_*.json` and
+`stream/movie/standupyt_*.json` files. The stream offers an **experimental
+in-app YouTube** choice and a **browser/YouTube-app link**; support varies by
+Nuvio version. These are unverified review candidates and are not part of the
+curated Top 150, Fan Favorites or Roulette rankings. YouStream is no longer
+needed to resolve these merged entries (though users may keep it installed).
+The original `youtube`-type preview rows are removed from the manifest.
+
+To revert, set `merge_youtube_into_existing_catalogs` to false and rebuild;
+the older separate YouTube preview rows remain available as a fallback.

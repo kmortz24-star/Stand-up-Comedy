@@ -76,3 +76,48 @@ class YoutubeCatalogTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+class YoutubeMergedCatalogTests(unittest.TestCase):
+    def test_merge_into_existing_rows_and_publish_static_streams(self):
+        config = {**CONFIG, "merge_youtube_into_existing_catalogs": True}
+        videos = [
+            video('iiiiiiiiiii', 'Funny Story | Ashley Monique | Stand Up Comedy', "Don't Tell Comedy", 700),
+            video('jjjjjjjjjjj', '15 Minutes of Bill Burr Stand-Up Comedy', 'Netflix Is A Joke', 900),
+            video('kkkkkkkkkkk', 'Chad Daniels: Nothing To Fix (FULL COMEDY SPECIAL)', 'Chad Daniels', 3600,
+                  'Chad Daniels'),
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            with patch('build_catalogs.read_json', side_effect=lambda path, default=None: videos if str(path).endswith('youtube_candidates.json') else (default if default is not None else {})):
+                report = build([], config, output, date(2026, 11, 23))
+            manifest = json.loads((output / 'manifest.json').read_text())
+            self.assertEqual(manifest['types'], ['movie'])
+            self.assertEqual([r['name'] for r in manifest['resources'] if isinstance(r, dict)], ['meta', 'stream'])
+            self.assertFalse(any(c['id'].startswith('youtube-') for c in manifest['catalogs']))
+            viral = json.loads((output / 'catalog/movie/viral-and-rising.json').read_text())['metas']
+            self.assertEqual([m['id'] for m in viral], ['standupyt_iiiiiiiiiii'])
+            self.assertEqual(viral[0]['type'], 'movie')
+            gems = json.loads((output / 'catalog/movie/hidden-gems.json').read_text())['metas']
+            self.assertEqual(gems[0]['id'], 'standupyt_jjjjjjjjjjj')
+            alpha = json.loads((output / 'catalog/movie/comedians-01.json').read_text())['metas']
+            self.assertEqual(alpha[0]['id'], 'standupyt_kkkkkkkkkkk')
+            meta = json.loads((output / 'meta/movie/standupyt_iiiiiiiiiii.json').read_text())['meta']
+            self.assertEqual(meta['id'], viral[0]['id'])
+            streams = json.loads((output / 'stream/movie/standupyt_iiiiiiiiiii.json').read_text())['streams']
+            self.assertEqual(streams[0]['ytId'], 'iiiiiiiiiii')
+            self.assertEqual(streams[1]['externalUrl'], 'https://www.youtube.com/watch?v=iiiiiiiiiii')
+            self.assertEqual(report['youtube_merged']['counts'], {
+                'viral_and_rising_added': 1, 'hidden_gems_added': 1,
+                'alphabetical_full_specials_added': 1,
+            })
+            self.assertFalse((output / 'catalog/youtube').exists())
+
+    def test_old_preview_urls_removed_when_rebuilding(self):
+        config = {**CONFIG, "merge_youtube_into_existing_catalogs": True}
+        with tempfile.TemporaryDirectory() as tmp:
+            target = Path(tmp)
+            old = target / 'catalog/youtube/youtube-viral-rising.json'
+            old.parent.mkdir(parents=True)
+            old.write_text('{"metas":[]}')
+            build([], config, target, date(2026, 11, 23))
+            self.assertFalse(old.exists())
