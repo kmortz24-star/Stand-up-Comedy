@@ -246,6 +246,13 @@
       "releaseInfo": "2010"
     },
     {
+      "id": "tt31923069",
+      "type": "movie",
+      "name": "Springsteen: Deliver Me from Nowhere",
+      "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt5066574",
       "type": "movie",
       "name": "Ali Wong: Baby Cobra",
@@ -342,13 +349,6 @@
       "name": "Kevin Hart: Laugh at My Pain",
       "poster": "https://image.tmdb.org/t/p/w500/jk7C5sIDHSGiJjBQz6bmPNP1WOF.jpg",
       "releaseInfo": "2011"
-    },
-    {
-      "id": "tt6184894",
-      "type": "movie",
-      "name": "Bill Burr: Walk Your Way Out",
-      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
-      "releaseInfo": "2017"
     }
   ]
 }

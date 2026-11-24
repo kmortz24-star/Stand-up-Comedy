@@ -1,6 +1,41 @@
 {
   "metas": [
     {
+      "id": "tt6648926",
+      "type": "movie",
+      "name": "Dave Chappelle: The Age of Spin",
+      "poster": "https://image.tmdb.org/t/p/w500/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0248827",
+      "type": "movie",
+      "name": "Carlin at Carnegie",
+      "poster": "https://image.tmdb.org/t/p/w500/o3cURcShw8jv8wVO0TaIejjxPW2.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0148668",
+      "type": "movie",
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt21639094",
+      "type": "movie",
+      "name": "Gabriel Iglesias: Stadium Fluffy",
+      "poster": "https://image.tmdb.org/t/p/w500/cf96HbBBy3x5R5Jc8qcS8i7qgzD.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15445790",
+      "type": "movie",
+      "name": "Andrew Schulz: Infamous",
+      "poster": "https://image.tmdb.org/t/p/w500/xAaSnjYMrqKxyi4N0P0F1W2NW9e.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt1794821",
       "type": "movie",
       "name": "Jimmy Carr: Making People Laugh",
@@ -13,6 +48,13 @@
       "name": "Eddie Izzard: Unrepeatable",
       "poster": "https://image.tmdb.org/t/p/w500/cALzW98trkiYXDJoOCr8HboQBA6.jpg",
       "releaseInfo": "1994"
+    },
+    {
+      "id": "tt2215489",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: What's Wrong with People?",
+      "poster": "https://image.tmdb.org/t/p/w500/cd7LpSJ8GOwaqxnRADV4VTqm1Dp.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tt1408088",
@@ -104,6 +146,13 @@
       "name": "Dave Chappelle: The Bird Revelation",
       "poster": "https://image.tmdb.org/t/p/w500/3dLJ4kSwnMGlHlR6AxwWqTsKJFs.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tt3500822",
+      "type": "movie",
+      "name": "Tom Segura: Completely Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/hguiOqqFzYPwIIm6GZBjTAjiqzH.jpg",
+      "releaseInfo": "2014"
     },
     {
       "id": "tt3486648",
@@ -239,6 +288,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "tt1369567",
+      "type": "movie",
+      "name": "Russell Peters: Red, White and Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/845vKEUjyXZdYO6JhCBiWwZ6D83.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "tt11163014",
       "type": "movie",
       "name": "Mike Birbiglia: The New One",
@@ -251,6 +307,20 @@
       "name": "Andrew Schulz: LIFE",
       "poster": "https://image.tmdb.org/t/p/w500/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt29729075",
+      "type": "movie",
+      "name": "Mike Birbiglia: The Old Man and the Pool",
+      "poster": "https://image.tmdb.org/t/p/w500/rq4c90wsRYIdWAIl0rMt3Ebzgp2.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt33323522",
+      "type": "movie",
+      "name": "Hasan Minhaj: Off with His Head",
+      "poster": "https://image.tmdb.org/t/p/w500/8qhRf12xSJht8RWapK8ND1Qx9IQ.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt1781798",
@@ -279,76 +349,6 @@
       "name": "George Carlin: Playin' with Your Head",
       "poster": "https://image.tmdb.org/t/p/w500/j4WkiRSDMACb54L50bmF6iQaKFu.jpg",
       "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0079807",
-      "type": "movie",
-      "name": "Richard Pryor: Live in Concert",
-      "poster": "https://image.tmdb.org/t/p/w500/zguG43yzPkiiNOyR9P1HglVNYOl.jpg",
-      "releaseInfo": "1979"
-    },
-    {
-      "id": "tt1935828",
-      "type": "movie",
-      "name": "Jim Jefferies: Alcoholocaust",
-      "poster": "https://image.tmdb.org/t/p/w500/8qyfH2KEV5MGt4opGp5GiPhqavC.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt0084597",
-      "type": "movie",
-      "name": "Richard Pryor: Live on the Sunset Strip",
-      "poster": "https://image.tmdb.org/t/p/w500/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
-      "releaseInfo": "1982"
-    },
-    {
-      "id": "tt1284973",
-      "type": "movie",
-      "name": "Brian Regan: The Epitome of Hyperbole",
-      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt6608034",
-      "type": "movie",
-      "name": "Mike Birbiglia: Thank God for Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/j6U5qW82Cw2ugeoljgWAmB0MR8U.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt27547750",
-      "type": "movie",
-      "name": "Fabrice Éboué - Adieu Hier",
-      "poster": "https://image.tmdb.org/t/p/w500/hNRPrQTdKdJsclr2pCHGy27Wbo5.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1047610",
-      "type": "movie",
-      "name": "Doug Stanhope: No Refunds",
-      "poster": "https://image.tmdb.org/t/p/w500/leh2zShssPQ3M8wlIt1SPaFIFkW.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt4368814",
-      "type": "movie",
-      "name": "Louis C.K.: Live at The Comedy Store",
-      "poster": "https://image.tmdb.org/t/p/w500/9ULqaND2rzNFL4OAxCbSrY7UWem.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt9426212",
-      "type": "movie",
-      "name": "Gabriel \"Fluffy\" Iglesias: One Show Fits All",
-      "poster": "https://image.tmdb.org/t/p/w500/jUt2Zz7sClVIG1co2V9D9iSLN93.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt1043434",
-      "type": "movie",
-      "name": "Brian Regan: Standing Up",
-      "poster": "https://image.tmdb.org/t/p/w500/n3FSd5uCjrFC623xkMb2Yd6Cdfv.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

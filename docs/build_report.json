@@ -1,21 +1,21 @@
 {
   "counts": {
-    "New Specials": 335,
+    "New Specials": 340,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 30,
-    "Comedy Legends": 50,
+    "Comedy Legends": 65,
     "Viral & Rising Comedians": 8,
-    "Roasts & Comedy Events": 58,
-    "Comedians AB": 378,
-    "CDEFG": 316,
-    "HIJ": 290,
-    "KLM": 283,
-    "NOPQR": 245,
-    "STUVWXYZ": 262
+    "Roasts & Comedy Events": 59,
+    "Comedians AB": 381,
+    "CDEFG": 395,
+    "HIJ": 321,
+    "KLM": 339,
+    "NOPQR": 303,
+    "STUVWXYZ": 303
   },
-  "total_unique_records": 2022,
+  "total_unique_records": 2301,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -337,6 +337,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tt29762866",
+      "tmdb_id": 1199425,
+      "title": "Stand-Up - My Life Is A Joke",
+      "performer": null,
+      "release_date": "2023-11-23",
+      "poster_path": "/l71rsjzVquKGC804vStfriovwZT.jpg",
+      "popularity": 0.3793,
+      "original_language": "pt",
+      "vote_average": 7.0,
+      "vote_count": 2,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:1201381",
       "tmdb_id": 1201381,
       "title": "Beyond a Joke",
@@ -388,6 +402,20 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "tt1389096",
+      "tmdb_id": 121824,
+      "title": "Stand Up Guys",
+      "performer": null,
+      "release_date": "2012-12-14",
+      "poster_path": "/pOXmX1rldFQv3rFkWwe4uqbPWPJ.jpg",
+      "popularity": 3.8112,
+      "original_language": "en",
+      "vote_average": 6.037,
+      "vote_count": 1060,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tmdb:1221918",
@@ -718,6 +746,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tt2596918",
+      "tmdb_id": 143563,
+      "title": "Jesus Christ Superstar - Live Arena Tour",
+      "performer": null,
+      "release_date": "2012-11-19",
+      "poster_path": "/36oMdFXKBOlrDFWFN9VG1N334X.jpg",
+      "popularity": 1.2258,
+      "original_language": "en",
+      "vote_average": 7.3,
+      "vote_count": 44,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:1451553",
       "tmdb_id": 1451553,
       "title": "Surviving-ish",
@@ -742,6 +784,20 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "tt2387559",
+      "tmdb_id": 146239,
+      "title": "Delivery Man",
+      "performer": null,
+      "release_date": "2013-10-10",
+      "poster_path": "/huXHYDclKT4RM1OvS3O7SXYRAU0.jpg",
+      "popularity": 3.3676,
+      "original_language": "en",
+      "vote_average": 6.25,
+      "vote_count": 1646,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tt36951052",
@@ -1723,6 +1779,20 @@
       "last_checked": "2026-11-21"
     },
     {
+      "id": "tt1092633",
+      "tmdb_id": 19905,
+      "title": "The Goods: Live Hard, Sell Hard",
+      "performer": null,
+      "release_date": "2009-05-29",
+      "poster_path": "/1nEd4aLuRlAPFqUdcCYekAAjWsn.jpg",
+      "popularity": 2.4251,
+      "original_language": "en",
+      "vote_average": 5.378,
+      "vote_count": 250,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tt1833114",
       "tmdb_id": 20647,
       "title": "Extrospekt",
@@ -1830,6 +1900,20 @@
       "last_checked": "2026-11-19"
     },
     {
+      "id": "tt2949984",
+      "tmdb_id": 294302,
+      "title": "Delivery",
+      "performer": null,
+      "release_date": "2014-09-16",
+      "poster_path": null,
+      "popularity": 0.0496,
+      "original_language": "en",
+      "vote_average": 7.0,
+      "vote_count": 2,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:295968",
       "tmdb_id": 295968,
       "title": "Comedy Aid 2014",
@@ -1870,6 +1954,20 @@
       "last_checked": "2026-11-23"
     },
     {
+      "id": "tt0116741",
+      "tmdb_id": 30700,
+      "title": "Kalle Blomkvist Lives Dangerously",
+      "performer": null,
+      "release_date": "1996-12-21",
+      "poster_path": "/3qIT6ycHgGn759FMy2Y6agHGoqW.jpg",
+      "popularity": 0.8558,
+      "original_language": "sv",
+      "vote_average": 7.4,
+      "vote_count": 21,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
       "id": "tmdb:375412",
       "tmdb_id": 375412,
       "title": "Comedy Aid 2015",
@@ -1881,6 +1979,20 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "tt1320261",
+      "tmdb_id": 38745,
+      "title": "Gulliver's Travels",
+      "performer": null,
+      "release_date": "2010-12-23",
+      "poster_path": "/6NoEtuTwZ04luk5H2DpT5ivW7Mg.jpg",
+      "popularity": 4.1635,
+      "original_language": "en",
+      "vote_average": 5.226,
+      "vote_count": 2650,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tt5600326",
@@ -2066,6 +2178,34 @@
       "vote_count": 84,
       "tags": [],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "tt5803530",
+      "tmdb_id": 578935,
+      "title": "#DigitalLivesMatter",
+      "performer": null,
+      "release_date": "2016-08-01",
+      "poster_path": "/ccaoBhTboQFBX1T0rkPp4SvSUwp.jpg",
+      "popularity": 0.3833,
+      "original_language": "en",
+      "vote_average": 6.0,
+      "vote_count": 2,
+      "tags": [],
+      "last_checked": "2026-11-24"
+    },
+    {
+      "id": "tt10376068",
+      "tmdb_id": 604196,
+      "title": "The Lonely Island Presents: The Unauthorized Bash Brothers Experience",
+      "performer": null,
+      "release_date": "2019-05-22",
+      "poster_path": "/dUrrHBV64W4BwXSzMlGdqjDdWIW.jpg",
+      "popularity": 1.3503,
+      "original_language": "en",
+      "vote_average": 6.332,
+      "vote_count": 137,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tmdb:621158",
@@ -2450,27 +2590,25 @@
     "well_known": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 31,
+      "available_comedians": 32,
       "selected_comedians": [
-        "John Mulaney",
-        "Jim Gaffigan",
-        "Gabriel Iglesias",
-        "Bill Burr",
         "Chris Rock",
-        "Andrew Schulz",
-        "Amy Schumer",
         "Chelsea Handler",
-        "Jerry Seinfeld",
+        "Russell Peters",
+        "Jim Gaffigan",
+        "Bill Burr",
+        "Amy Schumer",
+        "John Mulaney",
         "Jimmy Carr",
-        "Whitney Cummings",
-        "Adam Sandler",
-        "Ricky Gervais",
-        "Jo Koy",
-        "Ali Wong"
+        "Katt Williams",
+        "Gabriel Iglesias",
+        "Taylor Tomlinson",
+        "Jerry Seinfeld",
+        "Shane Gillis",
+        "Ali Wong",
+        "Ricky Gervais"
       ],
-      "not_yet_indexed": [
-        "Steve Harvey"
-      ]
+      "not_yet_indexed": []
     },
     "b_tier": {
       "target": 15,
@@ -2514,7 +2652,7 @@
         "Andrew Dice Clay",
         "Dane Cook",
         "Dom Irrera",
-        "George López",
+        "George Lopez",
         "Jeff Dunham",
         "Paul Reiser",
         "Denis Leary"
@@ -2526,23 +2664,23 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 70,
+      "available_comedians": 82,
       "selected_comedians": [
-        "Maz Jobrani",
-        "Julio Torres",
-        "Tig Notaro",
-        "Gianmarco Soresi",
-        "Frank Zappa",
-        "Daniel Sloss",
-        "Peter Kay",
-        "Joe Pera",
-        "Them Idiots",
+        "Eddie Griffin",
         "Atsuko Okatsuka",
-        "Josh Johnson",
+        "Natasha Leggero",
+        "Mo Gilligan",
+        "Vir Das",
+        "Steve Martin",
+        "Maz Jobrani",
+        "Leslie Jones",
+        "James Acaster",
+        "Jack Whitehall",
+        "Dana Gould",
         "Stephen Lynch",
-        "Whoopi Goldberg",
-        "Spalding Gray",
-        "Henry Cho"
+        "Matteo Lane",
+        "Joan Rivers",
+        "Jeff Foxworthy"
       ]
     }
   }

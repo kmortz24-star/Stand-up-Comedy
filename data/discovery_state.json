@@ -6055,11 +6055,32 @@
       "performer": ""
     },
     {
+      "qid": "Q105991607",
+      "name": "Rhod Gilbert: Stand Up to Infertility",
+      "imdb": "",
+      "tmdb": "792762",
+      "performer": "Rhod Gilbert"
+    },
+    {
+      "qid": "Q105992110",
+      "name": "Rhod Gilbert: Stand Up to Shyness",
+      "imdb": "tt10303570",
+      "tmdb": "501144",
+      "performer": "Rhod Gilbert"
+    },
+    {
       "qid": "Q1064120",
       "name": "Bobby Lee",
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q106879252",
+      "name": "Stand Up Comedy Indonesia, season 9",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Rizky Firdaus Wijaksana"
     },
     {
       "qid": "Q10720738",
@@ -6088,6 +6109,48 @@
       "imdb": "tt11962358",
       "tmdb": "507975",
       "performer": ""
+    },
+    {
+      "qid": "Q108439755",
+      "name": "Jesus Christ Superstar: Live Arena Tour",
+      "imdb": "tt2596918",
+      "tmdb": "143563",
+      "performer": "Tim Minchin"
+    },
+    {
+      "qid": "Q109304300",
+      "name": "JRE #1511 - Oliver Stone",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Joe Rogan"
+    },
+    {
+      "qid": "Q109305388",
+      "name": "JRE #902 - Live Underground from The Comedy Store",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Joe Rogan"
+    },
+    {
+      "qid": "Q109305465",
+      "name": "JRE End of the World (Live from the Comedy Store)",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Joe Rogan"
+    },
+    {
+      "qid": "Q10931628",
+      "name": "Mr. Zhou Live Show",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Zhou Libo"
+    },
+    {
+      "qid": "Q110054979",
+      "name": "Piers Morgan Live: George Zimmerman",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Beck Bennett"
     },
     {
       "qid": "Q110151954",
@@ -6209,6 +6272,13 @@
       "performer": ""
     },
     {
+      "qid": "Q116470857",
+      "name": "SpongeBob SquarePants Presents The Tidal Zone",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Tom Kenny"
+    },
+    {
       "qid": "Q117843156",
       "name": "Cold Lasagne Hate Myself 1999",
       "imdb": "tt13446472",
@@ -6237,11 +6307,25 @@
       "performer": ""
     },
     {
+      "qid": "Q12124911",
+      "name": "How to Live Forever",
+      "imdb": "tt1172957",
+      "tmdb": "61198",
+      "performer": "Phyllis Diller"
+    },
+    {
       "qid": "Q12134721",
       "name": "Word of Mouth",
       "imdb": "tt0354522",
       "tmdb": "32447",
       "performer": ""
+    },
+    {
+      "qid": "Q121461445",
+      "name": "An Unfunny Evening with Tim Minchin and His Piano",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Tim Minchin"
     },
     {
       "qid": "Q12301352",
@@ -6328,6 +6412,13 @@
       "performer": ""
     },
     {
+      "qid": "Q123472256",
+      "name": "Stand Up – Minha Vida É uma Piada",
+      "imdb": "tt29762866",
+      "tmdb": "1199425",
+      "performer": "Fábio Rabin"
+    },
+    {
       "qid": "Q124023463",
       "name": "Alexis Renato Arroyo Mendoza",
       "imdb": "",
@@ -6356,6 +6447,13 @@
       "performer": ""
     },
     {
+      "qid": "Q124637757",
+      "name": "Comedy Central Presenta: Stand-up en Chile",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Alison Mandel"
+    },
+    {
       "qid": "Q12486863",
       "name": "It's True! It's True!",
       "imdb": "",
@@ -6368,6 +6466,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q125401070",
+      "name": "Springsteen: Deliver Me from Nowhere",
+      "imdb": "tt31923069",
+      "tmdb": "1230368",
+      "performer": "Marc Maron"
     },
     {
       "qid": "Q125625890",
@@ -6426,6 +6531,13 @@
       "performer": ""
     },
     {
+      "qid": "Q130582245",
+      "name": "Luke Kidgell: The Whitest Boy That Ever Lived",
+      "imdb": "tt11914270",
+      "tmdb": "691938",
+      "performer": "Luke Kidgell"
+    },
+    {
       "qid": "Q131190087",
       "name": "India's Got Latent",
       "imdb": "tt33094114",
@@ -6438,6 +6550,20 @@
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q131806449",
+      "name": "Saturday Night Live 50th Anniversary Special",
+      "imdb": "tt35469118",
+      "tmdb": "1697420",
+      "performer": "Beck Bennett"
+    },
+    {
+      "qid": "Q1320997",
+      "name": "Gulliver's Travels",
+      "imdb": "tt1320261",
+      "tmdb": "38745",
+      "performer": "Billy Connolly"
     },
     {
       "qid": "Q133505281",
@@ -6710,7 +6836,7 @@
       "name": "Billy Connolly Live 1994",
       "imdb": "",
       "tmdb": "",
-      "performer": ""
+      "performer": "Billy Connolly"
     },
     {
       "qid": "Q17507160",
@@ -6734,11 +6860,25 @@
       "performer": ""
     },
     {
+      "qid": "Q18209197",
+      "name": "All Things Comedy Live",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Bill Burr"
+    },
+    {
       "qid": "Q18326251",
       "name": "Waiting for 2042",
       "imdb": "",
       "tmdb": "",
       "performer": "Hari Kondabolu"
+    },
+    {
+      "qid": "Q18354430",
+      "name": "Norm Macdonald Live",
+      "imdb": "tt6407712",
+      "tmdb": "",
+      "performer": "Norm Macdonald"
     },
     {
       "qid": "Q18384455",
@@ -6781,6 +6921,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q193740",
+      "name": "Live Aid",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Billy Connolly"
     },
     {
       "qid": "Q19627362",
@@ -6832,11 +6979,46 @@
       "performer": ""
     },
     {
+      "qid": "Q20979375",
+      "name": "Saturday Night Live, season 41",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Beck Bennett"
+    },
+    {
+      "qid": "Q21052419",
+      "name": "The Woman Who Lived",
+      "imdb": "tt4545140",
+      "tmdb": "",
+      "performer": "Rufus Hound"
+    },
+    {
       "qid": "Q23763096",
       "name": "Just Being Honest",
       "imdb": "tt4512444",
       "tmdb": "359244",
       "performer": "Craig Ferguson"
+    },
+    {
+      "qid": "Q2457512",
+      "name": "The Goods: Live Hard, Sell Hard",
+      "imdb": "tt1092633",
+      "tmdb": "19905",
+      "performer": "Bryan Callen"
+    },
+    {
+      "qid": "Q2497714",
+      "name": "How Not to Live Your Life",
+      "imdb": "tt1270367",
+      "tmdb": "",
+      "performer": "Dan Clark"
+    },
+    {
+      "qid": "Q25464694",
+      "name": "Stand Up Comedy Academy",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Rizky Firdaus Wijaksana"
     },
     {
       "qid": "Q2622271",
@@ -6881,6 +7063,13 @@
       "performer": ""
     },
     {
+      "qid": "Q28442821",
+      "name": "Saturday Night Live, season 42",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Beck Bennett"
+    },
+    {
       "qid": "Q28452117",
       "name": "Beer Hall Putsch",
       "imdb": "",
@@ -6913,7 +7102,14 @@
       "name": "Amy Schumer: Live at the Apollo",
       "imdb": "tt4909348",
       "tmdb": "355178",
-      "performer": ""
+      "performer": "Amy Schumer"
+    },
+    {
+      "qid": "Q29959717",
+      "name": "#DigitalLivesMatter",
+      "imdb": "tt5803530",
+      "tmdb": "578935",
+      "performer": "D.C. Young Fly"
     },
     {
       "qid": "Q30049991",
@@ -6977,6 +7173,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q3372245",
+      "name": "Bill Bergson Lives Dangerously",
+      "imdb": "tt0116741",
+      "tmdb": "30700",
+      "performer": "Ulla Skoog"
     },
     {
       "qid": "Q369724",
@@ -7077,6 +7280,13 @@
       "performer": "Robin Williams"
     },
     {
+      "qid": "Q4749977",
+      "name": "An Evening with Wally Londo Featuring Bill Slaszo",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "George Carlin"
+    },
+    {
       "qid": "Q4765024",
       "name": "Animals",
       "imdb": "tt0397612",
@@ -7166,6 +7376,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": "George Carlin"
+    },
+    {
+      "qid": "Q50414281",
+      "name": "Delivery",
+      "imdb": "tt2949984",
+      "tmdb": "294302",
+      "performer": "Marc Maron"
     },
     {
       "qid": "Q5051683",
@@ -7264,6 +7481,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": "Gary Gulman"
+    },
+    {
+      "qid": "Q51880014",
+      "name": "Celebrity Stand-Up",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Martijn Koning"
     },
     {
       "qid": "Q5245537",
@@ -7420,6 +7644,13 @@
       "performer": ""
     },
     {
+      "qid": "Q55621085",
+      "name": "Live (Tig Notaro album)",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Tig Notaro"
+    },
+    {
       "qid": "Q55624617",
       "name": "Nanette",
       "imdb": "tt8465676",
@@ -7455,11 +7686,18 @@
       "performer": "Doug Stanhope"
     },
     {
+      "qid": "Q56389252",
+      "name": "Get Up Stand Up",
+      "imdb": "",
+      "tmdb": "969070",
+      "performer": "Hifdzi Khoir"
+    },
+    {
       "qid": "Q56405912",
       "name": "Humorgalla",
       "imdb": "",
       "tmdb": "",
-      "performer": "Bård Tufte Johansen"
+      "performer": "Thomas Giertsen"
     },
     {
       "qid": "Q5683352",
@@ -7567,6 +7805,13 @@
       "performer": ""
     },
     {
+      "qid": "Q60150038",
+      "name": "Roast!",
+      "imdb": "tt11422588",
+      "tmdb": "",
+      "performer": "Wang Zijian"
+    },
+    {
       "qid": "Q6037962",
       "name": "Inside the Mind of Bill Cosby",
       "imdb": "",
@@ -7593,6 +7838,13 @@
       "imdb": "tt7607452",
       "tmdb": "516535",
       "performer": ""
+    },
+    {
+      "qid": "Q6115941",
+      "name": "Jack and Jeremy's Real Lives",
+      "imdb": "tt0115220",
+      "tmdb": "",
+      "performer": "Jack Dee"
     },
     {
       "qid": "Q6146905",
@@ -7651,11 +7903,25 @@
       "performer": ""
     },
     {
+      "qid": "Q64138292",
+      "name": "Historical Roasts",
+      "imdb": "tt9169602",
+      "tmdb": "",
+      "performer": "Jeff Ross"
+    },
+    {
       "qid": "Q6423177",
       "name": "Know Your History: Jesus Is Black; So Was Cleopatra",
       "imdb": "tt0867339",
       "tmdb": "36749",
       "performer": ""
+    },
+    {
+      "qid": "Q64513999",
+      "name": "The Lonely Island Presents: The Unauthorized Bash Brothers Experience",
+      "imdb": "tt10376068",
+      "tmdb": "604196",
+      "performer": "Jenny Slate"
     },
     {
       "qid": "Q6456219",
@@ -7872,7 +8138,7 @@
       "name": "Live at the Beacon Theater",
       "imdb": "tt2112999",
       "tmdb": "80379",
-      "performer": ""
+      "performer": "Louis C.K."
     },
     {
       "qid": "Q6656673",
@@ -7880,6 +8146,20 @@
       "imdb": "tt0838284",
       "tmdb": "25687",
       "performer": "Stephen Lynch"
+    },
+    {
+      "qid": "Q6656904",
+      "name": "Live at the Odeon Hammersmith London",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Billy Connolly"
+    },
+    {
+      "qid": "Q6657681",
+      "name": "Live in Houston",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Louis C.K."
     },
     {
       "qid": "Q6660776",
@@ -7985,6 +8265,13 @@
       "imdb": "tt0327036",
       "tmdb": "20337",
       "performer": ""
+    },
+    {
+      "qid": "Q6802950",
+      "name": "Me Doing Stand-Up",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Norm Macdonald"
     },
     {
       "qid": "Q68586917",
@@ -8281,6 +8568,13 @@
       "performer": "David Cross"
     },
     {
+      "qid": "Q7549144",
+      "name": "So F**king Rock Live",
+      "imdb": "tt5286440",
+      "tmdb": "43413",
+      "performer": "Tim Minchin"
+    },
+    {
       "qid": "Q7579677",
       "name": "Sports",
       "imdb": "",
@@ -8349,6 +8643,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": "Bob Newhart"
+    },
+    {
+      "qid": "Q7729669",
+      "name": "Delivery Man",
+      "imdb": "tt2387559",
+      "tmdb": "146239",
+      "performer": "Jay Leno"
     },
     {
       "qid": "Q7735466",
@@ -8421,6 +8722,20 @@
       "performer": ""
     },
     {
+      "qid": "Q7923066",
+      "name": "Very Much Live In Canada",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "James Young"
+    },
+    {
+      "qid": "Q7953953",
+      "name": "WORD: Live at Carnegie Hall",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Louis C.K."
+    },
+    {
       "qid": "Q7990961",
       "name": "What Am I Doing in New Jersey?",
       "imdb": "tt0246644",
@@ -8433,6 +8748,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": "Bill Cosby"
+    },
+    {
+      "qid": "Q7992750",
+      "name": "When Stand Up Stood Out",
+      "imdb": "tt0790823",
+      "tmdb": "47125",
+      "performer": "Paula Poundstone"
     },
     {
       "qid": "Q7993349",
@@ -8512,6 +8834,20 @@
       "performer": ""
     },
     {
+      "qid": "Q891678",
+      "name": "Stand Up Guys",
+      "imdb": "tt1389096",
+      "tmdb": "121824",
+      "performer": "Bill Burr"
+    },
+    {
+      "qid": "Q90316289",
+      "name": "Saturday Night Live at Home",
+      "imdb": "",
+      "tmdb": "",
+      "performer": "Beck Bennett"
+    },
+    {
       "qid": "Q90350923",
       "name": "Ladies Up",
       "imdb": "tt11942100",
@@ -8524,6 +8860,13 @@
       "imdb": "",
       "tmdb": "",
       "performer": ""
+    },
+    {
+      "qid": "Q96390553",
+      "name": "Live at the Comedy Store",
+      "imdb": "tt4368814",
+      "tmdb": "321594",
+      "performer": "Louis C.K."
     },
     {
       "qid": "Q96408646",
@@ -8971,7 +9314,207 @@
     "bun hay mean": "2026-11-24",
     "byron theodoropoulos": "2026-11-24",
     "caitlin durante": "2026-11-24",
-    "caitlin peluffo": "2026-11-24"
+    "caitlin peluffo": "2026-11-24",
+    "wanda sykes": "2026-11-24",
+    "iliza shlesinger": "2026-11-24",
+    "demetri martin": "2026-11-24",
+    "judah friedlander": "2026-11-24",
+    "chris delia": "2026-11-24",
+    "ralph barbosa": "2026-11-24",
+    "steve martin": "2026-11-24",
+    "david cross": "2026-11-24",
+    "nate bargatze": "2026-11-24",
+    "kurt metzger": "2026-11-24",
+    "isabel hagen": "2026-11-24",
+    "jimmy carr": "2026-11-24",
+    "peter kay": "2026-11-24",
+    "jerrod carmichael": "2026-11-24",
+    "dusty slay": "2026-11-24",
+    "gary owen": "2026-11-24",
+    "michelle wolf": "2026-11-24",
+    "jessica kirson": "2026-11-24",
+    "kyle kinane": "2026-11-24",
+    "joe pera": "2026-11-24",
+    "jeff ross": "2026-11-24",
+    "robert schimmel": "2026-11-24",
+    "seth meyers": "2026-11-24",
+    "hank green": "2026-11-24",
+    "joe list": "2026-11-24",
+    "jack whitehall": "2026-11-24",
+    "greg davies": "2026-11-24",
+    "ron white": "2026-11-24",
+    "kumail nanjiani": "2026-11-24",
+    "tony hinchcliffe": "2026-11-24",
+    "demi adejuyigbe": "2026-11-24",
+    "joe rogan": "2026-11-24",
+    "jim jefferies": "2026-11-24",
+    "rodney carrington": "2026-11-24",
+    "jeff dunham": "2026-11-24",
+    "dave chappelle": "2026-11-24",
+    "mitch hedberg": "2026-11-24",
+    "paul chowdhry": "2026-11-24",
+    "don rickles": "2026-11-24",
+    "chris distefano": "2026-11-24",
+    "sarah millican": "2026-11-24",
+    "chelsea peretti": "2026-11-24",
+    "kevin james": "2026-11-24",
+    "trevor noah": "2026-11-24",
+    "sam tallent": "2026-11-24",
+    "julio torres": "2026-11-24",
+    "kevin bridges": "2026-11-24",
+    "katt williams": "2026-11-24",
+    "marc maron": "2026-11-24",
+    "josh wolf": "2026-11-24",
+    "jimmy o yang": "2026-11-24",
+    "jen kirkman": "2026-11-24",
+    "kim congdon": "2026-11-24",
+    "ed gamble": "2026-11-24",
+    "lee mack": "2026-11-24",
+    "stavros halkias": "2026-11-24",
+    "jeff arcuri": "2026-11-24",
+    "eddie murphy": "2026-11-24",
+    "craig ferguson": "2026-11-24",
+    "vir das": "2026-11-24",
+    "sheng wang": "2026-11-24",
+    "martin lawrence": "2026-11-24",
+    "mike birbiglia": "2026-11-24",
+    "richard pryor": "2026-11-24",
+    "sebastian maniscalco": "2026-11-24",
+    "mo gilligan": "2026-11-24",
+    "mark normand": "2026-11-24",
+    "jo koy": "2026-11-24",
+    "chad daniels": "2026-11-24",
+    "ricky gervais": "2026-11-24",
+    "robin williams": "2026-11-24",
+    "nikki glaser": "2026-11-24",
+    "lewis black": "2026-11-24",
+    "paul rodriguez": "2026-11-24",
+    "steven wright": "2026-11-24",
+    "stewart lee": "2026-11-24",
+    "dan soder": "2026-11-24",
+    "matt rife": "2026-11-24",
+    "nick swardson": "2026-11-24",
+    "hasan minhaj": "2026-11-24",
+    "chris rock": "2026-11-24",
+    "cristela alonzo": "2026-11-24",
+    "natasha leggero": "2026-11-24",
+    "ramy youssef": "2026-11-24",
+    "ronny chieng": "2026-11-24",
+    "patton oswalt": "2026-11-24",
+    "lenny bruce": "2026-11-24",
+    "fortune feimster": "2026-11-24",
+    "hannibal buress": "2026-11-24",
+    "jim gaffigan": "2026-11-24",
+    "jake johannsen": "2026-11-24",
+    "sarah silverman": "2026-11-24",
+    "david spade": "2026-11-24",
+    "michael mcintyre": "2026-11-24",
+    "theo von": "2026-11-24",
+    "jim norton": "2026-11-24",
+    "rodney dangerfield": "2026-11-24",
+    "john pinette": "2026-11-24",
+    "daniel sloss": "2026-11-24",
+    "joan rivers": "2026-11-24",
+    "zach galifianakis": "2026-11-24",
+    "jim breuer": "2026-11-24",
+    "stephen merchant": "2026-11-24",
+    "steve harvey": "2026-11-24",
+    "moshe kasher": "2026-11-24",
+    "cameron esposito": "2026-11-24",
+    "patrice oneal": "2026-11-24",
+    "dave attell": "2026-11-24",
+    "tim minchin": "2026-11-24",
+    "norm macdonald": "2026-11-24",
+    "michael che": "2026-11-24",
+    "dom irrera": "2026-11-24",
+    "marcello hernandez": "2026-11-24",
+    "tom papa": "2026-11-24",
+    "chelsea handler": "2026-11-24",
+    "taylor tomlinson": "2026-11-24",
+    "sean lock": "2026-11-24",
+    "hannah gadsby": "2026-11-24",
+    "redd foxx": "2026-11-24",
+    "rich vos": "2026-11-24",
+    "sam kinison": "2026-11-24",
+    "shane gillis": "2026-11-24",
+    "gianmarco soresi": "2026-11-24",
+    "john mulaney": "2026-11-24",
+    "louis ck": "2026-11-24",
+    "greg giraldo": "2026-11-24",
+    "matteo lane": "2026-11-24",
+    "kevin hart": "2026-11-24",
+    "fern brady": "2026-11-24",
+    "frankie boyle": "2026-11-24",
+    "jeremiah watkins": "2026-11-24",
+    "emily catalano": "2026-11-24",
+    "tom segura": "2026-11-24",
+    "nick kroll": "2026-11-24",
+    "tracy morgan": "2026-11-24",
+    "lisa lampanelli": "2026-11-24",
+    "george carlin": "2026-11-24",
+    "russell howard": "2026-11-24",
+    "josh johnson": "2026-11-24",
+    "paul reiser": "2026-11-24",
+    "kathleen madigan": "2026-11-24",
+    "ed byrne": "2026-11-24",
+    "whitney cummings": "2026-11-24",
+    "pete holmes": "2026-11-24",
+    "jerry seinfeld": "2026-11-24",
+    "russell peters": "2026-11-24",
+    "gabriel iglesias": "2026-11-24",
+    "mitch fatel": "2026-11-24",
+    "neal brennan": "2026-11-24",
+    "robert kelly": "2026-11-24",
+    "david lucas": "2026-11-24",
+    "geoffrey asmus": "2026-11-24",
+    "eddie izzard": "2026-11-24",
+    "george lopez": "2026-11-24",
+    "denis leary": "2026-11-24",
+    "dane cook": "2026-11-24",
+    "daniel tosh": "2026-11-24",
+    "jeff dye": "2026-11-24",
+    "jeff garlin": "2026-11-24",
+    "kirk fox": "2026-11-24",
+    "judy gold": "2026-11-24",
+    "carlos mencia": "2026-11-24",
+    "eugene mirman": "2026-11-24",
+    "kevin nealon": "2026-11-24",
+    "susie essman": "2026-11-24",
+    "shane mauss": "2026-11-24",
+    "rebecca corry": "2026-11-24",
+    "stephen lynch": "2026-11-24",
+    "john caparulo": "2026-11-24",
+    "lavell crawford": "2026-11-24",
+    "frank caliendo": "2026-11-24",
+    "craig shoemaker": "2026-11-24",
+    "donald glover": "2026-11-24",
+    "charles fleischer": "2026-11-24",
+    "jimmy pardo": "2026-11-24",
+    "jay larson": "2026-11-24",
+    "todd barry": "2026-11-24",
+    "kevin pollak": "2026-11-24",
+    "paul f tompkins": "2026-11-24",
+    "dana gould": "2026-11-24",
+    "greg fitzsimmons": "2026-11-24",
+    "deon cole": "2026-11-24",
+    "ray romano": "2026-11-24",
+    "dwayne perkins": "2026-11-24",
+    "gilbert gottfried": "2026-11-24",
+    "paula poundstone": "2026-11-24",
+    "owen benjamin": "2026-11-24",
+    "tammy pescatelli": "2026-11-24",
+    "myq kaplan": "2026-11-24",
+    "kristen schaal": "2026-11-24",
+    "carlos alazraqui": "2026-11-24",
+    "margaret cho": "2026-11-24",
+    "earthquake": "2026-11-24",
+    "nur arifin ipin": "2026-11-24",
+    "insan nur akbar": "2026-11-24",
+    "ziga kladosek": "2026-11-24",
+    "richard lewis": "2026-11-24",
+    "croix kyles": "2026-11-24",
+    "patrick kielty": "2026-11-24",
+    "matt forde": "2026-11-24"
   },
   "checked_works": {
     "Q101552469": "2026-11-23",
@@ -9209,14 +9752,45 @@
     "Q96985142": "2026-11-23",
     "Q96985151": "2026-11-23",
     "Q96985177": "2026-11-23",
-    "Q51325057": "2026-11-24"
+    "Q51325057": "2026-11-24",
+    "Q105991607": "2026-11-24",
+    "Q105992110": "2026-11-24",
+    "Q108439755": "2026-11-24",
+    "Q12124911": "2026-11-24",
+    "Q123472256": "2026-11-24",
+    "Q125401070": "2026-11-24",
+    "Q130582245": "2026-11-24",
+    "Q131806449": "2026-11-24",
+    "Q1320997": "2026-11-24",
+    "Q18354430": "2026-11-24",
+    "Q21052419": "2026-11-24",
+    "Q2457512": "2026-11-24",
+    "Q2497714": "2026-11-24",
+    "Q29959717": "2026-11-24",
+    "Q3372245": "2026-11-24",
+    "Q50414281": "2026-11-24",
+    "Q56389252": "2026-11-24",
+    "Q60150038": "2026-11-24",
+    "Q6115941": "2026-11-24",
+    "Q64138292": "2026-11-24",
+    "Q64513999": "2026-11-24",
+    "Q7549144": "2026-11-24",
+    "Q7729669": "2026-11-24",
+    "Q7992750": "2026-11-24",
+    "Q891678": "2026-11-24",
+    "Q96390553": "2026-11-24"
   },
   "last_run": "2026-11-24",
   "last_discovery": {
     "wikidata_people": 1499,
-    "wikidata_works": 373,
-    "performers_searched": 120,
-    "total_tmdb_candidates": 1769
+    "wikidata_works": 422,
+    "performers_searched": 200,
+    "total_tmdb_candidates": 2008,
+    "exact_title_searches": 80,
+    "exact_title_matches": 9,
+    "matched_by_source": {
+      "wikidata": 9
+    }
   },
   "youtube_searched": {
     "ari matti": "2026-11-23",
@@ -9238,7 +9812,7 @@
     "metadata_candidates_checked": 452,
     "video_candidates_passed": 103
   },
-  "wikidata_schema": 2,
+  "wikidata_schema": 3,
   "searched_titles": {
     "Q18563331": "2026-11-24",
     "Q59386567": "2026-11-24",
@@ -9263,7 +9837,88 @@
     "Q133571692": "2026-11-24",
     "Q57897497": "2026-11-24",
     "Q7240459": "2026-11-24",
-    "Q7381571": "2026-11-24"
+    "Q7381571": "2026-11-24",
+    "Q4658588": "2026-11-24",
+    "Q7711239": "2026-11-24",
+    "Q4749977": "2026-11-24",
+    "Q6037962": "2026-11-24",
+    "Q5127975": "2026-11-24",
+    "Q116470857": "2026-11-24",
+    "Q16950277": "2026-11-24",
+    "Q7811094": "2026-11-24",
+    "Q18326251": "2026-11-24",
+    "Q7923066": "2026-11-24",
+    "Q17426155": "2026-11-24",
+    "Q7783333": "2026-11-24",
+    "Q6988690": "2026-11-24",
+    "Q7044080": "2026-11-24",
+    "Q7992594": "2026-11-24",
+    "Q6929062": "2026-11-24",
+    "Q55621085": "2026-11-24",
+    "Q124637757": "2026-11-24",
+    "Q7186201": "2026-11-24",
+    "Q7317892": "2026-11-24",
+    "Q109304300": "2026-11-24",
+    "Q7715392": "2026-11-24",
+    "Q28452117": "2026-11-24",
+    "Q6690070": "2026-11-24",
+    "Q7107000": "2026-11-24",
+    "Q20979375": "2026-11-24",
+    "Q5979031": "2026-11-24",
+    "Q134631540": "2026-11-24",
+    "Q12486863": "2026-11-24",
+    "Q6508516": "2026-11-24",
+    "Q5463510": "2026-11-24",
+    "Q25464694": "2026-11-24",
+    "Q18209197": "2026-11-24",
+    "Q5336339": "2026-11-24",
+    "Q7953953": "2026-11-24",
+    "Q5977562": "2026-11-24",
+    "Q56275314": "2026-11-24",
+    "Q5979061": "2026-11-24",
+    "Q6880788": "2026-11-24",
+    "Q5041305": "2026-11-24",
+    "Q140299056": "2026-11-24",
+    "Q28442821": "2026-11-24",
+    "Q4645163": "2026-11-24",
+    "Q7579677": "2026-11-24",
+    "Q6802950": "2026-11-24",
+    "Q109305388": "2026-11-24",
+    "Q16968857": "2026-11-24",
+    "Q90316289": "2026-11-24",
+    "Q6456219": "2026-11-24",
+    "Q121461445": "2026-11-24",
+    "Q16155436": "2026-11-24",
+    "Q5302882": "2026-11-24",
+    "Q65070621": "2026-11-24",
+    "Q7720822": "2026-11-24",
+    "Q7303415": "2026-11-24",
+    "Q42906635": "2026-11-24",
+    "Q7502998": "2026-11-24",
+    "Q7757037": "2026-11-24",
+    "Q5166437": "2026-11-24",
+    "Q193740": "2026-11-24",
+    "Q7113023": "2026-11-24",
+    "Q4903555": "2026-11-24",
+    "Q4839279": "2026-11-24",
+    "Q106879252": "2026-11-24",
+    "Q7136768": "2026-11-24",
+    "Q8031861": "2026-11-24",
+    "Q4036440": "2026-11-24",
+    "Q646478": "2026-11-24",
+    "Q97200272": "2026-11-24",
+    "Q7716895": "2026-11-24",
+    "Q85806691": "2026-11-24",
+    "Q16850475": "2026-11-24",
+    "Q10931628": "2026-11-24",
+    "Q6872642": "2026-11-24",
+    "Q96408646": "2026-11-24",
+    "Q4616393": "2026-11-24",
+    "Q5286312": "2026-11-24",
+    "Q6657681": "2026-11-24",
+    "Q7621796": "2026-11-24",
+    "Q4880303": "2026-11-24"
   },
-  "last_discovery_title_searches": 24
+  "last_discovery_title_searches": 80,
+  "credited_works_count": 55
 }

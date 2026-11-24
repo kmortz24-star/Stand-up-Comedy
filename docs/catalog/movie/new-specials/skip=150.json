@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt40144526",
+      "type": "movie",
+      "name": "Pete Holmes: Silly Silly Fun Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/9QH5xhIG8MehyLc81WtDT4JHJU4.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39995688",
+      "type": "movie",
+      "name": "Thomas Marty - Allez, la bise !",
+      "poster": "https://image.tmdb.org/t/p/w500/mgM4Luo0WOCJ2gQatK6eJRzbOQd.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1664333",
+      "type": "movie",
+      "name": "Tim Hawkins: Fist Bump",
+      "poster": "https://image.tmdb.org/t/p/w500/tE790dmeTcwBoghEp29Z2UU4yk7.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1641904",
       "type": "movie",
       "name": "Mike Vecchione: Live from the Stress Factory",
@@ -325,27 +346,6 @@
       "id": "tmdb:1734095",
       "type": "movie",
       "name": "Martin Niemeyer: Supersubtil",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1705551",
-      "type": "movie",
-      "name": "Alexa Zuart: En vivo desde el TEATRO METROPOLITAN",
-      "poster": "https://image.tmdb.org/t/p/w500/kaZ5kwKmHCc8MgxlzC93fOmp9MV.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38965502",
-      "type": "movie",
-      "name": "Tom Segura: Teacher",
-      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1599251",
-      "type": "movie",
-      "name": "Micha Wertheim: Nergens Anders",
-      "poster": "https://image.tmdb.org/t/p/w500/ov0xbc5zCGDf2piqLFLf10A9zJw.jpg",
       "releaseInfo": "2025"
     }
   ]

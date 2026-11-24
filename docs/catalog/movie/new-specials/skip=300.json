@@ -1,6 +1,41 @@
 {
   "metas": [
     {
+      "id": "tmdb:1739199",
+      "type": "movie",
+      "name": "Comédie Queer, la scène des Outre-mer",
+      "poster": "https://image.tmdb.org/t/p/w500/3MdwfuH251j7daYmEEiinrtynZW.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36421934",
+      "type": "movie",
+      "name": "Ralph Barbosa: Planet Bosa",
+      "poster": "https://image.tmdb.org/t/p/w500/pba4mTD4WyYtaSe2WI8aB04xHIa.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36624815",
+      "type": "movie",
+      "name": "Pink Foxx: For Foxx Sake",
+      "poster": "https://image.tmdb.org/t/p/w500/2S4pOgptFx2OXuooocGno8OrvXM.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36048590",
+      "type": "movie",
+      "name": "Marc Maron: Panicked",
+      "poster": "https://image.tmdb.org/t/p/w500/bwViCxMfpewW38VDVHxdiJq6rcK.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37433245",
+      "type": "movie",
+      "name": "Dusty Slay: Wet Heat",
+      "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt37610597",
       "type": "movie",
       "name": "Dom Irrera: Live from Las Vegas",

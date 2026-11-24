@@ -36,6 +36,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1736872",
+      "type": "movie",
+      "name": "Emily Catalano: The Introvert",
+      "poster": "https://image.tmdb.org/t/p/w500/q8Ry4vVRg4smq89RCr5XZ5p9res.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1739804",
       "type": "movie",
       "name": "Olga Koch: Comes From Money",
@@ -339,13 +346,6 @@
       "id": "tt37674617",
       "type": "movie",
       "name": "Evil Eye Comedy Special Featuring Angelo Tsarouchas And Frank Spadone",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1688186",
-      "type": "movie",
-      "name": "The Birth of a Forehead",
-      "poster": "https://image.tmdb.org/t/p/w500/tr7PiGlCtl2eZi5z8tAd47CICjQ.jpg",
       "releaseInfo": "2026"
     }
   ]

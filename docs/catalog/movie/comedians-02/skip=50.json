@@ -1,6 +1,118 @@
 {
   "metas": [
     {
+      "id": "tt19875708",
+      "type": "movie",
+      "name": "Chris Distefano: Speshy Weshy",
+      "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33517417",
+      "type": "movie",
+      "name": "Chris Distefano: It's Just Unfortunate",
+      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt14100856",
+      "type": "movie",
+      "name": "Chris Fairbanks - Rescue Cactus; A Stand-Up Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/5Jnz49fMkSHGqufV446nYAF21Ql.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt39765131",
+      "type": "movie",
+      "name": "Chris Fleming: Live at The Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt32323285",
+      "type": "movie",
+      "name": "Chris Grace: As Scarlett Johansson",
+      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1401447",
+      "type": "movie",
+      "name": "Chris Parker: Give Me One Good Reason Why I Shouldn't Throw My Phone Off This Bridge",
+      "poster": "https://image.tmdb.org/t/p/w500/9YReevJN3szF7Jqq2Wu9uEBHRiU.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1666675",
+      "type": "movie",
+      "name": "Chris Parker: Stop Being So Dramatic",
+      "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:510872",
+      "type": "movie",
+      "name": "Is That… Chris Ramsey?",
+      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:1279401",
+      "type": "movie",
+      "name": "Chris Ramsey: Live from London",
+      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt31869794",
+      "type": "movie",
+      "name": "Chris Ramsey Live: All Growed Up",
+      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt23625326",
+      "type": "movie",
+      "name": "Chris Redd: Why Am I Like This?",
+      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt27515738",
+      "type": "movie",
+      "name": "Chris Robinson: Panning for Gold",
+      "poster": "https://image.tmdb.org/t/p/w500/lauXvkbZhtbOkz3gSNnAyiubnRo.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0236102",
+      "type": "movie",
+      "name": "Chris Rock: Big Ass Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/MKBivBeYBdo0IHcW1iGJ9KF0lA.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0200529",
+      "type": "movie",
+      "name": "Chris Rock: Bring the Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/iKBOkpJY53iCc5Ur3DjxVnlbd26.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0206636",
+      "type": "movie",
+      "name": "Chris Rock: Bigger & Blacker",
+      "poster": "https://image.tmdb.org/t/p/w500/b5T4xRePE7VckU5xAFZh6jUEgD0.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0405832",
+      "type": "movie",
+      "name": "Chris Rock: Never Scared",
+      "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "tt1213574",
       "type": "movie",
       "name": "Chris Rock: Kill the Messenger",
@@ -13,6 +125,13 @@
       "name": "Chris Rock: Tamborine",
       "poster": "https://image.tmdb.org/t/p/w500/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt19783524",
+      "type": "movie",
+      "name": "Chris Rock: One Man Show",
+      "poster": "https://image.tmdb.org/t/p/w500/lU6vj5kEm9UsnoAm8x7j0FmLy2O.jpg",
+      "releaseInfo": "2022"
     },
     {
       "id": "tt23571908",
@@ -126,6 +245,13 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt33319975",
+      "type": "movie",
+      "name": "Colin Jost & Michael Che Present: New York After Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tmdb:1543968",
       "type": "movie",
       "name": "Count Arthur Strong: And It's Goodnight from Him!",
@@ -168,6 +294,24 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tmdb:320583",
+      "type": "movie",
+      "name": "Craig Shoemaker: Live: That's a True Story!",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1197325",
+      "type": "movie",
+      "name": "Craig Shoemaker: The Lovemaster... Unzipped",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2515486",
+      "type": "movie",
+      "name": "Craig Shoemaker: Daditude",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt6550456",
       "type": "movie",
       "name": "Cristela Alonzo: Lower Classy",
@@ -200,152 +344,6 @@
       "name": "Damien Power: Not So Funny Now Is It?",
       "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1199723",
-      "type": "movie",
-      "name": "Dan Andersen: Holder 100",
-      "poster": "https://image.tmdb.org/t/p/w500/8nWPfsUwXxhAwpko0E1qas9djyT.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tmdb:630528",
-      "type": "movie",
-      "name": "Dan Andersen: På vippen",
-      "poster": "https://image.tmdb.org/t/p/w500/xXuXQQnCKdZt5LTLdMF8zCqYZ1c.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt5737882",
-      "type": "movie",
-      "name": "Dan Soder: Not Special",
-      "poster": "https://image.tmdb.org/t/p/w500/rSx8v3crqE61NvAIxNxrLjP1aFD.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt11265724",
-      "type": "movie",
-      "name": "Dan Soder: Son of a Gary",
-      "poster": "https://image.tmdb.org/t/p/w500/ljlEiK6NKLb4WbK2OebBHguVcjO.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt31529613",
-      "type": "movie",
-      "name": "Dan Soder: On the Road",
-      "poster": "https://image.tmdb.org/t/p/w500/2wxEdFsNGz2CbG0fkAIfICatRkF.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0867149",
-      "type": "movie",
-      "name": "Dane Cook: Vicious Circle",
-      "poster": "https://image.tmdb.org/t/p/w500/4dtk8WElH17WJP40B4Ch9MdXKtx.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1161447",
-      "type": "movie",
-      "name": "Dane Cook: Rough Around the Edges",
-      "poster": "https://image.tmdb.org/t/p/w500/hD1HC6GLmkC0Sen1s3WmZzrWGNc.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1402207",
-      "type": "movie",
-      "name": "Dane Cook: Isolated Incident",
-      "poster": "https://image.tmdb.org/t/p/w500/zCrNfLflTcXaou9kw6eiFV8yGyy.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt4129180",
-      "type": "movie",
-      "name": "Dane Cook: Troublemaker",
-      "poster": "https://image.tmdb.org/t/p/w500/rXJHq7yQ92IuTAIxAYKUILvjVLU.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt22092546",
-      "type": "movie",
-      "name": "Dane Cook: Above It All",
-      "poster": "https://image.tmdb.org/t/p/w500/zw55KFcOvgdYeHlcKQixdsR6AIk.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt37446074",
-      "type": "movie",
-      "name": "It's Worth It by Dani Rovira",
-      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1138765",
-      "type": "movie",
-      "name": "Daniel Muggleton: 3 Stripes",
-      "poster": "https://image.tmdb.org/t/p/w500/dqADFYuuhsTdBVKAxDZM4p09Zmn.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1138771",
-      "type": "movie",
-      "name": "Daniel Muggleton: Leaving London",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1138789",
-      "type": "movie",
-      "name": "Daniel Muggleton: Unprecedented",
-      "poster": "https://image.tmdb.org/t/p/w500/uGoYOaK6DsYtWxxXlZyBapfKmCb.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1242049",
-      "type": "movie",
-      "name": "Daniel Muggleton: White & Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt11081044",
-      "type": "movie",
-      "name": "Daniel Sloss: X",
-      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt39115106",
-      "type": "movie",
-      "name": "Daniel Sloss: Can't",
-      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt6502534",
-      "type": "movie",
-      "name": "Daniel Sosa: Sosafado",
-      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10438652",
-      "type": "movie",
-      "name": "Daniel Sosa: Maleducado",
-      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1341805",
-      "type": "movie",
-      "name": "Daniel Sosa: Especial de Reyes Magos",
-      "poster": "https://image.tmdb.org/t/p/w500/2l8X21dcpzY0yGIxSa8txuUsIzm.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1330285",
-      "type": "movie",
-      "name": "Ya no es lo mismo",
-      "poster": "https://image.tmdb.org/t/p/w500/xojtzGFFuZCTXrZjLSQr4eRhXmi.jpg",
-      "releaseInfo": "2020"
     }
   ]
 }

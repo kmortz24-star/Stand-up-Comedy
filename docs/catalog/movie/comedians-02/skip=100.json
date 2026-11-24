@@ -1,6 +1,187 @@
 {
   "metas": [
     {
+      "id": "tmdb:1199723",
+      "type": "movie",
+      "name": "Dan Andersen: Holder 100",
+      "poster": "https://image.tmdb.org/t/p/w500/8nWPfsUwXxhAwpko0E1qas9djyT.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tmdb:630528",
+      "type": "movie",
+      "name": "Dan Andersen: På vippen",
+      "poster": "https://image.tmdb.org/t/p/w500/xXuXQQnCKdZt5LTLdMF8zCqYZ1c.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt5737882",
+      "type": "movie",
+      "name": "Dan Soder: Not Special",
+      "poster": "https://image.tmdb.org/t/p/w500/rSx8v3crqE61NvAIxNxrLjP1aFD.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt11265724",
+      "type": "movie",
+      "name": "Dan Soder: Son of a Gary",
+      "poster": "https://image.tmdb.org/t/p/w500/ljlEiK6NKLb4WbK2OebBHguVcjO.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt31529613",
+      "type": "movie",
+      "name": "Dan Soder: On the Road",
+      "poster": "https://image.tmdb.org/t/p/w500/2wxEdFsNGz2CbG0fkAIfICatRkF.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1391890",
+      "type": "movie",
+      "name": "Dana Gould: Let Me Put My Thoughts in You",
+      "poster": "https://image.tmdb.org/t/p/w500/bzyxSY7vPR2RSGU1Ka9KtcP7O1m.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2946084",
+      "type": "movie",
+      "name": "Dana Gould: I Know It's Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/wTfKr423JEsNGedeyK4EyqWQUTd.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt34541625",
+      "type": "movie",
+      "name": "Dana Gould: Perfectly Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/4cOeQmJw3baIYF6mwCaFxeIPK9W.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0867149",
+      "type": "movie",
+      "name": "Dane Cook: Vicious Circle",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtk8WElH17WJP40B4Ch9MdXKtx.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1161447",
+      "type": "movie",
+      "name": "Dane Cook: Rough Around the Edges",
+      "poster": "https://image.tmdb.org/t/p/w500/hD1HC6GLmkC0Sen1s3WmZzrWGNc.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1402207",
+      "type": "movie",
+      "name": "Dane Cook: Isolated Incident",
+      "poster": "https://image.tmdb.org/t/p/w500/zCrNfLflTcXaou9kw6eiFV8yGyy.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4129180",
+      "type": "movie",
+      "name": "Dane Cook: Troublemaker",
+      "poster": "https://image.tmdb.org/t/p/w500/rXJHq7yQ92IuTAIxAYKUILvjVLU.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt22092546",
+      "type": "movie",
+      "name": "Dane Cook: Above It All",
+      "poster": "https://image.tmdb.org/t/p/w500/zw55KFcOvgdYeHlcKQixdsR6AIk.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt37446074",
+      "type": "movie",
+      "name": "It's Worth It by Dani Rovira",
+      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1138765",
+      "type": "movie",
+      "name": "Daniel Muggleton: 3 Stripes",
+      "poster": "https://image.tmdb.org/t/p/w500/dqADFYuuhsTdBVKAxDZM4p09Zmn.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1138771",
+      "type": "movie",
+      "name": "Daniel Muggleton: Leaving London",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1138789",
+      "type": "movie",
+      "name": "Daniel Muggleton: Unprecedented",
+      "poster": "https://image.tmdb.org/t/p/w500/uGoYOaK6DsYtWxxXlZyBapfKmCb.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1242049",
+      "type": "movie",
+      "name": "Daniel Muggleton: White & Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6787668",
+      "type": "movie",
+      "name": "Daniel Sloss Live",
+      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt11081044",
+      "type": "movie",
+      "name": "Daniel Sloss: X",
+      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11178728",
+      "type": "movie",
+      "name": "Daniel Sloss: Socio",
+      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt39115106",
+      "type": "movie",
+      "name": "Daniel Sloss: Can't",
+      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6502534",
+      "type": "movie",
+      "name": "Daniel Sosa: Sosafado",
+      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10438652",
+      "type": "movie",
+      "name": "Daniel Sosa: Maleducado",
+      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1341805",
+      "type": "movie",
+      "name": "Daniel Sosa: Especial de Reyes Magos",
+      "poster": "https://image.tmdb.org/t/p/w500/2l8X21dcpzY0yGIxSa8txuUsIzm.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1330285",
+      "type": "movie",
+      "name": "Ya no es lo mismo",
+      "poster": "https://image.tmdb.org/t/p/w500/xojtzGFFuZCTXrZjLSQr4eRhXmi.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tmdb:1336526",
       "type": "movie",
       "name": "Daniel Sosa: Especial de Día de Muertos",
@@ -106,6 +287,12 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tt0777178",
+      "type": "movie",
+      "name": "1995 Young Comedians Special",
+      "releaseInfo": "1995"
+    },
+    {
       "id": "tt1243457",
       "type": "movie",
       "name": "Dave Attell - HBO Comedy Half-Hour",
@@ -159,194 +346,6 @@
       "name": "Dave Chappelle: Killin' Them Softly",
       "poster": "https://image.tmdb.org/t/p/w500/xQAwaRVkaYtgEbFzsUrYzduJsOd.jpg",
       "releaseInfo": "2000"
-    },
-    {
-      "id": "tt0424934",
-      "type": "movie",
-      "name": "Dave Chappelle: For What It's Worth",
-      "poster": "https://image.tmdb.org/t/p/w500/udpZ1HTMNPS9fi4s6PNY2QLIJqf.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt6649108",
-      "type": "movie",
-      "name": "Dave Chappelle: Deep in the Heart of Texas",
-      "poster": "https://image.tmdb.org/t/p/w500/jaHuxnzJy616w4Muv2NxZgQ9fUu.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt6648926",
-      "type": "movie",
-      "name": "Dave Chappelle: The Age of Spin",
-      "poster": "https://image.tmdb.org/t/p/w500/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt7806998",
-      "type": "movie",
-      "name": "Dave Chappelle: Equanimity",
-      "poster": "https://image.tmdb.org/t/p/w500/4EaNffvPj5uTxRbFcmiTkor1lZW.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt7807000",
-      "type": "movie",
-      "name": "Dave Chappelle: The Bird Revelation",
-      "poster": "https://image.tmdb.org/t/p/w500/3dLJ4kSwnMGlHlR6AxwWqTsKJFs.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10810424",
-      "type": "movie",
-      "name": "Dave Chappelle: Sticks & Stones",
-      "poster": "https://image.tmdb.org/t/p/w500/onTLKNYvTQ7f86LQZEj6EAUmpjt.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt14831220",
-      "type": "movie",
-      "name": "Dave Chappelle: Redemption Song",
-      "poster": "https://image.tmdb.org/t/p/w500/jwTEb6fKPhWUqSeEGqdkCYJXVhe.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt15523010",
-      "type": "movie",
-      "name": "Dave Chappelle: The Closer",
-      "poster": "https://image.tmdb.org/t/p/w500/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt21242930",
-      "type": "movie",
-      "name": "Dave Chappelle: What's in a Name?",
-      "poster": "https://image.tmdb.org/t/p/w500/cmLdl1JbP7FTEguUxIxAFXcwa5X.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt18278698",
-      "type": "movie",
-      "name": "Dave Chappelle: The Dreamer",
-      "poster": "https://image.tmdb.org/t/p/w500/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39227597",
-      "type": "movie",
-      "name": "Dave Chappelle: The Unstoppable...",
-      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt26343416",
-      "type": "movie",
-      "name": "Dave Hughes: Ridiculous",
-      "poster": "https://image.tmdb.org/t/p/w500/shaiTurHRJD2W3436loMM4dT3xX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt9130686",
-      "type": "movie",
-      "name": "Dave Merheje: Good Friend Bad Grammar",
-      "poster": "https://image.tmdb.org/t/p/w500/oUNRIzBYJGYi6EJ4kesQIGJ5kMD.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt38793681",
-      "type": "movie",
-      "name": "David Castello-Lopes : Authentique",
-      "poster": "https://image.tmdb.org/t/p/w500/dQQoP3sQNWt9chPNdCaDpI3Gfl6.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt0251656",
-      "type": "movie",
-      "name": "David Cross: The Pride Is Back",
-      "poster": "https://image.tmdb.org/t/p/w500/4wYi80NyKnh3mmgg17krlTmEKD5.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0437932",
-      "type": "movie",
-      "name": "Last Laugh '04",
-      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt9547338",
-      "type": "movie",
-      "name": "David Cross: Oh Come On",
-      "poster": "https://image.tmdb.org/t/p/w500/2enmf2mffXRFzzJ0ExDGu3i1vRG.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt40544688",
-      "type": "movie",
-      "name": "David Cross: The End of the Beginning of the End",
-      "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1324683",
-      "type": "movie",
-      "name": "David Gborie: Gbirth of a Nation",
-      "poster": "https://image.tmdb.org/t/p/w500/fu7lW6EXRXxQWu8tBt3WRDr9iQl.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1256166",
-      "type": "movie",
-      "name": "David Lucas: Uncancellable",
-      "poster": "https://image.tmdb.org/t/p/w500/g2YIupgDDS9zMI0apio1VcDUBjl.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt18955474",
-      "type": "movie",
-      "name": "David Spade: Nothing Personal",
-      "poster": "https://image.tmdb.org/t/p/w500/jc3u2yD3rpq6WyKAIpg85LnAVDe.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1574828",
-      "type": "movie",
-      "name": "David Steinberg in Concert With John Candy",
-      "poster": "https://image.tmdb.org/t/p/w500/AdmCk4Qn9wlTFMN5uc6dI7xSgy6.jpg",
-      "releaseInfo": "1984"
-    },
-    {
-      "id": "tmdb:1356994",
-      "type": "movie",
-      "name": "Todos vamos a morir",
-      "poster": "https://image.tmdb.org/t/p/w500/yUubL6TnMunHcLx7thY4cr7fExm.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1506015",
-      "type": "movie",
-      "name": "Deco Machado: Desencaixado",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1715172",
-      "type": "movie",
-      "name": "Deirdre O'Kane: Demented",
-      "poster": "https://image.tmdb.org/t/p/w500/9cKxngmPkDLL7y27s4KpYnjDH1Y.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1825512",
-      "type": "movie",
-      "name": "Deirdre O'Kane: O'Kaning It",
-      "poster": "https://image.tmdb.org/t/p/w500/ahr7cElYPxU7ALwxdQqCdG5y7yr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0954327",
-      "type": "movie",
-      "name": "Demetri Martin. Person.",
-      "poster": "https://image.tmdb.org/t/p/w500/gaG1cisIvh6CHLkYCWncF7wJDLs.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

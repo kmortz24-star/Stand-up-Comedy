@@ -112,6 +112,27 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tmdb:1193892",
+      "type": "movie",
+      "name": "Don Rickles Live in Casino Rama 2010",
+      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1193903",
+      "type": "movie",
+      "name": "Don Rickles LIVE in Arizona 2014",
+      "poster": "https://image.tmdb.org/t/p/w500/9SBgyxPJBH3oZCRipOHTT2vn6zO.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1198683",
+      "type": "movie",
+      "name": "Don Rickles Live At Mohegan Sun 2011",
+      "poster": "https://image.tmdb.org/t/p/w500/vFsPt0gd43ldBZQ7bIXin8Vi7ud.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt31630255",
       "type": "movie",
       "name": "Don Rickles Live in Pala 2013",
@@ -138,6 +159,13 @@
       "name": "Eddie Murphy Raw",
       "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
       "releaseInfo": "1987"
+    },
+    {
+      "id": "tt2488254",
+      "type": "movie",
+      "name": "Eddie Murphy: One Night Only",
+      "poster": "https://image.tmdb.org/t/p/w500/kpUFMbVTAhZWrcYYJCU5Gn1WJAv.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tt0249854",
@@ -182,6 +210,20 @@
       "releaseInfo": "1992"
     },
     {
+      "id": "tt0249535",
+      "type": "movie",
+      "name": "George Carlin: George's Best Stuff",
+      "poster": "https://image.tmdb.org/t/p/w500/w8Cz07ewoPhj1aGIxVG8ZsBsqph.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0248826",
+      "type": "movie",
+      "name": "George Carlin: 40 Years of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/pQdyep8PiI72qO99IvP8RiISRv7.jpg",
+      "releaseInfo": "1997"
+    },
+    {
       "id": "tt0246645",
       "type": "movie",
       "name": "George Carlin: You Are All Diseased",
@@ -215,6 +257,19 @@
       "name": "An Audience with Joan Rivers",
       "poster": "https://image.tmdb.org/t/p/w500/wnRwtOXsDJ2ZSxRR0FVXjoBJ6mJ.jpg",
       "releaseInfo": "1984"
+    },
+    {
+      "id": "tmdb:1491602",
+      "type": "movie",
+      "name": "Joan Rivers Live at the Apollo",
+      "poster": "https://image.tmdb.org/t/p/w500/eJaDmWuX40keZCeKi63XDBWoMdO.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt2043891",
+      "type": "movie",
+      "name": "Joan Rivers: (Still A) Live at the London Palladium",
+      "releaseInfo": "2005"
     },
     {
       "id": "tt0788012",
@@ -286,66 +341,11 @@
       "releaseInfo": "1983"
     },
     {
-      "id": "tt0391873",
+      "id": "tt12636452",
       "type": "movie",
-      "name": "Comic Relief '90",
-      "releaseInfo": "1990"
-    },
-    {
-      "id": "tt0330829",
-      "type": "movie",
-      "name": "Robin Williams: Live on Broadway",
-      "poster": "https://image.tmdb.org/t/p/w500/omCkeQubfAtjJetFV2edOC3yhRB.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt1560169",
-      "type": "movie",
-      "name": "Robin Williams: Weapons of Self Destruction",
-      "poster": "https://image.tmdb.org/t/p/w500/kjEElgEFtAtyadUt8JayBLUw5Sf.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt0334249",
-      "type": "movie",
-      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
-      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0148538",
-      "type": "movie",
-      "name": "Rodney Dangerfield: Nothin' Goes Right",
-      "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0324325",
-      "type": "movie",
-      "name": "A Tribute to Sam Kinison",
-      "poster": "https://image.tmdb.org/t/p/w500/5OSeZNLNFI0WfQCVMoPDZpGbCmj.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt7693434",
-      "type": "movie",
-      "name": "I Am Sam Kinison",
-      "poster": "https://image.tmdb.org/t/p/w500/4Cjt5cgUr0c6jKZnPr2jkSQExs.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt0393555",
-      "type": "movie",
-      "name": "Steve Martin: On Location with Steve Martin",
-      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
-      "releaseInfo": "1976"
-    },
-    {
-      "id": "tt0356076",
-      "type": "movie",
-      "name": "Steve Martin's Best Show Ever",
-      "poster": "https://image.tmdb.org/t/p/w500/pD4FmZ9NRUj8Yut5bP7D8SSvFSF.jpg",
-      "releaseInfo": "1981"
+      "name": "The Last Days of Richard Pryor",
+      "poster": "https://image.tmdb.org/t/p/w500/fAYMQ2Hei9ULzFQnXWnik3vdbvA.jpg",
+      "releaseInfo": "2020"
     }
   ]
 }

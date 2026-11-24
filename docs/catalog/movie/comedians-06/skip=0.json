@@ -36,6 +36,27 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tt0180972",
+      "type": "movie",
+      "name": "Sam Kinison: Banned",
+      "poster": "https://image.tmdb.org/t/p/w500/daZjhSfB1BAT88wCEV2Tz5rmxZW.jpg",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt10446712",
+      "type": "movie",
+      "name": "Sam Kinison: Live in Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/toRKtijR4skjKniA2YaAxS60bjt.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0174180",
+      "type": "movie",
+      "name": "Sam Kinison: Why Did We Laugh?",
+      "poster": "https://image.tmdb.org/t/p/w500/b8alikXtkJQwrJCUXGIPuV9EiK9.jpg",
+      "releaseInfo": "1999"
+    },
+    {
       "id": "tt7693434",
       "type": "movie",
       "name": "I Am Sam Kinison",
@@ -139,6 +160,19 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1718341",
+      "type": "movie",
+      "name": "Sarah Millican Live at the Apollo",
+      "poster": "https://image.tmdb.org/t/p/w500/edIuJBZ3ZUNLl4XMNPwlOyvUF0V.jpg"
+    },
+    {
+      "id": "tt2202405",
+      "type": "movie",
+      "name": "Sarah Millican: Chatterbox Live",
+      "poster": "https://image.tmdb.org/t/p/w500/unOXygDMQx8HUIv7o8VHIAgjV6R.jpg",
+      "releaseInfo": "2011"
+    },
+    {
       "id": "tt3035404",
       "type": "movie",
       "name": "Sarah Millican: Thoroughly Modern Millican",
@@ -151,6 +185,20 @@
       "name": "Sarah Millican: Outsider",
       "poster": "https://image.tmdb.org/t/p/w500/mCJglZu1OkAfHWTU6fEDWLACsT0.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt26687384",
+      "type": "movie",
+      "name": "Sarah Millican: Bobby Dazzler",
+      "poster": "https://image.tmdb.org/t/p/w500/6tlWePMiUjYNcygs1h0gPJy9bcR.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39285140",
+      "type": "movie",
+      "name": "Sarah Millican: Late Bloomer",
+      "poster": "https://image.tmdb.org/t/p/w500/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt0422528",
@@ -230,6 +278,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "tt7693270",
+      "type": "movie",
+      "name": "Sean Lock: Keep It Light",
+      "poster": "https://image.tmdb.org/t/p/w500/bLbcUPBsAEtR0JUcCoKqPaoAHqU.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tmdb:798002",
       "type": "movie",
       "name": "Sean McLoughlin - Hail Mary",
@@ -251,102 +306,45 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tmdb:1732859",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Beyond the Punchline",
+      "poster": "https://image.tmdb.org/t/p/w500/UPuZ12moTQdujmavjsdASnHwgs.jpg"
+    },
+    {
+      "id": "tt2215489",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: What's Wrong with People?",
+      "poster": "https://image.tmdb.org/t/p/w500/cd7LpSJ8GOwaqxnRADV4VTqm1Dp.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4240704",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Aren't You Embarrassed?",
+      "poster": "https://image.tmdb.org/t/p/w500/3S0iITseGs572hEQzzXbKjphV69.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt9482786",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Stay Hungry",
+      "poster": "https://image.tmdb.org/t/p/w500/qxrHollpTX5QPMz7DZbeKvpwiba.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt23623660",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Is it Me?",
+      "poster": "https://image.tmdb.org/t/p/w500/fRzJ0KU6Lw3Ew7eJXLJAzlnRPXv.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt34253990",
       "type": "movie",
       "name": "Sebastian Maniscalco: It Ain't Right",
       "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt45326135",
-      "type": "movie",
-      "name": "Sergey Orlov. Pink Leopard",
-      "poster": "https://image.tmdb.org/t/p/w500/yBBhAZpPYqmcTpcLsZWvPtYXnxx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt11168100",
-      "type": "movie",
-      "name": "Seth Meyers: Lobby Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/cOkN2Mfw76HkZRvS3kQqDeTqhrf.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt33749189",
-      "type": "movie",
-      "name": "Seth Meyers: Dad Man Walking",
-      "poster": "https://image.tmdb.org/t/p/w500/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt15456166",
-      "type": "movie",
-      "name": "Shane Gillis: Live in Austin",
-      "poster": "https://image.tmdb.org/t/p/w500/hfp9MdtDSj8mVwCvEpWGtDLTE9W.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt28741830",
-      "type": "movie",
-      "name": "Shane Gillis: Beautiful Dogs",
-      "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39981243",
-      "type": "movie",
-      "name": "Shane Mauss: Trips: First Dose",
-      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt30394557",
-      "type": "movie",
-      "name": "Shane Torres: The Blue Eyed Mexican",
-      "poster": "https://image.tmdb.org/t/p/w500/lDVDWPpEMjtpkFmBjwUy8F2chgt.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:507975",
-      "type": "movie",
-      "name": "Shayne Smith: Prison for Wizards",
-      "poster": "https://image.tmdb.org/t/p/w500/52bJVYbch8PFmHLBy3FM9u20i7a.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:716121",
-      "type": "movie",
-      "name": "Shayne Smith: Tattoos Will Ruin Your Life",
-      "poster": "https://image.tmdb.org/t/p/w500/xHDrk019FKh4OhYSDBt5USgcFD7.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt11983388",
-      "type": "movie",
-      "name": "Shayne Smith: Alligator Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/sr409gBCUzVIXBxgfYU7antxOxI.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt33722086",
-      "type": "movie",
-      "name": "Shayne Smith: Banned From Karate",
-      "poster": "https://image.tmdb.org/t/p/w500/ve6JLR8lCpQGpt0Aq6XKDe5mTP9.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1616389",
-      "type": "movie",
-      "name": "Shayne Smith: Ghosts Are Real",
-      "poster": "https://image.tmdb.org/t/p/w500/hiO8azAHNhcpfstf1g5gq572x2N.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt36933778",
-      "type": "movie",
-      "name": "Sheng Wang: Purple",
-      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

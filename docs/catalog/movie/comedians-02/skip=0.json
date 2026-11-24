@@ -22,11 +22,32 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt5275780",
+      "type": "movie",
+      "name": "Cameron Esposito: Marriage Material",
+      "poster": "https://image.tmdb.org/t/p/w500/ljY0Uhgjj0fJILwJ8ZXdQhAFwrR.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt8557762",
+      "type": "movie",
+      "name": "Cameron Esposito: Rape Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/b71oGbE9xIFRrEnpmPPTihEMcm1.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt36303994",
       "type": "movie",
       "name": "Cameron Esposito: Four Pills",
       "poster": "https://image.tmdb.org/t/p/w500/rkArUY8cH8emmEcrQd9Vaps2ht7.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt40548551",
+      "type": "movie",
+      "name": "Cameron Esposito: Nine Months",
+      "poster": "https://image.tmdb.org/t/p/w500/lPyWhutl8EXzBHE9w9kZukcRRZq.jpg",
+      "releaseInfo": "2026"
     },
     {
       "id": "tmdb:1436689",
@@ -48,11 +69,39 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tt1703909",
+      "type": "movie",
+      "name": "3 Non Juans",
+      "poster": "https://image.tmdb.org/t/p/w500/z7XwaWTIAaX6w6lIutjI3QqSKWx.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1207643",
+      "type": "movie",
+      "name": "Carlos Mencia: The Best of 'Funny is Funny'",
+      "poster": "https://image.tmdb.org/t/p/w500/u8b3euHBkdemDPrZtoDMrUKgzNB.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1258128",
+      "type": "movie",
+      "name": "Carlos Mencia: Performance Enhanced",
+      "poster": "https://image.tmdb.org/t/p/w500/tfDjNyqXrA6IbSdzC7Bcic52KfJ.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "tt2129950",
       "type": "movie",
       "name": "Carlos Mencia: New Territory",
       "poster": "https://image.tmdb.org/t/p/w500/8fYP9wDNeVyVPgE0VFYGdxko1D6.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt30325859",
+      "type": "movie",
+      "name": "Carlos Mencia: Here I Am",
+      "poster": "https://image.tmdb.org/t/p/w500/28o6lNZhBQqaiM8XVTFHE3pjRpv.jpg",
+      "releaseInfo": "2023"
     },
     {
       "id": "tt30954529",
@@ -104,6 +153,12 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tt2225956",
+      "type": "movie",
+      "name": "CC:Stand-Up: The Bonnaroo Experience",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt2592910",
       "type": "movie",
       "name": "CM101MMXI Fundamentals",
@@ -123,6 +178,48 @@
       "name": "CMXXIV",
       "poster": "https://image.tmdb.org/t/p/w500/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6317936",
+      "type": "movie",
+      "name": "Chad Daniels: As Is",
+      "poster": "https://image.tmdb.org/t/p/w500/9mBc4hhYDZEZGzF4bA15jG0Jpm9.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt6910734",
+      "type": "movie",
+      "name": "I Need You to Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/g1g3vz7QhDQxKK4GxI7xoTM9FQw.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10025732",
+      "type": "movie",
+      "name": "Chad Daniels: Dad Chaniels",
+      "poster": "https://image.tmdb.org/t/p/w500/3MSlDnz78PKYWmpZ88mEkKEZBMu.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt30264613",
+      "type": "movie",
+      "name": "Chad Daniels: Twelfth Night",
+      "poster": "https://image.tmdb.org/t/p/w500/ps27U909e2RZzJbLfrOrkuSRQHz.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt30145214",
+      "type": "movie",
+      "name": "Chad Daniels: Mixed Reviews",
+      "poster": "https://image.tmdb.org/t/p/w500/vLdyhM0ltUNZGcwiDDM9IzLFiKJ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt32652865",
+      "type": "movie",
+      "name": "Chad Daniels: Empty Nester",
+      "poster": "https://image.tmdb.org/t/p/w500/rc3TIGW8zvOcbMz63oVyUEg6SiX.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "tmdb:1476883",
@@ -223,6 +320,20 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "tt29865781",
+      "type": "movie",
+      "name": "Chris D'Elia: Grow or Die",
+      "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1660803",
+      "type": "movie",
+      "name": "Chris D'Elia: The 'B Side' Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1xncn1SQ3EsMB5DypVlMm1nmKdA.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt3777254",
       "type": "movie",
       "name": "Chris Distefano: The Half Hour",
@@ -235,118 +346,6 @@
       "name": "Chris Distefano: Size 38 Waist",
       "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt19875708",
-      "type": "movie",
-      "name": "Chris Distefano: Speshy Weshy",
-      "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33517417",
-      "type": "movie",
-      "name": "Chris Distefano: It's Just Unfortunate",
-      "poster": "https://image.tmdb.org/t/p/w500/kG8loSHTu2mWefkF54O30Z8gXFB.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt14100856",
-      "type": "movie",
-      "name": "Chris Fairbanks - Rescue Cactus; A Stand-Up Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/5Jnz49fMkSHGqufV446nYAF21Ql.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt39765131",
-      "type": "movie",
-      "name": "Chris Fleming: Live at The Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/uFLfgsKrdGJGny3i2nZ5ECBn4ZS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt32323285",
-      "type": "movie",
-      "name": "Chris Grace: As Scarlett Johansson",
-      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1401447",
-      "type": "movie",
-      "name": "Chris Parker: Give Me One Good Reason Why I Shouldn't Throw My Phone Off This Bridge",
-      "poster": "https://image.tmdb.org/t/p/w500/9YReevJN3szF7Jqq2Wu9uEBHRiU.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1666675",
-      "type": "movie",
-      "name": "Chris Parker: Stop Being So Dramatic",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:510872",
-      "type": "movie",
-      "name": "Is That… Chris Ramsey?",
-      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1279401",
-      "type": "movie",
-      "name": "Chris Ramsey: Live from London",
-      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt31869794",
-      "type": "movie",
-      "name": "Chris Ramsey Live: All Growed Up",
-      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt23625326",
-      "type": "movie",
-      "name": "Chris Redd: Why Am I Like This?",
-      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt27515738",
-      "type": "movie",
-      "name": "Chris Robinson: Panning for Gold",
-      "poster": "https://image.tmdb.org/t/p/w500/lauXvkbZhtbOkz3gSNnAyiubnRo.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt0236102",
-      "type": "movie",
-      "name": "Chris Rock: Big Ass Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/MKBivBeYBdo0IHcW1iGJ9KF0lA.jpg",
-      "releaseInfo": "1994"
-    },
-    {
-      "id": "tt0200529",
-      "type": "movie",
-      "name": "Chris Rock: Bring the Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/iKBOkpJY53iCc5Ur3DjxVnlbd26.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0206636",
-      "type": "movie",
-      "name": "Chris Rock: Bigger & Blacker",
-      "poster": "https://image.tmdb.org/t/p/w500/b5T4xRePE7VckU5xAFZh6jUEgD0.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0405832",
-      "type": "movie",
-      "name": "Chris Rock: Never Scared",
-      "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
-      "releaseInfo": "2004"
     }
   ]
 }
