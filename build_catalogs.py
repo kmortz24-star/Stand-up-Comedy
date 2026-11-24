@@ -165,8 +165,9 @@ def exclude_low_rated_unknown(record: dict, config: dict, protected=None) -> boo
     """Hide weakly reviewed movie specials only for non-established performers.
 
     A rating is not a universal measure of comedy quality. This preference
-    requires at least five audience votes and leaves A/B comics, respected
-    underrated acts, TV shows, YouTube sets, and ensemble comedy events alone.
+    accepts sparse ratings only as a curation signal for unknown acts. A/B,
+    respected underrated comics, TV shows, YouTube and ensemble events remain.
+    A one-vote rating alone is never treated as reliable proof of bad comedy.
     The source database is always retained for a reversible reclassification.
     """
     if not config.get("alphabet_low_rated_only_established", False):
@@ -836,6 +837,8 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             "min_votes": int(config.get("alphabet_low_rating_min_votes", 5)),
             "rating_below": float(config.get("alphabet_low_rating_cutoff", 6.0)),
             "low_rated_movies_hidden": len(hidden),
+            "hidden_low_sample_1_to_4_votes": sum(1 for r in hidden if 1 <= int(r.get("vote_count") or 0) <= 4),
+            "hidden_5_plus_votes": sum(1 for r in hidden if int(r.get("vote_count") or 0) >= 5),
             "low_rated_established_movies_kept": len(kept),
             "reversible": True,
             "tv_series_untouched": True,

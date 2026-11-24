@@ -71,10 +71,30 @@
     "tt4853120": "Rick Gutierrez",
     "tmdb:529703": "Jerry Rocha",
     "tt0666146": "Bill Maher",
-    "tt0327036": "Martin Lawrence"
+    "tt0327036": "Martin Lawrence",
+    "tt1950332": "Russell Howard",
+    "tt31869794": "Chris Ramsey"
   },
   "tag_overrides": {
     "tt1869360": [
+      "event"
+    ],
+    "tt27180536": [
+      "event"
+    ],
+    "tt27515036": [
+      "event"
+    ],
+    "tt27756059": [
+      "event"
+    ],
+    "tt10613308": [
+      "event"
+    ],
+    "tt1725936": [
+      "event"
+    ],
+    "tt7657600": [
       "event"
     ]
   },
@@ -441,8 +461,8 @@
     "Zoltan Kaszas"
   ],
   "alphabet_low_rated_only_established": true,
-  "alphabet_low_rating_min_votes": 5,
-  "alphabet_low_rating_cutoff": 6.0,
+  "alphabet_low_rating_min_votes": 1,
+  "alphabet_low_rating_cutoff": 6.5,
   "quality_additional_established": [
     "Jackie Kashian",
     "Gad Elmaleh",
@@ -496,7 +516,95 @@
     "Biswa Kalyan Rath",
     "Rahul Subramanian",
     "Redouane Bougheraba",
-    "Hazel Brugger"
+    "Hazel Brugger",
+    "Adam Devine",
+    "Atsuko Okatsuka",
+    "Bryan Callen",
+    "Caleb Hearon",
+    "Catherine Cohen",
+    "Charlie Berens",
+    "Chris Fleming",
+    "Chris Hardwick",
+    "Chris Redd",
+    "Colin Jost",
+    "Dana Gould",
+    "Dave Hughes",
+    "Ed Byrne",
+    "Eddie Griffin",
+    "Ellen DeGeneres",
+    "Eric Andre",
+    "Fern Brady",
+    "Frank Skinner",
+    "Fred Armisen",
+    "Gallagher",
+    "Gary Gulman",
+    "Gilda Radner",
+    "Greg Fitzsimmons",
+    "Hannah Einbinder",
+    "Heather McDonald",
+    "Heather McMahan",
+    "Jack Whitehall",
+    "James Adomian",
+    "Jason Manford",
+    "Jena Friedman",
+    "Joe Gatto",
+    "John Cleese",
+    "Josh Widdicombe",
+    "Judd Apatow",
+    "Julia Sweeney",
+    "Kevin Nealon",
+    "Kevin Pollak",
+    "Kristen Schaal",
+    "Leslie Jones",
+    "Marlon Wayans",
+    "Micky Flanagan",
+    "Mike Vecchione",
+    "Nick Offerman",
+    "Nina Conti",
+    "Orny Adams",
+    "Paul Chowdhry",
+    "Paul Foot",
+    "Phil Wang",
+    "Ramy Youssef",
+    "Roseanne Barr",
+    "Ryan Hamilton",
+    "Simon Amstell",
+    "Simon Munnery",
+    "Tim Hawkins",
+    "W. Kamau Bell",
+    "Yvonne Orji",
+    "Zach Galifianakis",
+    "Andy Parsons",
+    "Bob Goldthwait",
+    "Tammy Pescatelli",
+    "Kurt Braunohler",
+    "Josh Gondelman",
+    "Kevin Ryan",
+    "Ivo Graham",
+    "Suzi Ruffell",
+    "Bob Hope",
+    "Tim Allen",
+    "Paula Poundstone",
+    "Russell Howard",
+    "Chris Ramsey",
+    "T.K. Kirkland",
+    "Kenny Sebastian",
+    "Chris Fairbanks",
+    "Rick Gutierrez",
+    "Rick Mercer",
+    "Olga Koch",
+    "Sofie Hagen",
+    "Stewart Francis",
+    "Lucy Beaumont",
+    "Chris Spencer",
+    "Melanie Bracewell",
+    "Jay Chandrasekhar",
+    "Kevin Heffernan",
+    "Pierre Novellie",
+    "Mike Cannon",
+    "Dwayne Perkins",
+    "Jay Jurden",
+    "Mike Tyson"
   ],
   "english_language_only": true,
   "exclude_multilingual_tv_shows": [
@@ -506,10 +614,28 @@
   "fan_favorites_size": 200,
   "non_standup_performers": [
     "Bruce Springsteen",
-    "Springsteen"
+    "Springsteen",
+    "Frank Zappa",
+    "Ray Kurzweil"
   ],
   "non_standup_titles": [
-    "Bo Burnham: The Inside Outtakes"
+    "Bo Burnham: The Inside Outtakes",
+    "Al Murray's Great British War Movies",
+    "Al Murray's Great British Spy Movies",
+    "Bob Newhart: Unbuttoned",
+    "Bob Newhart: A Legacy of Laughter",
+    "A Tribute to Sam Kinison",
+    "I Am Sam Kinison",
+    "Sam Kinison: Why Did We Laugh?",
+    "Frank Zappa: Does Humor Belong in Music?",
+    "To My Great Chagrin: The Unbelievable Story of Brother Theodore",
+    "Bill Hicks: It's Just a Ride",
+    "Eddie Murphy: One Night Only",
+    "Robin Williams: Comic Genius",
+    "George Carlin: 40 Years of Comedy",
+    "Kevin Hart & Chris Rock: Headliners Only",
+    "Ray Kurzweil: How to Live Forever",
+    "Kevin Hart's Guide to Black History"
   ],
   "ranking_excluded_titles": [
     "George Carlin: 40 Years of Comedy"
