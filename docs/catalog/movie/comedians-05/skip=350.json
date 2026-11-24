@@ -1,6 +1,137 @@
 {
   "metas": [
     {
+      "id": "tmdb:1226297",
+      "type": "movie",
+      "name": "Kā to ņem",
+      "poster": "https://image.tmdb.org/t/p/w500/vSIwn4wPZIXpZHXDkomg7w6P7IG.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1226295",
+      "type": "movie",
+      "name": "Plezīrs",
+      "poster": "https://image.tmdb.org/t/p/w500/uD5zlSGNGg6e0snlTAOcqprv2pF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1501227",
+      "type": "movie",
+      "name": "TAGAD. Rūdolfa Kugrēna solo izrāde",
+      "poster": "https://image.tmdb.org/t/p/w500/5zACxSUucFRZ5Iju7vvQEQ6mCVl.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1501302",
+      "type": "movie",
+      "name": "Turpinājums. Rūdolfa Kugrēna solo stand-up izrāde",
+      "poster": "https://image.tmdb.org/t/p/w500/nPqMpoLc2xtxfbs7WmWYXlvEUZ2.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1653386",
+      "type": "movie",
+      "name": "Rufat Agayev The Bad Rufat",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:81928",
+      "type": "movie",
+      "name": "Rufus Hound: Being Rude",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt1515900",
+      "type": "movie",
+      "name": "Rune Klan: Går large",
+      "poster": "https://image.tmdb.org/t/p/w500/gtle9Gum5RbdbRZT8HCJ6mwIHJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt2396624",
+      "type": "movie",
+      "name": "Rune Klan: Det Blå Show",
+      "poster": "https://image.tmdb.org/t/p/w500/yMPa3m5Nf7xhqtEiTjOFUoWC6HO.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tmdb:305629",
+      "type": "movie",
+      "name": "Rune Klan: Det stribede show",
+      "poster": "https://image.tmdb.org/t/p/w500/uYL2QCHTbqxeGhocml7RdZKubaC.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tmdb:486318",
+      "type": "movie",
+      "name": "Rune Klan: Barnløs",
+      "poster": "https://image.tmdb.org/t/p/w500/9Ea3jKdssEJyTr5cl4FPrW45Myh.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:869038",
+      "type": "movie",
+      "name": "Rune Klan: Håbefuld",
+      "poster": "https://image.tmdb.org/t/p/w500/9gfBiGdnFhzBc5oGrHqQAsm1gIS.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1163513",
+      "type": "movie",
+      "name": "Rune Klan: Tvivl",
+      "poster": "https://image.tmdb.org/t/p/w500/uhemnPMf0c3f1kj5xytm1whlvGU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1602582",
+      "type": "movie",
+      "name": "Rune Klan: Idiot",
+      "poster": "https://image.tmdb.org/t/p/w500/vQiI9n4Ex3v13CuyJHQee3Ak9VV.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:714396",
+      "type": "movie",
+      "name": "Ruslan Belyy: Stand-Up Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/hb4Q4aqgBmqhiwZfSjExesG5Mca.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt1300370",
+      "type": "movie",
+      "name": "Russell Brand: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/peajCTa6OossVInrRcx0nSxfkj.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1294207",
+      "type": "movie",
+      "name": "Russell Brand: Doing Life Live",
+      "poster": "https://image.tmdb.org/t/p/w500/5b6TYsGIXDyGNoEtd9PFmYG7hD0.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1692221",
+      "type": "movie",
+      "name": "Russell Brand: Scandalous",
+      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt3397430",
+      "type": "movie",
+      "name": "Russell Brand: Messiah Complex",
+      "poster": "https://image.tmdb.org/t/p/w500/3vvigE3kZ1bteqOnDCqYJreonzJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt9349942",
+      "type": "movie",
+      "name": "RUSSELL BRAND: RE:BIRTH",
+      "poster": "https://image.tmdb.org/t/p/w500/dypTjFImj7pomk0cldvLCYyYvv.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tmdb:1103103",
       "type": "movie",
       "name": "Russell Brand: Brandemic",
@@ -103,6 +234,15 @@
       "name": "Ryan Hamilton: This Just Hit Me",
       "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_XBrdMrbmz1c",
+      "type": "movie",
+      "name": "Ryan Long - Problem Solved  (FULL STANDUP SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/XBrdMrbmz1c/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/XBrdMrbmz1c/hqdefault.jpg",
+      "description": "Ryan Long · 60 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
     },
     {
       "id": "tt27439320",

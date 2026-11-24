@@ -7,9 +7,9 @@
     "priority_comedians_without_movie_records": 9,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 58,
-    "catalog_movie_records": 2662,
+    "catalog_movie_records": 2756,
     "tv_review_leads": 383,
-    "youtube_review_candidates": 124
+    "youtube_review_candidates": 188
   },
   "comedians": [
     {
@@ -505,7 +505,7 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 1,
       "independent_unmatched_works": [
         {
           "title": "Bicentennial Nigger",
@@ -984,16 +984,6 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
-      "name": "Martin Short",
-      "priority": "established",
-      "movie_special_records": 1,
-      "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
       "name": "Mitch Fatel",
       "priority": "established",
       "movie_special_records": 1,
@@ -1188,6 +1178,16 @@
       "priority": "established",
       "movie_special_records": 2,
       "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Martin Short",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 0,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,
@@ -2598,7 +2598,7 @@
       "priority": "select_underrated",
       "movie_special_records": 1,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 16,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"

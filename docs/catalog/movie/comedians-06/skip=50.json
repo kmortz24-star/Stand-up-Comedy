@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:798002",
+      "type": "movie",
+      "name": "Sean McLoughlin - Hail Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/4H0XoPy2v24xvOLcUVG5FVw9kr.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1178282",
+      "type": "movie",
+      "name": "Sean McLoughlin: So Be It",
+      "poster": "https://image.tmdb.org/t/p/w500/zESRfj2PDSsQz0O057TCiDYY9dw.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1810402",
+      "type": "movie",
+      "name": "Sean McLoughlin: White Elephant",
+      "poster": "https://image.tmdb.org/t/p/w500/muRFPdqdGwYz5OLmbNW9fNPGJ71.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt22061184",
+      "type": "movie",
+      "name": "Sean Patton: King Scorpio",
+      "poster": "https://image.tmdb.org/t/p/w500/1Qxc4UA7SChUt9TfCLA6zToGuxf.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt23939056",
       "type": "movie",
       "name": "Sean Patton: Number One",
@@ -75,6 +103,13 @@
       "name": "Seth Meyers: Dad Man Walking",
       "poster": "https://image.tmdb.org/t/p/w500/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "tt4003912",
+      "type": "movie",
+      "name": "Seth Rogen's Hilarity for Charity",
+      "poster": "https://image.tmdb.org/t/p/w500/agSrmfqtV7QNsoYsG2RypC1Zm1r.jpg",
+      "releaseInfo": "2014"
     },
     {
       "id": "tt8178116",
@@ -310,41 +345,6 @@
       "name": "Slava Komissarenko: Neat, Fresh and Clean",
       "poster": "https://image.tmdb.org/t/p/w500/c844EvV3tlhGfboL598AiYRKK2a.jpg",
       "releaseInfo": "2021"
-    },
-    {
-      "id": "tt20723742",
-      "type": "movie",
-      "name": "Snoop Dogg's F*cn Around Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt5886430",
-      "type": "movie",
-      "name": "Sofía Niño de Rivera: Exposed",
-      "poster": "https://image.tmdb.org/t/p/w500/wPQVMCrwB40D9bRwmGvoL7fmeFu.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt17377638",
-      "type": "movie",
-      "name": "Sofía Niño de Rivera: Lo Volvería a Hacer",
-      "poster": "https://image.tmdb.org/t/p/w500/n45icRqKEw8OMTwhDXYWMB6VH3o.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt26492186",
-      "type": "movie",
-      "name": "Laughing on the Inside",
-      "poster": "https://image.tmdb.org/t/p/w500/h2dPPPplxouiZKvkyOHZhhnwfKv.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:473596",
-      "type": "movie",
-      "name": "Sofie Hagen: Bubblewrap",
-      "poster": "https://image.tmdb.org/t/p/w500/vwxX3O3M0BkkPQAd8IffJOPwAHd.jpg",
-      "releaseInfo": "2016"
     }
   ]
 }

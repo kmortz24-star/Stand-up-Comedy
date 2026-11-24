@@ -1,6 +1,55 @@
 {
   "metas": [
     {
+      "id": "tmdb:1321037",
+      "type": "movie",
+      "name": "Sixty-nine",
+      "poster": "https://image.tmdb.org/t/p/w500/6ccSRefElqRLgPB6SJpUOFmIBnf.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1822763",
+      "type": "movie",
+      "name": "Sixty-eighties",
+      "poster": "https://image.tmdb.org/t/p/w500/6MrmIsBlUItA8xpPZ0gZ2vgg22f.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2538610",
+      "type": "movie",
+      "name": "Kyle Kinane: Whiskey Icarus",
+      "poster": "https://image.tmdb.org/t/p/w500/qBRE9n7PsChb7p5AvJUO0eqa0SK.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt21242916",
+      "type": "movie",
+      "name": "Kyle Kinane: Trampoline In A Ditch",
+      "poster": "https://image.tmdb.org/t/p/w500/ilJ1cHaio0upbr98vxckyFGaN63.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1388426",
+      "type": "movie",
+      "name": "Kyle Kinane: Live At The Well Comedy Club",
+      "poster": "https://image.tmdb.org/t/p/w500/you5q8lbOuHEzNHvdiETLlTPvhs.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1808123",
+      "type": "movie",
+      "name": "Kyle Kinane: Whidbey Island Center for the Arts",
+      "poster": "https://image.tmdb.org/t/p/w500/ApmTYNPGGOwn2gyElQZ43NMTpgI.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1810577",
+      "type": "movie",
+      "name": "Kyle Kinane: Vermont Comedy Club",
+      "poster": "https://image.tmdb.org/t/p/w500/tUtk2TWdMulSirw6miZEi0DT0vb.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt3219810",
       "type": "movie",
       "name": "Lahna Turner: I Wrote A Song About It",
@@ -257,6 +306,15 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "standupyt_GWdyTymm2Es",
+      "type": "movie",
+      "name": "Leonard Ouzts | Lil Sumn Sumn (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/GWdyTymm2Es/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/GWdyTymm2Es/hqdefault.jpg",
+      "description": "Leonard Ouzts · 45 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt2450366",
       "type": "movie",
       "name": "Leslie Jones: Problem Child",
@@ -290,61 +348,6 @@
       "name": "Lewis Black: Stark Raving Black",
       "poster": "https://image.tmdb.org/t/p/w500/gvznuG9TcntGbXnoATMQCE9g7C4.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt3091320",
-      "type": "movie",
-      "name": "Lewis Black: Old Yeller - Live at the Borgata",
-      "poster": "https://image.tmdb.org/t/p/w500/ztRbpovhJOj9VGBJ554tvNtl0hy.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4592602",
-      "type": "movie",
-      "name": "Lewis Black & Friends - A Night to Let Freedom Laugh (Live in Washington D.C.)",
-      "poster": "https://image.tmdb.org/t/p/w500/cXf10VZF8QLCriL3mQToSeC8HRP.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt27036683",
-      "type": "movie",
-      "name": "Lewis Black: Tragically, I Need You",
-      "poster": "https://image.tmdb.org/t/p/w500/jEJOElZRNrkHAd9T1sGVxczfRhd.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1243081",
-      "type": "movie",
-      "name": "Lewis Garnham: Hit A Pigeon With His Bike",
-      "poster": "https://image.tmdb.org/t/p/w500/r1VHbsH9GnwI3HXvS3TRKKU6jSf.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1430331",
-      "type": "movie",
-      "name": "Lewis Garnham: Choosing the Wrong Story to Tell",
-      "poster": "https://image.tmdb.org/t/p/w500/9QJQDhlP5BHDhEcMubq8RYR8HWt.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt8702506",
-      "type": "movie",
-      "name": "Lewis Spears: Death Threats Don't Scare Me",
-      "poster": "https://image.tmdb.org/t/p/w500/bwVsKxMMe5fJ316AxbvuCrBo7IY.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:1664002",
-      "type": "movie",
-      "name": "Liam Nelson - In Stitches: A Post-Op Comedy Special (How to Get Open Heart Surgery)",
-      "poster": "https://image.tmdb.org/t/p/w500/nASBbdi8IocWHtoU28yQ5JHH5lO.jpg"
-    },
-    {
-      "id": "tmdb:1608958",
-      "type": "movie",
-      "name": "Liam O’Connor: Nu som Komiker",
-      "poster": "https://image.tmdb.org/t/p/w500/cNUnJucjPDGzoqiAj9jPXTmiDap.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

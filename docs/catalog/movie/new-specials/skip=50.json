@@ -43,6 +43,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "tmdb:1737018",
+      "type": "movie",
+      "name": "Frank Skinner: 30 Years of Dirt",
+      "poster": "https://image.tmdb.org/t/p/w500/djY3csIKSyePfD3oLBp1lDPAptk.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt43701966",
       "type": "movie",
       "name": "Rory Scovel: Show Must Go On",
@@ -340,13 +347,6 @@
       "type": "movie",
       "name": "Wanda Sykes: Legacy",
       "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt38687274",
-      "type": "movie",
-      "name": "Lisa Ann Walter: It Was an Accident",
-      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
       "releaseInfo": "2026"
     }
   ]

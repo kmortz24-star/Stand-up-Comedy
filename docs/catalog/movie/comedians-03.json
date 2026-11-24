@@ -253,6 +253,13 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "tmdb:45462",
+      "type": "movie",
+      "name": "Hennes Bender - Live in der Stadt, die es nicht gibt.",
+      "poster": "https://image.tmdb.org/t/p/w500/hVR2nAGlYRb0zY4tw9FtTehmGrA.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "tt3742386",
       "type": "movie",
       "name": "Stand Up! A Comedian Backstage",
@@ -340,13 +347,6 @@
       "name": "Hugleikur Dagsson: Son of the Day",
       "poster": "https://image.tmdb.org/t/p/w500/5EADH96ks3Yj1V7FjUdqdEnpYQq.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1729014",
-      "type": "movie",
-      "name": "Hugo Sousa: Premissas",
-      "poster": "https://image.tmdb.org/t/p/w500/xEaCtZVmOx5GHylExXdFV7wEi6C.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

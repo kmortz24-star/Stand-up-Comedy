@@ -111,6 +111,13 @@
       "releaseInfo": "2009"
     },
     {
+      "id": "tmdb:446318",
+      "type": "movie",
+      "name": "Neil Patrick Harris: Circus Awesomeus",
+      "poster": "https://image.tmdb.org/t/p/w500/6UCrEcRiCxsC4XbQWc1CpIoa6nb.jpg",
+      "releaseInfo": "2016"
+    },
+    {
       "id": "tt32146333",
       "type": "movie",
       "name": "Group Therapy",
@@ -327,25 +334,20 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_YntBaJ8FiK0",
+      "type": "movie",
+      "name": "Nikki Glaser: Perfect - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/YntBaJ8FiK0/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/YntBaJ8FiK0/hqdefault.jpg",
+      "description": "Nikki Glaser · 41 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tmdb:487079",
       "type": "movie",
       "name": "Nikolaj Stokholm: Mit liv som Nikolaj Stokholm",
       "poster": "https://image.tmdb.org/t/p/w500/9wUi6aRvEQkPf0CXvLvxPyt31rV.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tmdb:746334",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Turen går til Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/8JhlyJ4BGRwJmdaI2mQBSOtkr7K.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1192057",
-      "type": "movie",
-      "name": "Nikolaj Stokholm: Jeg er stadig Nikolaj Stokholm",
-      "poster": "https://image.tmdb.org/t/p/w500/mTWRwoTxu9UcmM9zojlhXiKYjc8.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

@@ -1,11 +1,41 @@
 {
   "metas": [
     {
+      "id": "tmdb:1681678",
+      "type": "movie",
+      "name": "Andrew Ivimey - Let’s Go",
+      "poster": "https://image.tmdb.org/t/p/w500/c14r7LdBBCvMHwCjmcrE6VZyczt.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt5875632",
+      "type": "movie",
+      "name": "Andrew Santino: Homefield Advantage",
+      "poster": "https://image.tmdb.org/t/p/w500/jFvA7qkcgNyv54BPJHlVRLCt9Ul.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt24640480",
+      "type": "movie",
+      "name": "Cheeseburger",
+      "poster": "https://image.tmdb.org/t/p/w500/r4rzop9rUbmJ3C9Oqk7wO62STcL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt34381932",
       "type": "movie",
       "name": "Andrew Santino: White Noise",
       "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_UzAT_KfANSE",
+      "type": "movie",
+      "name": "Andrew Santino | Full Special: CHEESEBURGER (2023) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/UzAT_KfANSE/hqdefault.jpg",
+      "description": "Andrew Santino · 58 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tmdb:818650",
@@ -34,6 +64,15 @@
       "name": "Andrew Schulz: LIFE",
       "poster": "https://image.tmdb.org/t/p/w500/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_rCZkp023MdY",
+      "type": "movie",
+      "name": "Andrew Schulz - INFAMOUS (2022) FULL SPECIAL [YouTube]",
+      "poster": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/rCZkp023MdY/hqdefault.jpg",
+      "description": "Andrew Schulz · 59 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
     },
     {
       "id": "tt11983300",
@@ -181,6 +220,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_yScXksqeWlU",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes | Ugly Baby (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
+      "description": "Anjelah Johnson-Reyes · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:690074",
       "type": "movie",
       "name": "Anne Bakland: Hvorfor er det altid mig?",
@@ -305,47 +353,6 @@
       "name": "Arjen Lubach: LIVE",
       "poster": "https://image.tmdb.org/t/p/w500/lv4L12y3Fr4oOmjTCGWtxb0nRgO.jpg",
       "releaseInfo": "2019"
-    },
-    {
-      "id": "tt35227072",
-      "type": "movie",
-      "name": "Arjen Lubach: STRIJDER",
-      "poster": "https://image.tmdb.org/t/p/w500/kAKOh4JKq3aniYOdM7IOeIJMLfy.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36744239",
-      "type": "movie",
-      "name": "Arnez J: Not Gonna Stop",
-      "poster": "https://image.tmdb.org/t/p/w500/b4MfFig1m5o1dGkag86YWn9ajkr.jpg"
-    },
-    {
-      "id": "tt2631472",
-      "type": "movie",
-      "name": "Arnez J: Racially Motivated",
-      "poster": "https://image.tmdb.org/t/p/w500/sVuXC9CF8y2psLgkerzBB6Gh6tW.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt0432719",
-      "type": "movie",
-      "name": "Artie Lange: It's the Whiskey Talkin'",
-      "poster": "https://image.tmdb.org/t/p/w500/6CM9ltYaEr2Th4EDUcClqm84jzA.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1534394",
-      "type": "movie",
-      "name": "Artie Lange: Jack and Coke",
-      "poster": "https://image.tmdb.org/t/p/w500/sxn2PKBp98ku1kvZ6fZpoH6iILI.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt4139598",
-      "type": "movie",
-      "name": "Artie Lange: The Stench of Failure",
-      "poster": "https://image.tmdb.org/t/p/w500/gZcNXYWhtC1JXQxfiIZmQI4ln1k.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

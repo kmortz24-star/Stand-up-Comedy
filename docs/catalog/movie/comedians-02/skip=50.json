@@ -1,6 +1,50 @@
 {
   "metas": [
     {
+      "id": "tt3804556",
+      "type": "movie",
+      "name": "Chelsea Peretti: One of the Greats",
+      "poster": "https://image.tmdb.org/t/p/w500/ijpc2gcdK5xrBX8uMYefh2S5378.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt32809505",
+      "type": "movie",
+      "name": "Chirayu Mistry: Mistry Solved",
+      "poster": "https://image.tmdb.org/t/p/w500/u7j1dBhDIftyTa6gOMWg19DMsFT.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1805664",
+      "type": "movie",
+      "name": "Chloe Radcliffe: Eyes Down Here",
+      "poster": "https://image.tmdb.org/t/p/w500/iBSoaJnt1Bj3l8chbr6aH68uWNu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_DW44LzeGyiI",
+      "type": "movie",
+      "name": "EYES DOWN HERE - Chloe Radcliffe - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/DW44LzeGyiI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/DW44LzeGyiI/hqdefault.jpg",
+      "description": "Chloe Radcliffe · 46 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt3394592",
+      "type": "movie",
+      "name": "Chris D'Elia: White Male. Black Comic.",
+      "poster": "https://image.tmdb.org/t/p/w500/mEbLMGmnSKrKcLfXl3ohTTTLlX7.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt7068896",
+      "type": "movie",
+      "name": "Chris D'Elia: Man on Fire",
+      "poster": "https://image.tmdb.org/t/p/w500/fn0tN4xEv8rdfWLOe7gU0eoC94Q.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt11987296",
       "type": "movie",
       "name": "Chris D'Elia: No Pain",
@@ -20,6 +64,15 @@
       "name": "Chris D'Elia: The 'B Side' Special",
       "poster": "https://image.tmdb.org/t/p/w500/1xncn1SQ3EsMB5DypVlMm1nmKdA.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_TSi5zOfEaQE",
+      "type": "movie",
+      "name": "Chris D'Elia: Grow Or Die (STANDUP COMEDY SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/TSi5zOfEaQE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/TSi5zOfEaQE/hqdefault.jpg",
+      "description": "Chris D’Elia · 69 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt3777254",
@@ -77,6 +130,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_twIn9kcpOLM",
+      "type": "movie",
+      "name": "Chris Hardwick | The Middle Ages (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/twIn9kcpOLM/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/twIn9kcpOLM/hqdefault.jpg",
+      "description": "Chris Hardwick · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1285138",
       "type": "movie",
       "name": "Chris Martin: Above Ground Comedian",
@@ -130,6 +192,13 @@
       "name": "Is That… Chris Ramsey?",
       "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11152492",
+      "type": "movie",
+      "name": "Chris Ramsey: Approval Needed",
+      "poster": "https://image.tmdb.org/t/p/w500/gDCLDibxglt7CVDNCnyn9Hcs9F.jpg",
+      "releaseInfo": "2019"
     },
     {
       "id": "tmdb:1279401",
@@ -284,69 +353,6 @@
       "name": "Christopher Titus: Norman Rockwell is Bleeding",
       "poster": "https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg",
       "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1237372",
-      "type": "movie",
-      "name": "Christopher Titus: The 5th Annual End of the World Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/wcDBCpDjT1tSNv3T9HHX3LyHCMH.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1562283",
-      "type": "movie",
-      "name": "Christopher Titus: Love Is Evol",
-      "poster": "https://image.tmdb.org/t/p/w500/4POM8HMEFcwuM46lesI2zdLeBz.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt4816108",
-      "type": "movie",
-      "name": "Christopher Titus: Angry Pursuit of Happiness",
-      "poster": "https://image.tmdb.org/t/p/w500/kWz549syT8BjLJmdm2ztHwicE4m.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt8583190",
-      "type": "movie",
-      "name": "Christopher Titus: Amerigeddon",
-      "poster": "https://image.tmdb.org/t/p/w500/59VEdzHLyNkomUmN6GR5jUBCVfw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:829802",
-      "type": "movie",
-      "name": "Christopher Titus: Carrying Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/8uJo9rwJRatjxai5D9DcVrCgNbH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt30745097",
-      "type": "movie",
-      "name": "Claudia Oshry: Lean In",
-      "poster": "https://image.tmdb.org/t/p/w500/pV1ubTvaAjR6eLvXZ9WeOldR4wJ.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt13701918",
-      "type": "movie",
-      "name": "Cliff Cash: Half Way There",
-      "poster": "https://image.tmdb.org/t/p/w500/z3fiLVD0WlqDE3TRgGqMteJyWo7.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt33362443",
-      "type": "movie",
-      "name": "Cliff Cash: The Long Road",
-      "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt38949061",
-      "type": "movie",
-      "name": "Cliff Cash: Thoughts And Prayers",
-      "poster": "https://image.tmdb.org/t/p/w500/9o4DfCgAP1hYZVy6vSm1WrvapfR.jpg",
-      "releaseInfo": "2025"
     }
   ]
 }

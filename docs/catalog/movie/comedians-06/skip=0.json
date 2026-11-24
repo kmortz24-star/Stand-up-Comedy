@@ -78,6 +78,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_ijFQCbulaWs",
+      "type": "movie",
+      "name": "Sam Morril - \"You've Changed\" Full Special (2024) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/ijFQCbulaWs/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/ijFQCbulaWs/hqdefault.jpg",
+      "description": "Sam Morril · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1393220",
       "type": "movie",
       "name": "Sam Nicoresti: Wokeflake",
@@ -110,6 +119,13 @@
       "type": "movie",
       "name": "Samantha Hale: Only Happy When It's Raining Men",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tt28753242",
+      "type": "movie",
+      "name": "Samantha Hale: Horror Nerd",
+      "poster": "https://image.tmdb.org/t/p/w500/7yh5w5JhRk1zjSNKUoM5JGSHV0j.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt4507050",
@@ -325,25 +341,9 @@
       "releaseInfo": "2017"
     },
     {
-      "id": "tmdb:798002",
+      "id": "tmdb:1179940",
       "type": "movie",
-      "name": "Sean McLoughlin - Hail Mary",
-      "poster": "https://image.tmdb.org/t/p/w500/4H0XoPy2v24xvOLcUVG5FVw9kr.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1810402",
-      "type": "movie",
-      "name": "Sean McLoughlin: White Elephant",
-      "poster": "https://image.tmdb.org/t/p/w500/muRFPdqdGwYz5OLmbNW9fNPGJ71.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt22061184",
-      "type": "movie",
-      "name": "Sean Patton: King Scorpio",
-      "poster": "https://image.tmdb.org/t/p/w500/1Qxc4UA7SChUt9TfCLA6zToGuxf.jpg",
-      "releaseInfo": "2022"
+      "name": "Sean McLoughlin: I Will Prevail"
     }
   ]
 }

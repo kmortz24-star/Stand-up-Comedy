@@ -1,6 +1,62 @@
 {
   "metas": [
     {
+      "id": "tt11909328",
+      "type": "movie",
+      "name": "Bob the Drag Queen: Live at Caroline's",
+      "poster": "https://image.tmdb.org/t/p/w500/bvJ2GDdwl24YfgU6mo7cZWuu4zy.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt28092820",
+      "type": "movie",
+      "name": "Bob The Drag Queen: Woke Man in a Dress",
+      "poster": "https://image.tmdb.org/t/p/w500/vuAnUiZqJbKVra8Y6W1FM14xSvx.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39367866",
+      "type": "movie",
+      "name": "Bob the Drag Queen: This is Wild",
+      "poster": "https://image.tmdb.org/t/p/w500/iSaHdsv6M8X4HG9RyKrce7WE1ub.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1339628",
+      "type": "movie",
+      "name": "The Life of a Stand-up Comic",
+      "poster": "https://image.tmdb.org/t/p/w500/fjFggs7XVqfaBDqa7KKDna4Afko.jpg",
+      "releaseInfo": "1979"
+    },
+    {
+      "id": "tt2356999",
+      "type": "movie",
+      "name": "Bobcat Goldthwait: You Don't Look the Same Either",
+      "poster": "https://image.tmdb.org/t/p/w500/tI0uQJuJYXwrCKifw4lVWbhO7Ek.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tmdb:821738",
+      "type": "movie",
+      "name": "One Night Stand: Bonnie McFarlane",
+      "poster": "https://image.tmdb.org/t/p/w500/aj9tFWuv0OjDJv78W7BrPPiUTls.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tmdb:1318774",
+      "type": "movie",
+      "name": "Brad Howe: Live at the Legion",
+      "poster": "https://image.tmdb.org/t/p/w500/hvB8Jbj9L1mdtwfSp6Oq4FJDrJ6.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt34540455",
+      "type": "movie",
+      "name": "Brad Wenzel: joke. joke. joke.",
+      "poster": "https://image.tmdb.org/t/p/w500/kpcsK4T7c3tJAyACEvn4eCEXtYT.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1682794",
       "type": "movie",
       "name": "Brad Wenzel: Desperate Times",
@@ -33,6 +89,24 @@
       "type": "movie",
       "name": "Brad Williams: Live on Short Street",
       "poster": "https://image.tmdb.org/t/p/w500/xZRidUmyQQRtc63RlhzSTLfHFly.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_IXDA3HHcq5E",
+      "type": "movie",
+      "name": "BRAD WILLIAMS: LIVE ON SHORT STREET {Full Stand-Up Comedy Special} [YouTube]",
+      "poster": "https://i.ytimg.com/vi/IXDA3HHcq5E/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/IXDA3HHcq5E/hqdefault.jpg",
+      "description": "Brad Williams · 69 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_crnqRanrZtU",
+      "type": "movie",
+      "name": "Brendan Eyre | Alive and Well (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/crnqRanrZtU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/crnqRanrZtU/hqdefault.jpg",
+      "description": "Brendan Eyre · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2026"
     },
     {
@@ -151,6 +225,15 @@
       "name": "Brian Roe: That's My Vibe",
       "poster": "https://image.tmdb.org/t/p/w500/4JGazWTkh2mmG1Vy7A9U5EvYmvR.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_NqK1gyTYt8M",
+      "type": "movie",
+      "name": "Brian Simpson | Live From The Mothership (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/NqK1gyTYt8M/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/NqK1gyTYt8M/hqdefault.jpg",
+      "description": "Brian Simpson · 68 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt33063037",

@@ -1,11 +1,27 @@
 {
   "metas": [
     {
+      "id": "tmdb:1729014",
+      "type": "movie",
+      "name": "Hugo Sousa: Premissas",
+      "poster": "https://image.tmdb.org/t/p/w500/xEaCtZVmOx5GHylExXdFV7wEi6C.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt29282800",
       "type": "movie",
       "name": "Ian Abramson: The Heist",
       "poster": "https://image.tmdb.org/t/p/w500/gLD60X9k8savIbjPZIBX34ueFAM.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_EeBJ08jRtPo",
+      "type": "movie",
+      "name": "Ian Bagg | Live From Nashville (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/EeBJ08jRtPo/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/EeBJ08jRtPo/hqdefault.jpg",
+      "description": "Ian Bagg · 75 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt39240416",
@@ -14,11 +30,29 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "standupyt_q_4pEVD6Y3k",
+      "type": "movie",
+      "name": "Ian Edwards: Untitled | The Comedy Special You Didn't Know You Needed [YouTube]",
+      "poster": "https://i.ytimg.com/vi/q_4pEVD6Y3k/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/q_4pEVD6Y3k/hqdefault.jpg",
+      "description": "Ian Edwards · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt32175833",
       "type": "movie",
       "name": "Ian Fidance: Wild, Happy & Free",
       "poster": "https://image.tmdb.org/t/p/w500/exObFDcr86r5KtnsozV0ed70SCB.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_w0tNYGlIEFg",
+      "type": "movie",
+      "name": "Ian Fidance | Wild, Happy & Free (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/w0tNYGlIEFg/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/w0tNYGlIEFg/hqdefault.jpg",
+      "description": "Ian Fidance · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt2550782",
@@ -49,11 +83,32 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:712092",
+      "type": "movie",
+      "name": "Idrak Mirzalizade: 27 Minutes of Stand-Up",
+      "poster": "https://image.tmdb.org/t/p/w500/6aW0mxd39NyRzVRAECt6ijhJLBK.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt39848759",
+      "type": "movie",
+      "name": "Idrak Mirzalizade: The Second Solo Concert",
+      "poster": "https://image.tmdb.org/t/p/w500/hweueoIswIX6HwEYzBmEl5TjJql.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt39848796",
       "type": "movie",
       "name": "Idrak Mirzalizade: It’s Not My Idea",
       "poster": "https://image.tmdb.org/t/p/w500/8QvKDClyzW9kiMKXMNR5xj0yuS2.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1635059",
+      "type": "movie",
+      "name": "Idrak Mirzalizade: Concert at Lokal Club",
+      "poster": "https://image.tmdb.org/t/p/w500/3zkhq4rkoP5zJWrRG9czQToTinG.jpg",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt33209759",
@@ -297,55 +352,6 @@
       "name": "Jackie Kashian: Alter-Kashian",
       "poster": "https://image.tmdb.org/t/p/w500/2EDxIOQ9Tei383twWP2QMB5L5ZO.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1402310",
-      "type": "movie",
-      "name": "Cancer Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/zY3OTCmnkXIfMheOZjWjZsD0HlA.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:571043",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/3QkFVFyBGHCHmkaAhM0Y1qWNQ79.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt24240494",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Krøllehjern'",
-      "poster": "https://image.tmdb.org/t/p/w500/jFvZI262z1bqofNxUd12zfL4DLN.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1444970",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Standard",
-      "poster": "https://image.tmdb.org/t/p/w500/fI9IbHjniTKCt9lwpR0qr1iMbmv.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0860437",
-      "type": "movie",
-      "name": "Jacob Tingleff: Pyt med skjorten",
-      "poster": "https://image.tmdb.org/t/p/w500/qxzWbR4W5M61pE32BXPPLhE6aA.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tmdb:357063",
-      "type": "movie",
-      "name": "Jacob Tingleff: Ulige Uger",
-      "poster": "https://image.tmdb.org/t/p/w500/FcIm8u3TXxAEdaZ2knNlT1dbki.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt0236333",
-      "type": "movie",
-      "name": "Jake Johannsen: This'll Take About An Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/zUKBT9wSf1U6jwvlJdzx2dBHYgh.jpg",
-      "releaseInfo": "1992"
     }
   ]
 }

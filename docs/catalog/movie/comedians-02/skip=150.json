@@ -1,6 +1,96 @@
 {
   "metas": [
     {
+      "id": "tmdb:1138765",
+      "type": "movie",
+      "name": "Daniel Muggleton: 3 Stripes",
+      "poster": "https://image.tmdb.org/t/p/w500/dqADFYuuhsTdBVKAxDZM4p09Zmn.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1138771",
+      "type": "movie",
+      "name": "Daniel Muggleton: Leaving London",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1138789",
+      "type": "movie",
+      "name": "Daniel Muggleton: Unprecedented",
+      "poster": "https://image.tmdb.org/t/p/w500/uGoYOaK6DsYtWxxXlZyBapfKmCb.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1242049",
+      "type": "movie",
+      "name": "Daniel Muggleton: White & Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6787668",
+      "type": "movie",
+      "name": "Daniel Sloss Live",
+      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt11081044",
+      "type": "movie",
+      "name": "Daniel Sloss: X",
+      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11178728",
+      "type": "movie",
+      "name": "Daniel Sloss: Socio",
+      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt39115106",
+      "type": "movie",
+      "name": "Daniel Sloss: Can't",
+      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6502534",
+      "type": "movie",
+      "name": "Daniel Sosa: Sosafado",
+      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10438652",
+      "type": "movie",
+      "name": "Daniel Sosa: Maleducado",
+      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1341805",
+      "type": "movie",
+      "name": "Daniel Sosa: Especial de Reyes Magos",
+      "poster": "https://image.tmdb.org/t/p/w500/2l8X21dcpzY0yGIxSa8txuUsIzm.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1330285",
+      "type": "movie",
+      "name": "Ya no es lo mismo",
+      "poster": "https://image.tmdb.org/t/p/w500/xojtzGFFuZCTXrZjLSQr4eRhXmi.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:1336526",
+      "type": "movie",
+      "name": "Daniel Sosa: Especial de Día de Muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/mOPUEf5mimJBiuiKf7sO9Mxw0tM.jpg",
+      "releaseInfo": "2021"
+    },
+    {
       "id": "tmdb:1341801",
       "type": "movie",
       "name": "Daniel Sosa En Vivo Desde El Woko",
@@ -69,6 +159,39 @@
       "name": "Danila Poperechny: FUN/LIFE",
       "poster": "https://image.tmdb.org/t/p/w500/mWfjGuR4mBFqMEiUnzUTMFF87f0.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1178965",
+      "type": "movie",
+      "name": "Danny Bhoy - Live from Montreal"
+    },
+    {
+      "id": "tmdb:21116",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Sydney Opera House",
+      "poster": "https://image.tmdb.org/t/p/w500/3FfZyj3KkUicegyTIGzdWF7weeX.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt4145852",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Athenaeum",
+      "poster": "https://image.tmdb.org/t/p/w500/ti7u1FYF5P2jg2Nj2gTGF0jBq8w.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt3131034",
+      "type": "movie",
+      "name": "Danny Bhoy: Subject to Change",
+      "poster": "https://image.tmdb.org/t/p/w500/suh1dOVpdxruvEqD5JmHwWCuWOd.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt4154338",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Festival Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/11ewQ7pLtEV6mRKNmb9nnKc08uk.jpg",
+      "releaseInfo": "2012"
     },
     {
       "id": "tmdb:1401127",
@@ -220,131 +343,6 @@
       "type": "movie",
       "name": "Dave Chappelle: For What It's Worth",
       "poster": "https://image.tmdb.org/t/p/w500/udpZ1HTMNPS9fi4s6PNY2QLIJqf.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt6649108",
-      "type": "movie",
-      "name": "Dave Chappelle: Deep in the Heart of Texas",
-      "poster": "https://image.tmdb.org/t/p/w500/jaHuxnzJy616w4Muv2NxZgQ9fUu.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt6648926",
-      "type": "movie",
-      "name": "Dave Chappelle: The Age of Spin",
-      "poster": "https://image.tmdb.org/t/p/w500/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt7806998",
-      "type": "movie",
-      "name": "Dave Chappelle: Equanimity",
-      "poster": "https://image.tmdb.org/t/p/w500/4EaNffvPj5uTxRbFcmiTkor1lZW.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt7807000",
-      "type": "movie",
-      "name": "Dave Chappelle: The Bird Revelation",
-      "poster": "https://image.tmdb.org/t/p/w500/3dLJ4kSwnMGlHlR6AxwWqTsKJFs.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10810424",
-      "type": "movie",
-      "name": "Dave Chappelle: Sticks & Stones",
-      "poster": "https://image.tmdb.org/t/p/w500/onTLKNYvTQ7f86LQZEj6EAUmpjt.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt14831220",
-      "type": "movie",
-      "name": "Dave Chappelle: Redemption Song",
-      "poster": "https://image.tmdb.org/t/p/w500/jwTEb6fKPhWUqSeEGqdkCYJXVhe.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt15523010",
-      "type": "movie",
-      "name": "Dave Chappelle: The Closer",
-      "poster": "https://image.tmdb.org/t/p/w500/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt14727094",
-      "type": "movie",
-      "name": "Dave Chappelle: Live in Real Life",
-      "poster": "https://image.tmdb.org/t/p/w500/vN22EkZrDFr0KEPl3wUM9h5wfZl.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt21242930",
-      "type": "movie",
-      "name": "Dave Chappelle: What's in a Name?",
-      "poster": "https://image.tmdb.org/t/p/w500/cmLdl1JbP7FTEguUxIxAFXcwa5X.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt18278698",
-      "type": "movie",
-      "name": "Dave Chappelle: The Dreamer",
-      "poster": "https://image.tmdb.org/t/p/w500/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39227597",
-      "type": "movie",
-      "name": "Dave Chappelle: The Unstoppable...",
-      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt26343416",
-      "type": "movie",
-      "name": "Dave Hughes: Ridiculous",
-      "poster": "https://image.tmdb.org/t/p/w500/shaiTurHRJD2W3436loMM4dT3xX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt9130686",
-      "type": "movie",
-      "name": "Dave Merheje: Good Friend Bad Grammar",
-      "poster": "https://image.tmdb.org/t/p/w500/oUNRIzBYJGYi6EJ4kesQIGJ5kMD.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt4422544",
-      "type": "movie",
-      "name": "Gutbuster",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt38793681",
-      "type": "movie",
-      "name": "David Castello-Lopes : Authentique",
-      "poster": "https://image.tmdb.org/t/p/w500/dQQoP3sQNWt9chPNdCaDpI3Gfl6.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt1243458",
-      "type": "movie",
-      "name": "David Cross: HBO Comedy Half-Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/8UxhfEWEmmP9cqVi6kjIw1vdkfS.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0251656",
-      "type": "movie",
-      "name": "David Cross: The Pride Is Back",
-      "poster": "https://image.tmdb.org/t/p/w500/4wYi80NyKnh3mmgg17krlTmEKD5.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0437932",
-      "type": "movie",
-      "name": "Last Laugh '04",
-      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
       "releaseInfo": "2004"
     }
   ]

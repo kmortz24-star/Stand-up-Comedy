@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt38691301",
+      "type": "movie",
+      "name": "Kathleen Madigan: The Family Thread",
+      "poster": "https://image.tmdb.org/t/p/w500/qWl60NPtFnk4KqrA5U6JghPLpot.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38711469",
+      "type": "movie",
+      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
+      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1551576",
+      "type": "movie",
+      "name": "Liz Miele: Space Camp",
+      "poster": "https://image.tmdb.org/t/p/w500/wCFuEjuOLfWeeGXh89iGYrDv7rM.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt39160848",
       "type": "movie",
       "name": "Jonatan Unge solo",
@@ -252,6 +273,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1564529",
+      "type": "movie",
+      "name": "Snoop Dogg Live at AFL Grand Final 2025",
+      "poster": "https://image.tmdb.org/t/p/w500/1d5NVbBn2m4PV85i7CIUG1GnhJ2.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt38492794",
       "type": "movie",
       "name": "Eric Rushton: Real One",
@@ -263,6 +291,13 @@
       "type": "movie",
       "name": "Steve Hofstetter: Kill the Butterflies",
       "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt28753242",
+      "type": "movie",
+      "name": "Samantha Hale: Horror Nerd",
+      "poster": "https://image.tmdb.org/t/p/w500/7yh5w5JhRk1zjSNKUoM5JGSHV0j.jpg",
       "releaseInfo": "2025"
     },
     {
@@ -311,41 +346,6 @@
       "type": "movie",
       "name": "Caleb Hearon: Model Comedian",
       "poster": "https://image.tmdb.org/t/p/w500/y3eCMPnD7zx23YNplj1ArWcbrTJ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1743622",
-      "type": "movie",
-      "name": "Anisa Nandaula: You Can't Say That",
-      "poster": "https://image.tmdb.org/t/p/w500/stQPg127E0WR7Wme6B1JwutrpW3.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1547901",
-      "type": "movie",
-      "name": "I Am Now on Medication",
-      "poster": "https://image.tmdb.org/t/p/w500/3ixFboeCV4RYBezPYAzvVIjG1J2.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1715172",
-      "type": "movie",
-      "name": "Deirdre O'Kane: Demented",
-      "poster": "https://image.tmdb.org/t/p/w500/9cKxngmPkDLL7y27s4KpYnjDH1Y.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1179570",
-      "type": "movie",
-      "name": "Jim Davidson: Live and (Very Very) Risky",
-      "poster": "https://image.tmdb.org/t/p/w500/x23Iq5hlZlUUqpPpaHOVu3RAVYa.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37916276",
-      "type": "movie",
-      "name": "Larry the Cable Guy: It's a Gift",
-      "poster": "https://image.tmdb.org/t/p/w500/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
       "releaseInfo": "2025"
     }
   ]

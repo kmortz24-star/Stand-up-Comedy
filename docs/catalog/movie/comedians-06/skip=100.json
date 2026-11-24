@@ -1,6 +1,69 @@
 {
   "metas": [
     {
+      "id": "tmdb:1318502",
+      "type": "movie",
+      "name": "Snoop Dogg - Live at The Filmore Auditorium 2006",
+      "poster": "https://image.tmdb.org/t/p/w500/orFhHr3L2nMPbkEDbOjZ2VUr3PM.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tmdb:714699",
+      "type": "movie",
+      "name": "Snoop Dogg: Live at the Avalon",
+      "poster": "https://image.tmdb.org/t/p/w500/69mp6AY460bFHzsCFxc9ADiNqOF.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt20723742",
+      "type": "movie",
+      "name": "Snoop Dogg's F*cn Around Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1564529",
+      "type": "movie",
+      "name": "Snoop Dogg Live at AFL Grand Final 2025",
+      "poster": "https://image.tmdb.org/t/p/w500/1d5NVbBn2m4PV85i7CIUG1GnhJ2.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt5886430",
+      "type": "movie",
+      "name": "Sofía Niño de Rivera: Exposed",
+      "poster": "https://image.tmdb.org/t/p/w500/wPQVMCrwB40D9bRwmGvoL7fmeFu.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt17377638",
+      "type": "movie",
+      "name": "Sofía Niño de Rivera: Lo Volvería a Hacer",
+      "poster": "https://image.tmdb.org/t/p/w500/n45icRqKEw8OMTwhDXYWMB6VH3o.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt26492186",
+      "type": "movie",
+      "name": "Laughing on the Inside",
+      "poster": "https://image.tmdb.org/t/p/w500/h2dPPPplxouiZKvkyOHZhhnwfKv.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:473596",
+      "type": "movie",
+      "name": "Sofie Hagen: Bubblewrap",
+      "poster": "https://image.tmdb.org/t/p/w500/vwxX3O3M0BkkPQAd8IffJOPwAHd.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt7003972",
+      "type": "movie",
+      "name": "Sofie Hagen: Shimmer Shatter",
+      "poster": "https://image.tmdb.org/t/p/w500/uwA1UWhVEuzJaCDdMpdch1527K1.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tmdb:884900",
       "type": "movie",
       "name": "Sofie Hagen: The Bumswing",
@@ -175,6 +238,15 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "standupyt_CDhlx3jyQLE",
+      "type": "movie",
+      "name": "Still Trippin' | Steve Harvey Full Stand-Up Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/CDhlx3jyQLE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/CDhlx3jyQLE/hqdefault.jpg",
+      "description": "Steve Harvey · 70 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt5671762",
       "type": "movie",
       "name": "Steve Hofstetter: Ginger Kid",
@@ -278,76 +350,6 @@
       "name": "Steven Wright: When the Leaves Blow Away",
       "poster": "https://image.tmdb.org/t/p/w500/AmSFccXwy8tQIfibSkzIkl8DiCB.jpg",
       "releaseInfo": "2006"
-    },
-    {
-      "id": "tt7623988",
-      "type": "movie",
-      "name": "Stewart Francis: Pun Gent",
-      "poster": "https://image.tmdb.org/t/p/w500/c1nGRmUZZ9SRKoiRCaSWVt1xBJy.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt0497531",
-      "type": "movie",
-      "name": "Stewart Lee: Stand-Up Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/nes6a6TaWi1iGC9d2zVVaAAV2MR.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1410060",
-      "type": "movie",
-      "name": "Stewart Lee: 90s Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/nPTSZLhbSEkOgaCCkG79z9N73ZY.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1408088",
-      "type": "movie",
-      "name": "Stewart Lee: 41st Best Stand-Up Ever!",
-      "poster": "https://image.tmdb.org/t/p/w500/A5TqisO7a0tIXBh5ywonzheY9Ri.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tmdb:1711823",
-      "type": "movie",
-      "name": "Stewart Lee’s Comedy Vehicle",
-      "poster": "https://image.tmdb.org/t/p/w500/lhFRjdqx9tIYEfDAyrdhY2zctzQ.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1756754",
-      "type": "movie",
-      "name": "Stewart Lee: If You Prefer a Milder Comedian, Please Ask for One",
-      "poster": "https://image.tmdb.org/t/p/w500/dL0a3MYv6Umjxqclsuvjg9N2Os4.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2534670",
-      "type": "movie",
-      "name": "Stewart Lee: Carpet Remnant World",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQuJicmwNdkWbjTN8GkzgRqqmE.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt8665928",
-      "type": "movie",
-      "name": "Stewart Lee: Content Provider",
-      "poster": "https://image.tmdb.org/t/p/w500/rul5ssuf1u6k1erM6ZofQq8LYEB.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt22030350",
-      "type": "movie",
-      "name": "Stewart Lee: Tornado",
-      "poster": "https://image.tmdb.org/t/p/w500/dUrYyV08Dyk4xRz1hyFwfQb9fJr.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1479926",
-      "type": "movie",
-      "name": "Stewart Lee vs The Man-Wulf",
-      "poster": "https://image.tmdb.org/t/p/w500/wtmavNaI0fgtbuPPNwoQQVx0HLI.jpg",
-      "releaseInfo": "2024"
     }
   ]
 }

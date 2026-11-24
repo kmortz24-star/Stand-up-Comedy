@@ -1,6 +1,69 @@
 {
   "metas": [
     {
+      "id": "tt1237372",
+      "type": "movie",
+      "name": "Christopher Titus: The 5th Annual End of the World Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/wcDBCpDjT1tSNv3T9HHX3LyHCMH.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1562283",
+      "type": "movie",
+      "name": "Christopher Titus: Love Is Evol",
+      "poster": "https://image.tmdb.org/t/p/w500/4POM8HMEFcwuM46lesI2zdLeBz.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4816108",
+      "type": "movie",
+      "name": "Christopher Titus: Angry Pursuit of Happiness",
+      "poster": "https://image.tmdb.org/t/p/w500/kWz549syT8BjLJmdm2ztHwicE4m.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8583190",
+      "type": "movie",
+      "name": "Christopher Titus: Amerigeddon",
+      "poster": "https://image.tmdb.org/t/p/w500/59VEdzHLyNkomUmN6GR5jUBCVfw.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:829802",
+      "type": "movie",
+      "name": "Christopher Titus: Carrying Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/8uJo9rwJRatjxai5D9DcVrCgNbH.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt30745097",
+      "type": "movie",
+      "name": "Claudia Oshry: Lean In",
+      "poster": "https://image.tmdb.org/t/p/w500/pV1ubTvaAjR6eLvXZ9WeOldR4wJ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt13701918",
+      "type": "movie",
+      "name": "Cliff Cash: Half Way There",
+      "poster": "https://image.tmdb.org/t/p/w500/z3fiLVD0WlqDE3TRgGqMteJyWo7.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt33362443",
+      "type": "movie",
+      "name": "Cliff Cash: The Long Road",
+      "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt38949061",
+      "type": "movie",
+      "name": "Cliff Cash: Thoughts And Prayers",
+      "poster": "https://image.tmdb.org/t/p/w500/9o4DfCgAP1hYZVy6vSm1WrvapfR.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt39181904",
       "type": "movie",
       "name": "Cody Clarke: Marie",
@@ -19,6 +82,24 @@
       "name": "Colin Jost & Michael Che Present: New York After Dark",
       "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_FEnEutR31B4",
+      "type": "movie",
+      "name": "Colum Tyrrell: BELLS AND WHISTLES - FULL STAND UP COMEDY SPECIAL [YouTube]",
+      "poster": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
+      "description": "Colum Tyrrell · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_iiRrlRpLnD4",
+      "type": "movie",
+      "name": "Connor Burns | Gallus (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/iiRrlRpLnD4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/iiRrlRpLnD4/hqdefault.jpg",
+      "description": "Connor Burns · 61 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tmdb:1543968",
@@ -238,6 +319,24 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "standupyt_JoqvzOZcQZk",
+      "type": "movie",
+      "name": "DANE COOK - ABOVE IT ALL (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
+      "description": "Dane Cook · 57 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_iQLmVm7f5aI",
+      "type": "movie",
+      "name": "DANE COOK - TROUBLEMAKER (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt37446074",
       "type": "movie",
       "name": "It's Worth It by Dani Rovira",
@@ -250,96 +349,6 @@
       "name": "Daniel Kitson: Something",
       "poster": "https://image.tmdb.org/t/p/w500/dry6Ud3oi6sBFTs1hoF3ZLHJdiM.jpg",
       "releaseInfo": "2002"
-    },
-    {
-      "id": "tmdb:1138765",
-      "type": "movie",
-      "name": "Daniel Muggleton: 3 Stripes",
-      "poster": "https://image.tmdb.org/t/p/w500/dqADFYuuhsTdBVKAxDZM4p09Zmn.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1138771",
-      "type": "movie",
-      "name": "Daniel Muggleton: Leaving London",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1138789",
-      "type": "movie",
-      "name": "Daniel Muggleton: Unprecedented",
-      "poster": "https://image.tmdb.org/t/p/w500/uGoYOaK6DsYtWxxXlZyBapfKmCb.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1242049",
-      "type": "movie",
-      "name": "Daniel Muggleton: White & Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt6787668",
-      "type": "movie",
-      "name": "Daniel Sloss Live",
-      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt11081044",
-      "type": "movie",
-      "name": "Daniel Sloss: X",
-      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt11178728",
-      "type": "movie",
-      "name": "Daniel Sloss: Socio",
-      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt39115106",
-      "type": "movie",
-      "name": "Daniel Sloss: Can't",
-      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt6502534",
-      "type": "movie",
-      "name": "Daniel Sosa: Sosafado",
-      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10438652",
-      "type": "movie",
-      "name": "Daniel Sosa: Maleducado",
-      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:1341805",
-      "type": "movie",
-      "name": "Daniel Sosa: Especial de Reyes Magos",
-      "poster": "https://image.tmdb.org/t/p/w500/2l8X21dcpzY0yGIxSa8txuUsIzm.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1330285",
-      "type": "movie",
-      "name": "Ya no es lo mismo",
-      "poster": "https://image.tmdb.org/t/p/w500/xojtzGFFuZCTXrZjLSQr4eRhXmi.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1336526",
-      "type": "movie",
-      "name": "Daniel Sosa: Especial de Día de Muertos",
-      "poster": "https://image.tmdb.org/t/p/w500/mOPUEf5mimJBiuiKf7sO9Mxw0tM.jpg",
-      "releaseInfo": "2021"
     }
   ]
 }

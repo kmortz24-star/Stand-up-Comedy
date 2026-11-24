@@ -42,6 +42,20 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tt6774914",
+      "type": "movie",
+      "name": "Kanan Gill: Keep It Real",
+      "poster": "https://image.tmdb.org/t/p/w500/5HWnhTzS8SzQyJa4wbA78nlJegN.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt28335663",
+      "type": "movie",
+      "name": "Kanan Gill: Is This It?",
+      "poster": "https://image.tmdb.org/t/p/w500/joY777DGz4LM3WewbgHnctq3Wku.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1675151",
       "type": "movie",
       "name": "Kanan Gill : What Is This? (also Original)",
@@ -61,6 +75,13 @@
       "name": "Ashamed to Know You",
       "poster": "https://image.tmdb.org/t/p/w500/bfVlpPzP4ZsdmotK0Rf7dL6XakH.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "tt22050660",
+      "type": "movie",
+      "name": "Kate Berlant: Cinnamon in the Wind",
+      "poster": "https://image.tmdb.org/t/p/w500/ykApVWnRSBTFmgpQ0W6l2MhblwM.jpg",
+      "releaseInfo": "2022"
     },
     {
       "id": "tt46062767",
@@ -89,6 +110,15 @@
       "name": "Katherine Ryan: Missus",
       "poster": "https://image.tmdb.org/t/p/w500/8ez1YSP1ps2FT29Mbsi6y45H9ic.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "standupyt_EfJr5vLk56c",
+      "type": "movie",
+      "name": "Katherine Ryan | First Born Daughter (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/EfJr5vLk56c/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/EfJr5vLk56c/hqdefault.jpg",
+      "description": "Katherine Ryan · 65 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt0811608",
@@ -245,6 +275,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_jptIk1jaFsE",
+      "type": "movie",
+      "name": "Kerry Godliman | Bandwidth (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/jptIk1jaFsE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/jptIk1jaFsE/hqdefault.jpg",
+      "description": "Kerry Godliman · 66 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:706445",
       "type": "movie",
       "name": "Kev Adams - Live from Marseille",
@@ -312,41 +351,6 @@
       "name": "Kevin Hart: Let Me Explain",
       "poster": "https://image.tmdb.org/t/p/w500/lzYQkVuEN0zw2JvJsMUsOU47nb4.jpg",
       "releaseInfo": "2013"
-    },
-    {
-      "id": "tt9818218",
-      "type": "movie",
-      "name": "Kevin Hart: Live Comedy from the Laff House",
-      "poster": "https://image.tmdb.org/t/p/w500/x8k1u0VsWo4zPdnFc5CaOJsCIf0.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:839432",
-      "type": "movie",
-      "name": "Kevin Hart: \"What Now?\" All Access",
-      "poster": "https://image.tmdb.org/t/p/w500/94Qgm35Vo9FWY744OWQm1dfCAZv.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt4669186",
-      "type": "movie",
-      "name": "Kevin Hart: What Now?",
-      "poster": "https://image.tmdb.org/t/p/w500/lFg4tx0jAYkgrcm1bPBlM0FbQvH.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt6373518",
-      "type": "movie",
-      "name": "Kevin Hart's Guide to Black History",
-      "poster": "https://image.tmdb.org/t/p/w500/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt10009796",
-      "type": "movie",
-      "name": "Kevin Hart: Irresponsible",
-      "poster": "https://image.tmdb.org/t/p/w500/fpFsj2IQekSi9cjOlRyBiIoLBY4.jpg",
-      "releaseInfo": "2019"
     }
   ]
 }
