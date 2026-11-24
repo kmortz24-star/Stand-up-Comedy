@@ -170,3 +170,24 @@ until playback and matching are verified.
 
 The diagnostics in `data/discovery_state.json` report number of names searched,
 independent titles searched, and source-specific exact-title matches.
+
+### Priority comedian coverage audit
+
+The additional `coverage_priority` entries in `config.json` are **comedian
+names only**, not manually seeded specials or ID exceptions. Search priority is:
+
+1. Existing well-known, B-tier, and classic/legends groups plus recognizable
+   established performers missing from those groups.
+2. A deliberately small `select_underrated` list of recognized club/online
+   stand-ups worth extra attention.
+3. Other performers with evidence of a TV stand-up appearance and few records,
+   then the rest of the Wikidata/metadata roster over time.
+
+The Roulette groups and Nuvio catalog categories do not change. Each refresh
+runs `audit_coverage.py`, publishing `docs/coverage_report.json` with each
+priority comedian's number of standalone movie records, separately discovered
+TV and YouTube review leads, and unmatched independent metadata titles.
+A **zero** means the catalog is missing a matching movie record; it doesn't
+prove the comedian has no specials. A **nonzero** does not guarantee a complete
+filmography or working playback. The audit never inserts titles, and it never
+publishes unverified YouTube or TV sources to the movie catalogs.

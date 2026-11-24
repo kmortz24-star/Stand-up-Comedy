@@ -88,7 +88,8 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
     # generic comedian searches, including older TV specials.
     title_state = {'searched_titles': state.setdefault('youtube_searched_titles', {}),
                    'works': state.get('works', [])}
-    title_leads = title_search_queue(title_state, cache, today=today, limit=8)
+    title_leads = title_search_queue(title_state, cache, today=today, limit=8,
+                                     priority_performers=curated)
     # A query has its own performer/title label, used for later audit.
     general_checked = state.get('youtube_general_searched', '')
     general_due = (not general_checked or general_checked <=

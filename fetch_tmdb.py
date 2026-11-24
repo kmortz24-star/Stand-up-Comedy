@@ -165,11 +165,22 @@ def search_performer_credits(api: TMDB, performer: str) -> set[int]:
 
 
 def discovery_names(config: dict, state: dict, cache: dict) -> tuple[list[str], set[str]]:
-    curated = set(config.get("legends_comedians", [])) | set(config.get("viral_rising_comedians", []))
-    for values in config.get("roulette_groups", {}).values():
-        curated.update(values)
+    # Curate *comedians* for priority, never their special titles. Most search
+    # effort goes to established and recognizable B-tier acts. A small, reviewed
+    # underrated shortlist comes next. Viral/other unknown acts still enter the
+    # broad rotating pool, but do not crowd out the coverage audit.
+    priority = config.get("coverage_priority", {})
+    curated = set(config.get("legends_comedians", []))
+    roulette = config.get("roulette_groups", {})
+    for tier in ("well_known", "b_tier", "classic_older"):
+        curated.update(roulette.get(tier, []))
+    curated.update(priority.get("established_extra", []))
+    curated.update(priority.get("select_underrated", []))
+    broad = set(config.get("viral_rising_comedians", []))
+    for values in roulette.values():
+        broad.update(values)
     # Adds people known from existing TMDB metadata and the full Wikidata roster.
-    all_names = curated | {r["name"] for r in state.get("roster", []) if r.get("name")}
+    all_names = curated | broad | {r["name"] for r in state.get("roster", []) if r.get("name")}
     all_names |= {r["performer"] for r in cache.values() if r.get("performer")}
     # De-duplicate punctuation/case variants; ignore malformed cast names.
     unique = {}
@@ -197,7 +208,10 @@ def scheduled_names(names: list[str], curated: set[str], state: dict, cache: dic
         # Hash-spread names across the full alphabet instead of spending
         # the first several days on A/B/C before reaching M or R.
         spread = hashlib.sha256(norm(name).encode('utf-8')).hexdigest()
-        return previous, priority, spread
+        # Coverage priority takes precedence over an older search timestamp:
+        # otherwise hundreds of unknown names with old timestamps can crowd
+        # established performers out of the current batch indefinitely.
+        return priority, previous, spread
     # Only repeat a person's search after 45 days, unless there's no record.
     cutoff = (today - timedelta(days=45)).isoformat()
     due = [name for name in names if checked.get(norm(name), "") <= cutoff]
@@ -224,7 +238,8 @@ def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
     return result - known_ids
 
 
-def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 80) -> list[dict]:
+def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 80,
+                       priority_performers: set[str] | None = None) -> list[dict]:
     """Rotate title leads independently discovered in Wikidata.
 
     This is *not* a list of user-provided exceptions. Wikidata often lacks
@@ -254,7 +269,10 @@ def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 80
     due = [row for row in candidates.values() if last_checked(row) <= cutoff]
     # Prioritize new leads without existing IDs as well as known IDs; sorting
     # only ID-bearing works first kept no-ID classics stuck for many cycles.
-    due.sort(key=lambda row: (last_checked(row),
+    preferred = priority_performers or set()
+    due.sort(key=lambda row: (
+                              0 if norm(row.get('performer') or '') in preferred else 1,
+                              last_checked(row),
                               0 if not row["tmdb_id"] and not row["imdb_id"] else 1,
                               0 if row['performer'] else 1,
                               hashlib.sha256(row['source_id'].encode('utf-8')).hexdigest()))
@@ -397,7 +415,8 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
     ids.update(discover_work_ids(api, state, ids, today=today))
     # Search another rotating batch of *specific special titles*, including
     # Wikidata works absent from TMDB tags (never hand-entered exceptions).
-    title_leads = title_search_queue(state, cache, today=today, limit=80)
+    title_leads = title_search_queue(state, cache, today=today, limit=80,
+                                     priority_performers=curated)
     matched_leads = 0
     matched_by_source = {}
     for lead in title_leads:

@@ -561,7 +561,21 @@ def main():
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     args = parser.parse_args()
-    report = build(read_json(args.input, []), read_json(args.config), args.output)
+    records = read_json(args.input, [])
+    config = read_json(args.config)
+    report = build(records, config, args.output)
+    # GitHub already runs build_catalogs.py on every refresh. Produce a
+    # coverage report here so users never need to edit refresh.yml again.
+    if args.output.resolve() == DEFAULT_OUTPUT.resolve():
+        from audit_coverage import coverage_report
+        audit = coverage_report(config, records,
+                                read_json(ROOT / 'data/tv_episode_candidates.json', []),
+                                read_json(ROOT / 'data/youtube_candidates.json', []),
+                                read_json(ROOT / 'data/discovery_state.json', {}))
+        write_json(args.output / 'coverage_report.json', audit)
+        print(f"Priority coverage: {audit['summary']['priority_comedians_total']} comedians; "
+              f"{audit['summary']['priority_comedians_without_movie_records']} have no standalone movie record; "
+              f"{audit['summary']['unmatched_work_leads']} independent metadata leads need review")
     for label, count in report["counts"].items():
         print(f"{label}: {count}")
     print(f"Unassigned for review: {len(report['needs_review'])}")
