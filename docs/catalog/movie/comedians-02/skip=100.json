@@ -1,230 +1,11 @@
 {
   "metas": [
     {
-      "id": "tmdb:1420054",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - Ærlig talt",
-      "poster": "https://image.tmdb.org/t/p/w500/gtNFxYVhiGDRRc3zPfIzvuROOFq.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0414324",
-      "type": "movie",
-      "name": "Christopher Titus: Norman Rockwell is Bleeding",
-      "poster": "https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1237372",
-      "type": "movie",
-      "name": "Christopher Titus: The 5th Annual End of the World Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/wcDBCpDjT1tSNv3T9HHX3LyHCMH.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1562283",
-      "type": "movie",
-      "name": "Christopher Titus: Love Is Evol",
-      "poster": "https://image.tmdb.org/t/p/w500/4POM8HMEFcwuM46lesI2zdLeBz.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt4816108",
-      "type": "movie",
-      "name": "Christopher Titus: Angry Pursuit of Happiness",
-      "poster": "https://image.tmdb.org/t/p/w500/kWz549syT8BjLJmdm2ztHwicE4m.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt8583190",
-      "type": "movie",
-      "name": "Christopher Titus: Amerigeddon",
-      "poster": "https://image.tmdb.org/t/p/w500/59VEdzHLyNkomUmN6GR5jUBCVfw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:829802",
-      "type": "movie",
-      "name": "Christopher Titus: Carrying Monsters",
-      "poster": "https://image.tmdb.org/t/p/w500/8uJo9rwJRatjxai5D9DcVrCgNbH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt11668996",
-      "type": "movie",
-      "name": "Claudia Oshry: Disgraced Queen",
-      "poster": "https://image.tmdb.org/t/p/w500/1zWefCSxy6ypxNAVI3ouD7tYigP.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt30745097",
-      "type": "movie",
-      "name": "Claudia Oshry: Lean In",
-      "poster": "https://image.tmdb.org/t/p/w500/pV1ubTvaAjR6eLvXZ9WeOldR4wJ.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt13701918",
-      "type": "movie",
-      "name": "Cliff Cash: Half Way There",
-      "poster": "https://image.tmdb.org/t/p/w500/z3fiLVD0WlqDE3TRgGqMteJyWo7.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt33362443",
-      "type": "movie",
-      "name": "Cliff Cash: The Long Road",
-      "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt38949061",
-      "type": "movie",
-      "name": "Cliff Cash: Thoughts And Prayers",
-      "poster": "https://image.tmdb.org/t/p/w500/9o4DfCgAP1hYZVy6vSm1WrvapfR.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39181904",
-      "type": "movie",
-      "name": "Cody Clarke: Marie",
-      "poster": "https://image.tmdb.org/t/p/w500/9tUSHm0kQtlEcmB3RsK0bxTTRqf.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1705530",
-      "type": "movie",
-      "name": "Cojo Feliz: Última Vida",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33319975",
-      "type": "movie",
-      "name": "Colin Jost & Michael Che Present: New York After Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "standupyt_FEnEutR31B4",
-      "type": "movie",
-      "name": "Colum Tyrrell: BELLS AND WHISTLES - FULL STAND UP COMEDY SPECIAL [YouTube]",
-      "poster": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
-      "description": "Colum Tyrrell · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1052293",
-      "type": "movie",
-      "name": "Count Arthur Strong: And This Is Me!",
-      "poster": "https://image.tmdb.org/t/p/w500/dqqAfEzjhTzU0Cg15eXhZenceUn.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1543968",
-      "type": "movie",
-      "name": "Count Arthur Strong: And It's Goodnight from Him!",
-      "poster": "https://image.tmdb.org/t/p/w500/5w4PcPNTLZawXDJiMByz9uKciND.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1395034",
-      "type": "movie",
-      "name": "Craig Ferguson: A Wee Bit o' Revolution",
-      "poster": "https://image.tmdb.org/t/p/w500/r3TbM1Hv41Z1Zc9SM39P78v2re.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1831617",
-      "type": "movie",
-      "name": "Craig Ferguson: Does This Need to Be Said?",
-      "poster": "https://image.tmdb.org/t/p/w500/ktUmYKCHI0fsk4zryIvtgGFlHw.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2523852",
-      "type": "movie",
-      "name": "Craig Ferguson: I'm Here to Help",
-      "poster": "https://image.tmdb.org/t/p/w500/6ui1V6EIWnNOqlPJVDjmdX1DyDL.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4512444",
-      "type": "movie",
-      "name": "Craig Ferguson: Just Being Honest",
-      "poster": "https://image.tmdb.org/t/p/w500/9wEciLZHon4H8ddufXlqqiDkfPs.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt35320799",
-      "type": "movie",
-      "name": "Craig Ferguson: I'm So Happy",
-      "poster": "https://image.tmdb.org/t/p/w500/goMFZsqjAQYrI7xCXBF9zJPsiB5.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:320583",
-      "type": "movie",
-      "name": "Craig Shoemaker: Live: That's a True Story!",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1197325",
-      "type": "movie",
-      "name": "Craig Shoemaker: The Lovemaster... Unzipped",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt2515486",
-      "type": "movie",
-      "name": "Craig Shoemaker: Daditude",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt6550456",
-      "type": "movie",
-      "name": "Cristela Alonzo: Lower Classy",
-      "poster": "https://image.tmdb.org/t/p/w500/kO4eHzOj2745z5I3MEIXsegVFDf.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt18312376",
-      "type": "movie",
-      "name": "Cristela Alonzo: Middle Classy",
-      "poster": "https://image.tmdb.org/t/p/w500/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt37966885",
       "type": "movie",
       "name": "Cristela Alonzo: Upper Classy",
       "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1177746",
-      "type": "movie",
-      "name": "Curtis Walker - NextUp Special"
-    },
-    {
-      "id": "tmdb:1372085",
-      "type": "movie",
-      "name": "Damien Power - Alone In The Crowd",
-      "poster": "https://image.tmdb.org/t/p/w500/jbvKsijkkXp3WFhcgH83qZzcWIq.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1269168",
-      "type": "movie",
-      "name": "Damien Power at The Scottish Prince",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1405216",
-      "type": "movie",
-      "name": "Damien Power: Not So Funny Now Is It?",
-      "poster": "https://image.tmdb.org/t/p/w500/dRpGk05Iyxjk2nfN7lCTDFz0Etf.jpg",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt0331981",
@@ -239,26 +20,6 @@
       "name": "Damon Wayans: Still Standing",
       "poster": "https://image.tmdb.org/t/p/w500/jyBBM9wa3MAkoo0omPZSrASSjrD.jpg",
       "releaseInfo": "1997"
-    },
-    {
-      "id": "tmdb:1199723",
-      "type": "movie",
-      "name": "Dan Andersen: Holder 100",
-      "poster": "https://image.tmdb.org/t/p/w500/8nWPfsUwXxhAwpko0E1qas9djyT.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tmdb:630528",
-      "type": "movie",
-      "name": "Dan Andersen: På vippen",
-      "poster": "https://image.tmdb.org/t/p/w500/xXuXQQnCKdZt5LTLdMF8zCqYZ1c.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tmdb:809818",
-      "type": "movie",
-      "name": "Dan Antopolski's Penetrating Gaze",
-      "releaseInfo": "2010"
     },
     {
       "id": "tt5737882",
@@ -345,6 +106,249 @@
       "background": "https://i.ytimg.com/vi/JoqvzOZcQZk/hqdefault.jpg",
       "description": "Dane Cook · 57 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_iQLmVm7f5aI",
+      "type": "movie",
+      "name": "DANE COOK - TROUBLEMAKER (FULL SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/iQLmVm7f5aI/hqdefault.jpg",
+      "description": "Dane Cook · 78 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt37446074",
+      "type": "movie",
+      "name": "It's Worth It by Dani Rovira",
+      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1578089",
+      "type": "movie",
+      "name": "Daniel Kitson: Something",
+      "poster": "https://image.tmdb.org/t/p/w500/dry6Ud3oi6sBFTs1hoF3ZLHJdiM.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt9833154",
+      "type": "movie",
+      "name": "Daniel Muggleton: Let's Never Hang Out",
+      "poster": "https://image.tmdb.org/t/p/w500/dY1dSnqAn7oH7QkKhLDFpGRBMGw.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1242049",
+      "type": "movie",
+      "name": "Daniel Muggleton: White & Wrong",
+      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6787668",
+      "type": "movie",
+      "name": "Daniel Sloss Live",
+      "poster": "https://image.tmdb.org/t/p/w500/iB3hfLTAHLcgVcrZNH20iKnphVj.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt11081044",
+      "type": "movie",
+      "name": "Daniel Sloss: X",
+      "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11178728",
+      "type": "movie",
+      "name": "Daniel Sloss: Socio",
+      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt39115106",
+      "type": "movie",
+      "name": "Daniel Sloss: Can't",
+      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6502534",
+      "type": "movie",
+      "name": "Daniel Sosa: Sosafado",
+      "poster": "https://image.tmdb.org/t/p/w500/c2WvuDjLuRqyUv709H9H0AUHFfg.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10438652",
+      "type": "movie",
+      "name": "Daniel Sosa: Maleducado",
+      "poster": "https://image.tmdb.org/t/p/w500/21utT8MgNgXVHcjktlfWWBhW85X.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1329616",
+      "type": "movie",
+      "name": "Ya me quiero ir a mi casa",
+      "poster": "https://image.tmdb.org/t/p/w500/qFPDrFeIhQfKmGAgJt4EVCVwL0t.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1054478",
+      "type": "movie",
+      "name": "Daniel Tosh: Completely Serious",
+      "poster": "https://image.tmdb.org/t/p/w500/mD1uqbeD8dQcqFOyFZiXGyGhLmr.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1853533",
+      "type": "movie",
+      "name": "Daniel Tosh: Happy Thoughts",
+      "poster": "https://image.tmdb.org/t/p/w500/5yJ0UHbkzcHe2wGNZKqgkeY3RAs.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt5652620",
+      "type": "movie",
+      "name": "Daniel Tosh: People Pleaser",
+      "poster": "https://image.tmdb.org/t/p/w500/6vPICnl59SdMjcM3bEudLFZ3K3X.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:508875",
+      "type": "movie",
+      "name": "Danielle Ward: Seventeen",
+      "poster": "https://image.tmdb.org/t/p/w500/27MsRmqLGNmc99xbcmuDQD8uCmT.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt39316681",
+      "type": "movie",
+      "name": "Danila Poperechny: D_CK",
+      "poster": "https://image.tmdb.org/t/p/w500/bfmVamwbzi72JWCM4uWuAzI2JCm.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt27562244",
+      "type": "movie",
+      "name": "Danila Poperechny: FUN/LIFE",
+      "poster": "https://image.tmdb.org/t/p/w500/mWfjGuR4mBFqMEiUnzUTMFF87f0.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1178965",
+      "type": "movie",
+      "name": "Danny Bhoy - Live from Montreal"
+    },
+    {
+      "id": "tmdb:21116",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Sydney Opera House",
+      "poster": "https://image.tmdb.org/t/p/w500/3FfZyj3KkUicegyTIGzdWF7weeX.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt4145852",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Athenaeum",
+      "poster": "https://image.tmdb.org/t/p/w500/ti7u1FYF5P2jg2Nj2gTGF0jBq8w.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt3131034",
+      "type": "movie",
+      "name": "Danny Bhoy: Subject to Change",
+      "poster": "https://image.tmdb.org/t/p/w500/suh1dOVpdxruvEqD5JmHwWCuWOd.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt4154338",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Festival Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/11ewQ7pLtEV6mRKNmb9nnKc08uk.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tmdb:1401127",
+      "type": "movie",
+      "name": "Danny Bhoy: Mr Priority",
+      "poster": "https://image.tmdb.org/t/p/w500/nZ6KsHau6eng8wyNmC09DNDQjJq.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1558737",
+      "type": "movie",
+      "name": "Le gala du Do You Comedy de Saint-Tropez",
+      "poster": "https://image.tmdb.org/t/p/w500/cQj4Mbn631GpFL0czaIROaTOg9.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0930053",
+      "type": "movie",
+      "name": "Dara Ó Briain: Live at the Theatre Royal",
+      "poster": "https://image.tmdb.org/t/p/w500/9scgKwqsiquU74Hu38x8HzXZoSX.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1368982",
+      "type": "movie",
+      "name": "Dara Ó Briain: Talks Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/2V0xtCYYXafC5lvIKMfvw3unZ9R.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1781798",
+      "type": "movie",
+      "name": "Dara Ó Briain: This Is the Show",
+      "poster": "https://image.tmdb.org/t/p/w500/jxehydhr3lz5lP7DMU0kVkxQGun.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2529272",
+      "type": "movie",
+      "name": "Dara Ó Briain: Craic Dealer - Live 2012",
+      "poster": "https://image.tmdb.org/t/p/w500/1UzxJCMjszMfGN8bj6r5xGgBZO5.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt5269374",
+      "type": "movie",
+      "name": "Dara Ó Briain: Crowd Tickler",
+      "poster": "https://image.tmdb.org/t/p/w500/p45jQ4Lxqe9ASprTn6t7ajfadMj.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt14397214",
+      "type": "movie",
+      "name": "Dara Ó Briain: Voice of Reason",
+      "poster": "https://image.tmdb.org/t/p/w500/n5m3QN2LFwJfLfdoIuAEl1ptVTu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11443254",
+      "type": "movie",
+      "name": "Dave Allen Live ...On Life",
+      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0777178",
+      "type": "movie",
+      "name": "1995 Young Comedians Special",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt1243457",
+      "type": "movie",
+      "name": "Dave Attell - HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0407679",
+      "type": "movie",
+      "name": "Comedy Central Presents: Dave Attell",
+      "releaseInfo": "1999"
     }
   ]
 }

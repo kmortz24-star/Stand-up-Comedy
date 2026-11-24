@@ -1,315 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0803762",
-      "type": "movie",
-      "name": "Jack Dee Live Again",
-      "poster": "https://image.tmdb.org/t/p/w500/cHGF0XS9gWW0HPGyB23btUl3mGg.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1457726",
-      "type": "movie",
-      "name": "Huge",
-      "poster": "https://image.tmdb.org/t/p/w500/32xlb04mqvZiJFdmemnrXwGguyg.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:1583110",
-      "type": "movie",
-      "name": "Jack Dee: Small World",
-      "poster": "https://image.tmdb.org/t/p/w500/2im9uopWrUBEWOiTXkYhaOyPEHs.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1178170",
-      "type": "movie",
-      "name": "Jack Tucker: Comedy Standup Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/mp5TH60mbh2oDolaHsQsRUEsOt5.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt42057132",
-      "type": "movie",
-      "name": "Jack Tucker: Comedy Standup Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt2636592",
-      "type": "movie",
-      "name": "Jack Whitehall: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/yBUyTWSjC0ixlGqYhjN72Fn3Hjn.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt7452682",
-      "type": "movie",
-      "name": "Jack Whitehall: Gets Around",
-      "poster": "https://image.tmdb.org/t/p/w500/l2DRZDqBFGAdSucJRrAsV4dFXfd.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt7539884",
-      "type": "movie",
-      "name": "Jack Whitehall: At Large",
-      "poster": "https://image.tmdb.org/t/p/w500/AogLjcJoA8Jw11uLuQ62qyKkHZb.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt39466712",
-      "type": "movie",
-      "name": "Jackie Fabulous: You Can Leave",
-      "poster": "https://image.tmdb.org/t/p/w500/pn2IQxVNbTmEjEp12Ia3ErycRv6.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt6317942",
-      "type": "movie",
-      "name": "Jackie Kashian: This Will Make An Excellent Horcrux",
-      "poster": "https://image.tmdb.org/t/p/w500/e7Zw0wkFFg7xMjpqK1d4jkziNPF.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:930088",
-      "type": "movie",
-      "name": "Jackie Kashian: Stay Kashian",
-      "poster": "https://image.tmdb.org/t/p/w500/zWVGUmQnZdLqfRO9BzKzkkzIK5i.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1646800",
-      "type": "movie",
-      "name": "Jackie Kashian: Alter-Kashian",
-      "poster": "https://image.tmdb.org/t/p/w500/2EDxIOQ9Tei383twWP2QMB5L5ZO.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1402310",
-      "type": "movie",
-      "name": "Cancer Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/zY3OTCmnkXIfMheOZjWjZsD0HlA.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:571043",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/3QkFVFyBGHCHmkaAhM0Y1qWNQ79.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt24240494",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Krøllehjern'",
-      "poster": "https://image.tmdb.org/t/p/w500/jFvZI262z1bqofNxUd12zfL4DLN.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1444970",
-      "type": "movie",
-      "name": "Jacob Taarnhøj: Standard",
-      "poster": "https://image.tmdb.org/t/p/w500/fI9IbHjniTKCt9lwpR0qr1iMbmv.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0860437",
-      "type": "movie",
-      "name": "Jacob Tingleff: Pyt med skjorten",
-      "poster": "https://image.tmdb.org/t/p/w500/qxzWbR4W5M61pE32BXPPLhE6aA.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1833117",
-      "type": "movie",
-      "name": "Jacob Tingleff - Tingleff, Tingleff eller Tingleff",
-      "poster": "https://image.tmdb.org/t/p/w500/2Bah74C15wnd9OGATJRBYWfJxD7.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tmdb:357063",
-      "type": "movie",
-      "name": "Jacob Tingleff: Ulige Uger",
-      "poster": "https://image.tmdb.org/t/p/w500/FcIm8u3TXxAEdaZ2knNlT1dbki.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt0236333",
-      "type": "movie",
-      "name": "Jake Johannsen: This'll Take About An Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/zUKBT9wSf1U6jwvlJdzx2dBHYgh.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt1566355",
-      "type": "movie",
-      "name": "Jake Johannsen: I Love You",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt38744571",
-      "type": "movie",
-      "name": "jake schick: something",
-      "poster": "https://image.tmdb.org/t/p/w500/gj9mJAD99W3WzzkOwUiuJVFeXx8.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:986289",
-      "type": "movie",
-      "name": "Jakob Thrane: Hurtig",
-      "poster": "https://image.tmdb.org/t/p/w500/7XBMat1X5CON1UOIR7I6f0zMTHc.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1462772",
-      "type": "movie",
-      "name": "Jakob Thrane: SART",
-      "poster": "https://image.tmdb.org/t/p/w500/74TFvq2JDM3KaV9YeYzRmcRJv67.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1222861",
-      "type": "movie",
-      "name": "Jamel Show",
-      "poster": "https://image.tmdb.org/t/p/w500/sqEiWiA6Pv3TntlX9cMakzlp22Y.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt7618050",
-      "type": "movie",
-      "name": "Marrakech du rire",
-      "poster": "https://image.tmdb.org/t/p/w500/2Oy7ITA1lK4B0JpjRGU76jElITf.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt13446472",
-      "type": "movie",
-      "name": "James Acaster: Cold Lasagne Hate Myself 1999",
-      "poster": "https://image.tmdb.org/t/p/w500/dzRahuPe6GlM9gKtRUQ33oCsjgH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt28075825",
-      "type": "movie",
-      "name": "James Acaster: Make a New Tomorrow",
-      "poster": "https://image.tmdb.org/t/p/w500/1jywt1jYTU77jjP1lhj2w8E2jQi.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt34581142",
-      "type": "movie",
-      "name": "James Acaster: Hecklers Welcome",
-      "poster": "https://image.tmdb.org/t/p/w500/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt40444868",
-      "type": "movie",
-      "name": "James Acaster: Cinemagoers Welcome",
-      "poster": "https://image.tmdb.org/t/p/w500/hS1uG8IIIH2HoMI9zp4gGbGZydD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt33338916",
-      "type": "movie",
-      "name": "James Adomian - Path of Most Resistance",
-      "poster": "https://image.tmdb.org/t/p/w500/oXtKLTeeusEUHaeW1ZCUVAE4B1j.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "standupyt_U1gXsnGDIiA",
-      "type": "movie",
-      "name": "James Austin Johnson | He'll Yeah (Full Comedy Special) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/U1gXsnGDIiA/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/U1gXsnGDIiA/hqdefault.jpg",
-      "description": "James Austin Johnson · 56 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39221898",
-      "type": "movie",
-      "name": "James Donald Forbes McCann: Black Israelite",
-      "poster": "https://image.tmdb.org/t/p/w500/cOUgiHZSGGVobGj903NKiB95UPi.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0445475",
-      "type": "movie",
-      "name": "Jamie Foxx: Straight from the Foxxhole",
-      "poster": "https://image.tmdb.org/t/p/w500/2qU9frn7IE3WDYhlvuJwMaffOT3.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt0330472",
-      "type": "movie",
-      "name": "Jamie Foxx: I Might Need Security",
-      "poster": "https://image.tmdb.org/t/p/w500/jNHx80ukOZ9z9gix6P7TQLJSGFt.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt1315713",
-      "type": "movie",
-      "name": "Laffapalooza! #2",
-      "poster": "https://image.tmdb.org/t/p/w500/d7wn2BueDTemQlxoJeSZbBl7YO8.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt45915205",
-      "type": "movie",
-      "name": "Jamie Foxx: Take Care of Yourself",
-      "poster": "https://image.tmdb.org/t/p/w500/lVMY9gUcGpYozb4WVEJTNuUG2fN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0298345",
-      "type": "movie",
-      "name": "Jan Gintberg: Gearet 2 Tænder",
-      "poster": "https://image.tmdb.org/t/p/w500/3akZNCOADVFvG9GlsCym5AVh5ly.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt0349490",
-      "type": "movie",
-      "name": "Jan Gintberg: Op På Fars Jihad",
-      "poster": "https://image.tmdb.org/t/p/w500/albmonCHctJLtMbyqstZDquuXi1.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt1741637",
-      "type": "movie",
-      "name": "Jan Gintberg: Fremtid.nu",
-      "poster": "https://image.tmdb.org/t/p/w500/hysmg7M9ymaVOp6hEBkikPSKpSN.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:402233",
-      "type": "movie",
-      "name": "Jan Gintberg: Det Store Spørgsmål",
-      "poster": "https://image.tmdb.org/t/p/w500/j7jskVGUW4TJGyDMVrKRQsFCge8.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:1076589",
-      "type": "movie",
-      "name": "Jan Gintberg: Død eller leende",
-      "poster": "https://image.tmdb.org/t/p/w500/pbwJMZisVIdaJCEhE18CjhHPn7Z.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1595240",
-      "type": "movie",
-      "name": "Jan Gintberg: MIRAKLET",
-      "poster": "https://image.tmdb.org/t/p/w500/mWVN1XWcIoMRy8F7TwgxuUJbyXg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1329961",
-      "type": "movie",
-      "name": "Gabbers",
-      "poster": "https://image.tmdb.org/t/p/w500/oOAxh3HvgqbpVuMVEI2RxjxdfCA.jpg",
-      "releaseInfo": "2016"
-    },
-    {
       "id": "tt20723738",
       "type": "movie",
       "name": "Jane Fonda & Lily Tomlin: Ladies Night Live",
@@ -324,31 +15,340 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1609450",
-      "type": "movie",
-      "name": "Janey Godley: Still Got It",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1807435",
-      "type": "movie",
-      "name": "Janine Harouni: Man'oushe",
-      "poster": "https://image.tmdb.org/t/p/w500/zlEncGgh7au3HtKv1yMwbiyGKlg.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1228765",
-      "type": "movie",
-      "name": "Liels puika",
-      "poster": "https://image.tmdb.org/t/p/w500/zYer2jupRQkJtvHoXrTJTFMJ4jl.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tmdb:1226224",
       "type": "movie",
       "name": "Pirmās ūsas",
       "poster": "https://image.tmdb.org/t/p/w500/tiXQjpXla1UCzlohazk6ASC6wW1.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt38641690",
+      "type": "movie",
+      "name": "Jared Freid: The Family Plan",
+      "poster": "https://image.tmdb.org/t/p/w500/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39168108",
+      "type": "movie",
+      "name": "Jarry : Bonhomme",
+      "poster": "https://image.tmdb.org/t/p/w500/gu9ddw0WqG3XsALUNlBvANj3Exk.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt31643753",
+      "type": "movie",
+      "name": "Jason Brokerss : 21ème seconde",
+      "poster": "https://image.tmdb.org/t/p/w500/k80w473pA2uKxgtkh1FUN3yu2AX.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1629304",
+      "type": "movie",
+      "name": "Jason Manford: Live at the Manchester Apollo",
+      "poster": "https://image.tmdb.org/t/p/w500/2rYyhObW5j8iccoQkEmYhDjiMGB.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2113690",
+      "type": "movie",
+      "name": "Jason Manford: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/trTt5xWafj14lcqwSG3CGpMqzLL.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tmdb:715221",
+      "type": "movie",
+      "name": "Jason Manford's Muddle Class",
+      "poster": "https://image.tmdb.org/t/p/w500/oVyWcdbdDXBNdGiHZEIdGVzLpjR.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt26445613",
+      "type": "movie",
+      "name": "Jason Manford: Recent Nostalgia",
+      "poster": "https://image.tmdb.org/t/p/w500/mrTOJ73gLm0pX4P7FtwKYEXAEq3.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0291746",
+      "type": "movie",
+      "name": "Jasper Carrott: Beat The Carrott",
+      "poster": "https://image.tmdb.org/t/p/w500/nV3AqVVMEd1DTz2MyH28pU2kyk.jpg",
+      "releaseInfo": "1981"
+    },
+    {
+      "id": "tt19121826",
+      "type": "movie",
+      "name": "Jaspreet Singh: Koi Load Nahi",
+      "poster": "https://image.tmdb.org/t/p/w500/dPLfBUotpXZLtIZLB3lwoqxZ6yR.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt41400803",
+      "type": "movie",
+      "name": "Jaspreet Singh: Grown Up",
+      "poster": "https://image.tmdb.org/t/p/w500/9YuhDFhEGtan9PQFdDLsCdM5F3P.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1725936",
+      "type": "movie",
+      "name": "Broken Lizard Stands Up",
+      "poster": "https://image.tmdb.org/t/p/w500/995Xf3En945GiAPSH50MypXLU4P.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt38129244",
+      "type": "movie",
+      "name": "Jay Jurden: Yes Ma'am",
+      "poster": "https://image.tmdb.org/t/p/w500/13Y4XglXH2X11YWeVXEjBpOuU2A.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0316055",
+      "type": "movie",
+      "name": "Jay Leno: The American Dream",
+      "poster": "https://image.tmdb.org/t/p/w500/sIIcfkfzFYQqYrtVa3mpflBY37t.jpg",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt1675303",
+      "type": "movie",
+      "name": "The 1984 Los Angeles Comedy Competition With Host Jay Leno",
+      "poster": "https://image.tmdb.org/t/p/w500/s04h8dacG0wR3Ykw7yO95lTp4OC.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt10804678",
+      "type": "movie",
+      "name": "Jay Mohr: My Turn",
+      "poster": "https://image.tmdb.org/t/p/w500/58Lmr6lqg0hqPLPiL4yF3xP602i.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt4552112",
+      "type": "movie",
+      "name": "Jay Mohr: Happy. And A Lot.",
+      "poster": "https://image.tmdb.org/t/p/w500/7Uocb0fZv5My9tmUbDL18Ho6gsX.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt10920542",
+      "type": "movie",
+      "name": "Jay Mohr: American Treasure",
+      "poster": "https://image.tmdb.org/t/p/w500/gc6208lmvwv8T6po9eqlqZn1lVF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:915884",
+      "type": "movie",
+      "name": "Jay Mohr: Altamont",
+      "poster": "https://image.tmdb.org/t/p/w500/j9xKqMok1tQcd3ustUIda0T6BnE.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1733382",
+      "type": "movie",
+      "name": "Jean-Thomas Jobin: Dix stricts trente thés un",
+      "poster": "https://image.tmdb.org/t/p/w500/sVYJGiHv4XptQf81UAWuFutDBAO.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43616650",
+      "type": "movie",
+      "name": "Jeff Arcuri: Nice to Meet You",
+      "poster": "https://image.tmdb.org/t/p/w500/pn5pu5LWufLymW6Szq6Nx0Tf93f.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0806102",
+      "type": "movie",
+      "name": "Jeff Dunham: Arguing with Myself",
+      "poster": "https://image.tmdb.org/t/p/w500/wh5KAy9lGcf7z9yv1Ax8hHVdUU2.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1143143",
+      "type": "movie",
+      "name": "Jeff Dunham: Spark of Insanity",
+      "poster": "https://image.tmdb.org/t/p/w500/8HB4miftuPSJr7kCaS9MenC3PJt.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1295909",
+      "type": "movie",
+      "name": "Jeff Dunham's Very Special Christmas Special",
+      "poster": "https://image.tmdb.org/t/p/w500/l7W6hvdj7B3fguhxRVqps4Hgw0h.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2058636",
+      "type": "movie",
+      "name": "Jeff Dunham: Controlled Chaos",
+      "poster": "https://image.tmdb.org/t/p/w500/8LPGtz6m4g1JB9ZdkpmEcwRXNbn.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2134080",
+      "type": "movie",
+      "name": "Jeff Dunham: Birth of a Dummy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TPThkmYKUM5fNSyZT6h6guRVUG.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2461736",
+      "type": "movie",
+      "name": "Jeff Dunham: Minding the Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/ra1UaHU8bKBesaQ6BqIOaSvRk07.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4209802",
+      "type": "movie",
+      "name": "Jeff Dunham: All Over the Map",
+      "poster": "https://image.tmdb.org/t/p/w500/9o97CIpO5FgNXBYoXYxfgoV4lrz.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5038776",
+      "type": "movie",
+      "name": "Jeff Dunham: Unhinged in Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/yBlrWOgFpmOZADx2mnM521z8p8H.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt7364706",
+      "type": "movie",
+      "name": "Jeff Dunham: Relative Disaster",
+      "poster": "https://image.tmdb.org/t/p/w500/6zbUC6OK5Huro1xyAX99pelTsLE.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10222676",
+      "type": "movie",
+      "name": "Jeff Dunham: Talking Heads",
+      "poster": "https://image.tmdb.org/t/p/w500/canWC7bnPpazySwLRt1fc6KVUgk.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt10847194",
+      "type": "movie",
+      "name": "Jeff Dunham: Beside Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/vOEVIc3b5SVeHPSThos7YbYLCSc.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt13444348",
+      "type": "movie",
+      "name": "Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/4arRLeXYOpg3KFTllfYlbWqfwqs.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt23318056",
+      "type": "movie",
+      "name": "Jeff Dunham: Me the People",
+      "poster": "https://image.tmdb.org/t/p/w500/kEaVVOuwLudLPp5dA8teacReGlh.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt31013184",
+      "type": "movie",
+      "name": "Jeff Dunham: I'm with Cupid",
+      "poster": "https://image.tmdb.org/t/p/w500/orK8fCKLh2RBwmXzAojlPErehD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1302725",
+      "type": "movie",
+      "name": "Jeff Dunham - Election 2024 - Biden vs. Trump How Did We Get Here... Again",
+      "poster": "https://image.tmdb.org/t/p/w500/eVQNLZlB0JjrBA3PIadCu1Sy8HS.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33746385",
+      "type": "movie",
+      "name": "Jeff Dunham's Scrooged-Up Holiday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oE9faryVTtq78Qbr9izE3lGq1SA.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:1734155",
+      "type": "movie",
+      "name": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/g9J7up2TMdiXFMfNvfP3bMywqRh.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt34611113",
+      "type": "movie",
+      "name": "Jeff Dye: Last Cowboy in LA",
+      "poster": "https://image.tmdb.org/t/p/w500/cBMRIY5nsknFpUlvekULKlZpU9q.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0233973",
+      "type": "movie",
+      "name": "Jeff Foxworthy: Totally Committed",
+      "poster": "https://image.tmdb.org/t/p/w500/xpGKjmFSoPZejHKThDPHe8P8U1Y.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt3496860",
+      "type": "movie",
+      "name": "Jeff Foxworthy's Comedy Classics",
+      "poster": "https://image.tmdb.org/t/p/w500/gUGzGRknnNcBSijxRjGAuPEIHWd.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0945387",
+      "type": "movie",
+      "name": "Redneck Comedy Roundup",
+      "poster": "https://image.tmdb.org/t/p/w500/lAAkXl9RD0h3EIVQNTAYTrc4b60.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt18314220",
+      "type": "movie",
+      "name": "Jeff Foxworthy: The Good Old Days",
+      "poster": "https://image.tmdb.org/t/p/w500/muyYLEUR5cE9kllIguNxBdfgCxp.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt42836662",
+      "type": "movie",
+      "name": "Jeff Foxworthy: The Joke's On Me",
+      "poster": "https://image.tmdb.org/t/p/w500/lSK1mmXLHfJA4P1KY9zRMNLnuSd.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt11108064",
+      "type": "movie",
+      "name": "Jeff Garlin: Our Man in Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/uuuOK7WxR6KAAsoyNidiV3kqusS.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt36543451",
+      "type": "movie",
+      "name": "Jeff Innocent - Smart Casual",
+      "poster": "https://image.tmdb.org/t/p/w500/xsho8sIpqVQvC0Jr4gEOpMd9XHa.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0475359",
+      "type": "movie",
+      "name": "Patriot Act",
+      "poster": "https://image.tmdb.org/t/p/w500/as3fUCqrekmdsVxwdpXuiNuYwRB.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt39901552",
+      "type": "movie",
+      "name": "Jeff Ross: Take a Banana for the Ride",
+      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

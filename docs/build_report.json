@@ -1,22 +1,22 @@
 {
   "counts": {
-    "New Specials": 375,
+    "New Specials": 237,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
     "Comedy Legends": 65,
-    "Viral & Rising Comedians": 35,
+    "Viral & Rising Comedians": 32,
     "Roasts & Comedy Events": 63,
-    "Comedians AB": 401,
-    "CDEFG": 551,
-    "HIJ": 441,
-    "KLM": 488,
-    "NOPQR": 448,
-    "STUVWXYZ": 429,
+    "Comedians AB": 321,
+    "CDEFG": 448,
+    "HIJ": 331,
+    "KLM": 380,
+    "NOPQR": 341,
+    "STUVWXYZ": 329,
     "Stand-Up TV Shows": 26
   },
-  "total_unique_records": 2994,
+  "total_unique_records": 3001,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -2776,6 +2776,15 @@
       "last_checked": "2026-11-19"
     }
   ],
+  "unrated_cleanup": {
+    "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
+    "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
+    "reversible": true,
+    "original_alphabetical_movies": 2723,
+    "remaining_alphabetical_movies": 2108,
+    "unrated_movies_hidden": 615,
+    "unrated_established_movies_kept": 214
+  },
   "tv_series": {
     "series_count": 26,
     "episode_count": 1336,

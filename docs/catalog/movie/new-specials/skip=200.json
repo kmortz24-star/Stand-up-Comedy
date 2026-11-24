@@ -1,352 +1,262 @@
 {
   "metas": [
     {
-      "id": "tt37444295",
+      "id": "tt36109347",
       "type": "movie",
-      "name": "Guillermo Guiz - La formidable ascension sociale temporaire de Guy Verstraeten",
-      "poster": "https://image.tmdb.org/t/p/w500/zllFb3Ak6Wp81rPgRD8He4fdPPr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1616891",
-      "type": "movie",
-      "name": "WOOF!",
-      "poster": "https://image.tmdb.org/t/p/w500/yxwYf9mI6FrZpZx1wh9850jO3TD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1657867",
-      "type": "movie",
-      "name": "Fabrice Eboué - SolitudeS",
-      "poster": "https://image.tmdb.org/t/p/w500/26gjtwTWwBVo30stOVMSGCyvZSv.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39132072",
-      "type": "movie",
-      "name": "Marcello Hernández: American Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1709280",
-      "type": "movie",
-      "name": "Abish Mathew: Finish",
-      "poster": "https://image.tmdb.org/t/p/w500/alhaGvTipWgRrbrYGPeMnGOq8WC.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1608545",
-      "type": "movie",
-      "name": "Varun Grover: Nothing Makes Sense",
-      "poster": "https://image.tmdb.org/t/p/w500/b7iAwOZx0c6DezvJaYteDRVQtkF.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1614256",
-      "type": "movie",
-      "name": "Trevor Noah: The LOST South African Show",
-      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1596196",
-      "type": "movie",
-      "name": "The KoolPals Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/4caT2LiKsvVrvKjgNJfrwtD4FXE.jpg",
+      "name": "Kill Tony: Mayhem at Madison Square Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1636888",
+      "id": "tmdb:1518266",
       "type": "movie",
-      "name": "Richard Herring: Can I Have My Ball Back?",
-      "poster": "https://image.tmdb.org/t/p/w500/9twZOesEfQoIKUrUyEVVLED0Le0.jpg",
+      "name": "Rafał Pacześ - ProkuraTOUR'A",
+      "poster": "https://image.tmdb.org/t/p/w500/y0KAw7265X3mCpAEbaRY2IOmkt4.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39214430",
+      "id": "tmdb:1531170",
       "type": "movie",
-      "name": "CMXXIV",
-      "poster": "https://image.tmdb.org/t/p/w500/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg",
+      "name": "Sasha Dolgopolov: Pressure Makes Diamonds",
+      "poster": "https://image.tmdb.org/t/p/w500/b41m4fHxZeUZ8gVQeOT1dNt9aL8.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt32767869",
+      "id": "tmdb:1530287",
       "type": "movie",
-      "name": "Ricky Gervais: Mortality",
-      "poster": "https://image.tmdb.org/t/p/w500/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+      "name": "Haseeb Khan: Love Percentage",
+      "poster": "https://image.tmdb.org/t/p/w500/uY0WZpzr3ZhQ5K5StvMUne5Hjmx.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39132188",
+      "id": "tt37897162",
       "type": "movie",
-      "name": "Rick Mercer: Stand Up for Canada",
-      "poster": "https://image.tmdb.org/t/p/w500/lHEjHM1vSA4jkegMkiaADGmY3l5.jpg",
+      "name": "Josh Wolf: The Campfire Special",
+      "poster": "https://image.tmdb.org/t/p/w500/nSsBdWfsbfSN5F4T3pr65BF9nGL.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1608410",
+      "id": "tt37649515",
       "type": "movie",
-      "name": "Salvo Di Paola: Lorem Ipsum",
-      "poster": "https://image.tmdb.org/t/p/w500/qIY5TUSOJO8kI2iPBnpYjTRiu8m.jpg",
+      "name": "Jim Jefferies: Two Limb Policy",
+      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39177776",
+      "id": "tt36421934",
       "type": "movie",
-      "name": "Mens Rea",
-      "poster": "https://image.tmdb.org/t/p/w500/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
+      "name": "Ralph Barbosa: Planet Bosa",
+      "poster": "https://image.tmdb.org/t/p/w500/pba4mTD4WyYtaSe2WI8aB04xHIa.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39287392",
+      "id": "tt36048590",
       "type": "movie",
-      "name": "Vittorio Angelone: Who Do You Think You Are? I Am!",
-      "poster": "https://image.tmdb.org/t/p/w500/kLxWdRLbJ3O2Bf4wEYbrVcWb3C4.jpg",
+      "name": "Marc Maron: Panicked",
+      "poster": "https://image.tmdb.org/t/p/w500/bwViCxMfpewW38VDVHxdiJq6rcK.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1734095",
+      "id": "tt37433245",
       "type": "movie",
-      "name": "Martin Niemeyer: Supersubtil",
+      "name": "Dusty Slay: Wet Heat",
+      "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1705551",
+      "id": "tt37610597",
       "type": "movie",
-      "name": "Alexa Zuart: En vivo desde el TEATRO METROPOLITAN",
-      "poster": "https://image.tmdb.org/t/p/w500/kaZ5kwKmHCc8MgxlzC93fOmp9MV.jpg",
+      "name": "Dom Irrera: Live from Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt38965502",
+      "id": "tt36625651",
       "type": "movie",
-      "name": "Tom Segura: Teacher",
-      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+      "name": "Gary Owen: No \"S\"",
+      "poster": "https://image.tmdb.org/t/p/w500/rxbKiubqCLcn18A6KMrrcoSIqvR.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1599251",
+      "id": "tt36355176",
       "type": "movie",
-      "name": "Micha Wertheim: Nergens Anders",
-      "poster": "https://image.tmdb.org/t/p/w500/ov0xbc5zCGDf2piqLFLf10A9zJw.jpg",
+      "name": "Lara Beitz: Stoppable",
+      "poster": "https://image.tmdb.org/t/p/w500/t1VIC9rR4elAjIV215dlQ3szH6a.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt38974602",
+      "id": "tmdb:1516563",
       "type": "movie",
-      "name": "Immer noch wach",
-      "poster": "https://image.tmdb.org/t/p/w500/ekV2w0AbzVZqX2kkMHNiQdyzlXN.jpg",
+      "name": "Paul Foot: Dissolve",
+      "poster": "https://image.tmdb.org/t/p/w500/sCJVw5TOvccSqnMeoTkFLSKJXNO.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1602346",
+      "id": "tt34492387",
       "type": "movie",
-      "name": "Glenn Moore: Will You Still Need Me, Will You Still Feed Me, Glenn I'm Sixty Moore",
-      "poster": "https://image.tmdb.org/t/p/w500/9rVPw4kZumFB8s9SPS8tN6GD1O.jpg",
+      "name": "Zarna Garg: Practical People Win",
+      "poster": "https://image.tmdb.org/t/p/w500/mxwxts8NMAgA1z6h7wzuhigTpCN.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39378479",
+      "id": "tt35668659",
       "type": "movie",
-      "name": "Ali Siddiq: Mondays",
-      "poster": "https://image.tmdb.org/t/p/w500/2T8gMRiYJEYIvgYl7xXDX4zKwvR.jpg",
+      "name": "Vir Das: Fool Volume",
+      "poster": "https://image.tmdb.org/t/p/w500/druY5vhbnJSbFeq3V0AfDHYfXfe.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39131664",
+      "id": "tt37499050",
       "type": "movie",
-      "name": "Kumail Nanjiani: Night Thoughts",
-      "poster": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+      "name": "Eddie Pepitone: The Collapse",
+      "poster": "https://image.tmdb.org/t/p/w500/kUDmzsRm5efneC1UDNWL6GX2bFc.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39227597",
+      "id": "tt37666557",
       "type": "movie",
-      "name": "Dave Chappelle: The Unstoppable...",
-      "poster": "https://image.tmdb.org/t/p/w500/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
+      "name": "Katie Boyle: Terapy",
+      "poster": "https://image.tmdb.org/t/p/w500/6hiE6JvvTZDaDYGUvUkimo8mFNd.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39301679",
+      "id": "tt37446074",
       "type": "movie",
-      "name": "Berk Karan: Yetim Londra'da",
-      "poster": "https://image.tmdb.org/t/p/w500/2OWlNlJ3qX9T6TV4475Dy2Qq8z0.jpg",
+      "name": "It's Worth It by Dani Rovira",
+      "poster": "https://image.tmdb.org/t/p/w500/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39285140",
+      "id": "tt37333173",
       "type": "movie",
-      "name": "Sarah Millican: Late Bloomer",
-      "poster": "https://image.tmdb.org/t/p/w500/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
+      "name": "Nate Jackson: Super Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/bO6nBUDE6ctqIMMGe5TeeJ5CxVN.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1599901",
+      "id": "tt37532034",
       "type": "movie",
-      "name": "Flo & Joan: Sweet Release",
-      "poster": "https://image.tmdb.org/t/p/w500/dzYnBeltN5KpyUki7PcMEtlYjRe.jpg",
+      "name": "Beth Stelling: The Landlord Special",
+      "poster": "https://image.tmdb.org/t/p/w500/9lATGlE5zKSS16zFXjwpfOfO9yz.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt38711471",
+      "id": "tt38625479",
       "type": "movie",
-      "name": "Aparna Nancherla: Hopeful Potato",
-      "poster": "https://image.tmdb.org/t/p/w500/smxXLZkK7tp6Q0a9jmcRLWuezKi.jpg",
+      "name": "Hallberg och Betnér - Bränner ner huset",
+      "poster": "https://image.tmdb.org/t/p/w500/nOLapKrMHfvxsmngJbIOL46oCXi.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt38994128",
+      "id": "tmdb:1511157",
       "type": "movie",
-      "name": "Robby Hoffman: Wake Up",
-      "poster": "https://image.tmdb.org/t/p/w500/yaWnKg51BFx5TOVzn7hPWShTVAT.jpg",
+      "name": "Fin Taylor: Ask Your Mother",
+      "poster": "https://image.tmdb.org/t/p/w500/c6iPsQqcn3knVsLU5R3qM7wo0vU.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39181904",
+      "id": "tt37027594",
       "type": "movie",
-      "name": "Cody Clarke: Marie",
-      "poster": "https://image.tmdb.org/t/p/w500/9tUSHm0kQtlEcmB3RsK0bxTTRqf.jpg",
+      "name": "American Comic",
+      "poster": "https://image.tmdb.org/t/p/w500/zDpkgeHZPkQtnFgCQiekbPZaBOH.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1598850",
+      "id": "tt37357426",
       "type": "movie",
-      "name": "Alfie Brown: The Last Cancelled Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/xUEcN193dMl3OYzEZP4WlfjaoFH.jpg",
+      "name": "Mike Vecchione: Low Income White",
+      "poster": "https://image.tmdb.org/t/p/w500/a3WkZynxYnZ5Ac3L0cNnCkjplhT.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1599980",
+      "id": "tt37157679",
       "type": "movie",
-      "name": "Phillip Devantier - PHILLIPSOFI",
-      "poster": "https://image.tmdb.org/t/p/w500/oq07vZe7rgW23sttEOPdylRl1un.jpg",
+      "name": "Josh Gondelman: Positive Reinforcement",
+      "poster": "https://image.tmdb.org/t/p/w500/qdlyefIxmiRBgytpjobO7xABYLQ.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1597512",
+      "id": "tt37461775",
       "type": "movie",
-      "name": "Doully : Hier j'arrête !",
-      "poster": "https://image.tmdb.org/t/p/w500/nk7cpgoWqA02RA0Ot4oetfm9VNE.jpg",
+      "name": "Drew Lynch: The Stuttering Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/6ICuWc8eKHDvqoMh7h8Vg33uQVu.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt38556681",
+      "id": "tt36999013",
       "type": "movie",
-      "name": "Sarah Squirm: Live + in the Flesh",
-      "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
+      "name": "Steph Tolev: Filth Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39182579",
+      "id": "tt36051492",
       "type": "movie",
-      "name": "Josh Weller - Live at The Bill Murray",
-      "poster": "https://image.tmdb.org/t/p/w500/zb9Vkwrt408vVC2T5WGtYMb7y8W.jpg",
+      "name": "Abhay Nadkarni: Brown Jesus",
+      "poster": "https://image.tmdb.org/t/p/w500/wjDqqga29cqDXyoUvNnUPSnYwry.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39164730",
+      "id": "tt39930679",
       "type": "movie",
-      "name": "Julien Lacroix - Le temps au temps",
-      "poster": "https://image.tmdb.org/t/p/w500/9SkwO1U1rWhh33nPlZ57kFRAtTg.jpg",
+      "name": "Ali Siddiq: Rugged",
+      "poster": "https://image.tmdb.org/t/p/w500/wappVcAznSQNvHbVSUIu4WrdwIq.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39183307",
+      "id": "tmdb:1495970",
       "type": "movie",
-      "name": "Henrik Fladseth Lavkultur",
-      "poster": "https://image.tmdb.org/t/p/w500/uXY5qVEaEoV2Vasp1N9p1WYxvs.jpg",
+      "name": "Martin Nørgaard: Ironisk?",
+      "poster": "https://image.tmdb.org/t/p/w500/kwhWWGqCGd1jj8lR7CXzRjv1d2G.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1597201",
+      "id": "tt37244693",
       "type": "movie",
-      "name": "Waly Dia - Une heure à tuer",
-      "poster": "https://image.tmdb.org/t/p/w500/6FyyIK8K0fWS7xBvq7PmefYHpGN.jpg",
+      "name": "Jim Norton: Unconceivable",
+      "poster": "https://image.tmdb.org/t/p/w500/fsbBz9i8qa6VADW8GV7Rk0ijiPy.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1595059",
+      "id": "tt33319618",
       "type": "movie",
-      "name": "Rosie Jones: Triple Threat",
-      "poster": "https://image.tmdb.org/t/p/w500/nyS6z6jxIdWJ3vGHSrzMccvAkRr.jpg",
+      "name": "Atsuko Okatsuka: Father",
+      "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1700724",
+      "id": "tmdb:1177155",
       "type": "movie",
-      "name": "Ali Siddiq: The Animated PTA Special",
-      "poster": "https://image.tmdb.org/t/p/w500/uI2Vg7Wt54I44EpuxwmmNoAGB0L.jpg",
+      "name": "Ruben Søltoft: Hvorfor er der ikke nogen, der har sagt noget?",
+      "poster": "https://image.tmdb.org/t/p/w500/hrzcUVcgXFubWRqV2ViFNuIPL8T.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39115106",
+      "id": "tt37151573",
       "type": "movie",
-      "name": "Daniel Sloss: Can't",
-      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
+      "name": "Ray O'Leary: Your Laughter is Just Making Me Stronger",
+      "poster": "https://image.tmdb.org/t/p/w500/4SEtlgGFnXV96LXc7v84WAvjdS7.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1594166",
+      "id": "tt36462322",
       "type": "movie",
-      "name": "Zoe Lyons: Werewolf",
-      "poster": "https://image.tmdb.org/t/p/w500/ezkjDqAP9i3sqSCUfqEjCUt5qK7.jpg",
+      "name": "Mike Birbiglia: The Good Life",
+      "poster": "https://image.tmdb.org/t/p/w500/zAlU7tRd2jNtilSrqakkiSi02OQ.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt39695189",
+      "id": "tt35667233",
       "type": "movie",
-      "name": "Juste pour Rire Montréal 2025",
-      "poster": "https://image.tmdb.org/t/p/w500/u60BcXVRTj5KZgaFjgJnsYQu3Ma.jpg",
+      "name": "LowKey Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/1sf4uBmtmqq3x4Gzta60lhOJ3Ly.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1583110",
+      "id": "tt36437611",
       "type": "movie",
-      "name": "Jack Dee: Small World",
-      "poster": "https://image.tmdb.org/t/p/w500/2im9uopWrUBEWOiTXkYhaOyPEHs.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt37992733",
-      "type": "movie",
-      "name": "George Civeris: A Sense of Urgency",
-      "poster": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38873883",
-      "type": "movie",
-      "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
-      "poster": "https://image.tmdb.org/t/p/w500/dMmT1IWPEJSSLaklHZi7XyrTVyM.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38846171",
-      "type": "movie",
-      "name": "Charlie Berens: Neighborly",
-      "poster": "https://image.tmdb.org/t/p/w500/16GO98B6qCzqPcxVre5cNzVg4Dh.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1586109",
-      "type": "movie",
-      "name": "Pierre Thevenoux est marrant… Normalement",
-      "poster": "https://image.tmdb.org/t/p/w500/7grK2kG99hPEvPMj3hVi8F4cIM9.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt39577644",
-      "type": "movie",
-      "name": "Maggie Faris: Traditional Beauty",
-      "poster": "https://image.tmdb.org/t/p/w500/nr8w76aDU2DvFZeswbGjkfHa22v.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt38948229",
-      "type": "movie",
-      "name": "Kevin Hart: Acting My Age",
-      "poster": "https://image.tmdb.org/t/p/w500/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+      "name": "Jerrod Carmichael: Don't Be Gay",
+      "poster": "https://image.tmdb.org/t/p/w500/dwGvAqAtA9pQl0uRckSXNahdpYq.jpg",
       "releaseInfo": "2025"
     }
   ]

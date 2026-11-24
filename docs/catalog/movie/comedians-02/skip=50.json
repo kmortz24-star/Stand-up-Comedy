@@ -1,101 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt3804556",
-      "type": "movie",
-      "name": "Chelsea Peretti: One of the Greats",
-      "poster": "https://image.tmdb.org/t/p/w500/ijpc2gcdK5xrBX8uMYefh2S5378.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt32809505",
-      "type": "movie",
-      "name": "Chirayu Mistry: Mistry Solved",
-      "poster": "https://image.tmdb.org/t/p/w500/u7j1dBhDIftyTa6gOMWg19DMsFT.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1805664",
-      "type": "movie",
-      "name": "Chloe Radcliffe: Eyes Down Here",
-      "poster": "https://image.tmdb.org/t/p/w500/iBSoaJnt1Bj3l8chbr6aH68uWNu.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_DW44LzeGyiI",
-      "type": "movie",
-      "name": "EYES DOWN HERE - Chloe Radcliffe - Full Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/DW44LzeGyiI/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/DW44LzeGyiI/hqdefault.jpg",
-      "description": "Chloe Radcliffe · 46 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt3394592",
-      "type": "movie",
-      "name": "Chris D'Elia: White Male. Black Comic.",
-      "poster": "https://image.tmdb.org/t/p/w500/mEbLMGmnSKrKcLfXl3ohTTTLlX7.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt7068896",
-      "type": "movie",
-      "name": "Chris D'Elia: Man on Fire",
-      "poster": "https://image.tmdb.org/t/p/w500/fn0tN4xEv8rdfWLOe7gU0eoC94Q.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt11987296",
-      "type": "movie",
-      "name": "Chris D'Elia: No Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/9IJrsG8UCW9Lk91IOY1pKoXJDDd.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt29865781",
-      "type": "movie",
-      "name": "Chris D'Elia: Grow or Die",
-      "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1660803",
-      "type": "movie",
-      "name": "Chris D'Elia: The 'B Side' Special",
-      "poster": "https://image.tmdb.org/t/p/w500/1xncn1SQ3EsMB5DypVlMm1nmKdA.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_TSi5zOfEaQE",
-      "type": "movie",
-      "name": "Chris D'Elia: Grow Or Die (STANDUP COMEDY SPECIAL) [YouTube]",
-      "poster": "https://i.ytimg.com/vi/TSi5zOfEaQE/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/TSi5zOfEaQE/hqdefault.jpg",
-      "description": "Chris D’Elia · 69 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt3777254",
-      "type": "movie",
-      "name": "Chris Distefano: The Half Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/hf7msdz4WOe4IhiShCyv0xjWhhv.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt10942332",
-      "type": "movie",
-      "name": "Chris Distefano: Size 38 Waist",
-      "poster": "https://image.tmdb.org/t/p/w500/bpFkRdROKjjkNJ9NPkNcURtX05z.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt19875708",
-      "type": "movie",
-      "name": "Chris Distefano: Speshy Weshy",
-      "poster": "https://image.tmdb.org/t/p/w500/thaYL3pzDZRVywJaiVQ75WlBE1o.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt33517417",
       "type": "movie",
       "name": "Chris Distefano: It's Just Unfortunate",
@@ -127,33 +32,6 @@
       "id": "tmdb:1802948",
       "type": "movie",
       "name": "Chris Hardwick: The Middle Ages",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1285138",
-      "type": "movie",
-      "name": "Chris Martin: Above Ground Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/lcUBtHX3CwmkNUgmXZWlrbXtWMz.jpg"
-    },
-    {
-      "id": "tmdb:979306",
-      "type": "movie",
-      "name": "Chris Parker: Back To School",
-      "poster": "https://image.tmdb.org/t/p/w500/wePnFDS2CrZghP29zP83yiDAK29.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1401447",
-      "type": "movie",
-      "name": "Chris Parker: Give Me One Good Reason Why I Shouldn't Throw My Phone Off This Bridge",
-      "poster": "https://image.tmdb.org/t/p/w500/9YReevJN3szF7Jqq2Wu9uEBHRiU.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:1666675",
-      "type": "movie",
-      "name": "Chris Parker: Stop Being So Dramatic",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZRX1TBoSR2mSThs6v3QX10F2O.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -210,13 +88,6 @@
       "type": "movie",
       "name": "Chris Redd: Why Am I Like This?",
       "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt27515738",
-      "type": "movie",
-      "name": "Chris Robinson: Panning for Gold",
-      "poster": "https://image.tmdb.org/t/p/w500/lauXvkbZhtbOkz3gSNnAyiubnRo.jpg",
       "releaseInfo": "2022"
     },
     {
@@ -310,24 +181,10 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "tmdb:414441",
-      "type": "movie",
-      "name": "Christian Fuhlendorff: Impro",
-      "poster": "https://image.tmdb.org/t/p/w500/fDAujsKYxpUWmSxMRPPf7zNVJbq.jpg",
-      "releaseInfo": "2015"
-    },
-    {
       "id": "tt10960410",
       "type": "movie",
       "name": "Christian Fuhlendorff : To make a short story long",
       "poster": "https://image.tmdb.org/t/p/w500/A9DdoAFj9ypmqWYwYB3QsK0Si3l.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tmdb:443867",
-      "type": "movie",
-      "name": "Christian Fuhlendorff - At Tale Sjov",
-      "poster": "https://image.tmdb.org/t/p/w500/psRCkNCeEHyMTbaOd3KD2CLhWR4.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -349,6 +206,145 @@
       "type": "movie",
       "name": "Christian Fuhlendorff: Det Sjovt",
       "poster": "https://image.tmdb.org/t/p/w500/f0zivqrjmhFgNwIHPRYCFq93WpF.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:1420054",
+      "type": "movie",
+      "name": "Christian Fuhlendorff - Ærlig talt",
+      "poster": "https://image.tmdb.org/t/p/w500/gtNFxYVhiGDRRc3zPfIzvuROOFq.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0414324",
+      "type": "movie",
+      "name": "Christopher Titus: Norman Rockwell is Bleeding",
+      "poster": "https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1237372",
+      "type": "movie",
+      "name": "Christopher Titus: The 5th Annual End of the World Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/wcDBCpDjT1tSNv3T9HHX3LyHCMH.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1562283",
+      "type": "movie",
+      "name": "Christopher Titus: Love Is Evol",
+      "poster": "https://image.tmdb.org/t/p/w500/4POM8HMEFcwuM46lesI2zdLeBz.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4816108",
+      "type": "movie",
+      "name": "Christopher Titus: Angry Pursuit of Happiness",
+      "poster": "https://image.tmdb.org/t/p/w500/kWz549syT8BjLJmdm2ztHwicE4m.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8583190",
+      "type": "movie",
+      "name": "Christopher Titus: Amerigeddon",
+      "poster": "https://image.tmdb.org/t/p/w500/59VEdzHLyNkomUmN6GR5jUBCVfw.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:829802",
+      "type": "movie",
+      "name": "Christopher Titus: Carrying Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/8uJo9rwJRatjxai5D9DcVrCgNbH.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt33362443",
+      "type": "movie",
+      "name": "Cliff Cash: The Long Road",
+      "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt33319975",
+      "type": "movie",
+      "name": "Colin Jost & Michael Che Present: New York After Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_FEnEutR31B4",
+      "type": "movie",
+      "name": "Colum Tyrrell: BELLS AND WHISTLES - FULL STAND UP COMEDY SPECIAL [YouTube]",
+      "poster": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/FEnEutR31B4/hqdefault.jpg",
+      "description": "Colum Tyrrell · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1395034",
+      "type": "movie",
+      "name": "Craig Ferguson: A Wee Bit o' Revolution",
+      "poster": "https://image.tmdb.org/t/p/w500/r3TbM1Hv41Z1Zc9SM39P78v2re.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1831617",
+      "type": "movie",
+      "name": "Craig Ferguson: Does This Need to Be Said?",
+      "poster": "https://image.tmdb.org/t/p/w500/ktUmYKCHI0fsk4zryIvtgGFlHw.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt2523852",
+      "type": "movie",
+      "name": "Craig Ferguson: I'm Here to Help",
+      "poster": "https://image.tmdb.org/t/p/w500/6ui1V6EIWnNOqlPJVDjmdX1DyDL.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4512444",
+      "type": "movie",
+      "name": "Craig Ferguson: Just Being Honest",
+      "poster": "https://image.tmdb.org/t/p/w500/9wEciLZHon4H8ddufXlqqiDkfPs.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt35320799",
+      "type": "movie",
+      "name": "Craig Ferguson: I'm So Happy",
+      "poster": "https://image.tmdb.org/t/p/w500/goMFZsqjAQYrI7xCXBF9zJPsiB5.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:320583",
+      "type": "movie",
+      "name": "Craig Shoemaker: Live: That's a True Story!",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1197325",
+      "type": "movie",
+      "name": "Craig Shoemaker: The Lovemaster... Unzipped",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2515486",
+      "type": "movie",
+      "name": "Craig Shoemaker: Daditude",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt6550456",
+      "type": "movie",
+      "name": "Cristela Alonzo: Lower Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/kO4eHzOj2745z5I3MEIXsegVFDf.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt18312376",
+      "type": "movie",
+      "name": "Cristela Alonzo: Middle Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/nkutLvlAYWGwd8OJzxDDwEc4LmM.jpg",
       "releaseInfo": "2022"
     }
   ]
