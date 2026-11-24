@@ -6,7 +6,7 @@ A GitHub Pages-hosted, Stremio-compatible catalog for Nuvio. TMDB movie specials
 
 1. New Specials
 2. Top Rated — up to 150 TMDB-rated specials
-3. Fan Favorites — up to 150 audience favorites; overlap with Top Rated is allowed
+3. Fan Favorites — up to 200 audience favorites; overlap with Top Rated is allowed
 4. Comedy Roulette — 60 weekly picks, targeting 15 different comedians per tier (well known / B-tier / classic / discovery)
 5. Hidden Gems — 30 weekly picks
 6. Comedy Legends
@@ -39,7 +39,7 @@ This will not find *every* special in every catalog, and some sources may lack p
 - Repairs explicit performer labels such as `Comedy Central Presents: Dave Attell`, and names that appear before a clear title separator; known names come from cached specials, configured comedians and the Wikidata roster.
 - Keeps the presenting host separate from the featured comedian when the title explicitly names both (such as Gabriel Iglesias presenting Rick Gutierrez).
 - Places roasts/group events in their dedicated row, not automatically into a comedian's solo alphabetical list.
-- Preserves the 60-item weekly Roulette layout, 150 Top Rated and 150 Fan Favorites rows and stable alphabet/catalog IDs.
+- Preserves the 60-item weekly Roulette layout, 150 Top Rated and 200 Fan Favorites rows and stable alphabet/catalog IDs.
 
 The underlying TMDB data remains available in `data/specials.json` for reconsideration; low ratings do not permanently delete it.
 
@@ -277,3 +277,15 @@ The generated `docs/build_report.json` contains an `english_language_policy`
 section that reports how many source movies still lack language metadata.
 Filtering by spoken audio with zero unknowns would require an additional
 verified source, and should not be claimed from TMDB alone.
+
+### Ranking refinements (v13)
+
+- **Top Rated:** 150 entries; Bayesian-weighted TMDB average with a 25-vote prior,
+  still requiring at least 20 TMDB votes.
+- **Fan Favorites:** 200 entries in the *existing* category and ID (no Nuvio
+  JSON import). Audience approval and sample size plus a small editorial
+  established-comedian bonus; not a follower-count metric.
+- Clearly non-stand-up items and outtake releases are filtered before the
+  rankings and movie catalogs are generated. Retrospectives like
+  *George Carlin: 40 Years of Comedy* stay in alphabeticals but not rankings.
+- Exclusions are rules in `config.json`, not deletions from `data/specials.json`.

@@ -291,36 +291,63 @@ def weekly_roulette(records: list[dict], config: dict, today: date) -> tuple[lis
 
 
 
-def ranked_specials(records: list[dict], config: dict) -> tuple[list[dict], list[dict]]:
-    """Two audience-derived rankings with different goals.
+def non_standup_movie(record: dict, config: dict) -> bool:
+    """Keep confidently non-stand-up titles out of movie catalogs.
 
-    Rated is sorted by raw TMDB user rating with an explicit sample floor.
-    Favorites uses a simple positive-rating x participation score, favoring
-    broadly liked crowd favorites rather than a handful of perfect votes.
-    This is NOT a dedicated 'funniest special' poll.
+    These conservative, reversible rules are deliberately narrow: a comedy
+    special involving music (Bo Burnham, Tim Minchin, Bill Bailey, etc.) is
+    NOT excluded just because it includes music. We don't treat absent genre
+    metadata as proof that a performance isn't stand-up.
     """
-    limit = int(config.get("ranked_list_size", 150))
+    person = norm(record.get("performer") or "").strip()
+    if person in {norm(x).strip() for x in config.get("non_standup_performers", [])}:
+        return True
+    title = norm(record.get("title") or "").strip()
+    return any(title == norm(x).strip() for x in config.get("non_standup_titles", []))
+
+
+def ranking_extras(record: dict, config: dict) -> bool:
+    """Exclude compilations/retrospectives from *rankings*, not alphabeticals."""
+    title = norm(record.get("title") or "").strip()
+    return any(title == norm(x).strip() for x in config.get("ranking_excluded_titles", []))
+
+
+def ranked_specials(records: list[dict], config: dict) -> tuple[list[dict], list[dict]]:
+    """Top Rated rewards rating consensus; Fan Favorites also values reputation.
+
+    Use Bayesian shrinkage so a very small vote sample doesn't dominate;
+    Fan Favorites adds a modest, transparent A/B-comedian prior rather than
+    manually forcing in any one performer. This is an editorial proxy, not a
+    measurement of social-media followers or a real audience poll.
+    """
+    rated_limit = int(config.get("ranked_list_size", 150))
+    fan_limit = int(config.get("fan_favorites_size", rated_limit))
     min_rated_votes = int(config.get("top_rated_min_votes", 20))
     min_favorite_votes = int(config.get("fan_favorites_min_votes", 10))
     min_favorite_rating = float(config.get("fan_favorites_min_rating", 6.5))
-    if limit < 1 or min_rated_votes < 1 or min_favorite_votes < 1:
-        raise ValueError("Ranking size and vote thresholds must be positive")
+    if min(rated_limit, fan_limit, min_rated_votes, min_favorite_votes) < 1:
+        raise ValueError("Ranking sizes and vote thresholds must be positive")
 
-    def valid(record: dict) -> bool:
-        # Source records without this new metadata remain eligible until the
-        # cache is gradually refreshed; explicitly non-English ones don't.
+    def valid(record):
         language = record.get("original_language")
         if config.get("rankings_english_only", False) and language and language != "en":
             return False
-        # Roast and event catalogs are separate; exclude only records tagged
-        # explicitly as events, rather than filtering regular comedy titles.
         if set(record.get("tags") or []) & {"roast", "event"}:
+            return False
+        if non_standup_movie(record, config) or ranking_extras(record, config):
             return False
         return bool(record.get("performer")) and float(record.get("vote_average") or 0) > 0
 
     pool = [r for r in records if valid(r)]
+
+    def weighted_rating(record, m, prior):
+        votes = int(record.get("vote_count") or 0)
+        score = float(record.get("vote_average") or 0)
+        return (votes * score + m * prior) / (votes + m)
+
     top_rated = [r for r in pool if int(r.get("vote_count") or 0) >= min_rated_votes]
     top_rated.sort(key=lambda r: (
+        -weighted_rating(r, 25, 6.5),
         -float(r.get("vote_average") or 0),
         -int(r.get("vote_count") or 0),
         norm(display_title(r)),
@@ -330,11 +357,19 @@ def ranked_specials(records: list[dict], config: dict) -> tuple[list[dict], list
         int(r.get("vote_count") or 0) >= min_favorite_votes
         and float(r.get("vote_average") or 0) >= min_favorite_rating
     )]
+    tiers = config.get("roulette_groups", {})
+    tier_bonuses = {}
+    for group, bonus in (("well_known", 0.45), ("b_tier", 0.30), ("classic_older", 0.30)):
+        for name in tiers.get(group, []):
+            tier_bonuses[norm(name)] = max(tier_bonuses.get(norm(name), 0), bonus)
+    for name in config.get("coverage_priority", {}).get("established_extra", []):
+        tier_bonuses[norm(name)] = max(tier_bonuses.get(norm(name), 0), 0.25)
 
-    def fan_score(r: dict) -> float:
-        # Consensus strength: quality AND a substantial engaged audience.
-        # A score of 6.0 with 200 votes should not outrank a beloved 8.0.
-        return (float(r.get("vote_average") or 0) - 5.0) * math.sqrt(int(r.get("vote_count") or 0))
+    def fan_score(record):
+        vote_count = int(record.get("vote_count") or 0)
+        performer_bonus = tier_bonuses.get(norm(record.get("performer") or ""), 0)
+        return (weighted_rating(record, 25, 6.6)
+                + 0.11 * math.log10(vote_count + 1) + performer_bonus)
 
     fan_favorites.sort(key=lambda r: (
         -fan_score(r),
@@ -342,7 +377,7 @@ def ranked_specials(records: list[dict], config: dict) -> tuple[list[dict], list
         -int(r.get("vote_count") or 0),
         norm(display_title(r)),
     ))
-    return top_rated[:limit], fan_favorites[:limit]
+    return top_rated[:rated_limit], fan_favorites[:fan_limit]
 
 
 def month_window_start(today: date, months: int) -> date:
@@ -479,6 +514,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     for record in deduped:
         if (record["id"] in excluded or release_date(record) > today
                 or too_poorly_rated(record, config)
+                or non_standup_movie(record, config)
                 or not movie_allowed(record, english_only, non_english_people)):
             continue
         if is_event_record(record, config):
@@ -524,6 +560,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     roasts = [
         r for r in deduped
         if r.get("id") not in excluded and release_date(r) <= today
+        and not non_standup_movie(r, config)
         and movie_allowed(r, english_only, non_english_people)
         and is_event_record(r, config)
     ]
@@ -831,8 +868,8 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
     if config.get("enable_ranked_150", False):
         report["rankings"] = {
             "source": "TMDB audience vote_average + vote_count",
-            "top_150_rated": f"TMDB user average rating, minimum {config.get('top_rated_min_votes', 20)} votes",
-            "fan_favorites": "(TMDB average rating - 5) x sqrt(TMDb vote count): audience consensus/popularity proxy, NOT a dedicated funniest poll",
+            "top_150_rated": f"Bayesian-weighted TMDB average (25-vote prior of 6.5), minimum {config.get('top_rated_min_votes', 20)} votes",
+            "fan_favorites": f"Bayesian-weighted TMDB ratings plus participation and modest A/B-roster bonus; top {config.get('fan_favorites_size', config.get('ranked_list_size', 150))}; editorial proxy, not a dedicated audience poll",
             "overlap_allowed": True,
             "language_filter": "Exclude explicitly non-English metadata; records missing original_language remain eligible until refreshed" if config.get("rankings_english_only", False) else "All languages",
         }
