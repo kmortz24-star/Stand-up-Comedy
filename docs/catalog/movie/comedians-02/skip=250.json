@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:537132",
+      "type": "movie",
+      "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
+      "poster": "https://image.tmdb.org/t/p/w500/jf7HJYC4jLLNqKBnfuHTTlJagpl.jpg",
+      "releaseInfo": "2017"
+    },
+    {
       "id": "tt12466128",
       "type": "movie",
       "name": "Doug Stanhope: The Dying of a Last Breed",
@@ -337,13 +344,6 @@
       "name": "Elayne Boosler: Broadway Baby",
       "poster": "https://image.tmdb.org/t/p/w500/tFJKiXFdjUZ85BzxBK7lIcDaKIL.jpg",
       "releaseInfo": "1987"
-    },
-    {
-      "id": "tt8421854",
-      "type": "movie",
-      "name": "Elayne Boosler: Top Tomata",
-      "poster": "https://image.tmdb.org/t/p/w500/9fBPFJkQo4wqTs8HQlDYI43PBch.jpg",
-      "releaseInfo": "1989"
     }
   ]
 }

@@ -92,6 +92,20 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt0779748",
+      "type": "movie",
+      "name": "Neil Hamburger: Live at the Phoenix Greyhound Park",
+      "poster": "https://image.tmdb.org/t/p/w500/maldJVA6yoSNlwHJmvRBY1F8yry.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt1446715",
+      "type": "movie",
+      "name": "Neil Hamburger: Western Music and Variety",
+      "poster": "https://image.tmdb.org/t/p/w500/jJqqYNu7bSfK9t0p06SwkQ6nsHS.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "tt32146333",
       "type": "movie",
       "name": "Group Therapy",
@@ -138,6 +152,13 @@
       "name": "Nick Kroll: Little Big Boy",
       "poster": "https://image.tmdb.org/t/p/w500/uSj702X4rpNWHbUVI9gsT54iB09.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt30291042",
+      "type": "movie",
+      "name": "Nick Mullen: The Year of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/gsnkk8QevVQFPhr0BvPzwqNrPVp.jpg",
+      "releaseInfo": "2023"
     },
     {
       "id": "tt6459288",
@@ -327,27 +348,6 @@
       "name": "#patel2016",
       "poster": "https://image.tmdb.org/t/p/w500/assUJYuVFCT6TZrSP632Tf6sZj8.jpg",
       "releaseInfo": "2016"
-    },
-    {
-      "id": "tt45114585",
-      "type": "movie",
-      "name": "Nimesh Patel: Buy The Dip",
-      "poster": "https://image.tmdb.org/t/p/w500/dBPlzg2HNhKxJgzKjPqGjytwBm0.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt2945654",
-      "type": "movie",
-      "name": "Nina Conti: Talk to the Hand",
-      "poster": "https://image.tmdb.org/t/p/w500/nQy6EO72XaWDzRpk9K9RKpA4EmH.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tmdb:1774301",
-      "type": "movie",
-      "name": "Nina Dicker - Tangerine Vagina",
-      "poster": "https://image.tmdb.org/t/p/w500/kF3QpvQ3p8kgijdIUy3oZQxlqTK.jpg",
-      "releaseInfo": "2026"
     }
   ]
 }

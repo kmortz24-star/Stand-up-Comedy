@@ -68,6 +68,11 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "tmdb:1177746",
+      "type": "movie",
+      "name": "Curtis Walker - NextUp Special"
+    },
+    {
       "id": "tmdb:1269168",
       "type": "movie",
       "name": "Damien Power at The Scottish Prince",
@@ -337,13 +342,6 @@
       "name": "Danila Poperechny: Big Lie",
       "poster": "https://image.tmdb.org/t/p/w500/xsDIQq4qPkqlSkbcQ03qOqkJLPJ.jpg",
       "releaseInfo": "2015"
-    },
-    {
-      "id": "tt39316681",
-      "type": "movie",
-      "name": "Danila Poperechny: D_CK",
-      "poster": "https://image.tmdb.org/t/p/w500/bfmVamwbzi72JWCM4uWuAzI2JCm.jpg",
-      "releaseInfo": "2016"
     }
   ]
 }

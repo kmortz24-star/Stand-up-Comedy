@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt22373568",
+      "type": "movie",
+      "name": "Fortune Feimster: Good Fortune",
+      "poster": "https://image.tmdb.org/t/p/w500/e6uS6y0EwHnI7Fldc912y7Tcp9J.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "tt34253921",
       "type": "movie",
       "name": "Fortune Feimster: Crushing It",
@@ -341,13 +348,6 @@
       "name": "Geoff Norcott: I Blame The Parents",
       "poster": "https://image.tmdb.org/t/p/w500/6SSoGFoZFkRngA9ndzXSqr3BkWx.jpg",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tmdb:1155064",
-      "type": "movie",
-      "name": "Geoffrey Asmus: The Only Funny White Man",
-      "poster": "https://image.tmdb.org/t/p/w500/fAVa0fYWurce5TUQ6hKjHx6VrpE.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

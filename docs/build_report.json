@@ -1,6 +1,6 @@
 {
   "counts": {
-    "New Specials": 347,
+    "New Specials": 351,
     "Top Rated": 150,
     "Fan Favorites": 150,
     "Comedy Roulette": 60,
@@ -9,13 +9,13 @@
     "Viral & Rising Comedians": 8,
     "Roasts & Comedy Events": 61,
     "Comedians AB": 385,
-    "CDEFG": 448,
-    "HIJ": 358,
-    "KLM": 369,
-    "NOPQR": 337,
-    "STUVWXYZ": 338
+    "CDEFG": 451,
+    "HIJ": 362,
+    "KLM": 376,
+    "NOPQR": 345,
+    "STUVWXYZ": 347
   },
-  "total_unique_records": 2498,
+  "total_unique_records": 2530,
   "needs_review": [
     {
       "id": "tmdb:1022459",
@@ -228,6 +228,20 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
+    },
+    {
+      "id": "tt27861034",
+      "tmdb_id": 1134203,
+      "title": "85 South: Ghetto Legends",
+      "performer": "85 South",
+      "release_date": "2023-06-20",
+      "poster_path": "/9R2Au4CbuzZC6GD2WeoNFc8V6zl.jpg",
+      "popularity": 0.5941,
+      "original_language": "en",
+      "vote_average": 6.1,
+      "vote_count": 6,
+      "tags": [],
+      "last_checked": "2026-11-24"
     },
     {
       "id": "tmdb:1144692",

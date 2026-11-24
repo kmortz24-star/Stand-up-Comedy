@@ -332,17 +332,18 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1402973",
+      "id": "tt22061184",
       "type": "movie",
-      "name": "Seann Walsh: Back From The Bed",
-      "poster": "https://image.tmdb.org/t/p/w500/lE7NluQOTxtikoqqqVvrdTuseSN.jpg",
-      "releaseInfo": "2024"
+      "name": "Sean Patton: King Scorpio",
+      "poster": "https://image.tmdb.org/t/p/w500/1Qxc4UA7SChUt9TfCLA6zToGuxf.jpg",
+      "releaseInfo": "2022"
     },
     {
-      "id": "tmdb:1732859",
+      "id": "tt23939056",
       "type": "movie",
-      "name": "Sebastian Maniscalco: Beyond the Punchline",
-      "poster": "https://image.tmdb.org/t/p/w500/UPuZ12moTQdujmavjsdASnHwgs.jpg"
+      "name": "Sean Patton: Number One",
+      "poster": "https://image.tmdb.org/t/p/w500/l95Jvq8E8gC4y3xm9Tsc2M56oJl.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

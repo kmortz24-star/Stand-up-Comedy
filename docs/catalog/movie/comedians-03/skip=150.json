@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:1734155",
+      "type": "movie",
+      "name": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
+      "poster": "https://image.tmdb.org/t/p/w500/g9J7up2TMdiXFMfNvfP3bMywqRh.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt34611113",
+      "type": "movie",
+      "name": "Jeff Dye: Last Cowboy in LA",
+      "poster": "https://image.tmdb.org/t/p/w500/cBMRIY5nsknFpUlvekULKlZpU9q.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0233973",
+      "type": "movie",
+      "name": "Jeff Foxworthy: Totally Committed",
+      "poster": "https://image.tmdb.org/t/p/w500/xpGKjmFSoPZejHKThDPHe8P8U1Y.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt3496860",
+      "type": "movie",
+      "name": "Jeff Foxworthy's Comedy Classics",
+      "poster": "https://image.tmdb.org/t/p/w500/gUGzGRknnNcBSijxRjGAuPEIHWd.jpg",
+      "releaseInfo": "2000"
+    },
+    {
       "id": "tt0945387",
       "type": "movie",
       "name": "Redneck Comedy Roundup",
@@ -319,30 +347,6 @@
       "name": "Jim Breuer: Comic Frenzy",
       "poster": "https://image.tmdb.org/t/p/w500/cHwXrTOLWmFGDyq6LFbUwiWofbJ.jpg",
       "releaseInfo": "2015"
-    },
-    {
-      "id": "tt21214610",
-      "type": "movie",
-      "name": "Jim Breuer: Somebody Had to Say It",
-      "poster": "https://image.tmdb.org/t/p/w500/hUjdZniT89044PtXUkRHEqWCLGs.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt30396584",
-      "type": "movie",
-      "name": "Jim Breuer: Country Boy Will Survive",
-      "poster": "https://image.tmdb.org/t/p/w500/5wYZdn3j28EjCs7pWlrwNTK4r4W.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1179375",
-      "type": "movie",
-      "name": "Jim Davidson: Live At The Dominion"
-    },
-    {
-      "id": "tmdb:1179386",
-      "type": "movie",
-      "name": "Jim Davidson: On The Road - Live In Torquay"
     }
   ]
 }

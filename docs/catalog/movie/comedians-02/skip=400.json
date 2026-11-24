@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tmdb:1155064",
+      "type": "movie",
+      "name": "Geoffrey Asmus: The Only Funny White Man",
+      "poster": "https://image.tmdb.org/t/p/w500/fAVa0fYWurce5TUQ6hKjHx6VrpE.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tmdb:1308317",
       "type": "movie",
       "name": "Geoffrey Asmus: Live In Sacramento",
@@ -260,6 +267,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tmdb:1443725",
+      "type": "movie",
+      "name": "Graham Clark: Live at the Waldorf Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/7Hauda4TBBl2ZG5QIvpkt2gr9bk.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "tt43432699",
       "type": "movie",
       "name": "Graham Kay: Pete & Me",
@@ -330,11 +344,11 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt31324512",
+      "id": "tt37444295",
       "type": "movie",
-      "name": "Guy Montgomery: My Brain Is Blowing Me Crazy",
-      "poster": "https://image.tmdb.org/t/p/w500/3vwbXp5OPiITUFd8PYzcdcUtlQk.jpg",
-      "releaseInfo": "2024"
+      "name": "Guillermo Guiz - La formidable ascension sociale temporaire de Guy Verstraeten",
+      "poster": "https://image.tmdb.org/t/p/w500/zllFb3Ak6Wp81rPgRD8He4fdPPr.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }

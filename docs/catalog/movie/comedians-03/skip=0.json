@@ -8,6 +8,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "tt22076256",
+      "type": "movie",
+      "name": "Hal Cruttenden: Chubster",
+      "poster": "https://image.tmdb.org/t/p/w500/rpDwbpmu9nnLeJf84n48SCuiDLw.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "tmdb:1730181",
       "type": "movie",
       "name": "Han Solo: XXXL",
@@ -328,23 +335,17 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "tt11690164",
+      "type": "movie",
+      "name": "Hugleikur Dagsson: Son of the Day",
+      "poster": "https://image.tmdb.org/t/p/w500/5EADH96ks3Yj1V7FjUdqdEnpYQq.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "tmdb:1729014",
       "type": "movie",
       "name": "Hugo Sousa: Premissas",
       "poster": "https://image.tmdb.org/t/p/w500/xEaCtZVmOx5GHylExXdFV7wEi6C.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt29282800",
-      "type": "movie",
-      "name": "Ian Abramson: The Heist",
-      "poster": "https://image.tmdb.org/t/p/w500/gLD60X9k8savIbjPZIBX34ueFAM.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt39240416",
-      "type": "movie",
-      "name": "Ian Edwards: Untitled The Comedy Special You Didn't Know You Needed",
       "releaseInfo": "2025"
     }
   ]
