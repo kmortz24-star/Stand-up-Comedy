@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1655,
-    "remaining_alphabetical_movies": 1331,
+    "original_alphabetical_movies": 1654,
+    "remaining_alphabetical_movies": 1330,
     "unrated_movies_hidden": 324,
-    "unrated_established_movies_kept": 144
+    "unrated_established_movies_kept": 143
   },
   "hidden": [
     {
@@ -95,13 +95,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -1103,13 +1103,13 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy Chubby Brown",
+      "performer": "Roy 'Chubby' Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -2059,11 +2059,6 @@
       "id": "tt11129970",
       "performer": "Billy Connolly",
       "title": "Billy Connolly: The Sex Life of Bandages"
-    },
-    {
-      "id": "tt14365068",
-      "performer": "Bob Newhart",
-      "title": "TV's Funniest Comedians - 14 Stars Do Classic Routines"
     },
     {
       "id": "tt1096860",
@@ -2492,7 +2487,7 @@
     },
     {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'Neal",
+      "performer": "Patrice O'neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {

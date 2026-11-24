@@ -5,10 +5,10 @@
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
-    "Comedy Legends": 48,
-    "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 67,
-    "Comedians AB": 210,
+    "Comedy Legends": 81,
+    "Viral & Rising Comedians": 33,
+    "Roasts & Comedy Events": 68,
+    "Comedians AB": 209,
     "CD": 184,
     "EFGHI": 167,
     "J": 192,
@@ -1046,10 +1046,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1655,
-    "remaining_alphabetical_movies": 1331,
+    "original_alphabetical_movies": 1654,
+    "remaining_alphabetical_movies": 1330,
     "unrated_movies_hidden": 324,
-    "unrated_established_movies_kept": 144
+    "unrated_established_movies_kept": 143
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
@@ -1099,7 +1099,7 @@
     "unverified_playback": true,
     "fallback": "YouTube external link",
     "counts": {
-      "viral_and_rising_added": 27,
+      "viral_and_rising_added": 28,
       "hidden_gems_added": 10,
       "alphabetical_full_specials_added": 41
     }

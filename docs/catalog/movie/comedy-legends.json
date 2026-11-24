@@ -1,145 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0168459",
-      "type": "movie",
-      "name": "Andrew Dice Clay: The Diceman Cometh",
-      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0101726",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Dice Rules",
-      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tt0249353",
-      "type": "movie",
-      "name": "Andrew Dice Clay: For Ladies Only",
-      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0249355",
-      "type": "movie",
-      "name": "Andrew Dice Clay: No Apologies",
-      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt0249352",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Assume the Position",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0201680",
-      "type": "movie",
-      "name": "Andrew Dice Clay: I'm Over Here Now",
-      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
-      "releaseInfo": "2000"
-    },
-    {
-      "id": "tt2605244",
-      "type": "movie",
-      "name": "Andrew Dice Clay: Indestructible",
-      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt0148668",
-      "type": "movie",
-      "name": "Bill Hicks: Relentless",
-      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0152183",
-      "type": "movie",
-      "name": "Bill Hicks: Revelations",
-      "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt14365068",
-      "type": "movie",
-      "name": "TV's Funniest Comedians - 14 Stars Do Classic Routines",
-      "poster": "https://image.tmdb.org/t/p/w500/cQnELfYsehh466Uob2fuXftkoXB.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt1065071",
-      "type": "movie",
-      "name": "Bob Newhart: Off the Record",
-      "poster": "https://image.tmdb.org/t/p/w500/og4BBFFo5Y8flSYAmdEWojBt2Cp.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt1071280",
-      "type": "movie",
-      "name": "Don Rickles: Alive and Kicking",
-      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
-      "releaseInfo": "1972"
-    },
-    {
-      "id": "tt28267801",
-      "type": "movie",
-      "name": "Don Rickles Live Pine Knob Music Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/bcMLBkReBTPuJwzZ51SYjOZEECm.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1193892",
-      "type": "movie",
-      "name": "Don Rickles Live in Casino Rama 2010",
-      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1193903",
-      "type": "movie",
-      "name": "Don Rickles LIVE in Arizona 2014",
-      "poster": "https://image.tmdb.org/t/p/w500/9SBgyxPJBH3oZCRipOHTT2vn6zO.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1198683",
-      "type": "movie",
-      "name": "Don Rickles Live At Mohegan Sun 2011",
-      "poster": "https://image.tmdb.org/t/p/w500/vFsPt0gd43ldBZQ7bIXin8Vi7ud.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt31630255",
-      "type": "movie",
-      "name": "Don Rickles Live in Pala 2013",
-      "poster": "https://image.tmdb.org/t/p/w500/c9KeDTFfCMy5k6BgnTjHcpWmj2K.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt34613816",
-      "type": "movie",
-      "name": "Don Rickles Live Mystic Lake",
-      "poster": "https://image.tmdb.org/t/p/w500/nHoBSqffPEQmTEiuKmJeLDPOuyY.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0085474",
-      "type": "movie",
-      "name": "Eddie Murphy: Delirious",
-      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt0092948",
-      "type": "movie",
-      "name": "Eddie Murphy Raw",
-      "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
-      "releaseInfo": "1987"
-    },
-    {
       "id": "tt0249854",
       "type": "movie",
       "name": "George Carlin: On Location at USC",
@@ -224,13 +85,6 @@
       "releaseInfo": "2008"
     },
     {
-      "id": "tt2170618",
-      "type": "movie",
-      "name": "Redd Foxx: Video in a Plain Brown Wrapper",
-      "poster": "https://image.tmdb.org/t/p/w500/736bCjtJXmSLBtD1kBWtbthc2S1.jpg",
-      "releaseInfo": "1983"
-    },
-    {
       "id": "tt0089918",
       "type": "movie",
       "name": "Richard Pryor: Live and Smokin'",
@@ -259,11 +113,18 @@
       "releaseInfo": "1983"
     },
     {
-      "id": "tt12636452",
+      "id": "tt0085474",
       "type": "movie",
-      "name": "The Last Days of Richard Pryor",
-      "poster": "https://image.tmdb.org/t/p/w500/fAYMQ2Hei9ULzFQnXWnik3vdbvA.jpg",
-      "releaseInfo": "2020"
+      "name": "Eddie Murphy: Delirious",
+      "poster": "https://image.tmdb.org/t/p/w500/qnNXoflFXeUg692kulMKVJVRzYf.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0092948",
+      "type": "movie",
+      "name": "Eddie Murphy Raw",
+      "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+      "releaseInfo": "1987"
     },
     {
       "id": "tt0196055",
@@ -287,6 +148,68 @@
       "releaseInfo": "2009"
     },
     {
+      "id": "tt0168459",
+      "type": "movie",
+      "name": "Andrew Dice Clay: The Diceman Cometh",
+      "poster": "https://image.tmdb.org/t/p/w500/nXG4G4IeteDqNO8tEXrbsdT1Rcm.jpg",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0101726",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Dice Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/yXmkQVETaCr8BHITkLeJe6x1GdA.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0249353",
+      "type": "movie",
+      "name": "Andrew Dice Clay: For Ladies Only",
+      "poster": "https://image.tmdb.org/t/p/w500/oANAx3CxI2GaJmLwuGb2aoJncns.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0249355",
+      "type": "movie",
+      "name": "Andrew Dice Clay: No Apologies",
+      "poster": "https://image.tmdb.org/t/p/w500/vVdhYaEKEV8XjZDpizhMSk8jQO0.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0249352",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Assume the Position",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0201680",
+      "type": "movie",
+      "name": "Andrew Dice Clay: I'm Over Here Now",
+      "poster": "https://image.tmdb.org/t/p/w500/8fo4Ci7DBlQ6UKHV7GdWs2K9eHp.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt2605244",
+      "type": "movie",
+      "name": "Andrew Dice Clay: Indestructible",
+      "poster": "https://image.tmdb.org/t/p/w500/q7UyRK9R0bXBbUkL5Sw71Zau0pe.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0180972",
+      "type": "movie",
+      "name": "Sam Kinison: Banned",
+      "poster": "https://image.tmdb.org/t/p/w500/daZjhSfB1BAT88wCEV2Tz5rmxZW.jpg",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt10446712",
+      "type": "movie",
+      "name": "Sam Kinison: Live in Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/toRKtijR4skjKniA2YaAxS60bjt.jpg",
+      "releaseInfo": "1991"
+    },
+    {
       "id": "tt0334249",
       "type": "movie",
       "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
@@ -308,18 +231,18 @@
       "releaseInfo": "2004"
     },
     {
-      "id": "tt0180972",
+      "id": "tt0148668",
       "type": "movie",
-      "name": "Sam Kinison: Banned",
-      "poster": "https://image.tmdb.org/t/p/w500/daZjhSfB1BAT88wCEV2Tz5rmxZW.jpg",
-      "releaseInfo": "1990"
+      "name": "Bill Hicks: Relentless",
+      "poster": "https://image.tmdb.org/t/p/w500/32lUxq4tk5M8FJPRgxPHTwFmbgn.jpg",
+      "releaseInfo": "1992"
     },
     {
-      "id": "tt10446712",
+      "id": "tt0152183",
       "type": "movie",
-      "name": "Sam Kinison: Live in Vegas",
-      "poster": "https://image.tmdb.org/t/p/w500/toRKtijR4skjKniA2YaAxS60bjt.jpg",
-      "releaseInfo": "1991"
+      "name": "Bill Hicks: Revelations",
+      "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
+      "releaseInfo": "1993"
     },
     {
       "id": "tt0393555",
@@ -334,6 +257,96 @@
       "name": "Steve Martin's Best Show Ever",
       "poster": "https://image.tmdb.org/t/p/w500/pD4FmZ9NRUj8Yut5bP7D8SSvFSF.jpg",
       "releaseInfo": "1981"
+    },
+    {
+      "id": "tt1071280",
+      "type": "movie",
+      "name": "Don Rickles: Alive and Kicking",
+      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
+      "releaseInfo": "1972"
+    },
+    {
+      "id": "tt28267801",
+      "type": "movie",
+      "name": "Don Rickles Live Pine Knob Music Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/bcMLBkReBTPuJwzZ51SYjOZEECm.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1193892",
+      "type": "movie",
+      "name": "Don Rickles Live in Casino Rama 2010",
+      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1193903",
+      "type": "movie",
+      "name": "Don Rickles LIVE in Arizona 2014",
+      "poster": "https://image.tmdb.org/t/p/w500/9SBgyxPJBH3oZCRipOHTT2vn6zO.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1198683",
+      "type": "movie",
+      "name": "Don Rickles Live At Mohegan Sun 2011",
+      "poster": "https://image.tmdb.org/t/p/w500/vFsPt0gd43ldBZQ7bIXin8Vi7ud.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt31630255",
+      "type": "movie",
+      "name": "Don Rickles Live in Pala 2013",
+      "poster": "https://image.tmdb.org/t/p/w500/c9KeDTFfCMy5k6BgnTjHcpWmj2K.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt34613816",
+      "type": "movie",
+      "name": "Don Rickles Live Mystic Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/nHoBSqffPEQmTEiuKmJeLDPOuyY.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1065071",
+      "type": "movie",
+      "name": "Bob Newhart: Off the Record",
+      "poster": "https://image.tmdb.org/t/p/w500/og4BBFFo5Y8flSYAmdEWojBt2Cp.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt2170618",
+      "type": "movie",
+      "name": "Redd Foxx: Video in a Plain Brown Wrapper",
+      "poster": "https://image.tmdb.org/t/p/w500/736bCjtJXmSLBtD1kBWtbthc2S1.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tmdb:1487586",
+      "type": "movie",
+      "name": "Norm MacDonald - One Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/9gRLWWmAMzYBdVYnuOFSpjTiT2c.jpg"
+    },
+    {
+      "id": "tt2009538",
+      "type": "movie",
+      "name": "Norm Macdonald: Me Doing Standup",
+      "poster": "https://image.tmdb.org/t/p/w500/up1Kkqi1QsP4t3uYHVgBt2yfjkE.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt20201450",
+      "type": "movie",
+      "name": "Norm Macdonald: Nothing Special",
+      "poster": "https://image.tmdb.org/t/p/w500/jwQJSMxMn4aIlgNzHIp8HRKIKcF.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt1243457",
+      "type": "movie",
+      "name": "Dave Attell - HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
+      "releaseInfo": "1996"
     }
   ]
 }
