@@ -107,7 +107,12 @@ def classify(video: dict, config: dict, today: date | None = None) -> tuple[str,
     channel = str(video.get("channel") or "")
     video_id = str(video.get("video_id") or "")
     seconds = int(video.get("seconds") or 0)
-    if not ID_RE.fullmatch(video_id) or not 600 <= seconds <= 7200:
+    # An explicitly approved publisher upload may be displayed before its
+    # duration is available; never invent a duration or broaden this exception.
+    pinned = next((r for r in config.get("manual_youtube_sets", [])
+                   if r.get("video_id") == video_id
+                   and normalize(r.get("channel")) == normalize(channel)), None)
+    if not ID_RE.fullmatch(video_id) or (not 600 <= seconds <= 7200 and not pinned):
         return None
     if REJECT_TITLE.search(title) or not STAGE.search(title):
         return None
@@ -127,6 +132,9 @@ def classify(video: dict, config: dict, today: date | None = None) -> tuple[str,
     artist_verified = (video.get("artist_site_embed_verified") is True
                        and artist_site.startswith("https://")
                        and name_in_title(performer, title))
+    if pinned and (normalize(performer) == normalize(pinned.get("performer_search"))
+                   and name_in_title(performer, title) and seconds <= 7200):
+        return ("youtube-viral-rising", performer)
     if not (trusted or creator_channel or artist_verified):
         return None
     if seconds >= 35 * 60:
@@ -144,6 +152,20 @@ def classify(video: dict, config: dict, today: date | None = None) -> tuple[str,
     return ("youtube-hidden-gems", performer)
 
 
+def with_manual_sets(videos, config):
+    """Retain explicitly approved sets; API metadata wins when available."""
+    rows = {r["video_id"]: r for r in videos if isinstance(r, dict) and r.get("video_id")}
+    for entry in config.get("manual_youtube_sets", []):
+        vid = entry["video_id"]
+        rows[vid] = {**entry, **rows.get(vid, {})}
+    return list(rows.values())
+
+
+def runtime_label(video):
+    seconds = int(video.get("seconds") or 0)
+    return f"{seconds // 60} min · " if seconds else ""
+
+
 def preview_rows(videos: list[dict], config: dict, today: date | None = None):
     """Sorted, duplicate-free metadata-only rows, for YouStream cross-addon use."""
     groups = {
@@ -152,7 +174,7 @@ def preview_rows(videos: list[dict], config: dict, today: date | None = None):
         "youtube-full-specials": [],
     }
     seen = set()
-    for video in videos:
+    for video in with_manual_sets(videos, config):
         if not isinstance(video, dict):
             continue
         vid = str(video.get("video_id") or "")
@@ -170,7 +192,7 @@ def preview_rows(videos: list[dict], config: dict, today: date | None = None):
             "name": title,
             "poster": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
             "background": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
-            "description": f"{performer} · {int(video.get('seconds') or 0) // 60} min · "
+            "description": f"{performer} · {runtime_label(video)}"
                            f"YouTube preview · Playback may open externally",
             "releaseInfo": str(video.get("published_at", "")[:4]),
         })
@@ -193,7 +215,7 @@ def merged_movie_previews(videos: list[dict], config: dict, today: date | None =
               "youtube-full-specials": []}
     resources = {}
     seen = set()
-    for video in videos:
+    for video in with_manual_sets(videos, config):
         if not isinstance(video, dict):
             continue
         video_id = str(video.get("video_id") or "")
@@ -213,7 +235,7 @@ def merged_movie_previews(videos: list[dict], config: dict, today: date | None =
             "name": title + " [YouTube]",
             "poster": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
             "background": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
-            "description": (f"{performer} · {int(video.get('seconds') or 0) // 60} minute YouTube upload. "
+            "description": (f"{performer} · {runtime_label(video)}YouTube upload. "
                             "Preview candidate: availability and playback are not guaranteed; "
                             "may open YouTube externally."),
         }

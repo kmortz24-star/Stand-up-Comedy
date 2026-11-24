@@ -208,6 +208,13 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
                 total_new += ingest(video, raw.get(video.get("id", ""), {}))
 
     try:
+        # Resolve exact approved video IDs cheaply, independent of rotating
+        # search queries. The catalog retains its explicit fallback if unavailable.
+        pending_manual = {r["video_id"]: {"performer": r["performer_search"],
+                          "discovered_by": "manual_id"}
+                          for r in config.get("manual_youtube_sets", [])
+                          if not stored.get(r["video_id"], {}).get("seconds")}
+        resolve(pending_manual)
         for kind, query, performer, special_title, label in queries:
             try:
                 response = search_fn(key, "search", part="snippet", type="video", maxResults=50,

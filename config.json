@@ -17,17 +17,27 @@
   "legends_comedians": [
     "George Carlin",
     "Richard Pryor",
-    "Andrew Dice Clay",
     "Eddie Murphy",
-    "Sam Kinison",
-    "Bill Hicks",
-    "Rodney Dangerfield",
     "Robin Williams",
+    "Andrew Dice Clay",
+    "Sam Kinison",
+    "Rodney Dangerfield",
+    "Bill Hicks",
     "Steve Martin",
-    "Lenny Bruce",
-    "Redd Foxx",
+    "Don Rickles",
     "Bob Newhart",
-    "Don Rickles"
+    "Redd Foxx",
+    "Lenny Bruce",
+    "Norm Macdonald",
+    "Dave Attell",
+    "Brian Regan",
+    "Steven Wright",
+    "Gilbert Gottfried",
+    "Bob Saget",
+    "Richard Lewis",
+    "Sinbad",
+    "Denis Leary",
+    "Lewis Black"
   ],
   "hidden_gems_max_popularity": 15,
   "hidden_gems_min_rating": 6.5,
@@ -148,6 +158,9 @@
       "event"
     ],
     "tt20723672": [
+      "event"
+    ],
+    "tt14365068": [
       "event"
     ]
   },
@@ -1194,5 +1207,20 @@
     "tt12509942",
     "tt34379477",
     "tt15338656"
+  ],
+  "legends_excluded_ids": [
+    "tt14365068",
+    "tt12636452",
+    "tt0777178"
+  ],
+  "manual_youtube_sets": [
+    {
+      "video_id": "a3BMzZVEn6g",
+      "title": "My Mommy Issues are Super Funny | Cristina Mariani Stand Up Comedy",
+      "channel": "Jam Comedy",
+      "performer_search": "Cristina Mariani",
+      "published_at": "2024-11-21",
+      "url": "https://www.youtube.com/watch?v=a3BMzZVEn6g"
+    }
   ]
 }
