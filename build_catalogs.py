@@ -541,8 +541,14 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
 
     # A hand-picked early stand-up generation. Their newer specials belong here
     # too; career era matters, not the date on the individual special.
-    legend_names = {norm(n) for n in config.get("legends_comedians", [])}
-    legends = [r for r in accepted if norm(r["performer"]) in legend_names]
+    # Preserve the manually curated performer priority, not alphabetical order.
+    # Within each comedian keep the usual chronological special ordering.
+    legend_priority = {norm(n): i for i, n in enumerate(config.get("legends_comedians", []))}
+    legend_excluded = set(config.get("legends_excluded_ids", []))
+    legends = [r for r in accepted if norm(r["performer"]) in legend_priority
+               and r["id"] not in legend_excluded]
+    legends.sort(key=lambda r: (legend_priority[norm(r["performer"])],
+                               release_date(r), norm(display_title(r))))
 
     # Less famous, reasonably rated works. Tune after we see real title counts.
     gems = [
