@@ -530,7 +530,8 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
     accepted.sort(key=alphabetical_sort_key)
     alphabetical = [[] for _ in groups]
     for record in accepted:
-        alphabetical[bucket_for(record["performer"], groups)].append(record)
+        if record["id"] not in set(config.get("alphabet_duplicate_movie_ids", [])):
+            alphabetical[bucket_for(record["performer"], groups)].append(record)
 
     fresh_start = month_window_start(today, config["new_specials_months"])
     new = [r for r in accepted if release_date(r) >= fresh_start]
@@ -682,6 +683,9 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
     full_by_bucket = defaultdict(list)
     if merged_youtube:
         for entry in merged_youtube.get("youtube-full-specials", []):
+            if (entry["meta"]["id"] in set(config.get("excluded_youtube_ids", []))
+                    or norm(entry["performer"]) in {norm(x) for x in config.get("non_standup_performers", [])}):
+                continue
             index = bucket_for(entry["performer"], config["alphabet_groups"])
             if index is not None:
                 full_by_bucket[f"comedians-{index + 1:02d}"].append(entry)

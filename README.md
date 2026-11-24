@@ -302,3 +302,7 @@ remaining/newly discovered shows following alphabetically. This is an
 editorial recognizability order, **not** a measured watch-count ranking.
 Every series retains all its previously indexed seasons and episodes. No
 new catalog row or Nuvio JSON import is required.
+
+### November 24 manual curation refresh
+
+Alphabetical rows now use AB / CD / EFGHI / J / KLM / NOPQR / STUVWXYZ. The source database and YouTube candidates are retained. Explicit catalog exclusions and selected ensemble-event transfers are configured in `config.json`; the rationale for each matched removal and duplicate pair is in `data/manual_curation_20261124.json`. For approved duplicate pairs, the YouTube card is retained in the alphabetical rows and the movie record remains eligible for other rows. Reversing an exclusion requires removing its ID from `excluded_ids` and, for an entire performer, their name from `non_standup_performers`. No new global rating cutoff was introduced. The remaining questionable individual specials and missing-special research need separate review.

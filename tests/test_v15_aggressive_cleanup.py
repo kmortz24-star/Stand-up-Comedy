@@ -75,7 +75,7 @@ class AggressiveCleanupV15Tests(unittest.TestCase):
         self.assertIn('event', self.cfg['tag_overrides']['tt7657600'])
 
     def test_no_new_category_or_alphabet_reordering(self):
-        self.assertEqual(self.cfg['alphabet_groups'], ['AB', 'CDEFG', 'HIJ', 'KLM', 'NOPQR', 'STUVWXYZ'])
+        self.assertEqual(self.cfg['alphabet_groups'], ['AB', 'CD', 'EFGHI', 'J', 'KLM', 'NOPQR', 'STUVWXYZ'])
         self.assertEqual(self.cfg['ranked_list_size'], 200)
         self.assertEqual(self.cfg['fan_favorites_size'], 200)
 
