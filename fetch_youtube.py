@@ -73,23 +73,35 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
     stored = {r["video_id"]: r for r in read_json(DATA_PATH, []) if r.get("video_id")}
     cache = {r["id"]: r for r in read_json(SPECIALS_PATH, []) if r.get("id")}
     names, curated = discovery_names(config, state, cache)
+    tv_rows = read_json(ROOT / 'data' / 'tv_episode_candidates.json', [])
+    tv_priority = {norm(row['performer']) for row in tv_rows if row.get('performer')}
     queue_state = {"searched_performers": state.setdefault("youtube_searched", {})}
-    due = scheduled_names(names, curated, queue_state, cache, today=today, max_searches=48)
+    # 2 spotlight searches plus broad low-coverage searches. Independent TV
+    # credits help uncover missing standalone specials automatically; we never
+    # insert the special titles manually. The roster still rotates on every run.
+    spotlight = scheduled_names(names, curated, queue_state, cache, today=today,
+                                max_searches=2, tv_performers=tv_priority)
+    coverage = scheduled_names(names, set(), queue_state, cache, today=today,
+                               max_searches=26, tv_performers=tv_priority)
+    due = (spotlight + [name for name in coverage if name not in spotlight])[:21]
     # A separate rotating queue catches named specials that never appear in
     # generic comedian searches, including older TV specials.
     title_state = {'searched_titles': state.setdefault('youtube_searched_titles', {}),
                    'works': state.get('works', [])}
-    title_leads = title_search_queue(title_state, cache, today=today, limit=20)
+    title_leads = title_search_queue(title_state, cache, today=today, limit=8)
     # A query has its own performer/title label, used for later audit.
-    queries = [(q, '', '') for q in GENERAL_QUERIES] + [
+    general_checked = state.get('youtube_general_searched', '')
+    general_due = (not general_checked or general_checked <=
+                   (today.replace(day=1)).isoformat())
+    general = [(q, '', '') for q in GENERAL_QUERIES[:2]] if general_due else []
+    queries = general + [
         (f"{name} full stand up comedy special", name, '') for name in due
-    ] + [(f"{name} stand up comedy set", name, '') for name in due[:12]] + [
+    ] + [(f"{name} stand up comedy set", name, '') for name in due[:1]] + [
         (f"{item['title']} {item.get('performer', '')} full stand up", item.get('performer', ''), item['title'])
         for item in title_leads
     ]
-
-    # Stay under YouTube's documented default 100 search.list requests/day.
-    # 4 general + 48 comedians + 12 alternate sets + 20 exact works = 84.
+    # Up to 2 general + 21 comedian + 1 alternate set + 8 exact title = 32.
+    assert len(queries) <= 32, 'Exceeded the per-run YouTube search budget' 
     raw = {}
     for query, performer, special_title in queries:
         response = search_fn(key, "search", part="snippet", type="video", maxResults=50,
@@ -120,29 +132,32 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
             playlist_id = uploads.get(channel_id)
             if not playlist_id:
                 continue
-            token = (cursor.get(channel_id) or {}).get('page', '')
-            for _ in range(2):
-                params = {'part': 'snippet', 'playlistId': playlist_id, 'maxResults': 50}
-                if token:
-                    params['pageToken'] = token
+            # First scan newest uploads EVERY run, then advance a separate
+            # cursor through archival pages to catch older channel specials.
+            archive_token = (cursor.get(channel_id) or {}).get('page', '')
+            newest = search_fn(key, 'playlistItems', part='snippet',
+                               playlistId=playlist_id, maxResults=50)
+            batches = [newest]
+            archive_token = archive_token or newest.get('nextPageToken', '')
+            if archive_token:
                 try:
-                    batch = search_fn(key, 'playlistItems', **params)
+                    archive = search_fn(key, 'playlistItems', part='snippet',
+                                        playlistId=playlist_id, maxResults=50,
+                                        pageToken=archive_token)
                 except HTTPError as exc:
-                    if exc.code != 400 or not token:
+                    if exc.code != 400:
                         raise
-                    # Expired playlist cursor: re-scan from the first page.
-                    token = ''
-                    batch = search_fn(key, 'playlistItems', part='snippet',
-                                      playlistId=playlist_id, maxResults=50)
+                    # Playlist changed; archive cursor resets safely.
+                    archive = {'items': [], 'nextPageToken': ''}
+                batches.append(archive)
+                archive_token = archive.get('nextPageToken', '')
+            for batch in batches:
                 for item in batch.get('items', []):
                     vid = ((item.get('snippet') or {}).get('resourceId') or {}).get('videoId')
                     if vid:
                         raw.setdefault(vid, {'performer': '', 'special_title': '',
                                              'discovered_by': 'channel_uploads'})
-                token = batch.get('nextPageToken', '')
-                if not token:
-                    break
-            cursor[channel_id] = {'page': token, 'checked': today.isoformat()}
+            cursor[channel_id] = {'page': archive_token, 'checked': today.isoformat()}
     print(f"YouTube search and channel scanning: {len(raw)} video leads from {len(queries)} queries and {len(chosen)} channels", flush=True)
 
     # videos.list supplies actual length, whereas search.list does not.
@@ -186,6 +201,8 @@ def gather_youtube(key: str, *, search_fn=youtube_get, today: date | None = None
     for item in title_leads:
         state['youtube_searched_titles'][item['source_id']] = today.isoformat()
     state["youtube_last_run"] = today.isoformat()
+    if general_due:
+        state['youtube_general_searched'] = today.isoformat()
     state["youtube_last_discovery"] = {"people_searched": len(due), "special_titles_searched": len(title_leads),
                                        "metadata_candidates_checked": len(video_ids),
                                        "video_candidates_passed": new_count, "channels_scanned": len(chosen)}
@@ -203,7 +220,8 @@ def main():
         gather_youtube(key)
     except (HTTPError, URLError, TimeoutError) as exc:
         # A quota/API hiccup shouldn't block a working TMDB catalog refresh.
-        print(f"YouTube candidate stage unavailable: {type(exc).__name__}; catalog refresh unaffected")
+        reason = f"HTTP {exc.code}" if isinstance(exc, HTTPError) else type(exc).__name__
+        print(f"YouTube candidate stage unavailable ({reason}); catalog refresh unaffected")
 
 
 if __name__ == "__main__":

@@ -136,3 +136,56 @@ class YoutubeChannelTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+
+class WiderSourceDiscoveryTests(unittest.TestCase):
+    def test_id_free_credit_special_reaches_title_search_queue(self):
+        state = {'works': [{'qid':'Q8822', 'name': 'A Night at the Met',
+                            'performer': 'Alex Comic', 'imdb': '', 'tmdb': ''}]}
+        selected = title_search_queue(state, {}, today=date(2026, 11, 24))
+        self.assertEqual(len(selected), 1)
+        self.assertEqual(selected[0]['source'], 'wikidata')
+        self.assertEqual(selected[0]['performer'], 'Alex Comic')
+
+    def test_full_alphabet_performer_search_rotation(self):
+        from fetch_tmdb import scheduled_names
+        names = ['Adam Comic', 'Bob Comic', 'Fred Comic', 'Max Comic',
+                 'Robin Comic', 'Zoe Comic']
+        selected = scheduled_names(names, set(), {}, {},
+                                   today=date(2026, 11, 24), max_searches=6)
+        self.assertCountEqual(selected, names)
+        self.assertNotEqual(selected, sorted(names))
+
+    def test_television_evidence_prioritizes_names_without_adding_specials(self):
+        from fetch_tmdb import scheduled_names
+        cache = {'x': {'id': 'x', 'title': 'A Standup Special', 'performer': 'Alex Comic'}}
+        selected = scheduled_names(['Alex Comic', 'Bill Comic', 'Chris Comic'],
+                                   set(), {}, cache, today=date(2026, 11, 24),
+                                   max_searches=1, tv_performers={'alex comic'})
+        self.assertEqual(selected, ['Alex Comic'])
+
+    def test_exact_title_comedian_prefix_and_unrelated_movie(self):
+        api = FakeTMDB({'/search/movie': {'results': [
+            {'id': 44, 'title': 'Alex Comic: A Night at The Met',
+             'overview': 'Alex Comic performs a live stand-up set'},
+            {'id': 45, 'title': 'A Night at The Met',
+             'overview': 'A musical documentary'},
+        ]}})
+        found = search_exact_title_ids(api, {'title': 'A Night at The Met',
+                                            'performer': 'Alex Comic'})
+        self.assertEqual(found, {44})
+
+    def test_wikidata_credited_works_merge(self):
+        from discovery_sources import parse_works, merge_works
+        direct = parse_works([{'work':{'value':'http://www.wikidata.org/entity/Q100'},
+                               'name':{'value':'Alex Comic: Live'}}])
+        credited = parse_works([{'work':{'value':'http://www.wikidata.org/entity/Q100'},
+                                 'name':{'value':'Alex Comic: Live'},
+                                 'performerName':{'value':'Alex Comic'}}])
+        combined = merge_works(direct, credited)
+        self.assertEqual(len(combined), 1)
+        self.assertEqual(combined[0]['performer'], 'Alex Comic')
+
+if __name__ == '__main__':
+    unittest.main()

@@ -8,6 +8,8 @@ after this script. Public TMDB data is used with attribution in README.md.
 from __future__ import annotations
 
 import argparse
+import hashlib
+from collections import Counter
 import json
 import os
 import re
@@ -169,24 +171,33 @@ def discovery_names(config: dict, state: dict, cache: dict) -> tuple[list[str], 
     # Adds people known from existing TMDB metadata and the full Wikidata roster.
     all_names = curated | {r["name"] for r in state.get("roster", []) if r.get("name")}
     all_names |= {r["performer"] for r in cache.values() if r.get("performer")}
-    # De-duplicate punctuation/case variants.
+    # De-duplicate punctuation/case variants; ignore malformed cast names.
     unique = {}
     for name in sorted(all_names, key=lambda v: (len(v), v.casefold())):
-        if 3 <= len(name) <= 80:
+        if 3 <= len(name) <= 80 and len(re.findall(r"[a-z]", name.casefold())) >= 3:
             unique.setdefault(norm(name), name)
     return list(unique.values()), {norm(x) for x in curated}
 
 
 def scheduled_names(names: list[str], curated: set[str], state: dict, cache: dict,
-                    *, today: date, max_searches: int) -> list[str]:
+                    *, today: date, max_searches: int,
+                    tv_performers: set[str] | None = None) -> list[str]:
     checked = state.setdefault("searched_performers", {})
-    known = {norm(r["performer"]) for r in cache.values() if r.get("performer")}
+    counts = Counter(norm(r["performer"]) for r in cache.values() if r.get("performer"))
+    tv_performers = tv_performers or set()
     def score(name: str):
         previous = checked.get(norm(name), "")
-        # Previously unknown curated names get priority, then the entire Wikidata
-        # roster rotates by oldest check (not just the few named examples).
-        priority = 0 if norm(name) in curated and norm(name) not in known else 1
-        return previous, priority, norm(name)
+        # First recheck existing landmark/featured comics, then people who have
+        # separately documented TV sets but few indexed standalone specials.
+        # The TV evidence is automatic; this does NOT manually seed missing titles.
+        key = norm(name)
+        priority = (0 if key in curated else
+                    1 if key in tv_performers and counts[key] <= 1 else
+                    2 if counts[key] == 0 else 3)
+        # Hash-spread names across the full alphabet instead of spending
+        # the first several days on A/B/C before reaching M or R.
+        spread = hashlib.sha256(norm(name).encode('utf-8')).hexdigest()
+        return previous, priority, spread
     # Only repeat a person's search after 45 days, unless there's no record.
     cutoff = (today - timedelta(days=45)).isoformat()
     due = [name for name in names if checked.get(norm(name), "") <= cutoff]
@@ -213,7 +224,7 @@ def discover_work_ids(api: TMDB, state: dict, known_ids: set[int], *,
     return result - known_ids
 
 
-def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 24) -> list[dict]:
+def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 80) -> list[dict]:
     """Rotate title leads independently discovered in Wikidata.
 
     This is *not* a list of user-provided exceptions. Wikidata often lacks
@@ -222,16 +233,18 @@ def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 24
     candidates = {}
     existing_ids = {r.get("id") for r in cache.values()}
     existing_tmdbs = {str(r.get("tmdb_id")) for r in cache.values() if r.get("tmdb_id")}
+    # Use independently discovered Wikidata titles, including those without IDs.
     for work in state.get("works", []):
         title = str(work.get("name") or "").strip()
         if not (5 <= len(title) <= 130):
             continue
         if (work.get("imdb") and work["imdb"] in existing_ids) or (work.get("tmdb") and work["tmdb"] in existing_tmdbs):
             continue
-        key = str(work.get("qid") or norm(title))
+        key = str(work.get("qid") or work.get("imdb") or norm(title))
+        source = str(work.get('source') or 'wikidata')
         candidates[key] = {"title": title, "imdb_id": work.get("imdb") or "",
                            "tmdb_id": work.get("tmdb") or "", "performer": work.get("performer") or "",
-                           "source": "wikidata", "source_id": key}
+                           "source": source, "source_id": key}
     checked = state.setdefault("searched_titles", {})
     cutoff = (today - timedelta(days=60)).isoformat()
     # Respect both old normalized-title cursors and new Wikidata-QID cursors
@@ -239,9 +252,12 @@ def title_search_queue(state: dict, cache: dict, *, today: date, limit: int = 24
     def last_checked(row):
         return checked.get(row["source_id"], checked.get(norm(row["title"]), ""))
     due = [row for row in candidates.values() if last_checked(row) <= cutoff]
+    # Prioritize new leads without existing IDs as well as known IDs; sorting
+    # only ID-bearing works first kept no-ID classics stuck for many cycles.
     due.sort(key=lambda row: (last_checked(row),
-                              0 if row["imdb_id"] or row["tmdb_id"] else 1,
-                              row["title"].casefold()))
+                              0 if not row["tmdb_id"] and not row["imdb_id"] else 1,
+                              0 if row['performer'] else 1,
+                              hashlib.sha256(row['source_id'].encode('utf-8')).hexdigest()))
     return due[:limit]
 
 
@@ -260,11 +276,18 @@ def search_exact_title_ids(api: TMDB, lead: dict) -> set[int]:
     title = str(lead.get("title") or "")
     if not title:
         return set()
-    response = api.get("/search/movie", query=title, include_adult="false", page=1)
+    performer = str(lead.get('performer') or '').strip()
+    searches = [title]
+    if performer and norm(performer) not in norm(title):
+        searches.append(f"{performer} {title}")
     key = norm(title)
-    for row in response.get("results", []):
+    responses = [api.get("/search/movie", query=q, include_adult="false", page=1)
+                 for q in dict.fromkeys(searches)]
+    for row in [r for response in responses for r in response.get('results', [])]:
         actual = norm(row.get("title") or row.get("original_title") or "")
-        if not actual or actual != key:
+        # Many databases prefix the comedian to the work title.
+        stripped = actual[len(norm(performer)):].strip() if performer and actual.startswith(norm(performer)) else actual
+        if not actual or not (actual == key or stripped == key):
             continue
         overview = str(row.get("overview") or "")
         # The independent title's genre is evidence of a stand-up work, but
@@ -317,7 +340,7 @@ def movie_record(api: TMDB, movie_id: int) -> dict:
 
 
 def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days: int,
-              *, config: dict, state: dict, max_performer_searches: int = 120) -> dict:
+              *, config: dict, state: dict, max_performer_searches: int = 200) -> dict:
     today = date.today()
     state = refresh_wikidata(state, today=today)
     keyword_kinds = keyword_strengths(api)
@@ -345,8 +368,10 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
             ids.update(int(r["id"]) for r in rows.get("results", []) if titled_special(r))
 
     names, curated = discovery_names(config, state, cache)
+    tv_rows = read_json(ROOT / 'data' / 'tv_episode_candidates.json', [])
+    tv_priority = {norm(row['performer']) for row in tv_rows if row.get('performer')}
     due = scheduled_names(names, curated, state, cache, today=today,
-                          max_searches=max_performer_searches)
+                          max_searches=max_performer_searches, tv_performers=tv_priority)
     performer_hints = {}
     verified_credit_hints = {}
     for index, name in enumerate(due, 1):
@@ -372,9 +397,15 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
     ids.update(discover_work_ids(api, state, ids, today=today))
     # Search another rotating batch of *specific special titles*, including
     # Wikidata works absent from TMDB tags (never hand-entered exceptions).
-    title_leads = title_search_queue(state, cache, today=today)
+    title_leads = title_search_queue(state, cache, today=today, limit=80)
+    matched_leads = 0
+    matched_by_source = {}
     for lead in title_leads:
         matched = search_exact_title_ids(api, lead)
+        if matched:
+            matched_leads += 1
+            source = lead.get('source', 'unknown')
+            matched_by_source[source] = matched_by_source.get(source, 0) + 1
         ids.update(matched)
         for movie_id in matched:
             if lead.get('performer'):
@@ -385,7 +416,10 @@ def fetch_all(api: TMDB, from_year: int, to_year: int, cache: dict, refresh_days
     state["last_run"] = today.isoformat()
     state["last_discovery"] = {"wikidata_people": len(state.get("roster", [])),
                                "wikidata_works": len(state.get("works", [])),
-                               "performers_searched": len(due), "total_tmdb_candidates": len(ids)}
+                               "performers_searched": len(due), "total_tmdb_candidates": len(ids),
+                               "exact_title_searches": len(title_leads),
+                               "exact_title_matches": matched_leads,
+                               "matched_by_source": matched_by_source}
     # Preserve existing entries and their tags; refresh metadata periodically.
     old_by_tmdb = {int(r["tmdb_id"]): r for r in cache.values() if r.get("tmdb_id") is not None}
     refreshed = 0
@@ -439,7 +473,7 @@ def main():
     parser.add_argument("--from-year", type=int, default=1960)
     parser.add_argument("--to-year", type=int, default=date.today().year)
     parser.add_argument("--refresh-days", type=int, default=30)
-    parser.add_argument("--max-comedians", type=int, default=120)
+    parser.add_argument("--max-comedians", type=int, default=200)
     args = parser.parse_args()
     if args.from_year > args.to_year or args.refresh_days < 1 or args.max_comedians < 0:
         raise SystemExit("Invalid year range")

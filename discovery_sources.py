@@ -14,7 +14,7 @@ from urllib.request import Request, urlopen
 
 WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
 USER_AGENT = "NuvioStandupCatalog/1.2 (https://github.com/kmortz24-star/Stand-up-Comedy; metadata discovery)"
-DISCOVERY_SCHEMA_VERSION = 2
+DISCOVERY_SCHEMA_VERSION = 3
 
 # Exact occupational and genre identifiers, NOT a search for a few names.
 PEOPLE_QUERY = """
@@ -39,6 +39,22 @@ SELECT DISTINCT ?work ?name ?imdb ?tmdb ?performerName WHERE {
     ?performer rdfs:label ?performerName .
     FILTER(LANG(?performerName) = "en")
   }
+} LIMIT 6000
+"""
+
+
+# Independent filmography leads: finds works whose performer is a stand-up
+# comedian, even if the work lacks the usual stand-up genre tag. A title-only
+# text filter limits unrelated films; TMDB matching validates before publishing.
+CREDITED_WORKS_QUERY = """
+SELECT DISTINCT ?work ?name ?imdb ?tmdb ?performerName WHERE {
+  ?performer wdt:P106 wd:Q18545066 ; rdfs:label ?performerName .
+  FILTER(LANG(?performerName) = "en")
+  ?work (wdt:P175|wdt:P161|wdt:P371) ?performer ; rdfs:label ?name .
+  FILTER(LANG(?name) = "en")
+  FILTER(REGEX(STR(?name), "stand.?up|comedy special|live|night at|evening|roast|presents|uncensored", "i"))
+  OPTIONAL { ?work wdt:P345 ?imdb . }
+  OPTIONAL { ?work wdt:P4947 ?tmdb . }
 } LIMIT 6000
 """
 
@@ -99,32 +115,55 @@ def parse_works(rows: list[dict]) -> list[dict]:
 
 
 
+def merge_works(*sources: list[dict]) -> list[dict]:
+    """Merge by Wikidata QID without dropping credit evidence."""
+    merged = {}
+    for records in sources:
+        for work in records:
+            qid = work.get('qid')
+            if not qid:
+                continue
+            previous = merged.get(qid, {})
+            merged[qid] = {key: work.get(key) or previous.get(key, '')
+                           for key in ('qid', 'name', 'imdb', 'tmdb', 'performer')}
+    return sorted(merged.values(), key=lambda row: row['qid'])
+
+
 def refresh_wikidata(state: dict, *, today, max_age_days: int = 7, query_fn=sparql) -> dict:
-    """Keep last successful cache if Wikidata is down or rate-limited."""
+    """Refresh open-data leads weekly; preserve old data on network failures."""
     from datetime import date, timedelta
     try:
         last = date.fromisoformat(state.get("wikidata_refreshed", ""))
     except ValueError:
         last = date(1900, 1, 1)
-    if (last >= today - timedelta(days=max_age_days) and state.get("roster")
-            and state.get("wikidata_schema") == DISCOVERY_SCHEMA_VERSION):
+    if (last >= today - timedelta(days=max_age_days) and state.get('roster')
+            and state.get('wikidata_schema') == DISCOVERY_SCHEMA_VERSION):
         return state
-    updated = False
-    for key, query, parser in (("roster", PEOPLE_QUERY, parse_people), ("works", WORKS_QUERY, parse_works)):
+    any_updated = False
+    works = state.get('works', [])
+    for key, query, parser in (("roster", PEOPLE_QUERY, parse_people),
+                               ("works", WORKS_QUERY, parse_works),
+                               ("credited_works", CREDITED_WORKS_QUERY, parse_works)):
         try:
             parsed = parser(query_fn(query))
             if parsed:
-                state[key] = parsed
+                if key == 'works':
+                    works = parsed
+                elif key == 'credited_works':
+                    works = merge_works(works, parsed)
+                    state['credited_works_count'] = len(parsed)
+                else:
+                    state[key] = parsed
                 print(f"Wikidata {key}: {len(parsed)} leads", flush=True)
-                updated = True
+                any_updated = True
             else:
-                print(f"Wikidata {key}: no leads; preserving cached records", flush=True)
+                print(f"Wikidata {key}: no leads; preserving cache", flush=True)
         except (HTTPError, URLError, TimeoutError, ValueError, KeyError, OSError) as exc:
-            print(f"Wikidata {key} unavailable ({type(exc).__name__}); cached discovery continues", flush=True)
-    if updated:
-        state["wikidata_refreshed"] = today.isoformat()
-        # Failed sources can retain their older cache, but a new schema is
-        # considered active only after the expanded works query succeeds.
-        if state.get('works') and any('performer' in w for w in state['works']):
-            state["wikidata_schema"] = DISCOVERY_SCHEMA_VERSION
+            print(f"Wikidata {key} unavailable ({type(exc).__name__}); cache preserved", flush=True)
+    state['works'] = merge_works(state.get('works', []), works)
+    if any_updated:
+        state['wikidata_refreshed'] = today.isoformat()
+        # A failed credited query should get another chance at the next run.
+        if state.get('credited_works_count'):
+            state['wikidata_schema'] = DISCOVERY_SCHEMA_VERSION
     return state

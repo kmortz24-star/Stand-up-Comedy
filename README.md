@@ -148,3 +148,25 @@ TMDB public metadata, not scraped IMDb pages or bulk-dataset republishing.
 that a previously missing real special is actually found, inspect the live
 results after GitHub Actions runs. No example titles or IDs are forcibly
 inserted to produce a pass.
+
+
+
+### Cross-source discovery improvements
+
+Independent comedian/stand-up leads come from Wikidata (CC0) and from TMDB
+filmographies and movie titles. This includes Wikidata works without external
+IDs and works credited to stand-up comedians, even when they lack a stand-up
+genre tag. Independently found IMDb title IDs are matched through TMDB's
+`/find/{imdb_id}` endpoint; **there is no bulk IMDb dataset republishing**.
+Any record without a matching Nuvio movie identity stays out of published movie
+catalogs. There are no manually seeded exceptions for particular specials.
+
+YouTube discovery rotates through the automatically discovered roster and
+specific special titles. To avoid exhausting the default quota, each refresh
+uses at most 32 `search.list` calls (previously 84), plus inexpensive metadata
+and upload-playlist requests. It refreshes new channel uploads and rotates into
+older videos. YouTube candidates remain separate from Nuvio movie catalogs
+until playback and matching are verified.
+
+The diagnostics in `data/discovery_state.json` report number of names searched,
+independent titles searched, and source-specific exact-title matches.
