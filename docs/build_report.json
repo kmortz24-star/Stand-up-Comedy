@@ -1,19 +1,20 @@
 {
   "counts": {
-    "New Specials": 180,
+    "New Specials": 152,
     "Top Rated": 200,
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
-    "Comedy Legends": 55,
+    "Comedy Legends": 47,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 77,
-    "Comedians AB": 242,
-    "CDEFG": 377,
-    "HIJ": 277,
-    "KLM": 284,
-    "NOPQR": 257,
-    "STUVWXYZ": 236,
+    "Roasts & Comedy Events": 66,
+    "Comedians AB": 213,
+    "CD": 184,
+    "EFGHI": 166,
+    "J": 189,
+    "KLM": 232,
+    "NOPQR": 184,
+    "STUVWXYZ": 182,
     "Stand-Up TV Shows": 25
   },
   "total_unique_records": 3006,
@@ -103,19 +104,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tt13559964",
-      "tmdb_id": 1151629,
-      "title": "The Last Laugh",
-      "performer": null,
-      "release_date": "2024-01-04",
-      "poster_path": "/ycugINuCK74BJFsVUWIbs5rQWs5.jpg",
-      "popularity": 0.1618,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt35422746",
       "tmdb_id": 1171007,
       "title": "It's Dark and Patel Is Hot",
@@ -186,19 +174,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1215557",
-      "tmdb_id": 1215557,
-      "title": "Yüksek Gelirim",
-      "performer": null,
-      "release_date": "2022-06-29",
-      "poster_path": "/1hRYZ7NG5kfNpAjQqeXTAGLWLyA.jpg",
-      "popularity": 0.3306,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt1389096",
       "tmdb_id": 121824,
       "title": "Stand Up Guys",
@@ -241,32 +216,6 @@
       "original_language": "en"
     },
     {
-      "id": "tt32108764",
-      "tmdb_id": 1274344,
-      "title": "Para una vez que hablo",
-      "performer": null,
-      "release_date": "2024-04-12",
-      "poster_path": "/kPOMCaDXvd6JbMyTm1xATBKRFcR.jpg",
-      "popularity": 0.1684,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1277522",
-      "tmdb_id": 1277522,
-      "title": "Sebastian Marx - On est bien là",
-      "performer": null,
-      "release_date": "2022-10-14",
-      "poster_path": "/astBWr2WmA8Yz2XPKhZAipi9R58.jpg",
-      "popularity": 0.4166,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1280358",
       "tmdb_id": 1280358,
       "title": "How to Bake a Cake in the Digital Age",
@@ -279,19 +228,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tmdb:1307876",
-      "tmdb_id": 1307876,
-      "title": "Pride Comedy Show, 2e édition",
-      "performer": null,
-      "release_date": "2024-06-15",
-      "poster_path": "/xdC3SznblZUXmhc4cKcdNNqrdef.jpg",
-      "popularity": 1.2187,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt32731775",
@@ -392,32 +328,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tmdb:1451553",
-      "tmdb_id": 1451553,
-      "title": "Surviving-ish",
-      "performer": null,
-      "release_date": "2024-02-01",
-      "poster_path": "/dez3BkbnAe2hgdsjxm4jZRY1zd2.jpg",
-      "popularity": 0.2562,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1459184",
-      "tmdb_id": 1459184,
-      "title": "Zulu Comedy Galla 2022",
-      "performer": null,
-      "release_date": "2022-09-04",
-      "poster_path": "/bhrbyaEILSYrKxtN33tZQ7e3rJF.jpg",
-      "popularity": 0.5092,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt2387559",
       "tmdb_id": 146239,
       "title": "Delivery Man",
@@ -456,7 +366,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt38773426",
@@ -501,19 +412,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1512556",
-      "tmdb_id": 1512556,
-      "title": "Tiempo, Espacio, Persona - César Aramís",
-      "performer": null,
-      "release_date": "2024-11-18",
-      "poster_path": "/oTxGf539UAHmvSH8ueMqJNr8rux.jpg",
-      "popularity": 0.2315,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt37930002",
       "tmdb_id": 1523687,
       "title": "Slouching Towards Branson",
@@ -538,7 +436,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt34233233",
@@ -555,32 +454,6 @@
       "last_checked": "2026-11-23"
     },
     {
-      "id": "tmdb:1550121",
-      "tmdb_id": 1550121,
-      "title": "Stefan Wibling - Sidder Ik' Stille",
-      "performer": null,
-      "release_date": "2025-08-31",
-      "poster_path": "/o1CcgsWqKiElxeT4P6SOGmLVGGy.jpg",
-      "popularity": 0.1836,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1562035",
-      "tmdb_id": 1562035,
-      "title": "Olav Lundsgaard - Komikeren, der vil vide, hvem der har lavet lort i hans liv",
-      "performer": null,
-      "release_date": "2025-09-14",
-      "poster_path": null,
-      "popularity": 0.1314,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1562039",
       "tmdb_id": 1562039,
       "title": "Conrad Molden - A UK Man in the EU",
@@ -595,19 +468,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1566858",
-      "tmdb_id": 1566858,
-      "title": "Ya no sé ni lo que digo",
-      "performer": null,
-      "release_date": "2025-10-22",
-      "poster_path": "/qay9yKCrdPCYesD5hDypqqXSswL.jpg",
-      "popularity": 0.3961,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1582679",
       "tmdb_id": 1582679,
       "title": "Back At It",
@@ -620,71 +480,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tmdb:1586683",
-      "tmdb_id": 1586683,
-      "title": "Orgullo Nacional- Led Varela",
-      "performer": null,
-      "release_date": "2022-07-25",
-      "poster_path": "/dBeuQe1d8p2tymiwZPj7yZh1zWg.jpg",
-      "popularity": 0.5787,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt30007920",
-      "tmdb_id": 1586707,
-      "title": "Sueños y Pesadillas- Led Varela",
-      "performer": null,
-      "release_date": "2023-09-22",
-      "poster_path": "/vjTCFJ5MMnzewkIzgWgHCyaElZt.jpg",
-      "popularity": 0.2713,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1590505",
-      "tmdb_id": 1590505,
-      "title": "Piniata",
-      "performer": null,
-      "release_date": "2020-01-01",
-      "poster_path": "/kkYlnC7kiKKrPUNQOA8WZSm9fSF.jpg",
-      "popularity": 0.0512,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1590508",
-      "tmdb_id": 1590508,
-      "title": "Proteus Vulgaris",
-      "performer": null,
-      "release_date": "2016-01-01",
-      "poster_path": "/btZjZioXDVCqafd461yxi2EMacy.jpg",
-      "popularity": 0.1009,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt36853626",
-      "tmdb_id": 1615876,
-      "title": "The Joke's on Him",
-      "performer": null,
-      "release_date": "2026-03-04",
-      "poster_path": "/vJCLl3JNnNFqKB9fJP49CAMMdwP.jpg",
-      "popularity": 0.7412,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:1635613",
@@ -711,20 +506,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1646034",
-      "tmdb_id": 1646034,
-      "title": "No Paper- Nanutria",
-      "performer": null,
-      "release_date": "2025-11-27",
-      "poster_path": "/dhyXkZLCgH81PynCvaNE3UpuYhM.jpg",
-      "popularity": 0.1395,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt33088099",
@@ -737,20 +520,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt41001023",
-      "tmdb_id": 1654069,
-      "title": "Past Is Past",
-      "performer": null,
-      "release_date": "2026-03-19",
-      "poster_path": "/2CKj7ePl3N0etd7jb2PJJ0OxGu6.jpg",
-      "popularity": 0.2106,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1676313",
@@ -791,7 +562,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1715670",
@@ -806,71 +578,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tmdb:1725857",
-      "tmdb_id": 1725857,
-      "title": "Patrick Veisselier Éclabousse l'Olympia (Mais après il a tout bien rangé...)",
-      "performer": null,
-      "release_date": "2007-12-03",
-      "poster_path": "/1nHvSyaetWVRG32AUOkYRWbT6Fs.jpg",
-      "popularity": 0.0631,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1730367",
-      "tmdb_id": 1730367,
-      "title": "Сергій Ліпко: Триста двадцять чотири сорок один сімдесят два",
-      "performer": "Сергій Ліпко",
-      "release_date": "2026-07-12",
-      "poster_path": "/yeldHCRAnaK031EiyeJmxy0ZteI.jpg",
-      "popularity": 0.1998,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1731770",
-      "tmdb_id": 1731770,
-      "title": "Евгений Петросян: Инвентаризация",
-      "performer": "Евгений Петросян",
-      "release_date": "1989-06-04",
-      "poster_path": "/z50szud4Ex38ovdsxSHRKxVzevv.jpg",
-      "popularity": 0.216,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1760144",
-      "tmdb_id": 1760144,
-      "title": "When Everybody Laughs",
-      "performer": null,
-      "release_date": "2026-09-15",
-      "poster_path": "/mTCBoWQ5AYoMsiB8oapHMBVwgY8.jpg",
-      "popularity": 0.1287,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1767977",
-      "tmdb_id": 1767977,
-      "title": "Василь Байдак: Хмарне Сховище",
-      "performer": "Василь Байдак",
-      "release_date": "2025-10-26",
-      "poster_path": "/nUoVKfDh0w0L3D6ogQBQRPdhFsY.jpg",
-      "popularity": 0.2292,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:1786036",
@@ -953,33 +660,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1836326",
-      "tmdb_id": 1836326,
-      "title": "ابوطالب: جوانان فریب خورده",
-      "performer": "ابوطالب",
-      "release_date": "",
-      "poster_path": null,
-      "popularity": 0.0,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-21"
-    },
-    {
-      "id": "tmdb:1836349",
-      "tmdb_id": 1836349,
-      "title": "ابوطالب: او یک فرشته نبود",
-      "performer": "ابوطالب",
-      "release_date": "",
-      "poster_path": null,
-      "popularity": 0.0,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1841946",
@@ -1234,19 +916,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tmdb:674036",
-      "tmdb_id": 674036,
-      "title": "Victor Lander flygter hjemmefra",
-      "performer": null,
-      "release_date": "2019-06-12",
-      "poster_path": "/AbLUaxJ0foYfJct3npjOfVlFtIh.jpg",
-      "popularity": 0.5389,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt12498618",
       "tmdb_id": 714842,
       "title": "8:46",
@@ -1259,19 +928,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tmdb:756428",
-      "tmdb_id": 756428,
-      "title": "Sebastian Marx - Un New-Yorkais à Paris",
-      "performer": null,
-      "release_date": "2019-10-28",
-      "poster_path": "/qGGgVJ292GDUqYyUxLlKe9CXoFe.jpg",
-      "popularity": 0.1715,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt2121253",
@@ -1312,7 +968,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt2580170",
@@ -1389,19 +1046,19 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2006,
-    "remaining_alphabetical_movies": 1631,
-    "unrated_movies_hidden": 375,
-    "unrated_established_movies_kept": 210
+    "original_alphabetical_movies": 1633,
+    "remaining_alphabetical_movies": 1309,
+    "unrated_movies_hidden": 324,
+    "unrated_established_movies_kept": 143
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 1,
     "rating_below": 6.5,
-    "low_rated_movies_hidden": 54,
-    "hidden_low_sample_1_to_4_votes": 51,
+    "low_rated_movies_hidden": 50,
+    "hidden_low_sample_1_to_4_votes": 47,
     "hidden_5_plus_votes": 3,
-    "low_rated_established_movies_kept": 547,
+    "low_rated_established_movies_kept": 448,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -1444,7 +1101,7 @@
     "counts": {
       "viral_and_rising_added": 27,
       "hidden_gems_added": 10,
-      "alphabetical_full_specials_added": 42
+      "alphabetical_full_specials_added": 41
     }
   },
   "rankings": {
@@ -1532,31 +1189,31 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 126,
+      "available_comedians": 113,
       "selected_comedians": [
+        "Matteo Lane",
+        "Dwayne Perkins",
         "Tiffany Haddish",
-        "Fred Armisen",
-        "Simon Amstell",
+        "Vir Das",
+        "Billy Crystal",
         "Rory Scovel",
-        "Bill Maher",
-        "Jon Stewart",
-        "Ray Romano",
-        "Sinbad",
-        "Jeff Foxworthy",
-        "Lenny Bruce",
-        "Frankie Boyle",
-        "Chris D'Elia",
-        "Mike Epps",
-        "Maz Jobrani",
-        "Stephen Merchant"
+        "Russell Brand",
+        "Gilbert Gottfried",
+        "Pete Davidson",
+        "Sarah Millican",
+        "Jim Carrey",
+        "Billy Connolly",
+        "Chris Porter",
+        "Roy Wood Jr.",
+        "Greg Davies"
       ]
     }
   },
   "english_language_policy": {
     "status": "Known non-English excluded; unknown language needs confirmation",
-    "known_non_english_source_records": 702,
-    "unknown_language_source_records": 161,
-    "unknown_language_alphabetical_records": 23,
+    "known_non_english_source_records": 789,
+    "unknown_language_source_records": 0,
+    "unknown_language_alphabetical_records": 0,
     "known_non_english_published_movie_records": 0,
     "multilingual_tv_shows_excluded": [
       "COMEDIANS of the world"

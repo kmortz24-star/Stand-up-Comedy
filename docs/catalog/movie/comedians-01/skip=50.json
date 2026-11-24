@@ -1,115 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39378479",
-      "type": "movie",
-      "name": "Ali Siddiq: Mondays",
-      "poster": "https://image.tmdb.org/t/p/w500/2T8gMRiYJEYIvgYl7xXDX4zKwvR.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1720232",
-      "type": "movie",
-      "name": "Ali Siddiq: My Father",
-      "poster": "https://image.tmdb.org/t/p/w500/3aS0ARLho6T4ot39xRlK1Gd8VlT.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "standupyt_DybW0Nf5g2g",
-      "type": "movie",
-      "name": "Don't Judge a Book By Its Cover (Full Comedy Special)  | ALI SIDDIQ - Stand Up Comedy [YouTube]",
-      "poster": "https://i.ytimg.com/vi/DybW0Nf5g2g/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/DybW0Nf5g2g/hqdefault.jpg",
-      "description": "Ali Siddiq · 85 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "standupyt_XiSewRUOVyg",
-      "type": "movie",
-      "name": "ALI SIDDIQ: MY FATHER  [Full Stand Up Comedy Special - 65 minutes] [YouTube]",
-      "poster": "https://i.ytimg.com/vi/XiSewRUOVyg/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/XiSewRUOVyg/hqdefault.jpg",
-      "description": "Ali Siddiq · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt5066574",
-      "type": "movie",
-      "name": "Ali Wong: Baby Cobra",
-      "poster": "https://image.tmdb.org/t/p/w500/8stTLVktSAATgFdCeaEUSh6WU2j.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt7410684",
-      "type": "movie",
-      "name": "Ali Wong: Hard Knock Wife",
-      "poster": "https://image.tmdb.org/t/p/w500/kMIPAhukW76looUtyZlrpWjwdgH.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt17542000",
-      "type": "movie",
-      "name": "Ali Wong: Don Wong",
-      "poster": "https://image.tmdb.org/t/p/w500/rhwfoNRrTTLbdkkqjjC6yCDZXte.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt33350315",
-      "type": "movie",
-      "name": "Ali Wong: Single Lady",
-      "poster": "https://image.tmdb.org/t/p/w500/qnptXWJicqtx36Xdo4e7sK6eV4X.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt8820178",
-      "type": "movie",
-      "name": "Alice Wetterlund: My Mama Is a Human and So Am I",
-      "poster": "https://image.tmdb.org/t/p/w500/fw3QHYlHuP2RibT7HMp2mJDEqaT.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt0381876",
-      "type": "movie",
-      "name": "Amin Jensen: 150 kg over bæltestedet",
-      "poster": "https://image.tmdb.org/t/p/w500/gYUJjJfRW7lSQfoqag8DPUTwLjD.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt2346046",
-      "type": "movie",
-      "name": "Amy Schumer: Mostly Sex Stuff",
-      "poster": "https://image.tmdb.org/t/p/w500/uG7J72qZo8fUht8wE6xzjhzVjVi.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt4909348",
-      "type": "movie",
-      "name": "Amy Schumer: Live at the Apollo",
-      "poster": "https://image.tmdb.org/t/p/w500/bZji0NPuue5QkO9K5ypvb4CoRnj.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt9770590",
-      "type": "movie",
-      "name": "Amy Schumer: Growing",
-      "poster": "https://image.tmdb.org/t/p/w500/uQa9lkX1fYCpsG5Uq8ONOsqlbQw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt20723730",
-      "type": "movie",
-      "name": "Amy Schumer Presents: Parental Advisory",
-      "poster": "https://image.tmdb.org/t/p/w500/cDwZI6SbCO92tTBDCYueO4vpMAu.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt27791865",
-      "type": "movie",
-      "name": "Amy Schumer: Emergency Contact",
-      "poster": "https://image.tmdb.org/t/p/w500/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt0168459",
       "type": "movie",
       "name": "Andrew Dice Clay: The Diceman Cometh",
@@ -232,25 +123,11 @@
       "releaseInfo": "1977"
     },
     {
-      "id": "tt1562276",
-      "type": "movie",
-      "name": "Andy Parsons: Britain's Got Idiots",
-      "poster": "https://image.tmdb.org/t/p/w500/hCtIJNwecC9RBgLsj7lUj7XJYx1.jpg",
-      "releaseInfo": "2009"
-    },
-    {
       "id": "tt2605458",
       "type": "movie",
       "name": "Andy Parsons: Gruntled",
       "poster": "https://image.tmdb.org/t/p/w500/jnJpRzmwc6I35VSVBizWN5n70hw.jpg",
       "releaseInfo": "2011"
-    },
-    {
-      "id": "tt13716284",
-      "type": "movie",
-      "name": "Andy Parsons: Live and Unleashed But Naturally Cautious",
-      "poster": "https://image.tmdb.org/t/p/w500/7ytiMU24N5DX5GR9TABKLjxpZQC.jpg",
-      "releaseInfo": "2015"
     },
     {
       "id": "tmdb:1451646",
@@ -323,13 +200,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1628273",
-      "type": "movie",
-      "name": "We Need to Talk",
-      "poster": "https://image.tmdb.org/t/p/w500/begZh34IMryzSRkbTN7sR8O8B1L.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt23401842",
       "type": "movie",
       "name": "Ari Shaffir: Revenge for the Holocaust",
@@ -356,6 +226,133 @@
       "name": "Ari Shaffir: JEW",
       "poster": "https://image.tmdb.org/t/p/w500/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34753871",
+      "type": "movie",
+      "name": "Ari Shaffir: America's Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w500/qzFjVXte2FfV4dXZWgQvHGWhHmt.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36744239",
+      "type": "movie",
+      "name": "Arnez J: Not Gonna Stop",
+      "poster": "https://image.tmdb.org/t/p/w500/b4MfFig1m5o1dGkag86YWn9ajkr.jpg"
+    },
+    {
+      "id": "tt2631472",
+      "type": "movie",
+      "name": "Arnez J: Racially Motivated",
+      "poster": "https://image.tmdb.org/t/p/w500/sVuXC9CF8y2psLgkerzBB6Gh6tW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt0432719",
+      "type": "movie",
+      "name": "Artie Lange: It's the Whiskey Talkin'",
+      "poster": "https://image.tmdb.org/t/p/w500/6CM9ltYaEr2Th4EDUcClqm84jzA.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1534394",
+      "type": "movie",
+      "name": "Artie Lange: Jack and Coke",
+      "poster": "https://image.tmdb.org/t/p/w500/sxn2PKBp98ku1kvZ6fZpoH6iILI.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt4139598",
+      "type": "movie",
+      "name": "Artie Lange: The Stench of Failure",
+      "poster": "https://image.tmdb.org/t/p/w500/gZcNXYWhtC1JXQxfiIZmQI4ln1k.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6140294",
+      "type": "movie",
+      "name": "The Nasty Show hosted by Artie Lange",
+      "poster": "https://image.tmdb.org/t/p/w500/EbFZCabg9SERYpeyITvtsjJUT3.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt27604405",
+      "type": "movie",
+      "name": "Ashley Gavin: Live in Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/6ipV6GrFzntdM66EnPe4hEVdfnP.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt21335620",
+      "type": "movie",
+      "name": "Atsuko Okatsuka: The Intruder",
+      "poster": "https://image.tmdb.org/t/p/w500/vnQZlr6BkJ3OSp6kK9YTaWCusn5.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33319618",
+      "type": "movie",
+      "name": "Atsuko Okatsuka: Father",
+      "poster": "https://image.tmdb.org/t/p/w500/4SMWDxKR4DJfSew7VK8qHxxXiB7.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1588412",
+      "type": "movie",
+      "name": "Aziz Ansari: Intimate Moments for a Sensual Evening",
+      "poster": "https://image.tmdb.org/t/p/w500/nx5WPhgoGLM8U6xhPFA4r1rNsHH.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2302529",
+      "type": "movie",
+      "name": "Aziz Ansari: Dangerously Delicious",
+      "poster": "https://image.tmdb.org/t/p/w500/8YrfERnlUJyR9k1gvtapCtIWcxF.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2836450",
+      "type": "movie",
+      "name": "Aziz Ansari: Buried Alive",
+      "poster": "https://image.tmdb.org/t/p/w500/rGkwXZEP1zLV6HBSbDBjxi8wXCH.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4530184",
+      "type": "movie",
+      "name": "Aziz Ansari: Live at Madison Square Garden",
+      "poster": "https://image.tmdb.org/t/p/w500/jmZKABNheJNx6etJlGTPAvmJce9.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt10575038",
+      "type": "movie",
+      "name": "Aziz Ansari: Right Now",
+      "poster": "https://image.tmdb.org/t/p/w500/5vaYOkQ3MxOnxQLeKUNXiAfZVHb.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt17005888",
+      "type": "movie",
+      "name": "Aziz Ansari: Nightclub Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/hgo2USQOTbiQR0HzwQQ7wuXSfCi.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "standupyt_yRMgKJov5_U",
+      "type": "movie",
+      "name": "Ben Brainard: What a Mature Child | Full Stand Up Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
+      "description": "Ben Brainard · 77 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0283259",
+      "type": "movie",
+      "name": "Ben Elton: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/bVpaWfFseObMDVYVF7eoCGVyLjJ.jpg",
+      "releaseInfo": "1997"
     }
   ]
 }

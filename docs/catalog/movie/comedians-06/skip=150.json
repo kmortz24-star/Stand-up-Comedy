@@ -1,354 +1,242 @@
 {
   "metas": [
     {
-      "id": "tt36131610",
+      "id": "tt2980086",
       "type": "movie",
-      "name": "Tom Cashman: After the Fall",
-      "poster": "https://image.tmdb.org/t/p/w500/vqnY9b4TdxuRqTaskeLlRMf4Gf9.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt43615884",
-      "type": "movie",
-      "name": "Tom Cashman: The Formula for Happiness",
-      "poster": "https://image.tmdb.org/t/p/w500/ieyinNTyHYOIY0rxxafz80igmpI.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt2827520",
-      "type": "movie",
-      "name": "Tom Green: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/2lFYRH7mFaGJlH1rsdgrBkrSDtQ.jpg",
+      "name": "Ron White: A Little Unprofessional",
+      "poster": "https://image.tmdb.org/t/p/w500/9b81DMNNPI4oMiL2d8Up7G8mf0U.jpg",
       "releaseInfo": "2012"
     },
     {
-      "id": "tmdb:958573",
+      "id": "tt9060534",
       "type": "movie",
-      "name": "Tom Green: Live in Philadelphia",
-      "poster": "https://image.tmdb.org/t/p/w500/w40hz6NRz66NNVN6yJGfSUUVluR.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt32832547",
-      "type": "movie",
-      "name": "Tom Green: I Got a Mule!",
-      "poster": "https://image.tmdb.org/t/p/w500/uYXEmuS9GlVdYSAZrTZdeR1Ahth.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1910649",
-      "type": "movie",
-      "name": "Tom Papa: Live in New York City",
-      "poster": "https://image.tmdb.org/t/p/w500/qT9ViKGZWHxNrOEtN2ckbDheTzZ.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2769276",
-      "type": "movie",
-      "name": "Tom Papa: Freaked Out",
-      "poster": "https://image.tmdb.org/t/p/w500/9uUxO9XSDmRKbMMzGofpAuaTf7W.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt11177308",
-      "type": "movie",
-      "name": "Tom Papa: You're Doing Great!",
-      "poster": "https://image.tmdb.org/t/p/w500/8ba7sfo3MU2DuvxJg6DmlThSYmg.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt22813018",
-      "type": "movie",
-      "name": "Tom Papa: Home Free",
-      "poster": "https://image.tmdb.org/t/p/w500/kSYTRZO7f2DJvuOAOHvq9csKrqY.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt3500822",
-      "type": "movie",
-      "name": "Tom Segura: Completely Normal",
-      "poster": "https://image.tmdb.org/t/p/w500/hguiOqqFzYPwIIm6GZBjTAjiqzH.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt4970632",
-      "type": "movie",
-      "name": "Tom Segura: Mostly Stories",
-      "poster": "https://image.tmdb.org/t/p/w500/wELcQAA77XLqYL09wZH5FAMkmnU.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt7379330",
-      "type": "movie",
-      "name": "Tom Segura: Disgraceful",
-      "poster": "https://image.tmdb.org/t/p/w500/ll5QVhDsp6MbNWWZAGXc8vFu6Y9.jpg",
+      "name": "Ron White: If You Quit Listening, I'll Shut Up",
+      "poster": "https://image.tmdb.org/t/p/w500/25fzgwGlyuWUyViMrU4rIqTnZj8.jpg",
       "releaseInfo": "2018"
     },
     {
-      "id": "tt11861072",
+      "id": "tt4210030",
       "type": "movie",
-      "name": "Tom Segura: Ball Hog",
-      "poster": "https://image.tmdb.org/t/p/w500/cjRt6PYRGXNvvxJLgbZaX0Xf1LA.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt11987416",
-      "type": "movie",
-      "name": "Tom Segura: Sledgehammer",
-      "poster": "https://image.tmdb.org/t/p/w500/3wR5LdJZecmyjXO0OZ4pvhRn5kd.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt28354655",
-      "type": "movie",
-      "name": "I Came Everywhere",
-      "poster": "https://image.tmdb.org/t/p/w500/kHvjwvYX6T9yQ0knR0lktXoKDnp.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt38965502",
-      "type": "movie",
-      "name": "Tom Segura: Teacher",
-      "poster": "https://image.tmdb.org/t/p/w500/jny234URpLAYsnFKxfqadyQ0swz.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0236797",
-      "type": "movie",
-      "name": "Tommy Davidson: Illin' in Philly",
-      "poster": "https://image.tmdb.org/t/p/w500/ye2j58SHV44ihv9rOtkOEyB88Lh.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tt5378728",
-      "type": "movie",
-      "name": "Tony Hinchcliffe: One Shot",
-      "poster": "https://image.tmdb.org/t/p/w500/kFuZt7mKmdNL2TbE9uUuYRKiqzi.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:1395370",
-      "type": "movie",
-      "name": "Tony Hinchcliffe: Making Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/ldNaoene879S3j92LQDDZBRPPFs.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tmdb:1395021",
-      "type": "movie",
-      "name": "Tony Hinchcliffe: Garbage",
-      "poster": "https://image.tmdb.org/t/p/w500/jeM1xgmqBL1yvKyIMugybc6gcK3.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt41973417",
-      "type": "movie",
-      "name": "KillTonyMania",
-      "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43339083",
-      "type": "movie",
-      "name": "Tony Hinchcliffe: Man of the People",
-      "poster": "https://image.tmdb.org/t/p/w500/btK2kz5XgoMdvJfOw2axKj4P5ja.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt6054328",
-      "type": "movie",
-      "name": "All Def Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zsocJUQIklZS9AWDcz4CkTabtW.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt1308671",
-      "type": "movie",
-      "name": "Tracy Morgan: One Mic",
-      "poster": "https://image.tmdb.org/t/p/w500/6oJ9CdUN23GHJZwZZ6xJIIVus3H.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt15211090",
-      "type": "movie",
-      "name": "Tracy Morgan: Life, Love & Lust",
-      "poster": "https://image.tmdb.org/t/p/w500/s3DH6NrvtzhsrXZDe3ltSZz7W9v.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1772407",
-      "type": "movie",
-      "name": "Tracy Morgan: Black & Blue",
-      "poster": "https://image.tmdb.org/t/p/w500/sjX1BvX77QXpTbLQE3Oq9PUrS2l.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt3663890",
-      "type": "movie",
-      "name": "Tracy Morgan: Bona Fide",
-      "poster": "https://image.tmdb.org/t/p/w500/9o0zmmAOAMasjszZoCek8uaGVgn.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt6680270",
-      "type": "movie",
-      "name": "Tracy Morgan: Staying Alive",
-      "poster": "https://image.tmdb.org/t/p/w500/khMAxp24RhZeZYgLup0uSgRlU58.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt2073693",
-      "type": "movie",
-      "name": "Trevor Noah: Crazy Normal",
-      "poster": "https://image.tmdb.org/t/p/w500/yGfj9HTfjX20BEnQOsQpU63tfem.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt1671547",
-      "type": "movie",
-      "name": "Trevor Noah: You Laugh But It's True",
-      "poster": "https://image.tmdb.org/t/p/w500/wW67oDOsCfJc1Lv2tQj5IiKTHbZ.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt2566524",
-      "type": "movie",
-      "name": "Trevor Noah: That's Racist",
-      "poster": "https://image.tmdb.org/t/p/w500/6vQNu03dfDnyWAdLaOkYqFXfqsp.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tmdb:974807",
-      "type": "movie",
-      "name": "Just Because Comedy Festival",
-      "poster": "https://image.tmdb.org/t/p/w500/WnxpkFakZYJ9KJR0t00u791z5J.jpg",
+      "name": "Ronny Chieng: The Ron Way",
       "releaseInfo": "2013"
     },
     {
-      "id": "tt5426692",
+      "id": "tt11248800",
       "type": "movie",
-      "name": "Trevor Noah: Pay Back The Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/gW9198vrfJ7CPb45yB0W4h5BA4i.jpg",
+      "name": "Ronny Chieng: Asian Comedian Destroys America!",
+      "poster": "https://image.tmdb.org/t/p/w500/yZZdeUJ0JI89aZTbHb92bf1JGgK.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt6051412",
+      "type": "movie",
+      "name": "Rory Scovel: The Charleston Special",
+      "poster": "https://image.tmdb.org/t/p/w500/oVs3HrnwZNPviYlAQmhXDGvyM6t.jpg",
       "releaseInfo": "2015"
     },
     {
-      "id": "tt6562866",
+      "id": "tt7044010",
       "type": "movie",
-      "name": "Trevor Noah: Afraid of the Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/hXbNEZWoK9SeTPwZCXqx9fYrYDF.jpg",
+      "name": "Rory Scovel Tries Stand-Up for the First Time",
+      "poster": "https://image.tmdb.org/t/p/w500/lGQp2uymuoOpvZmSpGnNA1pBLh4.jpg",
       "releaseInfo": "2017"
     },
     {
-      "id": "tt9170648",
+      "id": "tt32809164",
       "type": "movie",
-      "name": "Trevor Noah: Son of Patricia",
-      "poster": "https://image.tmdb.org/t/p/w500/dQefCK4Y94gngyAaemJkoKakcEm.jpg",
-      "releaseInfo": "2018"
+      "name": "Rory Scovel: Live Without Fear",
+      "poster": "https://image.tmdb.org/t/p/w500/f25DrhPaK4GMKB1ZFhFJsXk2Ebe.jpg",
+      "releaseInfo": "2021"
     },
     {
-      "id": "tt30028158",
+      "id": "tt31194520",
       "type": "movie",
-      "name": "Trevor Noah: Where Was I",
-      "poster": "https://image.tmdb.org/t/p/w500/nt2uIRpYZ68g0J7dCSnJZqA5unS.jpg",
-      "releaseInfo": "2023"
+      "name": "Rory Scovel: Religion, Sex and a Few Things In Between",
+      "poster": "https://image.tmdb.org/t/p/w500/ppHg8tRmTZyhpT2VeLlLSq4ycQv.jpg",
+      "releaseInfo": "2024"
     },
     {
-      "id": "tmdb:1614256",
+      "id": "tt43701966",
       "type": "movie",
-      "name": "Trevor Noah: The LOST South African Show",
-      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
+      "name": "Rory Scovel: Show Must Go On",
+      "poster": "https://image.tmdb.org/t/p/w500/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "tt41592024",
+      "id": "tmdb:1827977",
       "type": "movie",
-      "name": "Trevor Noah: Joy in the Trenches",
-      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+      "name": "Rory Scovel: Improvised in Brooklyn",
+      "poster": "https://image.tmdb.org/t/p/w500/vdlz9clK50eadRmE6xLzIjPCwba.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "tt12572032",
+      "id": "tt0865521",
       "type": "movie",
-      "name": "Urzila Carlson: Overqualified Loser",
-      "poster": "https://image.tmdb.org/t/p/w500/34tvdAPphiylLBpXMOnQmPxCqbz.jpg",
-      "releaseInfo": "2020"
+      "name": "Roseanne Barr: Blonde and Bitchin'",
+      "poster": "https://image.tmdb.org/t/p/w500/cUkQQnfPTonMXRroZzCyw11eKXr.jpg",
+      "releaseInfo": "2006"
     },
     {
-      "id": "tmdb:1655932",
+      "id": "tt4374814",
       "type": "movie",
-      "name": "Urzila Carlson: Just Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/1W1G2Q6C78taO6KT702kOFyyhPJ.jpg",
-      "releaseInfo": "2026"
+      "name": "Rosie O'Donnell: A Heartfelt Stand Up",
+      "poster": "https://image.tmdb.org/t/p/w500/e6jrpV3w6ziZszcLIwu1NuHLWrs.jpg",
+      "releaseInfo": "2015"
     },
     {
-      "id": "tmdb:1773497",
+      "id": "tt0401759",
       "type": "movie",
-      "name": "Urzila Carlson: You Don’t Say",
-      "poster": "https://image.tmdb.org/t/p/w500/qNKDPHbsDQSLAXWsHpIkJOb1KGq.jpg",
-      "releaseInfo": "2026"
+      "name": "Ross Noble: Unrealtime",
+      "poster": "https://image.tmdb.org/t/p/w500/9Uy8vTwpBzLmYgMwyqlxQsSvG6O.jpg",
+      "releaseInfo": "2004"
     },
     {
-      "id": "tt0284621",
+      "id": "tt1305069",
       "type": "movie",
-      "name": "Victoria Wood's All Day Breakfast",
-      "poster": "https://image.tmdb.org/t/p/w500/9QFUHZCd3Xz4cqqk9oDfNqP8Ort.jpg",
-      "releaseInfo": "1992"
+      "name": "Ross Noble: Randomist",
+      "poster": "https://image.tmdb.org/t/p/w500/AupSU2I9jO5L9pJNz2feOncVJkE.jpg",
+      "releaseInfo": "2006"
     },
     {
-      "id": "tt0252797",
+      "id": "tt2138088",
       "type": "movie",
-      "name": "Victoria Wood Live In Your Own Home",
-      "poster": "https://image.tmdb.org/t/p/w500/qn4RLsAJjEs6uelYMG2MrTgLyhx.jpg",
-      "releaseInfo": "1994"
+      "name": "Ross Noble: The Headspace Cowboy",
+      "poster": "https://image.tmdb.org/t/p/w500/iNTJaFyxLW7h9EJ0Ks45UsOHIcw.jpg",
+      "releaseInfo": "2011"
     },
     {
-      "id": "tt3740326",
+      "id": "tt0262340",
       "type": "movie",
-      "name": "Victoria Wood: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/ajkSSuy8CMF0R8sdCtfeSeswAmy.jpg",
-      "releaseInfo": "1997"
+      "name": "Roy Chubby Brown: Clitoris Allsorts - Live at Blackpool",
+      "poster": "https://image.tmdb.org/t/p/w500/fo1QKtPr1xDuPp5SuZ064UQZsDn.jpg",
+      "releaseInfo": "1995"
     },
     {
-      "id": "tt3508436",
+      "id": "tmdb:369133",
       "type": "movie",
-      "name": "Victoria Wood: Seen on TV",
-      "poster": "https://image.tmdb.org/t/p/w500/9RIVJKaCpU5pV9X9TWoswP5jKFj.jpg",
-      "releaseInfo": "2009"
+      "name": "Roy Chubby Brown - Hangs up the Helmet Live",
+      "poster": "https://image.tmdb.org/t/p/w500/pkIcNhuZaEaJDOgYD47yh5iRFsD.jpg",
+      "releaseInfo": "2015"
     },
     {
-      "id": "tt9315848",
+      "id": "tt6665988",
       "type": "movie",
-      "name": "Vir Das: Losing It",
-      "poster": "https://image.tmdb.org/t/p/w500/dvLvcE7lZX4kxKoqZpX7XWSprWj.jpg",
-      "releaseInfo": "2018"
+      "name": "Roy Wood Jr.: Father Figure",
+      "poster": "https://image.tmdb.org/t/p/w500/lWF796wLTL3Qll9zDKMd6GyErqu.jpg",
+      "releaseInfo": "2017"
     },
     {
-      "id": "tt13529992",
+      "id": "tt32982833",
       "type": "movie",
-      "name": "Vir Das: Outside in - The Lockdown Special",
-      "poster": "https://image.tmdb.org/t/p/w500/lFwSB6nBQzGHyW6ZqgdFkRdT1QK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt23848684",
-      "type": "movie",
-      "name": "Vir Das: Landing",
-      "poster": "https://image.tmdb.org/t/p/w500/hMR4vGA5hAH4853u6VpNaxk0nac.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt35668659",
-      "type": "movie",
-      "name": "Vir Das: Fool Volume",
-      "poster": "https://image.tmdb.org/t/p/w500/druY5vhbnJSbFeq3V0AfDHYfXfe.jpg",
+      "name": "Roy Wood Jr.: Lonely Flowers",
+      "poster": "https://image.tmdb.org/t/p/w500/uxAJmb9RDgT9udAMALBjLEWKCpj.jpg",
       "releaseInfo": "2025"
     },
     {
-      "id": "tt13074966",
+      "id": "tt1692221",
       "type": "movie",
-      "name": "VOMO: Vote or Miss Out",
-      "poster": "https://image.tmdb.org/t/p/w500/97kLtkSnVMhwgoCS020h4CERj7m.jpg",
-      "releaseInfo": "2020"
+      "name": "Russell Brand: Scandalous",
+      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt3397430",
+      "type": "movie",
+      "name": "Russell Brand: Messiah Complex",
+      "poster": "https://image.tmdb.org/t/p/w500/3vvigE3kZ1bteqOnDCqYJreonzJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt9349942",
+      "type": "movie",
+      "name": "RUSSELL BRAND: RE:BIRTH",
+      "poster": "https://image.tmdb.org/t/p/w500/dypTjFImj7pomk0cldvLCYyYvv.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt1433549",
+      "type": "movie",
+      "name": "Russell Howard: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/2vaUS1n9AKoH0aiodvMu4GGmlis.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2122460",
+      "type": "movie",
+      "name": "Russell Howard: Right Here Right Now",
+      "poster": "https://image.tmdb.org/t/p/w500/4rugTCd6fEMCR4hSV0GebksqwPC.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt4529638",
+      "type": "movie",
+      "name": "Russell Howard: Wonderbox",
+      "poster": "https://image.tmdb.org/t/p/w500/10ngSOK3lomZxyqvuNBcF9sScE4.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt1426486",
+      "type": "movie",
+      "name": "Russell Peters: Show Me the Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/e5lJVysCTmsz4rnRPHPiCh4nUbV.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tmdb:87307",
+      "type": "movie",
+      "name": "Russell Peters: Live In New York",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1369567",
+      "type": "movie",
+      "name": "Russell Peters: Red, White and Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/845vKEUjyXZdYO6JhCBiWwZ6D83.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1954794",
+      "type": "movie",
+      "name": "Russell Peters: The Green Card Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/2iqDAH4zslV4LqNSWbjajvIwESt.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt36954627",
+      "type": "movie",
+      "name": "Russell Peters: Act Your Age",
+      "poster": "https://image.tmdb.org/t/p/w500/1KAxItozYtOkCmCPWrUt0nRLJ3w.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt22196554",
+      "type": "movie",
+      "name": "Ryan Goldsher: Many People",
+      "poster": "https://image.tmdb.org/t/p/w500/uWVP8HGfDoIXUHxeLKeg3MUwnOT.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt42898211",
+      "type": "movie",
+      "name": "Ryan Hamilton: This Just Hit Me",
+      "poster": "https://image.tmdb.org/t/p/w500/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_XBrdMrbmz1c",
+      "type": "movie",
+      "name": "Ryan Long - Problem Solved  (FULL STANDUP SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/XBrdMrbmz1c/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/XBrdMrbmz1c/hqdefault.jpg",
+      "description": "Ryan Long · 60 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt27439320",
+      "type": "movie",
+      "name": "Ryan Sickler: Lefty’s Son",
+      "poster": "https://image.tmdb.org/t/p/w500/f3P0IfolKfzjKr8zLG8SUa8muhe.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

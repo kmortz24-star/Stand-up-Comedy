@@ -3,10 +3,10 @@
     "policy": "Hide weakly reviewed movies by non-established performers",
     "min_votes": 1,
     "rating_below": 6.5,
-    "low_rated_movies_hidden": 54,
-    "hidden_low_sample_1_to_4_votes": 51,
+    "low_rated_movies_hidden": 50,
+    "hidden_low_sample_1_to_4_votes": 47,
     "hidden_5_plus_votes": 3,
-    "low_rated_established_movies_kept": 547,
+    "low_rated_established_movies_kept": 448,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -108,13 +108,6 @@
       "title": "Brittany Schmitt: From Ho to Housewife",
       "votes": 1,
       "rating": 5.0
-    },
-    {
-      "id": "tmdb:1242049",
-      "performer": "Daniel Muggleton",
-      "title": "Daniel Muggleton: White & Wrong",
-      "votes": 1,
-      "rating": 3.0
     },
     {
       "id": "tt4422544",
@@ -250,13 +243,6 @@
       "rating": 0.5
     },
     {
-      "id": "tmdb:247096",
-      "performer": "Mike Reid",
-      "title": "Mike Reid: The Guv'nors Last Stand",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt45819060",
       "performer": "Mojo Brookzz",
       "title": "Mojo Brookzz: I Know You Lying",
@@ -300,7 +286,7 @@
     },
     {
       "id": "tmdb:308643",
-      "performer": "Roy 'Chubby' Brown",
+      "performer": "Roy Chubby Brown",
       "title": "Roy Chubby Brown - Don't Get Fit Get Fat",
       "votes": 5,
       "rating": 6.2
@@ -325,20 +311,6 @@
       "title": "Sara Huntington: Rust Belt Royalty",
       "votes": 1,
       "rating": 5.0
-    },
-    {
-      "id": "tmdb:798002",
-      "performer": "Sean McLoughlin",
-      "title": "Sean McLoughlin - Hail Mary",
-      "votes": 2,
-      "rating": 5.0
-    },
-    {
-      "id": "tmdb:1178282",
-      "performer": "Sean McLoughlin",
-      "title": "Sean McLoughlin: So Be It",
-      "votes": 1,
-      "rating": 6.0
     },
     {
       "id": "tt27792169",
@@ -413,13 +385,6 @@
       "rating": 5.2
     },
     {
-      "id": "tt12792672",
-      "performer": "Adam Sandler",
-      "title": "Adam Sandler: Funny Guy",
-      "votes": 3,
-      "rating": 4.0
-    },
-    {
       "id": "tt33081211",
       "performer": "Adam Sandler",
       "title": "Adam Sandler: Love You",
@@ -441,13 +406,6 @@
       "rating": 5.1
     },
     {
-      "id": "tt0965457",
-      "performer": "Al Murray, The Pub Landlord",
-      "title": "Al Murray, The Pub Landlord: \"...And A Glass of White Wine for the Lady!\"",
-      "votes": 2,
-      "rating": 4.0
-    },
-    {
       "id": "tt0965458",
       "performer": "Al Murray, The Pub Landlord",
       "title": "Al Murray, The Pub Landlord - Giving It Both Barrels",
@@ -462,39 +420,11 @@
       "rating": 6.0
     },
     {
-      "id": "tt4293980",
-      "performer": "Al Murray, The Pub Landlord",
-      "title": "Al Murray, The Pub Landlord: The Only Way Is Epic",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
-      "id": "tt15107224",
-      "performer": "Al Murray, The Pub Landlord",
-      "title": "Al Murray, The Pub Landlord: One Man, One Guvnor",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt1175487",
       "performer": "Alan Carr",
       "title": "Alan Carr: Tooth Fairy Live",
       "votes": 10,
       "rating": 6.0
-    },
-    {
-      "id": "tt2112889",
-      "performer": "Alan Carr",
-      "title": "Alan Carr: Spexy Beast",
-      "votes": 11,
-      "rating": 5.7
-    },
-    {
-      "id": "tt31249499",
-      "performer": "Alan Carr",
-      "title": "Alan Carr: Regional Trinket",
-      "votes": 2,
-      "rating": 5.2
     },
     {
       "id": "tt7962784",
@@ -544,13 +474,6 @@
       "title": "Amy Schumer: Growing",
       "votes": 91,
       "rating": 5.764
-    },
-    {
-      "id": "tt20723730",
-      "performer": "Amy Schumer",
-      "title": "Amy Schumer Presents: Parental Advisory",
-      "votes": 19,
-      "rating": 4.6
     },
     {
       "id": "tt27791865",
@@ -607,20 +530,6 @@
       "title": "Andrew Schulz: 4:4:1",
       "votes": 1,
       "rating": 5.0
-    },
-    {
-      "id": "tt1562276",
-      "performer": "Andy Parsons",
-      "title": "Andy Parsons: Britain's Got Idiots",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
-      "id": "tt13716284",
-      "performer": "Andy Parsons",
-      "title": "Andy Parsons: Live and Unleashed But Naturally Cautious",
-      "votes": 2,
-      "rating": 2.8
     },
     {
       "id": "tt4414858",
@@ -770,20 +679,6 @@
       "rating": 6.4
     },
     {
-      "id": "tmdb:463886",
-      "performer": "Billy Connolly",
-      "title": "Billy Connolly: Portrait of a Lifetime",
-      "votes": 3,
-      "rating": 6.0
-    },
-    {
-      "id": "tt16741544",
-      "performer": "Billy Connolly",
-      "title": "Billy Connolly: My Absolute Pleasure",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt7690148",
       "performer": "Bob Goldthwait",
       "title": "Bob Goldthwait: Is He Like That All the Time?",
@@ -819,13 +714,6 @@
       "rating": 6.0
     },
     {
-      "id": "tt4060962",
-      "performer": "Bob Saget",
-      "title": "A Stand Up Guy",
-      "votes": 13,
-      "rating": 5.1
-    },
-    {
       "id": "tt6856134",
       "performer": "Bob Saget",
       "title": "Bob Saget: Zero to Sixty",
@@ -834,14 +722,14 @@
     },
     {
       "id": "tt7122106",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob the Drag Queen: Suspiciously Large Woman",
       "votes": 8,
       "rating": 5.625
     },
     {
       "id": "tt39367866",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob the Drag Queen: This is Wild",
       "votes": 1,
       "rating": 6.0
@@ -1036,13 +924,6 @@
       "rating": 2.5
     },
     {
-      "id": "tt31869794",
-      "performer": "Chris Ramsey",
-      "title": "Chris Ramsey Live: All Growed Up",
-      "votes": 4,
-      "rating": 4.5
-    },
-    {
       "id": "tt23625326",
       "performer": "Chris Redd",
       "title": "Chris Redd: Why Am I Like This?",
@@ -1062,20 +943,6 @@
       "title": "Chris Rock: Selective Outrage",
       "votes": 167,
       "rating": 6.138
-    },
-    {
-      "id": "tt39398671",
-      "performer": "Chris Spencer",
-      "title": "Chris Spencer: GOAT Adjacent",
-      "votes": 1,
-      "rating": 1.5
-    },
-    {
-      "id": "tt33319975",
-      "performer": "Colin Jost",
-      "title": "Colin Jost & Michael Che Present: New York After Dark",
-      "votes": 3,
-      "rating": 4.0
     },
     {
       "id": "tt1395034",
@@ -1141,13 +1008,6 @@
       "rating": 6.3
     },
     {
-      "id": "tt4145852",
-      "performer": "Danny Bhoy",
-      "title": "Danny Bhoy: Live at the Athenaeum",
-      "votes": 4,
-      "rating": 5.8
-    },
-    {
       "id": "tt3131034",
       "performer": "Danny Bhoy",
       "title": "Danny Bhoy: Subject to Change",
@@ -1174,20 +1034,6 @@
       "title": "Dave Attell: Captain Miserable",
       "votes": 16,
       "rating": 5.625
-    },
-    {
-      "id": "tt26343416",
-      "performer": "Dave Hughes",
-      "title": "Dave Hughes: Ridiculous",
-      "votes": 3,
-      "rating": 5.2
-    },
-    {
-      "id": "tt0437932",
-      "performer": "David Cross",
-      "title": "Last Laugh '04",
-      "votes": 3,
-      "rating": 6.0
     },
     {
       "id": "tt31512903",
@@ -1246,25 +1092,11 @@
       "rating": 6.45
     },
     {
-      "id": "tt0790823",
-      "performer": "Denis Leary",
-      "title": "When Stand Up Stood Out",
-      "votes": 8,
-      "rating": 6.0
-    },
-    {
       "id": "tt40205709",
       "performer": "Derrick Stroup",
       "title": "Derrick Stroup: Nostalgic",
       "votes": 6,
       "rating": 5.3
-    },
-    {
-      "id": "tt36597880",
-      "performer": "Des Bishop",
-      "title": "Des Bishop: Made in China",
-      "votes": 3,
-      "rating": 6.0
     },
     {
       "id": "tt32805486",
@@ -1317,14 +1149,14 @@
     },
     {
       "id": "tt8563704",
-      "performer": "drew michael",
+      "performer": "Drew Michael",
       "title": "Drew Michael",
       "votes": 11,
       "rating": 5.9
     },
     {
       "id": "tt16153658",
-      "performer": "drew michael",
+      "performer": "Drew Michael",
       "title": "drew michael: red blue green",
       "votes": 9,
       "rating": 6.4
@@ -1356,13 +1188,6 @@
       "title": "Earthquake: Joke Telling Business",
       "votes": 7,
       "rating": 5.2
-    },
-    {
-      "id": "tt35342992",
-      "performer": "Ed Byrne",
-      "title": "Ed Byrne: Spoiler Alert",
-      "votes": 2,
-      "rating": 5.5
     },
     {
       "id": "tt0435636",
@@ -1461,20 +1286,6 @@
       "title": "Frank Caliendo: All Over the Place",
       "votes": 5,
       "rating": 6.0
-    },
-    {
-      "id": "tt0221975",
-      "performer": "Frank Skinner",
-      "title": "Frank Skinner Live in Birmingham",
-      "votes": 3,
-      "rating": 6.0
-    },
-    {
-      "id": "tt1638952",
-      "performer": "Frank Skinner",
-      "title": "Frank Skinner: Stand-Up",
-      "votes": 2,
-      "rating": 3.0
     },
     {
       "id": "tmdb:1737018",
@@ -1582,25 +1393,11 @@
       "rating": 6.0
     },
     {
-      "id": "tmdb:1648740",
-      "performer": "Gary Owen",
-      "title": "Gary Owen: No Hard Feelings",
-      "votes": 1,
-      "rating": 3.0
-    },
-    {
       "id": "tmdb:1155064",
       "performer": "Geoffrey Asmus",
       "title": "Geoffrey Asmus: The Only Funny White Man",
       "votes": 4,
       "rating": 6.1
-    },
-    {
-      "id": "tt0332720",
-      "performer": "George López",
-      "title": "The Original Latin Kings of Comedy",
-      "votes": 5,
-      "rating": 5.9
     },
     {
       "id": "tt0975673",
@@ -1636,20 +1433,6 @@
       "title": "George Lopez: Muy Católico",
       "votes": 5,
       "rating": 4.6
-    },
-    {
-      "id": "tt5242012",
-      "performer": "Gerry Dee",
-      "title": "Gerry Dee: No Reading Ahead - Live in Concert",
-      "votes": 1,
-      "rating": 1.5
-    },
-    {
-      "id": "tt38772625",
-      "performer": "Gerry Dee",
-      "title": "Gerry Dee: Funny You Should Say That",
-      "votes": 6,
-      "rating": 3.8
     },
     {
       "id": "tt0080790",
@@ -1694,25 +1477,11 @@
       "rating": 6.05
     },
     {
-      "id": "tt31259230",
-      "performer": "Hannah Gadsby",
-      "title": "Hannah Gadsby's Gender Agenda",
-      "votes": 13,
-      "rating": 5.4
-    },
-    {
       "id": "tt5352432",
       "performer": "Hannibal Buress",
       "title": "Hannibal Buress: Comedy Camisado",
       "votes": 94,
       "rating": 6.218
-    },
-    {
-      "id": "tt5612850",
-      "performer": "Hannibal Buress",
-      "title": "Hannibal Buress: Hannibal Takes Edinburgh",
-      "votes": 25,
-      "rating": 6.24
     },
     {
       "id": "tt11393666",
@@ -1736,32 +1505,11 @@
       "rating": 6.0
     },
     {
-      "id": "tt25396646",
-      "performer": "Hasan Minhaj",
-      "title": "Best of Stand-Up 2022",
-      "votes": 7,
-      "rating": 3.9
-    },
-    {
       "id": "tt3921854",
       "performer": "Heather McDonald",
       "title": "Heather McDonald: I Don't Mean to Brag",
       "votes": 7,
       "rating": 6.4
-    },
-    {
-      "id": "tt29261000",
-      "performer": "Heather McMahan",
-      "title": "Heather McMahan: Son I Never Had",
-      "votes": 4,
-      "rating": 5.5
-    },
-    {
-      "id": "tt47793872",
-      "performer": "Heather McMahan",
-      "title": "Heather McMahan: By a Thread",
-      "votes": 1,
-      "rating": 5.0
     },
     {
       "id": "tt1486726",
@@ -1820,39 +1568,11 @@
       "rating": 5.2
     },
     {
-      "id": "tt32801245",
-      "performer": "Ivo Graham",
-      "title": "Ivo Graham: Live From The Bloomsbury Theatre",
-      "votes": 1,
-      "rating": 2.5
-    },
-    {
       "id": "tt1175501",
       "performer": "Jack Dee",
       "title": "Jack Dee: Live at The Apollo",
       "votes": 6,
       "rating": 6.1
-    },
-    {
-      "id": "tt0803762",
-      "performer": "Jack Dee",
-      "title": "Jack Dee Live Again",
-      "votes": 4,
-      "rating": 5.9
-    },
-    {
-      "id": "tt1457726",
-      "performer": "Jack Dee",
-      "title": "Huge",
-      "votes": 7,
-      "rating": 5.6
-    },
-    {
-      "id": "tt2636592",
-      "performer": "Jack Whitehall",
-      "title": "Jack Whitehall: Live",
-      "votes": 13,
-      "rating": 6.4
     },
     {
       "id": "tt6317942",
@@ -1904,27 +1624,6 @@
       "rating": 5.0
     },
     {
-      "id": "tt1629304",
-      "performer": "Jason Manford",
-      "title": "Jason Manford: Live at the Manchester Apollo",
-      "votes": 2,
-      "rating": 3.0
-    },
-    {
-      "id": "tmdb:715221",
-      "performer": "Jason Manford",
-      "title": "Jason Manford's Muddle Class",
-      "votes": 2,
-      "rating": 3.5
-    },
-    {
-      "id": "tt26445613",
-      "performer": "Jason Manford",
-      "title": "Jason Manford: Recent Nostalgia",
-      "votes": 1,
-      "rating": 3.0
-    },
-    {
       "id": "tt38129244",
       "performer": "Jay Jurden",
       "title": "Jay Jurden: Yes Ma'am",
@@ -1946,13 +1645,6 @@
       "rating": 4.0
     },
     {
-      "id": "tt2134080",
-      "performer": "Jeff Dunham",
-      "title": "Jeff Dunham: Birth of a Dummy",
-      "votes": 3,
-      "rating": 5.3
-    },
-    {
       "id": "tt4209802",
       "performer": "Jeff Dunham",
       "title": "Jeff Dunham: All Over the Map",
@@ -1972,13 +1664,6 @@
       "title": "Jeff Foxworthy: Totally Committed",
       "votes": 3,
       "rating": 3.7
-    },
-    {
-      "id": "tt0945387",
-      "performer": "Jeff Foxworthy",
-      "title": "Redneck Comedy Roundup",
-      "votes": 2,
-      "rating": 1.5
     },
     {
       "id": "tt42836662",
@@ -2035,13 +1720,6 @@
       "title": "Jerry Seinfeld: 23 Hours to Kill",
       "votes": 122,
       "rating": 6.225
-    },
-    {
-      "id": "tt13649688",
-      "performer": "Jerry Seinfeld",
-      "title": "Best of Stand-Up 2020",
-      "votes": 24,
-      "rating": 6.0
     },
     {
       "id": "tt35699057",
@@ -2156,13 +1834,6 @@
       "rating": 5.5
     },
     {
-      "id": "tmdb:689906",
-      "performer": "Jimmy Carr",
-      "title": "Jimmy Carr’s Comedy Idol",
-      "votes": 1,
-      "rating": 5.0
-    },
-    {
       "id": "tt31723041",
       "performer": "Jimmy Carr",
       "title": "Jimmy Carr: Natural Born Killer",
@@ -2175,20 +1846,6 @@
       "title": "Jimmy O. Yang: Guess How Much?",
       "votes": 18,
       "rating": 6.4
-    },
-    {
-      "id": "tt21458670",
-      "performer": "Jinkx Monsoon",
-      "title": "Jinkx Monsoon: Red Head Redemption",
-      "votes": 11,
-      "rating": 5.5
-    },
-    {
-      "id": "tt39522232",
-      "performer": "Jo Brand",
-      "title": "Jo Brand - Barely Live",
-      "votes": 1,
-      "rating": 6.0
     },
     {
       "id": "tt1340588",
@@ -2210,13 +1867,6 @@
       "title": "Joe Gatto: Messing with People",
       "votes": 2,
       "rating": 1.2
-    },
-    {
-      "id": "tt6629178",
-      "performer": "Joe Lycett",
-      "title": "Joe Lycett: That's the Way, A-Ha, A-Ha, Joe Lycett - Live",
-      "votes": 6,
-      "rating": 6.3
     },
     {
       "id": "tt7183876",
@@ -2303,13 +1953,6 @@
       "rating": 6.1
     },
     {
-      "id": "tt33064688",
-      "performer": "Josh Widdicombe",
-      "title": "Josh Widdicombe: Bit Much...",
-      "votes": 6,
-      "rating": 6.2
-    },
-    {
       "id": "tt10835892",
       "performer": "Josh Wolf",
       "title": "Josh Wolf: Father of the Year",
@@ -2322,13 +1965,6 @@
       "title": "Judd Apatow: The Return",
       "votes": 91,
       "rating": 6.236
-    },
-    {
-      "id": "tt6633152",
-      "performer": "Judd Apatow",
-      "title": "This Is Stand-Up",
-      "votes": 2,
-      "rating": 5.0
     },
     {
       "id": "tt0119207",
@@ -2443,34 +2079,6 @@
       "rating": 5.8
     },
     {
-      "id": "tt4241034",
-      "performer": "Kenny Sebastian",
-      "title": "Kenny Sebastian: Journey to the Center of My Brain",
-      "votes": 1,
-      "rating": 4.0
-    },
-    {
-      "id": "tt12241424",
-      "performer": "Kenny Sebastian",
-      "title": "Kenny Sebastian: The Most Interesting Person in the Room",
-      "votes": 14,
-      "rating": 6.3
-    },
-    {
-      "id": "tt4088134",
-      "performer": "Kevin Bridges",
-      "title": "Kevin Bridges: Live at the Commonwealth",
-      "votes": 3,
-      "rating": 6.3
-    },
-    {
-      "id": "tmdb:839432",
-      "performer": "Kevin Hart",
-      "title": "Kevin Hart: \"What Now?\" All Access",
-      "votes": 2,
-      "rating": 1.5
-    },
-    {
       "id": "tt4669186",
       "performer": "Kevin Hart",
       "title": "Kevin Hart: What Now?",
@@ -2583,13 +2191,6 @@
       "rating": 6.2
     },
     {
-      "id": "tt0151327",
-      "performer": "Lenny Bruce",
-      "title": "Lenny Bruce: Without Tears",
-      "votes": 4,
-      "rating": 5.0
-    },
-    {
       "id": "tt29712087",
       "performer": "Leo Reich",
       "title": "Leo Reich: Literally Who Cares?!",
@@ -2609,13 +2210,6 @@
       "title": "Leslie Jones: Life Part 2",
       "votes": 2,
       "rating": 3.0
-    },
-    {
-      "id": "tt4592602",
-      "performer": "Lewis Black",
-      "title": "Lewis Black & Friends - A Night to Let Freedom Laugh (Live in Washington D.C.)",
-      "votes": 2,
-      "rating": 3.5
     },
     {
       "id": "tt27036683",
@@ -2702,13 +2296,6 @@
       "rating": 6.1
     },
     {
-      "id": "tt39163035",
-      "performer": "Lucy Beaumont",
-      "title": "Lucy Beaumont: Live From The Royal Court Theatre",
-      "votes": 2,
-      "rating": 5.5
-    },
-    {
       "id": "tt26931899",
       "performer": "Mae Martin",
       "title": "Mae Martin: SAP",
@@ -2786,32 +2373,11 @@
       "rating": 6.1
     },
     {
-      "id": "tt0479805",
-      "performer": "Mark Thomas",
-      "title": "Mark Thomas: Sex, Filth and Religion",
-      "votes": 2,
-      "rating": 5.0
-    },
-    {
-      "id": "tt3819442",
-      "performer": "Mark Thomas",
-      "title": "Mark Thomas: Serious Organised Criminal",
-      "votes": 1,
-      "rating": 4.0
-    },
-    {
       "id": "tt7655590",
       "performer": "Marlon Wayans",
       "title": "Marlon Wayans: Woke-ish",
       "votes": 60,
       "rating": 6.267
-    },
-    {
-      "id": "tt18950688",
-      "performer": "Marlon Wayans",
-      "title": "Marlon Wayans Presents: The Headliners",
-      "votes": 4,
-      "rating": 5.0
     },
     {
       "id": "tt0327036",
@@ -2891,13 +2457,6 @@
       "rating": 6.2
     },
     {
-      "id": "tt32079956",
-      "performer": "Melanie Bracewell",
-      "title": "Melanie Bracewell: Forget Me Not",
-      "votes": 2,
-      "rating": 4.8
-    },
-    {
       "id": "tt1327937",
       "performer": "Michael McIntyre",
       "title": "Michael McIntyre: Live & Laughing",
@@ -2912,25 +2471,11 @@
       "rating": 6.4
     },
     {
-      "id": "tt2586604",
-      "performer": "Michael McIntyre",
-      "title": "Michael McIntyre: Showtime",
-      "votes": 20,
-      "rating": 5.8
-    },
-    {
       "id": "tt2137119",
       "performer": "Micky Flanagan",
       "title": "Micky Flanagan: Live - The Out Out Tour",
       "votes": 15,
       "rating": 6.467
-    },
-    {
-      "id": "tt3406050",
-      "performer": "Micky Flanagan",
-      "title": "Micky Flanagan: Live – Back in the Game Tour",
-      "votes": 16,
-      "rating": 6.3
     },
     {
       "id": "tt36462322",
@@ -2959,13 +2504,6 @@
       "title": "Mike Epps: Under Rated & Never Faded",
       "votes": 15,
       "rating": 6.1
-    },
-    {
-      "id": "tt1931486",
-      "performer": "Mike Epps",
-      "title": "Mike Epps Presents: Live from Club Nokia",
-      "votes": 3,
-      "rating": 4.2
     },
     {
       "id": "tt5339586",
@@ -3025,7 +2563,7 @@
     },
     {
       "id": "tt1144913",
-      "performer": "Mo'Nique",
+      "performer": "Mo'nique",
       "title": "Mo'nique: I Coulda Been Your Cellmate",
       "votes": 5,
       "rating": 6.2
@@ -3094,13 +2632,6 @@
       "rating": 6.2
     },
     {
-      "id": "tt10773654",
-      "performer": "Nikki Glaser",
-      "title": "Hysterical",
-      "votes": 9,
-      "rating": 6.4
-    },
-    {
       "id": "tt16160708",
       "performer": "Nikki Glaser",
       "title": "Nikki Glaser: Good Clean Filth",
@@ -3108,39 +2639,11 @@
       "rating": 5.9
     },
     {
-      "id": "tt2945654",
-      "performer": "Nina Conti",
-      "title": "Nina Conti: Talk to the Hand",
-      "votes": 3,
-      "rating": 6.2
-    },
-    {
-      "id": "tt32755658",
-      "performer": "Olga Koch",
-      "title": "Olga Koch: Just Friends",
-      "votes": 1,
-      "rating": 5.0
-    },
-    {
-      "id": "tmdb:1739804",
-      "performer": "Olga Koch",
-      "title": "Olga Koch: Comes From Money",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt1463192",
       "performer": "Omid Djalili",
       "title": "Omid Djalili: No Agenda",
       "votes": 10,
       "rating": 6.0
-    },
-    {
-      "id": "tt1786611",
-      "performer": "Omid Djalili",
-      "title": "Omid Djalili: Live in London",
-      "votes": 6,
-      "rating": 5.7
     },
     {
       "id": "tt3300436",
@@ -3185,20 +2688,6 @@
       "rating": 5.9
     },
     {
-      "id": "tt7623972",
-      "performer": "Paul Chowdhry",
-      "title": "Paul Chowdhry: PC's World",
-      "votes": 2,
-      "rating": 4.5
-    },
-    {
-      "id": "tmdb:1516563",
-      "performer": "Paul Foot",
-      "title": "Paul Foot: Dissolve",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt0347752",
       "performer": "Paul Mooney",
       "title": "Paul Mooney: Analyzing White America",
@@ -3241,13 +2730,6 @@
       "rating": 6.193
     },
     {
-      "id": "tt40144526",
-      "performer": "Pete Holmes",
-      "title": "Pete Holmes: Silly Silly Fun Boy",
-      "votes": 3,
-      "rating": 5.8
-    },
-    {
       "id": "tt0285893",
       "performer": "Peter Kay",
       "title": "Peter Kay: Live at the Top of the Tower",
@@ -3255,32 +2737,11 @@
       "rating": 6.4
     },
     {
-      "id": "tt0823704",
-      "performer": "Peter Kay",
-      "title": "Peter Kay: Live at the Manchester Arena",
-      "votes": 12,
-      "rating": 5.6
-    },
-    {
       "id": "tt2117944",
       "performer": "Peter Kay",
       "title": "Peter Kay: The Tour That Didn't Tour Tour",
       "votes": 20,
       "rating": 6.2
-    },
-    {
-      "id": "tt4943818",
-      "performer": "Peter Kay",
-      "title": "Peter Kay: Live & Back on Nights",
-      "votes": 10,
-      "rating": 3.4
-    },
-    {
-      "id": "tmdb:534015",
-      "performer": "Phil Wang",
-      "title": "Phil Wang: Mellow Yellow",
-      "votes": 2,
-      "rating": 6.0
     },
     {
       "id": "tt15091640",
@@ -3295,20 +2756,6 @@
       "title": "Phil Wang: Wang in There, Baby!",
       "votes": 10,
       "rating": 5.9
-    },
-    {
-      "id": "tmdb:1328595",
-      "performer": "Pierre Novellie",
-      "title": "Pierre Novellie: Why Can’t I Just Enjoy Things",
-      "votes": 1,
-      "rating": 3.5
-    },
-    {
-      "id": "tt26249174",
-      "performer": "Rahul Subramanian",
-      "title": "Rahul Talks to People",
-      "votes": 5,
-      "rating": 5.2
     },
     {
       "id": "tt36421934",
@@ -3360,67 +2807,11 @@
       "rating": 5.3
     },
     {
-      "id": "tt2463434",
-      "performer": "Rhys Darby",
-      "title": "It's Rhys Darby Night!",
-      "votes": 1,
-      "rating": 4.0
-    },
-    {
-      "id": "tmdb:284928",
-      "performer": "Rhys Darby",
-      "title": "Rhys Darby: This Way to Spaceship",
-      "votes": 1,
-      "rating": 4.0
-    },
-    {
-      "id": "tmdb:1752536",
-      "performer": "Rhys Darby",
-      "title": "Rhys Darby: 25 Years",
-      "votes": 2,
-      "rating": 5.2
-    },
-    {
-      "id": "tt30399609",
-      "performer": "Rhys Nicholson",
-      "title": "Rhys Nicholson's Big Queer Comedy Concert",
-      "votes": 1,
-      "rating": 5.0
-    },
-    {
-      "id": "tt2825860",
-      "performer": "Richard Herring",
-      "title": "Richard Herring: Someone Likes Yoghurt",
-      "votes": 2,
-      "rating": 6.0
-    },
-    {
-      "id": "tmdb:218120",
-      "performer": "Richard Herring",
-      "title": "Richard Herring - Talking Cock (The Second Coming)",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
-      "id": "tmdb:433603",
-      "performer": "Richard Herring",
-      "title": "Richard Herring: Happy Now",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt4853120",
       "performer": "Rick Gutierrez",
       "title": "Gabriel Iglesias Presents Rick Gutierrez: I'm Not Mad, I'm Just a Parent",
       "votes": 4,
       "rating": 6.0
-    },
-    {
-      "id": "tt39132188",
-      "performer": "Rick Mercer",
-      "title": "Rick Mercer: Stand Up for Canada",
-      "votes": 1,
-      "rating": 2.0
     },
     {
       "id": "tt2374564",
@@ -3549,20 +2940,6 @@
       "rating": 4.8
     },
     {
-      "id": "tt1300370",
-      "performer": "Russell Brand",
-      "title": "Russell Brand: Live",
-      "votes": 6,
-      "rating": 4.2
-    },
-    {
-      "id": "tt1294207",
-      "performer": "Russell Brand",
-      "title": "Russell Brand: Doing Life Live",
-      "votes": 4,
-      "rating": 3.8
-    },
-    {
       "id": "tt1692221",
       "performer": "Russell Brand",
       "title": "Russell Brand: Scandalous",
@@ -3575,13 +2952,6 @@
       "title": "RUSSELL BRAND: RE:BIRTH",
       "votes": 36,
       "rating": 6.4
-    },
-    {
-      "id": "tt1950332",
-      "performer": "Russell Howard",
-      "title": "Russell Howard Live: Dingledodies",
-      "votes": 16,
-      "rating": 6.3
     },
     {
       "id": "tt1426486",
@@ -3654,13 +3024,6 @@
       "rating": 6.3
     },
     {
-      "id": "tt39285140",
-      "performer": "Sarah Millican",
-      "title": "Sarah Millican: Late Bloomer",
-      "votes": 10,
-      "rating": 5.2
-    },
-    {
       "id": "tt0422528",
       "performer": "Sarah Silverman",
       "title": "Sarah Silverman: Jesus Is Magic",
@@ -3696,13 +3059,6 @@
       "rating": 4.0
     },
     {
-      "id": "tt19381772",
-      "performer": "Seann Walsh",
-      "title": "Seann Walsh: Kiss",
-      "votes": 3,
-      "rating": 3.3
-    },
-    {
       "id": "tt9482786",
       "performer": "Sebastian Maniscalco",
       "title": "Sebastian Maniscalco: Stay Hungry",
@@ -3731,27 +3087,6 @@
       "rating": 6.1
     },
     {
-      "id": "tt10687642",
-      "performer": "Simon Amstell",
-      "title": "Simon Amstell: Set Free",
-      "votes": 25,
-      "rating": 6.1
-    },
-    {
-      "id": "tmdb:77746",
-      "performer": "Simon Munnery",
-      "title": "Simon Munnery: Hello",
-      "votes": 3,
-      "rating": 5.2
-    },
-    {
-      "id": "tmdb:334379",
-      "performer": "Simon Munnery",
-      "title": "Simon Munnery: Fylm",
-      "votes": 1,
-      "rating": 6.0
-    },
-    {
       "id": "tt0938331",
       "performer": "Sinbad",
       "title": "Sinbad: Afros and Bellbottoms",
@@ -3771,13 +3106,6 @@
       "title": "Sinbad: Nothin' but the Funk",
       "votes": 4,
       "rating": 5.2
-    },
-    {
-      "id": "tt7003972",
-      "performer": "Sofie Hagen",
-      "title": "Sofie Hagen: Shimmer Shatter",
-      "votes": 1,
-      "rating": 6.0
     },
     {
       "id": "tt1305823",
@@ -3820,13 +3148,6 @@
       "title": "Steph Tolev: Filth Queen",
       "votes": 5,
       "rating": 5.4
-    },
-    {
-      "id": "tmdb:62612",
-      "performer": "Steve Harvey",
-      "title": "Steve Harvey: Still Trippin'",
-      "votes": 7,
-      "rating": 5.6
     },
     {
       "id": "tt2345308",
@@ -3892,20 +3213,6 @@
       "rating": 6.423
     },
     {
-      "id": "tt7623988",
-      "performer": "Stewart Francis",
-      "title": "Stewart Francis: Pun Gent",
-      "votes": 2,
-      "rating": 6.2
-    },
-    {
-      "id": "tmdb:1392077",
-      "performer": "Suzi Ruffell",
-      "title": "Suzi Ruffell: Snappy",
-      "votes": 1,
-      "rating": 1.0
-    },
-    {
       "id": "tt3065448",
       "performer": "Tammy Pescatelli",
       "title": "Tammy Pescatelli: Finding the Funny",
@@ -3932,13 +3239,6 @@
       "title": "Tig Notaro: Happy to Be Here",
       "votes": 54,
       "rating": 6.194
-    },
-    {
-      "id": "tt5491304",
-      "performer": "Tim Allen",
-      "title": "Comic Relief Zero",
-      "votes": 3,
-      "rating": 4.7
     },
     {
       "id": "tt36413638",
@@ -4086,27 +3386,6 @@
       "title": "Trevor Noah: Where Was I",
       "votes": 68,
       "rating": 6.456
-    },
-    {
-      "id": "tt12572032",
-      "performer": "Urzila Carlson",
-      "title": "Urzila Carlson: Overqualified Loser",
-      "votes": 12,
-      "rating": 4.5
-    },
-    {
-      "id": "tt0284621",
-      "performer": "Victoria Wood",
-      "title": "Victoria Wood's All Day Breakfast",
-      "votes": 3,
-      "rating": 6.0
-    },
-    {
-      "id": "tt13529992",
-      "performer": "Vir Das",
-      "title": "Vir Das: Outside in - The Lockdown Special",
-      "votes": 8,
-      "rating": 6.188
     },
     {
       "id": "tt4779072",

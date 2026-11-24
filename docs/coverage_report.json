@@ -1,9 +1,9 @@
 {
   "description": "Evidence-only coverage audit. Zero records does not prove a comedian has no special. Nonzero records do not prove their filmography is complete or that playback works.",
   "summary": {
-    "established_comedians": 207,
+    "established_comedians": 206,
     "selected_underrated_comedians": 12,
-    "priority_comedians_total": 219,
+    "priority_comedians_total": 218,
     "priority_comedians_without_movie_records": 9,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 58,
@@ -1968,16 +1968,6 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
-      "name": "Joan Rivers",
-      "priority": "established",
-      "movie_special_records": 5,
-      "tv_episode_review_leads": 1,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,

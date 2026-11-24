@@ -120,13 +120,6 @@
       "releaseInfo": "2002"
     },
     {
-      "id": "tt2072141",
-      "type": "movie",
-      "name": "Kevin Smith: Burn in Hell",
-      "poster": "https://image.tmdb.org/t/p/w500/dCLePj38lQtIVSMeWNE0F5K5LaC.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tt1554966",
       "type": "movie",
       "name": "Gabriel Iglesias: I'm Not Fat... I'm Fluffy",
@@ -195,13 +188,6 @@
       "name": "Patton Oswalt: My Weakness Is Strong",
       "poster": "https://image.tmdb.org/t/p/w500/fk7grnwQtt1W9PkJj0Gc2sc300N.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt0451021",
-      "type": "movie",
-      "name": "The Comedians of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/z2iX8rxrFL3HAr8dWTbISJXZqM4.jpg",
-      "releaseInfo": "2005"
     },
     {
       "id": "tt2710694",
@@ -281,13 +267,6 @@
       "releaseInfo": "2017"
     },
     {
-      "id": "tt1756754",
-      "type": "movie",
-      "name": "Stewart Lee: If You Prefer a Milder Comedian, Please Ask for One",
-      "poster": "https://image.tmdb.org/t/p/w500/dL0a3MYv6Umjxqclsuvjg9N2Os4.jpg",
-      "releaseInfo": "2010"
-    },
-    {
       "id": "tt5652620",
       "type": "movie",
       "name": "Daniel Tosh: People Pleaser",
@@ -349,6 +328,27 @@
       "name": "Michael Che Matters",
       "poster": "https://image.tmdb.org/t/p/w500/pr60Hn5pu5HMiHrj6xxC3ok1DY7.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt2121359",
+      "type": "movie",
+      "name": "Stephen Merchant: Hello Ladies... Live!",
+      "poster": "https://image.tmdb.org/t/p/w500/gF1IIMKd8bXNhV3v0kypDPwMjU8.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt3441700",
+      "type": "movie",
+      "name": "Nick Offerman: American Ham",
+      "poster": "https://image.tmdb.org/t/p/w500/2Z8lC8DUEZQrmEASJNADX7sj8a6.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt0865482",
+      "type": "movie",
+      "name": "Katt Williams: The Pimp Chronicles Pt. 1",
+      "poster": "https://image.tmdb.org/t/p/w500/eDQutkfqvd6CkyHGXr0HKXnaxDp.jpg",
+      "releaseInfo": "2006"
     }
   ]
 }

@@ -1,0 +1,356 @@
+{
+  "metas": [
+    {
+      "id": "tt32538604",
+      "type": "movie",
+      "name": "Sal Vulcano: Terrified",
+      "poster": "https://image.tmdb.org/t/p/w500/bpb0ssSR6lrVBEfv5E82tlFVwAR.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt39275094",
+      "type": "movie",
+      "name": "Grandmaster-level baddie Sam Campbell being ‘somewhat’ foolish @ Bill Murray comedy club",
+      "poster": "https://image.tmdb.org/t/p/w500/zarRn0ewuKiwme1UO2RuwP71lhZ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt29280429",
+      "type": "movie",
+      "name": "Sam Jay: Salute Me or Shoot Me",
+      "poster": "https://image.tmdb.org/t/p/w500/qprE4CXZAFHnWD1aB1PKYUc6M7r.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt0180972",
+      "type": "movie",
+      "name": "Sam Kinison: Banned",
+      "poster": "https://image.tmdb.org/t/p/w500/daZjhSfB1BAT88wCEV2Tz5rmxZW.jpg",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt10446712",
+      "type": "movie",
+      "name": "Sam Kinison: Live in Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/toRKtijR4skjKniA2YaAxS60bjt.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt21836654",
+      "type": "movie",
+      "name": "Sam Morril: Same Time Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/Gd6RG5y9YLivyBt5e94izQjFQ3.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt45584335",
+      "type": "movie",
+      "name": "Sam Morril: Incorrect",
+      "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "standupyt_ijFQCbulaWs",
+      "type": "movie",
+      "name": "Sam Morril - \"You've Changed\" Full Special (2024) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/ijFQCbulaWs/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/ijFQCbulaWs/hqdefault.jpg",
+      "description": "Sam Morril · 49 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt14831714",
+      "type": "movie",
+      "name": "Sam Tallent: Waiting for Death to Claim Us",
+      "poster": "https://image.tmdb.org/t/p/w500/xUnvKe1vDIQeCQhkWbqTtldUW1N.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt31024305",
+      "type": "movie",
+      "name": "Sam Tallent: The Toad’s Morale",
+      "poster": "https://image.tmdb.org/t/p/w500/34rvlQRTbPKtgWpwS6TEPk8xUBd.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2202405",
+      "type": "movie",
+      "name": "Sarah Millican: Chatterbox Live",
+      "poster": "https://image.tmdb.org/t/p/w500/unOXygDMQx8HUIv7o8VHIAgjV6R.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt7785392",
+      "type": "movie",
+      "name": "Sarah Millican: Outsider",
+      "poster": "https://image.tmdb.org/t/p/w500/mCJglZu1OkAfHWTU6fEDWLACsT0.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt26687384",
+      "type": "movie",
+      "name": "Sarah Millican: Bobby Dazzler",
+      "poster": "https://image.tmdb.org/t/p/w500/6tlWePMiUjYNcygs1h0gPJy9bcR.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt0422528",
+      "type": "movie",
+      "name": "Sarah Silverman: Jesus Is Magic",
+      "poster": "https://image.tmdb.org/t/p/w500/uKuAGLz9eUWw3tnuXPRChpK7lYI.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt2883224",
+      "type": "movie",
+      "name": "Sarah Silverman: We Are Miracles",
+      "poster": "https://image.tmdb.org/t/p/w500/y0lI9LAOCMh04u8Z5CMPZwGNKLe.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt6948354",
+      "type": "movie",
+      "name": "Sarah Silverman: A Speck of Dust",
+      "poster": "https://image.tmdb.org/t/p/w500/bvTyPBdS4tiJ4Nv2zPnT9kAjSoD.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt27443713",
+      "type": "movie",
+      "name": "Sarah Silverman: Someone You Love",
+      "poster": "https://image.tmdb.org/t/p/w500/tDR5rQi3d6fzoAoh43Tsg4LlFGl.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt36473825",
+      "type": "movie",
+      "name": "Sarah Silverman: PostMortem",
+      "poster": "https://image.tmdb.org/t/p/w500/hPBERJFecTqReSO0jqcfL6branG.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt38556681",
+      "type": "movie",
+      "name": "Sarah Squirm: Live + in the Flesh",
+      "poster": "https://image.tmdb.org/t/p/w500/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1534503",
+      "type": "movie",
+      "name": "Sean Lock: Live!",
+      "poster": "https://image.tmdb.org/t/p/w500/xvFObZ2BCP6mgXukq4TH4R8Q2JK.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt3552510",
+      "type": "movie",
+      "name": "Sean Lock: Purple Van Man",
+      "poster": "https://image.tmdb.org/t/p/w500/1AZJFINXgphliybGDrc8Dz6Sp0g.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt7693270",
+      "type": "movie",
+      "name": "Sean Lock: Keep It Light",
+      "poster": "https://image.tmdb.org/t/p/w500/bLbcUPBsAEtR0JUcCoKqPaoAHqU.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt22061184",
+      "type": "movie",
+      "name": "Sean Patton: King Scorpio",
+      "poster": "https://image.tmdb.org/t/p/w500/1Qxc4UA7SChUt9TfCLA6zToGuxf.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt23939056",
+      "type": "movie",
+      "name": "Sean Patton: Number One",
+      "poster": "https://image.tmdb.org/t/p/w500/l95Jvq8E8gC4y3xm9Tsc2M56oJl.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt2215489",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: What's Wrong with People?",
+      "poster": "https://image.tmdb.org/t/p/w500/cd7LpSJ8GOwaqxnRADV4VTqm1Dp.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt4240704",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Aren't You Embarrassed?",
+      "poster": "https://image.tmdb.org/t/p/w500/3S0iITseGs572hEQzzXbKjphV69.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt9482786",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Stay Hungry",
+      "poster": "https://image.tmdb.org/t/p/w500/qxrHollpTX5QPMz7DZbeKvpwiba.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt23623660",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: Is it Me?",
+      "poster": "https://image.tmdb.org/t/p/w500/fRzJ0KU6Lw3Ew7eJXLJAzlnRPXv.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34253990",
+      "type": "movie",
+      "name": "Sebastian Maniscalco: It Ain't Right",
+      "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt11168100",
+      "type": "movie",
+      "name": "Seth Meyers: Lobby Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/cOkN2Mfw76HkZRvS3kQqDeTqhrf.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt33749189",
+      "type": "movie",
+      "name": "Seth Meyers: Dad Man Walking",
+      "poster": "https://image.tmdb.org/t/p/w500/dnYkySTeTwDrHuBMeU3ImhMWIVe.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt15456166",
+      "type": "movie",
+      "name": "Shane Gillis: Live in Austin",
+      "poster": "https://image.tmdb.org/t/p/w500/hfp9MdtDSj8mVwCvEpWGtDLTE9W.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt28741830",
+      "type": "movie",
+      "name": "Shane Gillis: Beautiful Dogs",
+      "poster": "https://image.tmdb.org/t/p/w500/8SYsQOur3wAfh1LJf6rvTFpIPHy.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt39981243",
+      "type": "movie",
+      "name": "Shane Mauss: Trips: First Dose",
+      "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt30394557",
+      "type": "movie",
+      "name": "Shane Torres: The Blue Eyed Mexican",
+      "poster": "https://image.tmdb.org/t/p/w500/lDVDWPpEMjtpkFmBjwUy8F2chgt.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:507975",
+      "type": "movie",
+      "name": "Shayne Smith: Prison for Wizards",
+      "poster": "https://image.tmdb.org/t/p/w500/52bJVYbch8PFmHLBy3FM9u20i7a.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:716121",
+      "type": "movie",
+      "name": "Shayne Smith: Tattoos Will Ruin Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/xHDrk019FKh4OhYSDBt5USgcFD7.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11983388",
+      "type": "movie",
+      "name": "Shayne Smith: Alligator Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/sr409gBCUzVIXBxgfYU7antxOxI.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1616397",
+      "type": "movie",
+      "name": "Shayne Smith: The Animal",
+      "poster": "https://image.tmdb.org/t/p/w500/swyIBicLGMKfQREDGpDMcxQE3Az.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt33722086",
+      "type": "movie",
+      "name": "Shayne Smith: Banned From Karate",
+      "poster": "https://image.tmdb.org/t/p/w500/ve6JLR8lCpQGpt0Aq6XKDe5mTP9.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1616389",
+      "type": "movie",
+      "name": "Shayne Smith: Ghosts Are Real",
+      "poster": "https://image.tmdb.org/t/p/w500/hiO8azAHNhcpfstf1g5gq572x2N.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt36933778",
+      "type": "movie",
+      "name": "Sheng Wang: Purple",
+      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt2121810",
+      "type": "movie",
+      "name": "Simon Amstell: Do Nothing - Live",
+      "poster": "https://image.tmdb.org/t/p/w500/bR3v9ANTzjUJ8gVwiMmBfq1A7tI.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2825716",
+      "type": "movie",
+      "name": "Simon Amstell: Numb - Live at the BBC",
+      "poster": "https://image.tmdb.org/t/p/w500/zARBaztCjtngzG0s8qLmKO5EGKP.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0292690",
+      "type": "movie",
+      "name": "Sinbad: Brain Damaged",
+      "poster": "https://image.tmdb.org/t/p/w500/2hXCWKRHuzox2NQxxylwrhr07vH.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0938331",
+      "type": "movie",
+      "name": "Sinbad: Afros and Bellbottoms",
+      "poster": "https://image.tmdb.org/t/p/w500/gAYv6aZ7i4aQ9FztzM26Fx7KreZ.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0938333",
+      "type": "movie",
+      "name": "Sinbad: Son of a Preacher Man",
+      "poster": "https://image.tmdb.org/t/p/w500/xlED5cY9TxY6j22nLgd6WT6RXU9.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0938332",
+      "type": "movie",
+      "name": "Sinbad: Nothin' but the Funk",
+      "poster": "https://image.tmdb.org/t/p/w500/1jCLrDVXsn7hWlrPpILrM2BKuvK.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt1305823",
+      "type": "movie",
+      "name": "Sommore: The Queen Stands Alone",
+      "poster": "https://image.tmdb.org/t/p/w500/z7tb2ACzcp5qdsTd5t7bPWkbRF1.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt4172758",
+      "type": "movie",
+      "name": "Sommore: The Reign Continues",
+      "poster": "https://image.tmdb.org/t/p/w500/dSQDcBiWDAOfEVPFhpZiYwatpXu.jpg",
+      "releaseInfo": "2015"
+    }
+  ]
+}

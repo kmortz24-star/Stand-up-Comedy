@@ -50,13 +50,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1810402",
-      "type": "movie",
-      "name": "Sean McLoughlin: White Elephant",
-      "poster": "https://image.tmdb.org/t/p/w500/muRFPdqdGwYz5OLmbNW9fNPGJ71.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt46670803",
       "type": "movie",
       "name": "Zainab Johnson: Toxically Optimistic",
@@ -92,13 +85,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt47793872",
-      "type": "movie",
-      "name": "Heather McMahan: By a Thread",
-      "poster": "https://image.tmdb.org/t/p/w500/juQgJkraNasHQJ9vydh589ZcYsm.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt47658621",
       "type": "movie",
       "name": "Michael Che: Shot in Minnesota",
@@ -116,13 +102,6 @@
       "id": "tmdb:1802948",
       "type": "movie",
       "name": "Chris Hardwick: The Middle Ages",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1789573",
-      "type": "movie",
-      "name": "Bron Lewis - Chaos",
-      "poster": "https://image.tmdb.org/t/p/w500/gCT7RgdRPngQBGvcOjeeWlTnICG.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -161,24 +140,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1773497",
-      "type": "movie",
-      "name": "Urzila Carlson: You Don’t Say",
-      "poster": "https://image.tmdb.org/t/p/w500/qNKDPHbsDQSLAXWsHpIkJOb1KGq.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt38641690",
       "type": "movie",
       "name": "Jared Freid: The Family Plan",
       "poster": "https://image.tmdb.org/t/p/w500/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1752536",
-      "type": "movie",
-      "name": "Rhys Darby: 25 Years",
-      "poster": "https://image.tmdb.org/t/p/w500/vZe5kcHSegOYt00dgFviMtFqMZ4.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -224,13 +189,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:1739804",
-      "type": "movie",
-      "name": "Olga Koch: Comes From Money",
-      "poster": "https://image.tmdb.org/t/p/w500/e9PQjx1u8yL1q3064sul7lgKK4C.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt43616650",
       "type": "movie",
       "name": "Jeff Arcuri: Nice to Meet You",
@@ -249,27 +207,6 @@
       "type": "movie",
       "name": "Louis C.K.: Ridiculous",
       "poster": "https://image.tmdb.org/t/p/w500/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43735707",
-      "type": "movie",
-      "name": "Des Bishop - Bridge and Tunnel",
-      "poster": "https://image.tmdb.org/t/p/w500/e9YW1RlLD1stg15B4dKaHCthU77.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43615884",
-      "type": "movie",
-      "name": "Tom Cashman: The Formula for Happiness",
-      "poster": "https://image.tmdb.org/t/p/w500/ieyinNTyHYOIY0rxxafz80igmpI.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43619770",
-      "type": "movie",
-      "name": "Rik Mayall: Magnificent B'Stard",
-      "poster": "https://image.tmdb.org/t/p/w500/u01paGs0YEyUea8a3q9MyV9IMJ0.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -347,6 +284,68 @@
       "type": "movie",
       "name": "Patton Oswalt: Tea & Scotch",
       "poster": "https://image.tmdb.org/t/p/w500/csfenhsPmoW37RLdTMkh5WCJjdw.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1688283",
+      "type": "movie",
+      "name": "Fahim Anwar: Intrusive Thoughts",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt42057132",
+      "type": "movie",
+      "name": "Jack Tucker: Comedy Standup Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/2qqZYQj03Lr8RtUoENO8FBqCZzL.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt38575417",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41378543",
+      "type": "movie",
+      "name": "Ramy Youssef: In Love",
+      "poster": "https://image.tmdb.org/t/p/w500/5d3ZOUrlpTjV1WyH2IPovRVIF3I.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41592024",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41743373",
+      "type": "movie",
+      "name": "Brad Williams: Live on Short Street",
+      "poster": "https://image.tmdb.org/t/p/w500/xZRidUmyQQRtc63RlhzSTLfHFly.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt36933778",
+      "type": "movie",
+      "name": "Sheng Wang: Purple",
+      "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1664093",
+      "type": "movie",
+      "name": "Bill Bailey: Thoughtifier",
+      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt43493860",
+      "type": "movie",
+      "name": "We're Looking For People Who Do Huge Numbers On Social Media",
+      "poster": "https://image.tmdb.org/t/p/w500/cpqdABu3B2KKHPx9Pk1AW9DfSJf.jpg",
       "releaseInfo": "2026"
     }
   ]

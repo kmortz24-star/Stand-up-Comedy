@@ -1,156 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39115106",
-      "type": "movie",
-      "name": "Daniel Sloss: Can't",
-      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1054478",
-      "type": "movie",
-      "name": "Daniel Tosh: Completely Serious",
-      "poster": "https://image.tmdb.org/t/p/w500/mD1uqbeD8dQcqFOyFZiXGyGhLmr.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1853533",
-      "type": "movie",
-      "name": "Daniel Tosh: Happy Thoughts",
-      "poster": "https://image.tmdb.org/t/p/w500/5yJ0UHbkzcHe2wGNZKqgkeY3RAs.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt5652620",
-      "type": "movie",
-      "name": "Daniel Tosh: People Pleaser",
-      "poster": "https://image.tmdb.org/t/p/w500/6vPICnl59SdMjcM3bEudLFZ3K3X.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tmdb:508875",
-      "type": "movie",
-      "name": "Danielle Ward: Seventeen",
-      "poster": "https://image.tmdb.org/t/p/w500/27MsRmqLGNmc99xbcmuDQD8uCmT.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tmdb:1178965",
-      "type": "movie",
-      "name": "Danny Bhoy - Live from Montreal"
-    },
-    {
-      "id": "tmdb:21116",
-      "type": "movie",
-      "name": "Danny Bhoy: Live at the Sydney Opera House",
-      "poster": "https://image.tmdb.org/t/p/w500/3FfZyj3KkUicegyTIGzdWF7weeX.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt4145852",
-      "type": "movie",
-      "name": "Danny Bhoy: Live at the Athenaeum",
-      "poster": "https://image.tmdb.org/t/p/w500/ti7u1FYF5P2jg2Nj2gTGF0jBq8w.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt3131034",
-      "type": "movie",
-      "name": "Danny Bhoy: Subject to Change",
-      "poster": "https://image.tmdb.org/t/p/w500/suh1dOVpdxruvEqD5JmHwWCuWOd.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt4154338",
-      "type": "movie",
-      "name": "Danny Bhoy: Live at the Festival Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/11ewQ7pLtEV6mRKNmb9nnKc08uk.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tmdb:1401127",
-      "type": "movie",
-      "name": "Danny Bhoy: Mr Priority",
-      "poster": "https://image.tmdb.org/t/p/w500/nZ6KsHau6eng8wyNmC09DNDQjJq.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0930053",
-      "type": "movie",
-      "name": "Dara Ó Briain: Live at the Theatre Royal",
-      "poster": "https://image.tmdb.org/t/p/w500/9scgKwqsiquU74Hu38x8HzXZoSX.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt1368982",
-      "type": "movie",
-      "name": "Dara Ó Briain: Talks Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/2V0xtCYYXafC5lvIKMfvw3unZ9R.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt1781798",
-      "type": "movie",
-      "name": "Dara Ó Briain: This Is the Show",
-      "poster": "https://image.tmdb.org/t/p/w500/jxehydhr3lz5lP7DMU0kVkxQGun.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2529272",
-      "type": "movie",
-      "name": "Dara Ó Briain: Craic Dealer - Live 2012",
-      "poster": "https://image.tmdb.org/t/p/w500/1UzxJCMjszMfGN8bj6r5xGgBZO5.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt5269374",
-      "type": "movie",
-      "name": "Dara Ó Briain: Crowd Tickler",
-      "poster": "https://image.tmdb.org/t/p/w500/p45jQ4Lxqe9ASprTn6t7ajfadMj.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt14397214",
-      "type": "movie",
-      "name": "Dara Ó Briain: Voice of Reason",
-      "poster": "https://image.tmdb.org/t/p/w500/n5m3QN2LFwJfLfdoIuAEl1ptVTu.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt11443254",
-      "type": "movie",
-      "name": "Dave Allen Live ...On Life",
-      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
-      "releaseInfo": "1998"
-    },
-    {
-      "id": "tt0777178",
-      "type": "movie",
-      "name": "1995 Young Comedians Special",
-      "releaseInfo": "1995"
-    },
-    {
-      "id": "tt1243457",
-      "type": "movie",
-      "name": "Dave Attell - HBO Comedy Half-Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0407679",
-      "type": "movie",
-      "name": "Comedy Central Presents: Dave Attell",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt2047709",
-      "type": "movie",
-      "name": "Dave Attell: Hey, Your Mouth's Not Pregnant!",
-      "poster": "https://image.tmdb.org/t/p/w500/6LkOrhIPH84uuyc5rdVdbs0DFrT.jpg",
-      "releaseInfo": "2006"
-    },
-    {
       "id": "tt1151813",
       "type": "movie",
       "name": "Dave Attell: Captain Miserable",
@@ -270,13 +120,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt26343416",
-      "type": "movie",
-      "name": "Dave Hughes: Ridiculous",
-      "poster": "https://image.tmdb.org/t/p/w500/shaiTurHRJD2W3436loMM4dT3xX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt9130686",
       "type": "movie",
       "name": "Dave Merheje: Good Friend Bad Grammar",
@@ -296,13 +139,6 @@
       "name": "David Cross: The Pride Is Back",
       "poster": "https://image.tmdb.org/t/p/w500/4wYi80NyKnh3mmgg17krlTmEKD5.jpg",
       "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0437932",
-      "type": "movie",
-      "name": "Last Laugh '04",
-      "poster": "https://image.tmdb.org/t/p/w500/l5znVW8ZSQc7WeXaUv6l99MTJi1.jpg",
-      "releaseInfo": "2004"
     },
     {
       "id": "tt5943936",
@@ -333,18 +169,184 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt32014001",
-      "type": "movie",
-      "name": "My Next Guest with David Letterman and John Mulaney",
-      "poster": "https://image.tmdb.org/t/p/w500/6PXwk83W4BBQs0aSujZ2fqpoESK.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt0233528",
       "type": "movie",
       "name": "David Spade: Take the Hit",
       "poster": "https://image.tmdb.org/t/p/w500/bYfiNPOGLVseQQcZPQwbDQagdqH.jpg",
       "releaseInfo": "1998"
+    },
+    {
+      "id": "tt3740404",
+      "type": "movie",
+      "name": "David Spade: My Fake Problems",
+      "poster": "https://image.tmdb.org/t/p/w500/hgLpUDbiGwdCgZzjHJt9bIgHcXk.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt18955474",
+      "type": "movie",
+      "name": "David Spade: Nothing Personal",
+      "poster": "https://image.tmdb.org/t/p/w500/jc3u2yD3rpq6WyKAIpg85LnAVDe.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0480816",
+      "type": "movie",
+      "name": "Demetri Martin: If I",
+      "poster": "https://image.tmdb.org/t/p/w500/6y7w9BCIn4btKSGxLEmOZjE7TX4.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0954327",
+      "type": "movie",
+      "name": "Demetri Martin. Person.",
+      "poster": "https://image.tmdb.org/t/p/w500/gaG1cisIvh6CHLkYCWncF7wJDLs.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt2493210",
+      "type": "movie",
+      "name": "Demetri Martin: Standup Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/a7CcVM3xF4ZOnX0H6UUL9fw1uoA.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt7725144",
+      "type": "movie",
+      "name": "Demetri Martin: The Overthinker",
+      "poster": "https://image.tmdb.org/t/p/w500/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt31916241",
+      "type": "movie",
+      "name": "Demetri Martin: Demetri Deconstructed",
+      "poster": "https://image.tmdb.org/t/p/w500/cIZwQbAZkpzip3kWXH5yPgKxWRu.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0248752",
+      "type": "movie",
+      "name": "Denis Leary: No Cure for Cancer",
+      "poster": "https://image.tmdb.org/t/p/w500/bjybZeS8uPK0nezEz1CEZpZcbpa.jpg",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0248751",
+      "type": "movie",
+      "name": "Denis Leary: Lock 'N Load",
+      "poster": "https://image.tmdb.org/t/p/w500/wkvxEx5Hhyz1zKXHVBthjxsS883.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt5738064",
+      "type": "movie",
+      "name": "Deon Cole: Cole-Blooded Seminar",
+      "poster": "https://image.tmdb.org/t/p/w500/k5X1mnl7b2o1jInJpP6eK6FysE3.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt13444608",
+      "type": "movie",
+      "name": "Deon Cole: Workin' It Out",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt23024594",
+      "type": "movie",
+      "name": "Deon Cole: Charleen's Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/jinfpjAukYygPVOBWvZStD0CjS3.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt26121370",
+      "type": "movie",
+      "name": "Out of the Loop",
+      "poster": "https://image.tmdb.org/t/p/w500/tcXdKnmzcZGrrgI9B2oQ3hysBAy.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt40205709",
+      "type": "movie",
+      "name": "Derrick Stroup: Nostalgic",
+      "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0480756",
+      "type": "movie",
+      "name": "Des Bishop: Live at Vicar Street",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt32805486",
+      "type": "movie",
+      "name": "Des Bishop: Of All People",
+      "poster": "https://image.tmdb.org/t/p/w500/bRMhJymScGGunjbWew5MbhAPV2F.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tmdb:801963",
+      "type": "movie",
+      "name": "One Night Stand: D.L. Hughley",
+      "poster": "https://image.tmdb.org/t/p/w500/4K7Mx37LQI0bPZs7g9OmbagJVMH.jpg",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0233511",
+      "type": "movie",
+      "name": "D.L. Hughley: Going Home",
+      "poster": "https://image.tmdb.org/t/p/w500/8VmaaSILY70JiML6QmgsflbW4sS.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt2229095",
+      "type": "movie",
+      "name": "D.L. Hughley: Reset",
+      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3589494",
+      "type": "movie",
+      "name": "D.L. Hughley: Clear",
+      "poster": "https://image.tmdb.org/t/p/w500/10jrkEnT2TutZolYOeRr0nKjD7C.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8426270",
+      "type": "movie",
+      "name": "D.L. Hughley: Contrarian",
+      "poster": "https://image.tmdb.org/t/p/w500/oa86wKpThSQu2yVQNofpdwuLZRp.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt37610597",
+      "type": "movie",
+      "name": "Dom Irrera: Live from Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1071280",
+      "type": "movie",
+      "name": "Don Rickles: Alive and Kicking",
+      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
+      "releaseInfo": "1972"
+    },
+    {
+      "id": "tt28267801",
+      "type": "movie",
+      "name": "Don Rickles Live Pine Knob Music Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/bcMLBkReBTPuJwzZ51SYjOZEECm.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1193892",
+      "type": "movie",
+      "name": "Don Rickles Live in Casino Rama 2010",
+      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

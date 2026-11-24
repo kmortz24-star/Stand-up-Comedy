@@ -217,54 +217,6 @@
       "releaseInfo": "2008"
     },
     {
-      "id": "tt0788011",
-      "type": "movie",
-      "name": "An Audience with Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/wnRwtOXsDJ2ZSxRR0FVXjoBJ6mJ.jpg",
-      "releaseInfo": "1984"
-    },
-    {
-      "id": "tmdb:1491602",
-      "type": "movie",
-      "name": "Joan Rivers Live at the Apollo",
-      "poster": "https://image.tmdb.org/t/p/w500/eJaDmWuX40keZCeKi63XDBWoMdO.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt2043891",
-      "type": "movie",
-      "name": "Joan Rivers: (Still A) Live at the London Palladium",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0788012",
-      "type": "movie",
-      "name": "An Audience with Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/gbywys9oQ3IQJ4Tz7EjUS818ySI.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt2519318",
-      "type": "movie",
-      "name": "Joan Rivers: Don't Start with Me",
-      "poster": "https://image.tmdb.org/t/p/w500/rRoaJow1NCKsxGycS78YccNybrf.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt0151327",
-      "type": "movie",
-      "name": "Lenny Bruce: Without Tears",
-      "poster": "https://image.tmdb.org/t/p/w500/GqdsBxRTjWUeHZgmcqugCLoBTh.jpg",
-      "releaseInfo": "1972"
-    },
-    {
-      "id": "tt0175844",
-      "type": "movie",
-      "name": "Lenny Bruce: Swear to Tell the Truth",
-      "poster": "https://image.tmdb.org/t/p/w500/c25HajWlwZyUoWAurRtEJ4YtE3a.jpg",
-      "releaseInfo": "1998"
-    },
-    {
       "id": "tt2170618",
       "type": "movie",
       "name": "Redd Foxx: Video in a Plain Brown Wrapper",
@@ -314,12 +266,6 @@
       "releaseInfo": "1986"
     },
     {
-      "id": "tt0391873",
-      "type": "movie",
-      "name": "Comic Relief '90",
-      "releaseInfo": "1990"
-    },
-    {
       "id": "tt0330829",
       "type": "movie",
       "name": "Robin Williams: Live on Broadway",
@@ -346,6 +292,41 @@
       "name": "Rodney Dangerfield: Nothin' Goes Right",
       "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
       "releaseInfo": "1988"
+    },
+    {
+      "id": "tt1032238",
+      "type": "movie",
+      "name": "Rodney Dangerfield: Rodney's Act",
+      "poster": "https://image.tmdb.org/t/p/w500/iJdR9zRWvBf5mLCZPXsJnYBTTfV.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0180972",
+      "type": "movie",
+      "name": "Sam Kinison: Banned",
+      "poster": "https://image.tmdb.org/t/p/w500/daZjhSfB1BAT88wCEV2Tz5rmxZW.jpg",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt10446712",
+      "type": "movie",
+      "name": "Sam Kinison: Live in Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/toRKtijR4skjKniA2YaAxS60bjt.jpg",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0393555",
+      "type": "movie",
+      "name": "Steve Martin: On Location with Steve Martin",
+      "poster": "https://image.tmdb.org/t/p/w500/ve4gbzrHHKb0NCywMM1HBQU5HLz.jpg",
+      "releaseInfo": "1976"
+    },
+    {
+      "id": "tt0356076",
+      "type": "movie",
+      "name": "Steve Martin's Best Show Ever",
+      "poster": "https://image.tmdb.org/t/p/w500/pD4FmZ9NRUj8Yut5bP7D8SSvFSF.jpg",
+      "releaseInfo": "1981"
     }
   ]
 }

@@ -64,13 +64,6 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt0363503",
-      "type": "movie",
-      "name": "Catch A Rising Star: 10th Anniversary Special",
-      "poster": "https://image.tmdb.org/t/p/w500/593raTc1WwVHaBPHJ3OJImqXT6F.jpg",
-      "releaseInfo": "1982"
-    },
-    {
       "id": "tt18254596",
       "type": "movie",
       "name": "Catherine Cohen: The Twist...? She's Gorgeous",
@@ -97,13 +90,6 @@
       "name": "Chad Daniels: As Is",
       "poster": "https://image.tmdb.org/t/p/w500/9mBc4hhYDZEZGzF4bA15jG0Jpm9.jpg",
       "releaseInfo": "2012"
-    },
-    {
-      "id": "tt6910734",
-      "type": "movie",
-      "name": "I Need You to Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/g1g3vz7QhDQxKK4GxI7xoTM9FQw.jpg",
-      "releaseInfo": "2017"
     },
     {
       "id": "tt10025732",
@@ -139,13 +125,6 @@
       "name": "Chad Daniels: For Reels",
       "poster": "https://image.tmdb.org/t/p/w500/y5OGrwpwowTxpPBUccpyJzBEsBb.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt51299438",
-      "type": "movie",
-      "name": "Chad Daniels: Nothing to Fix",
-      "poster": "https://image.tmdb.org/t/p/w500/vdhEItUnLOn38iBfzHZpUbR7ZpW.jpg",
-      "releaseInfo": "2026"
     },
     {
       "id": "standupyt_72ddEna5ozQ",
@@ -229,13 +208,6 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tt29865781",
-      "type": "movie",
-      "name": "Chris D'Elia: Grow or Die",
-      "poster": "https://image.tmdb.org/t/p/w500/81mMAeG2zQuxPcATYQHtAb52DH6.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tmdb:1660803",
       "type": "movie",
       "name": "Chris D'Elia: The 'B Side' Special",
@@ -294,13 +266,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt32323285",
-      "type": "movie",
-      "name": "Chris Grace: As Scarlett Johansson",
-      "poster": "https://image.tmdb.org/t/p/w500/l7NmY0uNDIP3SBGv1GiPZ3xoHod.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tmdb:1802948",
       "type": "movie",
       "name": "Chris Hardwick: The Middle Ages",
@@ -328,32 +293,67 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt31869794",
+      "id": "tt23625326",
       "type": "movie",
-      "name": "Chris Ramsey Live: All Growed Up",
-      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
-      "releaseInfo": "2015"
+      "name": "Chris Redd: Why Am I Like This?",
+      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
+      "releaseInfo": "2022"
     },
     {
-      "id": "tmdb:510872",
+      "id": "tt0236102",
       "type": "movie",
-      "name": "Is That… Chris Ramsey?",
-      "poster": "https://image.tmdb.org/t/p/w500/Vxaj9Q7Xr1MK5mizh2r5fu1OpD.jpg",
+      "name": "Chris Rock: Big Ass Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/MKBivBeYBdo0IHcW1iGJ9KF0lA.jpg",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0200529",
+      "type": "movie",
+      "name": "Chris Rock: Bring the Pain",
+      "poster": "https://image.tmdb.org/t/p/w500/iKBOkpJY53iCc5Ur3DjxVnlbd26.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0206636",
+      "type": "movie",
+      "name": "Chris Rock: Bigger & Blacker",
+      "poster": "https://image.tmdb.org/t/p/w500/b5T4xRePE7VckU5xAFZh6jUEgD0.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0405832",
+      "type": "movie",
+      "name": "Chris Rock: Never Scared",
+      "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1213574",
+      "type": "movie",
+      "name": "Chris Rock: Kill the Messenger",
+      "poster": "https://image.tmdb.org/t/p/w500/cIuIOVRl558GziBkX3GbpsVGaik.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt8005338",
+      "type": "movie",
+      "name": "Chris Rock: Tamborine",
+      "poster": "https://image.tmdb.org/t/p/w500/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
       "releaseInfo": "2018"
     },
     {
-      "id": "tt11152492",
+      "id": "tt19783524",
       "type": "movie",
-      "name": "Chris Ramsey: Approval Needed",
-      "poster": "https://image.tmdb.org/t/p/w500/gDCLDibxglt7CVDNCnyn9Hcs9F.jpg",
-      "releaseInfo": "2019"
+      "name": "Chris Rock: One Man Show",
+      "poster": "https://image.tmdb.org/t/p/w500/lU6vj5kEm9UsnoAm8x7j0FmLy2O.jpg",
+      "releaseInfo": "2022"
     },
     {
-      "id": "tmdb:1279401",
+      "id": "tt23571908",
       "type": "movie",
-      "name": "Chris Ramsey: Live from London",
-      "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
-      "releaseInfo": "2024"
+      "name": "Chris Rock: Selective Outrage",
+      "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
+      "releaseInfo": "2023"
     }
   ]
 }

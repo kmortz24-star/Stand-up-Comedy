@@ -1,76 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt23625326",
-      "type": "movie",
-      "name": "Chris Redd: Why Am I Like This?",
-      "poster": "https://image.tmdb.org/t/p/w500/rbwgSFhbpuMHgmtLId4eaG7Z1tR.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt0236102",
-      "type": "movie",
-      "name": "Chris Rock: Big Ass Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/MKBivBeYBdo0IHcW1iGJ9KF0lA.jpg",
-      "releaseInfo": "1994"
-    },
-    {
-      "id": "tt0200529",
-      "type": "movie",
-      "name": "Chris Rock: Bring the Pain",
-      "poster": "https://image.tmdb.org/t/p/w500/iKBOkpJY53iCc5Ur3DjxVnlbd26.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0206636",
-      "type": "movie",
-      "name": "Chris Rock: Bigger & Blacker",
-      "poster": "https://image.tmdb.org/t/p/w500/b5T4xRePE7VckU5xAFZh6jUEgD0.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0405832",
-      "type": "movie",
-      "name": "Chris Rock: Never Scared",
-      "poster": "https://image.tmdb.org/t/p/w500/wM0BIi1olItUHNCvGKNaeeERsk8.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt1213574",
-      "type": "movie",
-      "name": "Chris Rock: Kill the Messenger",
-      "poster": "https://image.tmdb.org/t/p/w500/cIuIOVRl558GziBkX3GbpsVGaik.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt8005338",
-      "type": "movie",
-      "name": "Chris Rock: Tamborine",
-      "poster": "https://image.tmdb.org/t/p/w500/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt19783524",
-      "type": "movie",
-      "name": "Chris Rock: One Man Show",
-      "poster": "https://image.tmdb.org/t/p/w500/lU6vj5kEm9UsnoAm8x7j0FmLy2O.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt23571908",
-      "type": "movie",
-      "name": "Chris Rock: Selective Outrage",
-      "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39398671",
-      "type": "movie",
-      "name": "Chris Spencer: GOAT Adjacent",
-      "poster": "https://image.tmdb.org/t/p/w500/y9JOnlKrjYhWLsHdKfqe7kCiQqF.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt0414324",
       "type": "movie",
       "name": "Christopher Titus: Norman Rockwell is Bleeding",
@@ -117,13 +47,6 @@
       "type": "movie",
       "name": "Cliff Cash: The Long Road",
       "poster": "https://image.tmdb.org/t/p/w500/4R7fzrGqP1IYX3RNAbKp97vPrXb.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt33319975",
-      "type": "movie",
-      "name": "Colin Jost & Michael Che Present: New York After Dark",
-      "poster": "https://image.tmdb.org/t/p/w500/ddPAFvFY5jBsVHZQUFz1ygGwcUJ.jpg",
       "releaseInfo": "2024"
     },
     {
@@ -287,20 +210,6 @@
       "releaseInfo": "2009"
     },
     {
-      "id": "tt4129180",
-      "type": "movie",
-      "name": "Dane Cook: Troublemaker",
-      "poster": "https://image.tmdb.org/t/p/w500/rXJHq7yQ92IuTAIxAYKUILvjVLU.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt22092546",
-      "type": "movie",
-      "name": "Dane Cook: Above It All",
-      "poster": "https://image.tmdb.org/t/p/w500/zw55KFcOvgdYeHlcKQixdsR6AIk.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "standupyt_JoqvzOZcQZk",
       "type": "movie",
       "name": "DANE COOK - ABOVE IT ALL (FULL SPECIAL) [YouTube]",
@@ -326,13 +235,6 @@
       "releaseInfo": "2002"
     },
     {
-      "id": "tt9833154",
-      "type": "movie",
-      "name": "Daniel Muggleton: Let's Never Hang Out",
-      "poster": "https://image.tmdb.org/t/p/w500/dY1dSnqAn7oH7QkKhLDFpGRBMGw.jpg",
-      "releaseInfo": "2019"
-    },
-    {
       "id": "tt6787668",
       "type": "movie",
       "name": "Daniel Sloss Live",
@@ -352,6 +254,102 @@
       "name": "Daniel Sloss: Socio",
       "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
       "releaseInfo": "2022"
+    },
+    {
+      "id": "tt39115106",
+      "type": "movie",
+      "name": "Daniel Sloss: Can't",
+      "poster": "https://image.tmdb.org/t/p/w500/gea21k4O07TUoHzgHfNr1RMJtxg.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1054478",
+      "type": "movie",
+      "name": "Daniel Tosh: Completely Serious",
+      "poster": "https://image.tmdb.org/t/p/w500/mD1uqbeD8dQcqFOyFZiXGyGhLmr.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1853533",
+      "type": "movie",
+      "name": "Daniel Tosh: Happy Thoughts",
+      "poster": "https://image.tmdb.org/t/p/w500/5yJ0UHbkzcHe2wGNZKqgkeY3RAs.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt5652620",
+      "type": "movie",
+      "name": "Daniel Tosh: People Pleaser",
+      "poster": "https://image.tmdb.org/t/p/w500/6vPICnl59SdMjcM3bEudLFZ3K3X.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:21116",
+      "type": "movie",
+      "name": "Danny Bhoy: Live at the Sydney Opera House",
+      "poster": "https://image.tmdb.org/t/p/w500/3FfZyj3KkUicegyTIGzdWF7weeX.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt3131034",
+      "type": "movie",
+      "name": "Danny Bhoy: Subject to Change",
+      "poster": "https://image.tmdb.org/t/p/w500/suh1dOVpdxruvEqD5JmHwWCuWOd.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt0930053",
+      "type": "movie",
+      "name": "Dara Ó Briain: Live at the Theatre Royal",
+      "poster": "https://image.tmdb.org/t/p/w500/9scgKwqsiquU74Hu38x8HzXZoSX.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1781798",
+      "type": "movie",
+      "name": "Dara Ó Briain: This Is the Show",
+      "poster": "https://image.tmdb.org/t/p/w500/jxehydhr3lz5lP7DMU0kVkxQGun.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt14397214",
+      "type": "movie",
+      "name": "Dara Ó Briain: Voice of Reason",
+      "poster": "https://image.tmdb.org/t/p/w500/n5m3QN2LFwJfLfdoIuAEl1ptVTu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11443254",
+      "type": "movie",
+      "name": "Dave Allen Live ...On Life",
+      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0777178",
+      "type": "movie",
+      "name": "1995 Young Comedians Special",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt1243457",
+      "type": "movie",
+      "name": "Dave Attell - HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0407679",
+      "type": "movie",
+      "name": "Comedy Central Presents: Dave Attell",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt2047709",
+      "type": "movie",
+      "name": "Dave Attell: Hey, Your Mouth's Not Pregnant!",
+      "poster": "https://image.tmdb.org/t/p/w500/6LkOrhIPH84uuyc5rdVdbs0DFrT.jpg",
+      "releaseInfo": "2006"
     }
   ]
 }

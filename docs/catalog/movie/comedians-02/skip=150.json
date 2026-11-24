@@ -1,241 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt3740404",
-      "type": "movie",
-      "name": "David Spade: My Fake Problems",
-      "poster": "https://image.tmdb.org/t/p/w500/hgLpUDbiGwdCgZzjHJt9bIgHcXk.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt18955474",
-      "type": "movie",
-      "name": "David Spade: Nothing Personal",
-      "poster": "https://image.tmdb.org/t/p/w500/jc3u2yD3rpq6WyKAIpg85LnAVDe.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt0480816",
-      "type": "movie",
-      "name": "Demetri Martin: If I",
-      "poster": "https://image.tmdb.org/t/p/w500/6y7w9BCIn4btKSGxLEmOZjE7TX4.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0954327",
-      "type": "movie",
-      "name": "Demetri Martin. Person.",
-      "poster": "https://image.tmdb.org/t/p/w500/gaG1cisIvh6CHLkYCWncF7wJDLs.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt2493210",
-      "type": "movie",
-      "name": "Demetri Martin: Standup Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/a7CcVM3xF4ZOnX0H6UUL9fw1uoA.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt7725144",
-      "type": "movie",
-      "name": "Demetri Martin: The Overthinker",
-      "poster": "https://image.tmdb.org/t/p/w500/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt31916241",
-      "type": "movie",
-      "name": "Demetri Martin: Demetri Deconstructed",
-      "poster": "https://image.tmdb.org/t/p/w500/cIZwQbAZkpzip3kWXH5yPgKxWRu.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt38711469",
-      "type": "movie",
-      "name": "Demi Adejuyigbe: Is Going to Do One (1) Backflip",
-      "poster": "https://image.tmdb.org/t/p/w500/k3h0QRMC3gNDbWsiVXjxwhYrxIP.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0248752",
-      "type": "movie",
-      "name": "Denis Leary: No Cure for Cancer",
-      "poster": "https://image.tmdb.org/t/p/w500/bjybZeS8uPK0nezEz1CEZpZcbpa.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt0248751",
-      "type": "movie",
-      "name": "Denis Leary: Lock 'N Load",
-      "poster": "https://image.tmdb.org/t/p/w500/wkvxEx5Hhyz1zKXHVBthjxsS883.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tt0790823",
-      "type": "movie",
-      "name": "When Stand Up Stood Out",
-      "poster": "https://image.tmdb.org/t/p/w500/9g0bb889OfxyHEAodlWFs8UOvIK.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt5738064",
-      "type": "movie",
-      "name": "Deon Cole: Cole-Blooded Seminar",
-      "poster": "https://image.tmdb.org/t/p/w500/k5X1mnl7b2o1jInJpP6eK6FysE3.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt13444608",
-      "type": "movie",
-      "name": "Deon Cole: Workin' It Out",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt23024594",
-      "type": "movie",
-      "name": "Deon Cole: Charleen's Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/jinfpjAukYygPVOBWvZStD0CjS3.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt26121370",
-      "type": "movie",
-      "name": "Out of the Loop",
-      "poster": "https://image.tmdb.org/t/p/w500/tcXdKnmzcZGrrgI9B2oQ3hysBAy.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt40205709",
-      "type": "movie",
-      "name": "Derrick Stroup: Nostalgic",
-      "poster": "https://image.tmdb.org/t/p/w500/iRJY4fY55hptWqPAb8ooE1qWafB.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:400758",
-      "type": "movie",
-      "name": "Des Bishop Live",
-      "poster": "https://image.tmdb.org/t/p/w500/iTXedSIbbGXYZrD8MZzkU1Bl6VO.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0480756",
-      "type": "movie",
-      "name": "Des Bishop: Live at Vicar Street",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt41670314",
-      "type": "movie",
-      "name": "Des Bishop: \"Fitting In\"",
-      "poster": "https://image.tmdb.org/t/p/w500/xJslDJGFRaXk80cD5Q1CuidKNCQ.jpg",
-      "releaseInfo": "2006"
-    },
-    {
-      "id": "tt41677799",
-      "type": "movie",
-      "name": "Des Bishop: Tongues",
-      "poster": "https://image.tmdb.org/t/p/w500/t2djNl5TfQSqf64BIZa44HoP2P7.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt36598060",
-      "type": "movie",
-      "name": "Des Bishop: My Dad Was Nearly James Bond",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt36597880",
-      "type": "movie",
-      "name": "Des Bishop: Made in China",
-      "poster": "https://image.tmdb.org/t/p/w500/xqIOxL3Z53XN56axmCpiTsWEQEG.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt41655425",
-      "type": "movie",
-      "name": "Des Bishop: One Day You'll Understand",
-      "poster": "https://image.tmdb.org/t/p/w500/pERbxwaZI4JRWY5yAk4aKPEy8hW.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt32805486",
-      "type": "movie",
-      "name": "Des Bishop: Of All People",
-      "poster": "https://image.tmdb.org/t/p/w500/bRMhJymScGGunjbWew5MbhAPV2F.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt43735707",
-      "type": "movie",
-      "name": "Des Bishop - Bridge and Tunnel",
-      "poster": "https://image.tmdb.org/t/p/w500/e9YW1RlLD1stg15B4dKaHCthU77.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:801963",
-      "type": "movie",
-      "name": "One Night Stand: D.L. Hughley",
-      "poster": "https://image.tmdb.org/t/p/w500/4K7Mx37LQI0bPZs7g9OmbagJVMH.jpg",
-      "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0233511",
-      "type": "movie",
-      "name": "D.L. Hughley: Going Home",
-      "poster": "https://image.tmdb.org/t/p/w500/8VmaaSILY70JiML6QmgsflbW4sS.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt2229095",
-      "type": "movie",
-      "name": "D.L. Hughley: Reset",
-      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3589494",
-      "type": "movie",
-      "name": "D.L. Hughley: Clear",
-      "poster": "https://image.tmdb.org/t/p/w500/10jrkEnT2TutZolYOeRr0nKjD7C.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt8426270",
-      "type": "movie",
-      "name": "D.L. Hughley: Contrarian",
-      "poster": "https://image.tmdb.org/t/p/w500/oa86wKpThSQu2yVQNofpdwuLZRp.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt37610597",
-      "type": "movie",
-      "name": "Dom Irrera: Live from Las Vegas",
-      "poster": "https://image.tmdb.org/t/p/w500/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1071280",
-      "type": "movie",
-      "name": "Don Rickles: Alive and Kicking",
-      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
-      "releaseInfo": "1972"
-    },
-    {
-      "id": "tt28267801",
-      "type": "movie",
-      "name": "Don Rickles Live Pine Knob Music Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/bcMLBkReBTPuJwzZ51SYjOZEECm.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1193892",
-      "type": "movie",
-      "name": "Don Rickles Live in Casino Rama 2010",
-      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tmdb:1193903",
       "type": "movie",
       "name": "Don Rickles LIVE in Arizona 2014",
@@ -344,6 +109,137 @@
       "name": "Doug Stanhope: The Dying of a Last Breed",
       "poster": "https://image.tmdb.org/t/p/w500/kCwz99uX70JrjsTS80IclJpu5dZ.jpg",
       "releaseInfo": "2020"
+    },
+    {
+      "id": "tt0294542",
+      "type": "movie",
+      "name": "Drew Carey: Human Cartoon",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt15287352",
+      "type": "movie",
+      "name": "Drew Lynch: Concussed",
+      "poster": "https://image.tmdb.org/t/p/w500/mzSdqindHRh7E9luSiIB8OAyIh1.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1091531",
+      "type": "movie",
+      "name": "Drew Lynch: And These Are Jokes",
+      "poster": "https://image.tmdb.org/t/p/w500/zp86HnAOm4T24TyLivNI3GvgYk9.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt33030514",
+      "type": "movie",
+      "name": "Drew Lynch: Short King",
+      "poster": "https://image.tmdb.org/t/p/w500/gdKzcG2RIBMgLrVQjWWq6eRx0ex.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_n3fzRcHgHfs",
+      "type": "movie",
+      "name": "The Stuttering Comedian | Drew Lynch | Full Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/n3fzRcHgHfs/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/n3fzRcHgHfs/hqdefault.jpg",
+      "description": "Drew Lynch · 63 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt8563704",
+      "type": "movie",
+      "name": "Drew Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt16153658",
+      "type": "movie",
+      "name": "drew michael: red blue green",
+      "poster": "https://image.tmdb.org/t/p/w500/3fGrQ1mMhNhVW8bH084nVCNfxyn.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt28091575",
+      "type": "movie",
+      "name": "Dustin Nickerson: Runs in the Family",
+      "poster": "https://image.tmdb.org/t/p/w500/vv3IFbyYA8JcSwgdVMHszqKRvSm.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_SRIRmlo4OR8",
+      "type": "movie",
+      "name": "Dustin Nickerson: Overwhelmed | Full Comedy Special 2020 [YouTube]",
+      "poster": "https://i.ytimg.com/vi/SRIRmlo4OR8/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/SRIRmlo4OR8/hqdefault.jpg",
+      "description": "Dustin Nickerson · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "standupyt_dVmwB1UQUSM",
+      "type": "movie",
+      "name": "Dustin Nickerson: Is That Your Dad?! (FULL COMEDY SPECIAL) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/dVmwB1UQUSM/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/dVmwB1UQUSM/hqdefault.jpg",
+      "description": "Dustin Nickerson · 53 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt37433245",
+      "type": "movie",
+      "name": "Dusty Slay: Wet Heat",
+      "poster": "https://image.tmdb.org/t/p/w500/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_14ps_hS1NiQ",
+      "type": "movie",
+      "name": "Dusty Slay: Workin' Man | Full Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/14ps_hS1NiQ/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/14ps_hS1NiQ/hqdefault.jpg",
+      "description": "Dusty Slay · 69 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:752058",
+      "type": "movie",
+      "name": "Dwayne Perkins: Dwayne Explains"
+    },
+    {
+      "id": "tt5857874",
+      "type": "movie",
+      "name": "Dwayne Perkins: Take Note",
+      "poster": "https://image.tmdb.org/t/p/w500/aVdFk4U5o7mPW2DodTvjpGu7YYV.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt11962180",
+      "type": "movie",
+      "name": "Dwayne Perkins: Please Believe it",
+      "poster": "https://image.tmdb.org/t/p/w500/tgIhZbduHXBOt8zGmNSxpn5Ar2M.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0439553",
+      "type": "movie",
+      "name": "Dylan Moran: Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/pivw76Oclu3lWdLf3FjwHANXMdD.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1023122",
+      "type": "movie",
+      "name": "Dylan Moran: Like, Totally",
+      "poster": "https://image.tmdb.org/t/p/w500/qi7oj9bedPFqppZ0xUOLMTexrjU.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt5377658",
+      "type": "movie",
+      "name": "Dylan Moran: Off the Hook",
+      "poster": "https://image.tmdb.org/t/p/w500/kDkcMmFsO7DitISFe14YishiAfF.jpg",
+      "releaseInfo": "2015"
     }
   ]
 }

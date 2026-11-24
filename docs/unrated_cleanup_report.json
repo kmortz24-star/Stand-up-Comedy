@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2006,
-    "remaining_alphabetical_movies": 1631,
-    "unrated_movies_hidden": 375,
-    "unrated_established_movies_kept": 210
+    "original_alphabetical_movies": 1633,
+    "remaining_alphabetical_movies": 1309,
+    "unrated_movies_hidden": 324,
+    "unrated_established_movies_kept": 143
   },
   "hidden": [
     {
@@ -269,13 +269,13 @@
     },
     {
       "id": "tmdb:860479",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob the Drag Queen: Crazy Black Lady",
       "release_date": "2020-02-21"
     },
     {
       "id": "tt28092820",
-      "performer": "Bob the Drag Queen",
+      "performer": "Bob The Drag Queen",
       "title": "Bob The Drag Queen: Woke Man in a Dress",
       "release_date": "2023-06-22"
     },
@@ -520,24 +520,6 @@
       "release_date": "2010-08-10"
     },
     {
-      "id": "tmdb:1138765",
-      "performer": "Daniel Muggleton",
-      "title": "Daniel Muggleton: 3 Stripes",
-      "release_date": "2020-01-21"
-    },
-    {
-      "id": "tmdb:1138771",
-      "performer": "Daniel Muggleton",
-      "title": "Daniel Muggleton: Leaving London",
-      "release_date": "2020-03-25"
-    },
-    {
-      "id": "tmdb:1138789",
-      "performer": "Daniel Muggleton",
-      "title": "Daniel Muggleton: Unprecedented",
-      "release_date": "2021-05-28"
-    },
-    {
       "id": "tt34475393",
       "performer": "Darcy & Jer",
       "title": "Darcy & Jer: No Refunds",
@@ -580,12 +562,6 @@
       "release_date": "1984-09-30"
     },
     {
-      "id": "tmdb:1356994",
-      "performer": "David Suárez",
-      "title": "Todos vamos a morir",
-      "release_date": "2024-09-13"
-    },
-    {
       "id": "tmdb:1715172",
       "performer": "Deirdre O'Kane",
       "title": "Deirdre O'Kane: Demented",
@@ -611,13 +587,13 @@
     },
     {
       "id": "tmdb:1354467",
-      "performer": "drew michael",
+      "performer": "Drew Michael",
       "title": "Drew Michael: 41 Minutes of Stand-Up",
       "release_date": ""
     },
     {
       "id": "tmdb:1097047",
-      "performer": "drew michael",
+      "performer": "Drew Michael",
       "title": "Drew Michael: Lovely",
       "release_date": "2013-05-17"
     },
@@ -718,12 +694,6 @@
       "release_date": "2024-11-16"
     },
     {
-      "id": "tmdb:1596196",
-      "performer": "GB Labrador",
-      "title": "The KoolPals Comedy Special",
-      "release_date": "2025-12-31"
-    },
-    {
       "id": "tmdb:1657712",
       "performer": "Geoff Norcott",
       "title": "Geoff Norcott: I Blame The Parents",
@@ -800,12 +770,6 @@
       "performer": "Hazel Brugger",
       "title": "Hazel Brugger: Still Awake",
       "release_date": "2026-05-15"
-    },
-    {
-      "id": "tmdb:1365657",
-      "performer": "Heather McMahan",
-      "title": "Heather McMahan: Breadwinner",
-      "release_date": "2024-10-11"
     },
     {
       "id": "tmdb:1284188",
@@ -908,12 +872,6 @@
       "performer": "Janine Harouni",
       "title": "Janine Harouni: Man'oushe",
       "release_date": "2026-10-25"
-    },
-    {
-      "id": "tt35870441",
-      "performer": "Jaroslav Štercl",
-      "title": "Silvestr 1970 s Jaroslavem Šterclem",
-      "release_date": "1970-12-31"
     },
     {
       "id": "tmdb:1247128",
@@ -1048,64 +1006,10 @@
       "release_date": "2003-12-01"
     },
     {
-      "id": "tmdb:1179375",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Live At The Dominion",
-      "release_date": ""
-    },
-    {
-      "id": "tmdb:1179386",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: On The Road - Live In Torquay",
-      "release_date": ""
-    },
-    {
-      "id": "tmdb:1179393",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Unlocked",
-      "release_date": ""
-    },
-    {
-      "id": "tt1177914",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Red, White & Very Blue",
-      "release_date": "2000-11-13"
-    },
-    {
-      "id": "tmdb:1179390",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Red White and Very Blue",
-      "release_date": "2000-11-13"
-    },
-    {
-      "id": "tt1169145",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Full On!",
-      "release_date": "2005-11-07"
-    },
-    {
-      "id": "tmdb:1179382",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: From The Horses Mouth Live",
-      "release_date": "2022-04-13"
-    },
-    {
-      "id": "tmdb:1179570",
-      "performer": "Jim Davidson",
-      "title": "Jim Davidson: Live and (Very Very) Risky",
-      "release_date": "2025-09-14"
-    },
-    {
       "id": "tmdb:1746549",
       "performer": "Jin Hao Li",
       "title": "Swimming in a Submarine",
       "release_date": "2026-07-12"
-    },
-    {
-      "id": "tmdb:1224313",
-      "performer": "Jiřina Bohdalová",
-      "title": "Rendez-vous pri Dunaji",
-      "release_date": "1970-12-31"
     },
     {
       "id": "tmdb:1405481",
@@ -1156,12 +1060,6 @@
       "release_date": "1998-11-09"
     },
     {
-      "id": "tmdb:1563577",
-      "performer": "Jon Niklas Rønning",
-      "title": "Tilbake til nåtiden",
-      "release_date": "2025-10-17"
-    },
-    {
       "id": "tt37615260",
       "performer": "Jordan Gray",
       "title": "Jordan Gray: Is It A Bird?",
@@ -1172,12 +1070,6 @@
       "performer": "Jordan Shanks",
       "title": "Friendlyjordies Cancels The Media",
       "release_date": "2023-09-05"
-    },
-    {
-      "id": "tmdb:1224282",
-      "performer": "Josef Kobr",
-      "title": "Vydržte až do půlnoci!",
-      "release_date": "1973-12-31"
     },
     {
       "id": "tt36465863",
@@ -1211,13 +1103,13 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
@@ -1252,12 +1144,6 @@
       "release_date": "2024-11-22"
     },
     {
-      "id": "tmdb:1674151",
-      "performer": "Kenny Sebastian",
-      "title": "Professor of Tomfoolery",
-      "release_date": "2026-01-17"
-    },
-    {
       "id": "tt34951967",
       "performer": "Kevin James Doyle",
       "title": "Kevin James Doyle: Fool Proof",
@@ -1274,18 +1160,6 @@
       "performer": "Kim Cea",
       "title": "The Naughty Show: Bad Girls of Comedy",
       "release_date": "2005-01-01"
-    },
-    {
-      "id": "tmdb:688190",
-      "performer": "Kiri Pritchard-McLean",
-      "title": "Kiri Pritchard-McLean: Hysterical Woman",
-      "release_date": "2017-10-26"
-    },
-    {
-      "id": "tmdb:1438620",
-      "performer": "Konstantin Shirokov",
-      "title": "take back your 2022",
-      "release_date": "2024-12-21"
     },
     {
       "id": "tt3219810",
@@ -1504,46 +1378,10 @@
       "release_date": "2026-10-05"
     },
     {
-      "id": "tt3149108",
-      "performer": "Mike Reid",
-      "title": "Mike Reid: Live - Uncensored",
-      "release_date": "1992-10-05"
-    },
-    {
-      "id": "tt3149142",
-      "performer": "Mike Reid",
-      "title": "Mike Reid Live at the Queen Vic",
-      "release_date": "1996-11-11"
-    },
-    {
-      "id": "tmdb:1727661",
-      "performer": "Mike Reid",
-      "title": "Mike Reid - Seriously Funny",
-      "release_date": "2009-07-01"
-    },
-    {
       "id": "tmdb:1415257",
       "performer": "Mike Vecchione",
       "title": "Mike Vecchione: Worst Kind of Thoughtful",
       "release_date": "2024-03-22"
-    },
-    {
-      "id": "tmdb:1749179",
-      "performer": "Milo Edwards",
-      "title": "Milo Edwards: Sentimental Live",
-      "release_date": ""
-    },
-    {
-      "id": "tmdb:1311697",
-      "performer": "Milo Edwards",
-      "title": "Milo Edwards: Voicemail",
-      "release_date": "2024-07-10"
-    },
-    {
-      "id": "tt12056748",
-      "performer": "Miloslav Šimek",
-      "title": "Silvestr je za dveřmi",
-      "release_date": "1974-12-31"
     },
     {
       "id": "tt43613575",
@@ -1612,12 +1450,6 @@
       "release_date": "2020-03-20"
     },
     {
-      "id": "tt21094640",
-      "performer": "Nina Conti",
-      "title": "Nina Conti - In Your Face",
-      "release_date": "2021-09-24"
-    },
-    {
       "id": "tmdb:1774301",
       "performer": "Nina Dicker",
       "title": "Nina Dicker - Tangerine Vagina",
@@ -1634,18 +1466,6 @@
       "performer": "NOWRUZ",
       "title": "NOWRUZ: Lost & Found",
       "release_date": "2015-07-01"
-    },
-    {
-      "id": "tmdb:1716051",
-      "performer": "Obi",
-      "title": "Obi: Bloody Civilians",
-      "release_date": "2026-05-29"
-    },
-    {
-      "id": "tmdb:1224291",
-      "performer": "Oldo Hlaváček",
-      "title": "Silvestr budiž pestr aneb Do půlnoci mnoho času nezbývá",
-      "release_date": "1972-12-31"
     },
     {
       "id": "tmdb:1413672",
@@ -1738,46 +1558,16 @@
       "release_date": "2022-04-15"
     },
     {
-      "id": "tmdb:1224301",
-      "performer": "Pavel Landovský",
-      "title": "Silvestr 71",
-      "release_date": "1971-12-31"
-    },
-    {
       "id": "tmdb:1179670",
       "performer": "Phil Kay",
       "title": "Phil Kay: Live at the Museum of Comedy",
       "release_date": "2023-01-31"
     },
     {
-      "id": "tt11333470",
-      "performer": "Phillip Devantier",
-      "title": "Phillip Devantier: A Real Man",
-      "release_date": "2018-10-12"
-    },
-    {
-      "id": "tmdb:933960",
-      "performer": "Phillip Devantier",
-      "title": "Phillip Devantier: Grinebidder",
-      "release_date": "2021-12-13"
-    },
-    {
-      "id": "tt28183832",
-      "performer": "Pierre-Emmanuel Barré",
-      "title": "Pfff... A lecture by Pierre-Emmanuel Barré & Guests",
-      "release_date": "2023-06-22"
-    },
-    {
       "id": "tt36624815",
       "performer": "Pink Foxx",
       "title": "Pink Foxx: For Foxx Sake",
       "release_date": "2025-08-07"
-    },
-    {
-      "id": "tmdb:1516632",
-      "performer": "Punit Pania",
-      "title": "Notes From The Bunker",
-      "release_date": "2025-07-18"
     },
     {
       "id": "tt41554611",
@@ -1804,34 +1594,10 @@
       "release_date": "2018-01-17"
     },
     {
-      "id": "tt21093380",
-      "performer": "Rhys James",
-      "title": "Rhys James: Forgives",
-      "release_date": "2018-05-31"
-    },
-    {
       "id": "tmdb:1091096",
       "performer": "Riaad Moosa",
       "title": "Riaad Moosa: Strictly Halaal",
       "release_date": "2006-05-12"
-    },
-    {
-      "id": "tmdb:1408115",
-      "performer": "Ricardo O’Farrill",
-      "title": "Ricardo O’Farrill: Ciudadano Mexicano",
-      "release_date": "2020-07-25"
-    },
-    {
-      "id": "tmdb:1407645",
-      "performer": "Ricardo O’Farrill",
-      "title": "Ricardo O’Farrill: FALACIA en vivo y a todo color",
-      "release_date": "2024-12-25"
-    },
-    {
-      "id": "tmdb:1710092",
-      "performer": "Ricardo O’Farrill",
-      "title": "Ricardo O’Farrill: Corto Circuito",
-      "release_date": "2026-08-16"
     },
     {
       "id": "tmdb:1492677",
@@ -1901,7 +1667,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy 'Chubby' Brown",
+      "performer": "Roy Chubby Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -1910,12 +1676,6 @@
       "performer": "Russell Howard's Good News",
       "title": "Russell Howard's Good News: The Best Of Series 2",
       "release_date": "2012-09-24"
-    },
-    {
-      "id": "tmdb:1608410",
-      "performer": "Salvo Di Paola",
-      "title": "Salvo Di Paola: Lorem Ipsum",
-      "release_date": "2025-12-27"
     },
     {
       "id": "tt33083026",
@@ -1966,12 +1726,6 @@
       "release_date": "2025-02-05"
     },
     {
-      "id": "tmdb:1408697",
-      "performer": "Sasha Dolgopolov",
-      "title": "Sasha Dolgopolov: My First Stand-Up in English!",
-      "release_date": "2024-04-21"
-    },
-    {
       "id": "tmdb:1226082",
       "performer": "Sashi Perera",
       "title": "Sashi Perera: Endings",
@@ -1984,28 +1738,10 @@
       "release_date": "2024-11-23"
     },
     {
-      "id": "tmdb:1179940",
-      "performer": "Sean McLoughlin",
-      "title": "Sean McLoughlin: I Will Prevail",
-      "release_date": ""
-    },
-    {
       "id": "tt21093390",
       "performer": "Shappi Khorsandi",
       "title": "Shappi Khorsandi: Live In SoHo",
       "release_date": "2020-08-03"
-    },
-    {
-      "id": "tmdb:1815131",
-      "performer": "Shirley Souagnon",
-      "title": "Shirley Souagnon - Être Humain",
-      "release_date": "2023-02-08"
-    },
-    {
-      "id": "tmdb:536573",
-      "performer": "Simon Munnery",
-      "title": "Simon Munnery: Renegade Plumber",
-      "release_date": "2018-07-17"
     },
     {
       "id": "tmdb:757538",
@@ -2036,12 +1772,6 @@
       "performer": "Snoop Dogg",
       "title": "Snoop Dogg Live at AFL Grand Final 2025",
       "release_date": "2025-09-27"
-    },
-    {
-      "id": "tmdb:473596",
-      "performer": "Sofie Hagen",
-      "title": "Sofie Hagen: Bubblewrap",
-      "release_date": "2016-03-23"
     },
     {
       "id": "tmdb:1028693",
@@ -2110,22 +1840,10 @@
       "release_date": "2018-05-07"
     },
     {
-      "id": "tmdb:1721694",
-      "performer": "Thanos Fotas",
-      "title": "Thanos Fotas - Live på Cirkus",
-      "release_date": "2026-06-15"
-    },
-    {
       "id": "tt1799921",
       "performer": "The All-Star Show",
       "title": "The All-Star Show: Comedy Special",
       "release_date": "2010-11-22"
-    },
-    {
-      "id": "tmdb:1680882",
-      "performer": "The Founder5 II",
-      "title": "The Founder5 II: Unfinished Business",
-      "release_date": "2026-06-11"
     },
     {
       "id": "tmdb:1717987",
@@ -2144,12 +1862,6 @@
       "performer": "Tiff Stevenson",
       "title": "Tiff Stevenson: Sexy Brain",
       "release_date": "2022-08-23"
-    },
-    {
-      "id": "tmdb:1522128",
-      "performer": "Till Reiners",
-      "title": "Till Reiners - Mein Italien",
-      "release_date": "2025-08-10"
     },
     {
       "id": "tt14938338",
@@ -2212,12 +1924,6 @@
       "release_date": "2020-05-26"
     },
     {
-      "id": "tmdb:1553948",
-      "performer": "Yassar Lemghari",
-      "title": "Yassar - Weld Nass",
-      "release_date": "2024-02-03"
-    },
-    {
       "id": "tmdb:1657424",
       "performer": "Yedoye Travis",
       "title": "Yedoye Travis: Fatherless Behavior",
@@ -2242,18 +1948,6 @@
       "release_date": ""
     },
     {
-      "id": "tmdb:1175135",
-      "performer": "Yuri Marçal",
-      "title": "Yuri Marçal - Nem se Minha Vida Dependesse Disso",
-      "release_date": "2023-09-06"
-    },
-    {
-      "id": "tmdb:1406677",
-      "performer": "Yuri Marçal",
-      "title": "Yuri Marçal – Me perdi no que eu tava falando",
-      "release_date": "2024-12-22"
-    },
-    {
       "id": "tmdb:1594166",
       "performer": "Zoe Lyons",
       "title": "Zoe Lyons: Werewolf",
@@ -2272,24 +1966,9 @@
       "title": "Adam Carolla: Comes Cleaner"
     },
     {
-      "id": "tmdb:810799",
-      "performer": "Adam Hills",
-      "title": "Adam Hills - Joymonger"
-    },
-    {
-      "id": "tt20853000",
-      "performer": "Adam Hills",
-      "title": "Adam Hills: Stands Up Live"
-    },
-    {
       "id": "tt11091292",
       "performer": "Adam Hills",
       "title": "Adam Hills: Take His Legs"
-    },
-    {
-      "id": "tt9189696",
-      "performer": "Al Murray, The Pub Landlord",
-      "title": "Al Murray, The Pub Landlord - Live At The Palladium"
     },
     {
       "id": "tmdb:1378485",
@@ -2372,11 +2051,6 @@
       "title": "Billy Connolly Live At Usher Hall"
     },
     {
-      "id": "tmdb:1251158",
-      "performer": "Billy Connolly",
-      "title": "Billy Connolly's World Tour of Television"
-    },
-    {
       "id": "tmdb:161026",
       "performer": "Billy Connolly",
       "title": "Billy Connolly - One Night Stand"
@@ -2395,11 +2069,6 @@
       "id": "tt1096860",
       "performer": "Bob Saget",
       "title": "Bob Saget: In the Dream State"
-    },
-    {
-      "id": "tt19333516",
-      "performer": "Bob Saget",
-      "title": "Bob Saget: America's Dad"
     },
     {
       "id": "tmdb:821738",
@@ -2452,11 +2121,6 @@
       "title": "Chad Daniels: For Reels"
     },
     {
-      "id": "tt51299438",
-      "performer": "Chad Daniels",
-      "title": "Chad Daniels: Nothing to Fix"
-    },
-    {
       "id": "tmdb:1660803",
       "performer": "Chris D'Elia",
       "title": "Chris D'Elia: The 'B Side' Special"
@@ -2465,16 +2129,6 @@
       "id": "tt27604897",
       "performer": "Chris Porter",
       "title": "Chris Porter: There's No Money In Babies"
-    },
-    {
-      "id": "tmdb:510872",
-      "performer": "Chris Ramsey",
-      "title": "Is That… Chris Ramsey?"
-    },
-    {
-      "id": "tmdb:1279401",
-      "performer": "Chris Ramsey",
-      "title": "Chris Ramsey: Live from London"
     },
     {
       "id": "tt19783524",
@@ -2497,11 +2151,6 @@
       "title": "Daniel Kitson: Something"
     },
     {
-      "id": "tmdb:1178965",
-      "performer": "Danny Bhoy",
-      "title": "Danny Bhoy - Live from Montreal"
-    },
-    {
       "id": "tt0777178",
       "performer": "Dave Attell",
       "title": "1995 Young Comedians Special"
@@ -2522,26 +2171,6 @@
       "title": "Deon Cole: Workin' It Out"
     },
     {
-      "id": "tmdb:400758",
-      "performer": "Des Bishop",
-      "title": "Des Bishop Live"
-    },
-    {
-      "id": "tt41677799",
-      "performer": "Des Bishop",
-      "title": "Des Bishop: Tongues"
-    },
-    {
-      "id": "tt36598060",
-      "performer": "Des Bishop",
-      "title": "Des Bishop: My Dad Was Nearly James Bond"
-    },
-    {
-      "id": "tt41655425",
-      "performer": "Des Bishop",
-      "title": "Des Bishop: One Day You'll Understand"
-    },
-    {
       "id": "tmdb:801963",
       "performer": "D.L. Hughley",
       "title": "One Night Stand: D.L. Hughley"
@@ -2555,16 +2184,6 @@
       "id": "tmdb:1007161",
       "performer": "Doug Stanhope",
       "title": "Doug Stanhope: From Across The Street"
-    },
-    {
-      "id": "tt37461775",
-      "performer": "Drew Lynch",
-      "title": "Drew Lynch: The Stuttering Comedian"
-    },
-    {
-      "id": "tt51547996",
-      "performer": "Dustin Nickerson",
-      "title": "Dustin Nickerson: Is That Your Dad?!"
     },
     {
       "id": "tt0829665",
@@ -2607,16 +2226,6 @@
       "title": "Frank Caliendo: The Giggles Shakey Cam"
     },
     {
-      "id": "tt6519296",
-      "performer": "Frankie Boyle",
-      "title": "Frankie Boyle's American Autopsy"
-    },
-    {
-      "id": "tt50202569",
-      "performer": "Gareth Reynolds",
-      "title": "Gareth Reynolds: Why Aren't You Bigger?"
-    },
-    {
       "id": "tt36625651",
       "performer": "Gary Owen",
       "title": "Gary Owen: No \"S\""
@@ -2625,11 +2234,6 @@
       "id": "tmdb:1308317",
       "performer": "Geoffrey Asmus",
       "title": "Geoffrey Asmus: Live In Sacramento"
-    },
-    {
-      "id": "tmdb:254898",
-      "performer": "Gerry Dee",
-      "title": "Gerry Dee: New Year’s Eve 2013"
     },
     {
       "id": "tt13353630",
@@ -2672,11 +2276,6 @@
       "title": "Howie Mandel On Ice"
     },
     {
-      "id": "tt37022880",
-      "performer": "Iliza Shlesinger",
-      "title": "Iliza Shlesinger: The Gala"
-    },
-    {
       "id": "tmdb:930088",
       "performer": "Jackie Kashian",
       "title": "Jackie Kashian: Stay Kashian"
@@ -2695,11 +2294,6 @@
       "id": "tt40444868",
       "performer": "James Acaster",
       "title": "James Acaster: Cinemagoers Welcome"
-    },
-    {
-      "id": "tt1315713",
-      "performer": "Jamie Foxx",
-      "title": "Laffapalooza! #2"
     },
     {
       "id": "tt1675303",
@@ -2737,21 +2331,6 @@
       "title": "Whitney Cummings Bleep Show"
     },
     {
-      "id": "tt3340704",
-      "performer": "Jimeoin",
-      "title": "Jimeoin: Something Smells Funny"
-    },
-    {
-      "id": "tt4106490",
-      "performer": "Jimeoin",
-      "title": "Jimeoin: What?!"
-    },
-    {
-      "id": "tt9622158",
-      "performer": "Jo Brand",
-      "title": "Jo Brand: No Holds Barred"
-    },
-    {
       "id": "tmdb:1491602",
       "performer": "Joan Rivers",
       "title": "Joan Rivers Live at the Apollo"
@@ -2760,31 +2339,6 @@
       "id": "tt2043891",
       "performer": "Joan Rivers",
       "title": "Joan Rivers: (Still A) Live at the London Palladium"
-    },
-    {
-      "id": "tt22746690",
-      "performer": "John Bishop",
-      "title": "John Bishop: Life After Deaf Stand Up Show"
-    },
-    {
-      "id": "tmdb:1501895",
-      "performer": "John Bishop",
-      "title": "John Bishop: Work in Progress - Live In Top Secret Comedy Club"
-    },
-    {
-      "id": "tmdb:1473513",
-      "performer": "John Bishop",
-      "title": "John Bishop: Live From New York"
-    },
-    {
-      "id": "tt38681473",
-      "performer": "John Bishop",
-      "title": "John Bishop: Back At It"
-    },
-    {
-      "id": "tt13247050",
-      "performer": "John Mulaney",
-      "title": "John Mulaney: The Top Part"
     },
     {
       "id": "tt35653066",
@@ -2807,11 +2361,6 @@
       "title": "Kathy Griffin: HBO Comedy Hour"
     },
     {
-      "id": "tt35302823",
-      "performer": "Kevin Hart",
-      "title": "Kevin Hart: Standing Tall"
-    },
-    {
       "id": "tmdb:1388426",
       "performer": "Kyle Kinane",
       "title": "Kyle Kinane: Live At The Well Comedy Club"
@@ -2825,16 +2374,6 @@
       "id": "tmdb:1810577",
       "performer": "Kyle Kinane",
       "title": "Kyle Kinane: Vermont Comedy Club"
-    },
-    {
-      "id": "tmdb:759474",
-      "performer": "Lee Evans",
-      "title": "World's Greatest Stand Up: Volume One"
-    },
-    {
-      "id": "tt30261353",
-      "performer": "Lenny Henry",
-      "title": "Lenny Henry Live - So Much Things To Say"
     },
     {
       "id": "tmdb:1551576",
@@ -2862,31 +2401,6 @@
       "title": "Luis J. Gomez: You're Making This Worse"
     },
     {
-      "id": "tt7006244",
-      "performer": "Luisa Omielan",
-      "title": "Luisa Omielan: What Would Beyoncé Do?!"
-    },
-    {
-      "id": "tt32731099",
-      "performer": "Luisa Omielan",
-      "title": "Luisa Omielan: Am I Right Ladies?"
-    },
-    {
-      "id": "tt21852676",
-      "performer": "Luisa Omielan",
-      "title": "Luisa Omielan: Politics for Bitches 2022"
-    },
-    {
-      "id": "tt32731157",
-      "performer": "Luisa Omielan",
-      "title": "Luisa Omielan: God Is a Woman"
-    },
-    {
-      "id": "tt33095199",
-      "performer": "Luisa Omielan",
-      "title": "Luisa Omielan: Bitter"
-    },
-    {
       "id": "tt1243467",
       "performer": "Marc Maron",
       "title": "HBO Comedy Half Hour: Marc Maron"
@@ -2895,11 +2409,6 @@
       "id": "tmdb:197070",
       "performer": "Maria Bamford",
       "title": "Maria Bamford's One-Hour Homemade Christmas Stand-up Special"
-    },
-    {
-      "id": "tmdb:188307",
-      "performer": "Mark Thomas",
-      "title": "Mark Thomas: Alive"
     },
     {
       "id": "tt14468340",
@@ -2915,11 +2424,6 @@
       "id": "tt3777258",
       "performer": "Michael Che",
       "title": "Michael Che: The Half Hour"
-    },
-    {
-      "id": "tt4362718",
-      "performer": "Michael McIntyre",
-      "title": "Michael McIntyre's Very Christmassy Christmas Show"
     },
     {
       "id": "tmdb:804339",
@@ -2977,33 +2481,13 @@
       "title": "Nimesh Patel: Lucky Lefty"
     },
     {
-      "id": "tt21093366",
-      "performer": "Nish Kumar",
-      "title": "Nish Kumar: Ruminations on the Nature of Subjectivity"
-    },
-    {
-      "id": "tmdb:847823",
-      "performer": "Nish Kumar",
-      "title": "Nish Kumar: It’s In Your Nature to Destroy Yourselves, Pt. 1"
-    },
-    {
       "id": "tmdb:1487586",
       "performer": "Norm Macdonald",
       "title": "Norm MacDonald - One Night Stand"
     },
     {
-      "id": "tmdb:1566131",
-      "performer": "Omid Djalili",
-      "title": "Omid Djalili - Iranalamadingdong"
-    },
-    {
-      "id": "tmdb:819166",
-      "performer": "Omid Djalili",
-      "title": "One-Night Stand: Omid Djalili"
-    },
-    {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'neal",
+      "performer": "Patrice O'Neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {
@@ -3020,11 +2504,6 @@
       "id": "tmdb:132149",
       "performer": "Paul Rodriguez",
       "title": "Paul Rodriguez: Just for the Record"
-    },
-    {
-      "id": "tt24639048",
-      "performer": "Peter Kay",
-      "title": "Peter Kay at the Comedy Store"
     },
     {
       "id": "tt12970198",
@@ -3052,69 +2531,14 @@
       "title": "Redd Foxx: Video in a Plain Brown Wrapper"
     },
     {
-      "id": "tt27679742",
-      "performer": "Rhod Gilbert",
-      "title": "Rhod Gilbert: Stand Up To Infertility"
-    },
-    {
       "id": "tt6492468",
       "performer": "Rhys Nicholson",
       "title": "Rhys Nicholson - Live at The Eternity Playhouse"
     },
     {
-      "id": "tmdb:1634381",
-      "performer": "Richard Herring",
-      "title": "Richard Herring: 10"
-    },
-    {
-      "id": "tt4260232",
-      "performer": "Richard Herring",
-      "title": "Richard Herring: We're All Going to Die"
-    },
-    {
-      "id": "tmdb:1636888",
-      "performer": "Richard Herring",
-      "title": "Richard Herring: Can I Have My Ball Back?"
-    },
-    {
-      "id": "tmdb:307171",
-      "performer": "Ricky Gervais",
-      "title": "Ricky Gervais on Derek with Joy Behar: Live at the Paley Center"
-    },
-    {
-      "id": "tt1858777",
-      "performer": "Ron White",
-      "title": "Ron White: Comedy Salute to the Troops"
-    },
-    {
       "id": "tmdb:1827977",
       "performer": "Rory Scovel",
       "title": "Rory Scovel: Improvised in Brooklyn"
-    },
-    {
-      "id": "tmdb:39445",
-      "performer": "Ross Noble",
-      "title": "Ross Noble: Live at The Apollo"
-    },
-    {
-      "id": "tt13105350",
-      "performer": "Ross Noble",
-      "title": "Ross Noble: ‘El Hablador"
-    },
-    {
-      "id": "tmdb:1232421",
-      "performer": "Ross Noble",
-      "title": "Ross Noble: Humournoid"
-    },
-    {
-      "id": "tmdb:1103103",
-      "performer": "Russell Brand",
-      "title": "Russell Brand: Brandemic"
-    },
-    {
-      "id": "tt35047606",
-      "performer": "Russell Howard",
-      "title": "Russell Howard: Live at the London Palladium"
     },
     {
       "id": "tmdb:87307",
@@ -3127,24 +2551,9 @@
       "title": "Grandmaster-level baddie Sam Campbell being ‘somewhat’ foolish @ Bill Murray comedy club"
     },
     {
-      "id": "tmdb:1718341",
-      "performer": "Sarah Millican",
-      "title": "Sarah Millican Live at the Apollo"
-    },
-    {
       "id": "tt22061184",
       "performer": "Sean Patton",
       "title": "Sean Patton: King Scorpio"
-    },
-    {
-      "id": "tmdb:1402973",
-      "performer": "Seann Walsh",
-      "title": "Seann Walsh: Back From The Bed"
-    },
-    {
-      "id": "tmdb:1732859",
-      "performer": "Sebastian Maniscalco",
-      "title": "Sebastian Maniscalco: Beyond the Punchline"
     },
     {
       "id": "tt39981243",
@@ -3197,29 +2606,9 @@
       "title": "Steven Wright: Wicker Chairs and Gravity"
     },
     {
-      "id": "tmdb:1711823",
-      "performer": "Stewart Lee",
-      "title": "Stewart Lee’s Comedy Vehicle"
-    },
-    {
-      "id": "tmdb:1479926",
-      "performer": "Stewart Lee",
-      "title": "Stewart Lee vs The Man-Wulf"
-    },
-    {
       "id": "tt11598794",
       "performer": "Tiffany Haddish",
       "title": "Tiffany Haddish: Top of the World"
-    },
-    {
-      "id": "tmdb:966463",
-      "performer": "Tiffany Haddish",
-      "title": "Comedy Confessions"
-    },
-    {
-      "id": "tt1893385",
-      "performer": "Tim Minchin",
-      "title": "Tim Minchin: Vs The Sydney Symphony Orchestra"
     },
     {
       "id": "tmdb:1031341",
@@ -3237,11 +2626,6 @@
       "title": "Tom Green: Live in Philadelphia"
     },
     {
-      "id": "tt28354655",
-      "performer": "Tom Segura",
-      "title": "I Came Everywhere"
-    },
-    {
       "id": "tmdb:1395370",
       "performer": "Tony Hinchcliffe",
       "title": "Tony Hinchcliffe: Making Friends"
@@ -3250,11 +2634,6 @@
       "id": "tmdb:1395021",
       "performer": "Tony Hinchcliffe",
       "title": "Tony Hinchcliffe: Garbage"
-    },
-    {
-      "id": "tt6054328",
-      "performer": "Tony Rock",
-      "title": "All Def Comedy"
     },
     {
       "id": "tt1308671",
@@ -3267,29 +2646,9 @@
       "title": "Tracy Morgan: Life, Love & Lust"
     },
     {
-      "id": "tmdb:974807",
-      "performer": "Trevor Noah",
-      "title": "Just Because Comedy Festival"
-    },
-    {
       "id": "tmdb:1614256",
       "performer": "Trevor Noah",
       "title": "Trevor Noah: The LOST South African Show"
-    },
-    {
-      "id": "tmdb:1655932",
-      "performer": "Urzila Carlson",
-      "title": "Urzila Carlson: Just Jokes"
-    },
-    {
-      "id": "tmdb:1773497",
-      "performer": "Urzila Carlson",
-      "title": "Urzila Carlson: You Don’t Say"
-    },
-    {
-      "id": "tt3508436",
-      "performer": "Victoria Wood",
-      "title": "Victoria Wood: Seen on TV"
     },
     {
       "id": "tmdb:892768",

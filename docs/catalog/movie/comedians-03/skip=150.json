@@ -1,356 +1,116 @@
 {
   "metas": [
     {
-      "id": "tt6090102",
+      "id": "tt1486726",
       "type": "movie",
-      "name": "Jim Gaffigan: Cinco",
-      "poster": "https://image.tmdb.org/t/p/w500/lQ6wVl0FOBy0aJm0IqPRLiguh44.jpg",
-      "releaseInfo": "2017"
+      "name": "Howie Mandel: Live from Carnegie Mall",
+      "releaseInfo": "1985"
     },
     {
-      "id": "tt7535580",
+      "id": "tmdb:1589619",
       "type": "movie",
-      "name": "Jim Gaffigan: Noble Ape",
-      "poster": "https://image.tmdb.org/t/p/w500/bKpgemSb72TJTqheccjyWvlTrCv.jpg",
-      "releaseInfo": "2018"
+      "name": "Howie Mandel: Howie Spent Our Summer",
+      "releaseInfo": "1992"
     },
     {
-      "id": "tt9657544",
+      "id": "tt0778741",
       "type": "movie",
-      "name": "Jim Gaffigan: Quality Time",
-      "poster": "https://image.tmdb.org/t/p/w500/1kwLBCaGJ97gp4mcZk25JSNG3eA.jpg",
+      "name": "Howie Mandel On Ice",
+      "poster": "https://image.tmdb.org/t/p/w500/wzADLkRT19fwgpEEXdNOuI76ZAg.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt8713370",
+      "type": "movie",
+      "name": "Howie Mandel Presents Howie Mandel at the Howie Mandel Comedy Club",
+      "poster": "https://image.tmdb.org/t/p/w500/yNkbpYLUaXp4PIwOJ4X9ed0GNqN.jpg",
       "releaseInfo": "2019"
     },
     {
-      "id": "tmdb:999416",
+      "id": "standupyt_q_4pEVD6Y3k",
       "type": "movie",
-      "name": "Jim Gaffigan: Florida Man",
-      "poster": "https://image.tmdb.org/t/p/w500/lrPnXkSMvCBEJx2Y5KoKgAxQBqm.jpg",
-      "releaseInfo": "2020"
+      "name": "Ian Edwards: Untitled | The Comedy Special You Didn't Know You Needed [YouTube]",
+      "poster": "https://i.ytimg.com/vi/q_4pEVD6Y3k/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/q_4pEVD6Y3k/hqdefault.jpg",
+      "description": "Ian Edwards · 52 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:999414",
+      "id": "tt32175833",
       "type": "movie",
-      "name": "Jim Gaffigan: Asian American",
-      "poster": "https://image.tmdb.org/t/p/w500/k3Htnysozbnqgrca2HYPBPGQ01q.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt12764122",
-      "type": "movie",
-      "name": "Jim Gaffigan: The Pale Tourist 1 - Canadian American",
-      "poster": "https://image.tmdb.org/t/p/w500/dugRw3F8zzQCuf6o2iNnnXwpN9N.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt12764124",
-      "type": "movie",
-      "name": "Jim Gaffigan: The Pale Tourist 2 - Spanish American",
-      "poster": "https://image.tmdb.org/t/p/w500/eRQksJDgDEpvrdW4n9xOFLJ42tZ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt15907298",
-      "type": "movie",
-      "name": "Jim Gaffigan: Comedy Monster",
-      "poster": "https://image.tmdb.org/t/p/w500/hWeCGk21qWMYyFYVMRPlx4VjPks.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt27054481",
-      "type": "movie",
-      "name": "Jim Gaffigan: Dark Pale",
-      "poster": "https://image.tmdb.org/t/p/w500/kh2vIdw1Lwvx6zxmNgU3JA2VpNa.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt34530166",
-      "type": "movie",
-      "name": "Jim Gaffigan: The Skinny",
-      "poster": "https://image.tmdb.org/t/p/w500/iHNuwWwhLq1CKwecEI4LL0pkQDY.jpg",
+      "name": "Ian Fidance: Wild, Happy & Free",
+      "poster": "https://image.tmdb.org/t/p/w500/exObFDcr86r5KtnsozV0ed70SCB.jpg",
       "releaseInfo": "2024"
     },
     {
-      "id": "tt37092405",
+      "id": "tt33209759",
       "type": "movie",
-      "name": "Jim Gaffigan: Live from Old Forester — The Bourbon Set",
-      "poster": "https://image.tmdb.org/t/p/w500/aasVgHmFRui2IcsgQoovK1ljBx8.jpg",
-      "releaseInfo": "2025"
+      "name": "Ilana Glazer: Human Magic",
+      "poster": "https://image.tmdb.org/t/p/w500/44Os1Qu4mrjtDbnzcSPLkFCiZJb.jpg",
+      "releaseInfo": "2024"
     },
     {
-      "id": "tt2471940",
+      "id": "tt2836376",
       "type": "movie",
-      "name": "Jim Jefferies: Contraband",
-      "poster": "https://image.tmdb.org/t/p/w500/AhoFJsuoOWAUfcSqnE1rDEw3dC8.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt1439235",
-      "type": "movie",
-      "name": "Jim Jefferies: I Swear to God",
-      "poster": "https://image.tmdb.org/t/p/w500/8GyTQCTnXE5JExI9Z8lncyRCpoO.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1935828",
-      "type": "movie",
-      "name": "Jim Jefferies: Alcoholocaust",
-      "poster": "https://image.tmdb.org/t/p/w500/8qyfH2KEV5MGt4opGp5GiPhqavC.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2274356",
-      "type": "movie",
-      "name": "Jim Jefferies: Fully Functional",
-      "poster": "https://image.tmdb.org/t/p/w500/ospzpJrBaCorNQlZC6VFBqwwUjk.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3958494",
-      "type": "movie",
-      "name": "Jim Jefferies: Bare",
-      "poster": "https://image.tmdb.org/t/p/w500/pqGtStSCU0F3cZyEItCaqol24Mi.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt5849950",
-      "type": "movie",
-      "name": "Jim Jefferies: Freedumb",
-      "poster": "https://image.tmdb.org/t/p/w500/pveFZQKiUomWAxXu65zGSwiKoKD.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt8617844",
-      "type": "movie",
-      "name": "Jim Jefferies: This Is Me Now",
-      "poster": "https://image.tmdb.org/t/p/w500/wwsPAZuz5WUkzjZJMgM0sFXjZES.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt12588160",
-      "type": "movie",
-      "name": "Jim Jefferies: Intolerant",
-      "poster": "https://image.tmdb.org/t/p/w500/h4lRLoaeISvLncMVwGt8BcecGIM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt23648010",
-      "type": "movie",
-      "name": "Jim Jefferies: High n' Dry",
-      "poster": "https://image.tmdb.org/t/p/w500/xHWhtNZAEt7jyEpGvpb9iJHoRh3.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt37649515",
-      "type": "movie",
-      "name": "Jim Jefferies: Two Limb Policy",
-      "poster": "https://image.tmdb.org/t/p/w500/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_JvI-WxBf6Q0",
-      "type": "movie",
-      "name": "Jim Jefferies: Alcoholocaust | Full Stand-Up Comedy Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/JvI-WxBf6Q0/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/JvI-WxBf6Q0/hqdefault.jpg",
-      "description": "Jim Jefferies · 75 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1245383",
-      "type": "movie",
-      "name": "Jim Norton - One Night Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/s3r7Pe5ccbDqCJdC83OPVHI0EKf.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt2147822",
-      "type": "movie",
-      "name": "Jim Norton: Please Be Offended",
-      "poster": "https://image.tmdb.org/t/p/w500/A0lsQzDBxA041LDtsRs7LVLWAmH.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3234126",
-      "type": "movie",
-      "name": "Jim Norton: American Degenerate",
-      "poster": "https://image.tmdb.org/t/p/w500/nwRE4yenVnThmFPtOdy7nJza7sq.jpg",
+      "name": "Iliza Shlesinger: War Paint",
+      "poster": "https://image.tmdb.org/t/p/w500/ujAXTyuFXmPrfw1Jvt3iM37cHl9.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "tt4364804",
+      "id": "tt4073952",
       "type": "movie",
-      "name": "Whitney Cummings Bleep Show",
-      "poster": "https://image.tmdb.org/t/p/w500/4PtLt84lzktEf2W6H7J1glWEOPn.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt4660086",
-      "type": "movie",
-      "name": "Jim Norton: Contextually Inadequate",
-      "poster": "https://image.tmdb.org/t/p/w500/h17VxCRe56JxD93qir4NeFfjKnR.jpg",
+      "name": "Iliza Shlesinger: Freezing Hot",
+      "poster": "https://image.tmdb.org/t/p/w500/gXuT1R89O9Z07dI9dnEHm2lhODr.jpg",
       "releaseInfo": "2015"
     },
     {
-      "id": "tt6664120",
+      "id": "tt6081882",
       "type": "movie",
-      "name": "Jim Norton: Mouthful of Shame",
-      "poster": "https://image.tmdb.org/t/p/w500/jzftR0zoad6DV4U8XP9FPgW8NnT.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt37244693",
-      "type": "movie",
-      "name": "Jim Norton: Unconceivable",
-      "poster": "https://image.tmdb.org/t/p/w500/fsbBz9i8qa6VADW8GV7Rk0ijiPy.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:351831",
-      "type": "movie",
-      "name": "Jimeoin: Third Drawer Down",
-      "poster": "https://image.tmdb.org/t/p/w500/1vvD2s0zuxSrL2mjkiHNhPX8DNz.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt3340704",
-      "type": "movie",
-      "name": "Jimeoin: Something Smells Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/8nel8wz2Y0Rsh1pXaJo2ZmObT8v.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt4106490",
-      "type": "movie",
-      "name": "Jimeoin: What?!",
-      "poster": "https://image.tmdb.org/t/p/w500/6hRLWmB3o72TwQrqZGBJvD7iC3X.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt30957527",
-      "type": "movie",
-      "name": "Jimeoin: Ramble On",
-      "poster": "https://image.tmdb.org/t/p/w500/pk6BDzffdufQfAZJpXEYd4yvtbs.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt34662134",
-      "type": "movie",
-      "name": "Jimeoin: Result!",
-      "poster": "https://image.tmdb.org/t/p/w500/dIfYVPD1SFEszNcnHqnyU1kX7ji.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0841115",
-      "type": "movie",
-      "name": "Jimmy Carr: Stand Up",
-      "poster": "https://image.tmdb.org/t/p/w500/dq9qd7pmxwEJ1EWsoQThRXvA5LI.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tmdb:689906",
-      "type": "movie",
-      "name": "Jimmy Carr’s Comedy Idol",
-      "poster": "https://image.tmdb.org/t/p/w500/c07ygkFFA3rot3tmTupCPAxlHGQ.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1172061",
-      "type": "movie",
-      "name": "Jimmy Carr: Comedian",
-      "poster": "https://image.tmdb.org/t/p/w500/o1Zzp5l8yJ6Ev2a6vDF5RvbHwEe.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1346974",
-      "type": "movie",
-      "name": "Jimmy Carr: In Concert",
-      "poster": "https://image.tmdb.org/t/p/w500/qo5zlEqlKMVyddBs6Oj7TkuIVJU.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt1585985",
-      "type": "movie",
-      "name": "Jimmy Carr: Telling Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/wrfNw9UxWnOWPscLVXBZytGRItl.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1794821",
-      "type": "movie",
-      "name": "Jimmy Carr: Making People Laugh",
-      "poster": "https://image.tmdb.org/t/p/w500/bPsHHpT1oN6awwzbI71Bzzwm9mB.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2120780",
-      "type": "movie",
-      "name": "Jimmy Carr: Being Funny",
-      "poster": "https://image.tmdb.org/t/p/w500/pgReAIU7fPxohFIu4aoe3g5nOkx.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt3486648",
-      "type": "movie",
-      "name": "Jimmy Carr: Laughing and Joking",
-      "poster": "https://image.tmdb.org/t/p/w500/nRcmDqSDeCPL0qKEVK1ilVV2TXQ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt5222724",
-      "type": "movie",
-      "name": "Jimmy Carr: Funny Business",
-      "poster": "https://image.tmdb.org/t/p/w500/2FIjVbiim46ir5r2PtXebz7d9tH.jpg",
+      "name": "Iliza Shlesinger: Confirmed Kills",
+      "poster": "https://image.tmdb.org/t/p/w500/2FtdOtH9fkpR5nFHTVIbhmX7bO3.jpg",
       "releaseInfo": "2016"
     },
     {
-      "id": "tt9817258",
+      "id": "tt8697266",
       "type": "movie",
-      "name": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
-      "poster": "https://image.tmdb.org/t/p/w500/tXYRtTnHTeOmto6eGcJIgoSo6pu.jpg",
+      "name": "Iliza Shlesinger: Elder Millennial",
+      "poster": "https://image.tmdb.org/t/p/w500/3jBX5ev8yjKIQbIeclt7KcSL2rj.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt11163008",
+      "type": "movie",
+      "name": "Iliza Shlesinger: Unveiled",
+      "poster": "https://image.tmdb.org/t/p/w500/2igEpm5AdC4CGLd46fmA4aAPc23.jpg",
       "releaseInfo": "2019"
     },
     {
-      "id": "tt16259786",
+      "id": "tt22074270",
       "type": "movie",
-      "name": "Jimmy Carr: His Dark Material",
-      "poster": "https://image.tmdb.org/t/p/w500/i0JKuE6hyWw3bwEY3Yi7BYPh7dy.jpg",
-      "releaseInfo": "2021"
+      "name": "Iliza Shlesinger: Hot Forever",
+      "poster": "https://image.tmdb.org/t/p/w500/jXLr7LmdIHUfYYK2IKaALQDhnyR.jpg",
+      "releaseInfo": "2022"
     },
     {
-      "id": "tt31723041",
+      "id": "tt32140888",
       "type": "movie",
-      "name": "Jimmy Carr: Natural Born Killer",
-      "poster": "https://image.tmdb.org/t/p/w500/5ntu2EZsk1HDaV7OjhZJT7OumSt.jpg",
+      "name": "Iliza Shlesinger: A Different Animal",
+      "poster": "https://image.tmdb.org/t/p/w500/wcbX32cfEeTvCyiI9icF0sclZKK.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt39383161",
+      "type": "movie",
+      "name": "Isabel Hagen at the Bitter End",
+      "poster": "https://image.tmdb.org/t/p/w500/i01ecjxsrvV7KrA9eC2omqI4aMT.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1418455",
+      "type": "movie",
+      "name": "Ivan Decker: Popcorn",
+      "poster": "https://image.tmdb.org/t/p/w500/eOLkonC2eFnRb2wDWRhDIpOcZlD.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt11250926",
-      "type": "movie",
-      "name": "Jimmy O. Yang: Good Deal",
-      "poster": "https://image.tmdb.org/t/p/w500/xEgv1ZupccVoMQ2ZCEWuO4GdjI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt27219603",
-      "type": "movie",
-      "name": "Jimmy O. Yang: Guess How Much?",
-      "poster": "https://image.tmdb.org/t/p/w500/cFAFtCrSb9JzxmUhP9SLC7hV1be.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt21458670",
-      "type": "movie",
-      "name": "Jinkx Monsoon: Red Head Redemption",
-      "poster": "https://image.tmdb.org/t/p/w500/wPskoi2LL8A69az1pYTBtz0zK45.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt39522232",
-      "type": "movie",
-      "name": "Jo Brand - Barely Live",
-      "poster": "https://image.tmdb.org/t/p/w500/jVlFOZvcER6YmoJCoxUqz5ARGZX.jpg",
-      "releaseInfo": "2003"
     }
   ]
 }
