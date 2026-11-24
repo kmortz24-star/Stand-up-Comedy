@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt32014001",
-      "type": "movie",
-      "name": "My Next Guest with David Letterman and John Mulaney",
-      "poster": "https://image.tmdb.org/t/p/w500/6PXwk83W4BBQs0aSujZ2fqpoESK.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt0233528",
-      "type": "movie",
-      "name": "David Spade: Take the Hit",
-      "poster": "https://image.tmdb.org/t/p/w500/bYfiNPOGLVseQQcZPQwbDQagdqH.jpg",
-      "releaseInfo": "1998"
-    },
-    {
       "id": "tt3740404",
       "type": "movie",
       "name": "David Spade: My Fake Problems",
@@ -344,6 +330,20 @@
       "name": "Doug Stanhope: The Comedians' Comedian's Comedians",
       "poster": "https://image.tmdb.org/t/p/w500/bGJG2kcpE0D3Zxwot5MauUfArdp.jpg",
       "releaseInfo": "2017"
+    },
+    {
+      "id": "tmdb:537132",
+      "type": "movie",
+      "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
+      "poster": "https://image.tmdb.org/t/p/w500/jf7HJYC4jLLNqKBnfuHTTlJagpl.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt12466128",
+      "type": "movie",
+      "name": "Doug Stanhope: The Dying of a Last Breed",
+      "poster": "https://image.tmdb.org/t/p/w500/kCwz99uX70JrjsTS80IclJpu5dZ.jpg",
+      "releaseInfo": "2020"
     }
   ]
 }

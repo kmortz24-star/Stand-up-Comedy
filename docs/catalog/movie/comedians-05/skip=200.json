@@ -1,55 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt7582798",
-      "type": "movie",
-      "name": "Rodney Carrington: Here Comes the Truth",
-      "poster": "https://image.tmdb.org/t/p/w500/6CzFuhg96wEHyTLiiBChUA3iCLj.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt0334249",
-      "type": "movie",
-      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
-      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
-      "releaseInfo": "1986"
-    },
-    {
-      "id": "tt0148538",
-      "type": "movie",
-      "name": "Rodney Dangerfield: Nothin' Goes Right",
-      "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tt0324325",
-      "type": "movie",
-      "name": "A Tribute to Sam Kinison",
-      "poster": "https://image.tmdb.org/t/p/w500/5OSeZNLNFI0WfQCVMoPDZpGbCmj.jpg",
-      "releaseInfo": "1993"
-    },
-    {
-      "id": "tt1032238",
-      "type": "movie",
-      "name": "Rodney Dangerfield: Rodney's Act",
-      "poster": "https://image.tmdb.org/t/p/w500/iJdR9zRWvBf5mLCZPXsJnYBTTfV.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt7354868",
-      "type": "movie",
-      "name": "Romesh Ranganathan: Irrational Live",
-      "poster": "https://image.tmdb.org/t/p/w500/7Q1on3uKsSdo41urHuykWF4Kvad.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt21532188",
-      "type": "movie",
-      "name": "Ron Ervin: Prodigal Son",
-      "poster": "https://image.tmdb.org/t/p/w500/eZHBgZoCuY1uiynVejvzxjUaJdM.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt0431370",
       "type": "movie",
       "name": "Ron White: They Call Me Tater Salad",
@@ -83,13 +34,6 @@
       "name": "Ron White: If You Quit Listening, I'll Shut Up",
       "poster": "https://image.tmdb.org/t/p/w500/25fzgwGlyuWUyViMrU4rIqTnZj8.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tt32323284",
-      "type": "movie",
-      "name": "The Big Team",
-      "poster": "https://image.tmdb.org/t/p/w500/ohE8SM7UyrTRuKyF0dlSWZLPZPE.jpg",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt4210030",
@@ -266,25 +210,11 @@
       "releaseInfo": "2002"
     },
     {
-      "id": "tt1075035",
-      "type": "movie",
-      "name": "Roy Chubby Brown: Kick-Arse Chubbs",
-      "poster": "https://image.tmdb.org/t/p/w500/xct0HM3A2XrZeiV7IXEKnHZRFmu.jpg",
-      "releaseInfo": "2006"
-    },
-    {
       "id": "tt1029214",
       "type": "movie",
       "name": "Roy Chubby Brown: Britain's Rudest Comedian",
       "poster": "https://image.tmdb.org/t/p/w500/69LWoO1Fh0ivC5pw9ZsrVPx0aIG.jpg",
       "releaseInfo": "2007"
-    },
-    {
-      "id": "tmdb:308643",
-      "type": "movie",
-      "name": "Roy Chubby Brown - Don't Get Fit Get Fat",
-      "poster": "https://image.tmdb.org/t/p/w500/ptYW67dmi0KRcvMIsIgJKwITuOH.jpg",
-      "releaseInfo": "2014"
     },
     {
       "id": "tmdb:369133",
@@ -315,18 +245,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tmdb:1653386",
-      "type": "movie",
-      "name": "Rufat Agayev The Bad Rufat",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:81928",
-      "type": "movie",
-      "name": "Rufus Hound: Being Rude",
-      "releaseInfo": "2011"
-    },
-    {
       "id": "tt1515900",
       "type": "movie",
       "name": "Rune Klan: Går large",
@@ -346,6 +264,89 @@
       "name": "Russell Brand: Doing Life Live",
       "poster": "https://image.tmdb.org/t/p/w500/5b6TYsGIXDyGNoEtd9PFmYG7hD0.jpg",
       "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1692221",
+      "type": "movie",
+      "name": "Russell Brand: Scandalous",
+      "poster": "https://image.tmdb.org/t/p/w500/tyEYgI9gOiWZEjH3YtfJMpGpmZQ.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt3397430",
+      "type": "movie",
+      "name": "Russell Brand: Messiah Complex",
+      "poster": "https://image.tmdb.org/t/p/w500/3vvigE3kZ1bteqOnDCqYJreonzJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt9349942",
+      "type": "movie",
+      "name": "RUSSELL BRAND: RE:BIRTH",
+      "poster": "https://image.tmdb.org/t/p/w500/dypTjFImj7pomk0cldvLCYyYvv.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:1103103",
+      "type": "movie",
+      "name": "Russell Brand: Brandemic",
+      "poster": "https://image.tmdb.org/t/p/w500/7GXjKlebNjh27bC0T944CkmhcpM.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1433549",
+      "type": "movie",
+      "name": "Russell Howard: Live",
+      "poster": "https://image.tmdb.org/t/p/w500/2vaUS1n9AKoH0aiodvMu4GGmlis.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1950332",
+      "type": "movie",
+      "name": "Russell Howard Live: Dingledodies",
+      "poster": "https://image.tmdb.org/t/p/w500/itNyXoRRKkLlUCcHa47sMDzcN9t.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2122460",
+      "type": "movie",
+      "name": "Russell Howard: Right Here Right Now",
+      "poster": "https://image.tmdb.org/t/p/w500/4rugTCd6fEMCR4hSV0GebksqwPC.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt4529638",
+      "type": "movie",
+      "name": "Russell Howard: Wonderbox",
+      "poster": "https://image.tmdb.org/t/p/w500/10ngSOK3lomZxyqvuNBcF9sScE4.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt35047606",
+      "type": "movie",
+      "name": "Russell Howard: Live at the London Palladium",
+      "poster": "https://image.tmdb.org/t/p/w500/1vajAVz3tJpmmajoQBsZeKCxzr2.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1126838",
+      "type": "movie",
+      "name": "Russell Howard's Good News",
+      "poster": "https://image.tmdb.org/t/p/w500/jOgkZSFoG9CLcpp0jCQ2sF1uEwU.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1426486",
+      "type": "movie",
+      "name": "Russell Peters: Show Me the Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/e5lJVysCTmsz4rnRPHPiCh4nUbV.jpg",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tmdb:87307",
+      "type": "movie",
+      "name": "Russell Peters: Live In New York",
+      "releaseInfo": "2004"
     }
   ]
 }

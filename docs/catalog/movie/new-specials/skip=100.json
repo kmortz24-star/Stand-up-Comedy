@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39151076",
-      "type": "movie",
-      "name": "Mike Epps: Delusional",
-      "poster": "https://image.tmdb.org/t/p/w500/4vnxJozxtK9K65UYXH2RNsE2Edo.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39367866",
-      "type": "movie",
-      "name": "Bob the Drag Queen: This is Wild",
-      "poster": "https://image.tmdb.org/t/p/w500/iSaHdsv6M8X4HG9RyKrce7WE1ub.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39310623",
-      "type": "movie",
-      "name": "Raanan Hershberg: Morbidly Jewish",
-      "poster": "https://image.tmdb.org/t/p/w500/hmtqBTeqIOuuBGTaARWGuhmBkx8.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1616891",
-      "type": "movie",
-      "name": "WOOF!",
-      "poster": "https://image.tmdb.org/t/p/w500/yxwYf9mI6FrZpZx1wh9850jO3TD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt39132072",
-      "type": "movie",
-      "name": "Marcello Hernández: American Boy",
-      "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tmdb:1614256",
-      "type": "movie",
-      "name": "Trevor Noah: The LOST South African Show",
-      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tmdb:1636888",
       "type": "movie",
       "name": "Richard Herring: Can I Have My Ball Back?",
@@ -155,13 +113,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt37992733",
-      "type": "movie",
-      "name": "George Civeris: A Sense of Urgency",
-      "poster": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "tt38873883",
       "type": "movie",
       "name": "Matt Rife: Unwrapped - A Christmas Crowd Work Special",
@@ -201,12 +152,6 @@
       "type": "movie",
       "name": "Sebastian Maniscalco: It Ain't Right",
       "poster": "https://image.tmdb.org/t/p/w500/AmbvVjDFXR9ATykIA4jXe9rtkL6.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1653386",
-      "type": "movie",
-      "name": "Rufat Agayev The Bad Rufat",
       "releaseInfo": "2025"
     },
     {
@@ -346,6 +291,62 @@
       "type": "movie",
       "name": "Matt McCusker: A Humble Offering",
       "poster": "https://image.tmdb.org/t/p/w500/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37976380",
+      "type": "movie",
+      "name": "Earthquake: Joke Telling Business",
+      "poster": "https://image.tmdb.org/t/p/w500/l3jVHS7xjeSbC69DFc0EQwWMJHs.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tmdb:1553314",
+      "type": "movie",
+      "name": "Steve Hofstetter: Kill the Butterflies",
+      "poster": "https://image.tmdb.org/t/p/w500/i36BucfcOU1OXfS9LRe3OEFQPun.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37966885",
+      "type": "movie",
+      "name": "Cristela Alonzo: Upper Classy",
+      "poster": "https://image.tmdb.org/t/p/w500/fCJmbhhLOGeZIftbYBjWZ4VrU3o.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37961407",
+      "type": "movie",
+      "name": "Gianmarco Soresi: Thief of Joy",
+      "poster": "https://image.tmdb.org/t/p/w500/qP2BbsrInyODh0udOYfjn6GXA.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37245594",
+      "type": "movie",
+      "name": "Caleb Hearon: Model Comedian",
+      "poster": "https://image.tmdb.org/t/p/w500/y3eCMPnD7zx23YNplj1ArWcbrTJ.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37916276",
+      "type": "movie",
+      "name": "Larry the Cable Guy: It's a Gift",
+      "poster": "https://image.tmdb.org/t/p/w500/AiXQPYHufzbiWptGR4VhejLHMk.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt34381932",
+      "type": "movie",
+      "name": "Andrew Santino: White Noise",
+      "poster": "https://image.tmdb.org/t/p/w500/7RlhQgF5wB39V5MqJk7A5W7yZWS.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt37961067",
+      "type": "movie",
+      "name": "Jordan Jensen: Take Me with You",
+      "poster": "https://image.tmdb.org/t/p/w500/vQ8T0pK0vfjUe5jUiOj6uZHbypJ.jpg",
       "releaseInfo": "2025"
     }
   ]

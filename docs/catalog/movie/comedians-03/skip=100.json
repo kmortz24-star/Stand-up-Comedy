@@ -1,27 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt10222676",
-      "type": "movie",
-      "name": "Jeff Dunham: Talking Heads",
-      "poster": "https://image.tmdb.org/t/p/w500/canWC7bnPpazySwLRt1fc6KVUgk.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt10847194",
-      "type": "movie",
-      "name": "Jeff Dunham: Beside Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/vOEVIc3b5SVeHPSThos7YbYLCSc.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt13444348",
-      "type": "movie",
-      "name": "Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special",
-      "poster": "https://image.tmdb.org/t/p/w500/4arRLeXYOpg3KFTllfYlbWqfwqs.jpg",
-      "releaseInfo": "2020"
-    },
-    {
       "id": "tt23318056",
       "type": "movie",
       "name": "Jeff Dunham: Me the People",
@@ -239,13 +218,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "tt21327638",
-      "type": "movie",
-      "name": "Entre Nos Presents: Jesus Sepulveda: Mr. Tough Life",
-      "poster": "https://image.tmdb.org/t/p/w500/kz7Kb3KUBGH5kLDMQuXfo1RQVxY.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt1303784",
       "type": "movie",
       "name": "Jethro: A Portion of Jethro",
@@ -265,13 +237,6 @@
       "name": "Jethro: Rule Britannia!",
       "poster": "https://image.tmdb.org/t/p/w500/nEt5fPh22B8lMxkCCTp1ntJb0IS.jpg",
       "releaseInfo": "2001"
-    },
-    {
-      "id": "tmdb:273372",
-      "type": "movie",
-      "name": "Jethro: Live at Jethro's - Back of Beyond",
-      "poster": "https://image.tmdb.org/t/p/w500/xzoWXKtp4wX2yNc5DYzcNsZJbtl.jpg",
-      "releaseInfo": "2007"
     },
     {
       "id": "tmdb:376924",
@@ -348,6 +313,41 @@
       "name": "Jim Florentine: I'm Your Savior",
       "poster": "https://image.tmdb.org/t/p/w500/bvpSPpufCazhp97ZOrxxzLSwhfV.jpg",
       "releaseInfo": "2016"
+    },
+    {
+      "id": "tt41305237",
+      "type": "movie",
+      "name": "Jim Florentine: A Simple Man",
+      "poster": "https://image.tmdb.org/t/p/w500/9cCU2HGsVKQwp1DGcFetIU7nvyq.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0815456",
+      "type": "movie",
+      "name": "Jim Gaffigan: Beyond the Pale",
+      "poster": "https://image.tmdb.org/t/p/w500/wY49QXYWm6tnVNPItjPxtQThAxv.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1390471",
+      "type": "movie",
+      "name": "Jim Gaffigan: King Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/wcD3IL6NmsioH5R6qCY4yFijWlx.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2273321",
+      "type": "movie",
+      "name": "Jim Gaffigan: Mr. Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/weUy08h9xGNKutN608aqFWJDM9O.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3481550",
+      "type": "movie",
+      "name": "Jim Gaffigan: Obsessed",
+      "poster": "https://image.tmdb.org/t/p/w500/seaGy4VUA5guc1L0VodDjIGaTAT.jpg",
+      "releaseInfo": "2014"
     }
   ]
 }

@@ -63,13 +63,6 @@
       "releaseInfo": "1993"
     },
     {
-      "id": "tt2287418",
-      "type": "movie",
-      "name": "Bill Hicks: It's Just a Ride",
-      "poster": "https://image.tmdb.org/t/p/w500/4rGNrqYp13zK4No5resmtlmQasn.jpg",
-      "releaseInfo": "1994"
-    },
-    {
       "id": "tt14365068",
       "type": "movie",
       "name": "TV's Funniest Comedians - 14 Stars Do Classic Routines",
@@ -82,20 +75,6 @@
       "name": "Bob Newhart: Off the Record",
       "poster": "https://image.tmdb.org/t/p/w500/og4BBFFo5Y8flSYAmdEWojBt2Cp.jpg",
       "releaseInfo": "1992"
-    },
-    {
-      "id": "tt0472041",
-      "type": "movie",
-      "name": "Bob Newhart: Unbuttoned",
-      "poster": "https://image.tmdb.org/t/p/w500/cQ4g6xkJCsaB2PHjx4l1uGf3njd.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt33023573",
-      "type": "movie",
-      "name": "Bob Newhart: A Legacy of Laughter",
-      "poster": "https://image.tmdb.org/t/p/w500/d3vAv3CUGCTCoHB3YWf5pJd3sCO.jpg",
-      "releaseInfo": "2024"
     },
     {
       "id": "tt1071280",
@@ -161,13 +140,6 @@
       "releaseInfo": "1987"
     },
     {
-      "id": "tt2488254",
-      "type": "movie",
-      "name": "Eddie Murphy: One Night Only",
-      "poster": "https://image.tmdb.org/t/p/w500/kpUFMbVTAhZWrcYYJCU5Gn1WJAv.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "tt0249854",
       "type": "movie",
       "name": "George Carlin: On Location at USC",
@@ -215,13 +187,6 @@
       "name": "George Carlin: George's Best Stuff",
       "poster": "https://image.tmdb.org/t/p/w500/w8Cz07ewoPhj1aGIxVG8ZsBsqph.jpg",
       "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0248826",
-      "type": "movie",
-      "name": "George Carlin: 40 Years of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/pQdyep8PiI72qO99IvP8RiISRv7.jpg",
-      "releaseInfo": "1997"
     },
     {
       "id": "tt0246645",
@@ -342,10 +307,45 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "tmdb:750386",
+      "id": "tt0196055",
       "type": "movie",
-      "name": "Robin Williams: Comic Genius",
-      "poster": "https://image.tmdb.org/t/p/w500/obGbYLtCttdEw8mxkBUfeiAndJC.jpg"
+      "name": "Robin Williams: An Evening at the Met",
+      "poster": "https://image.tmdb.org/t/p/w500/5adS4LUGL9xi6XudEZt2vOd4rqq.jpg",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt0391873",
+      "type": "movie",
+      "name": "Comic Relief '90",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0330829",
+      "type": "movie",
+      "name": "Robin Williams: Live on Broadway",
+      "poster": "https://image.tmdb.org/t/p/w500/omCkeQubfAtjJetFV2edOC3yhRB.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1560169",
+      "type": "movie",
+      "name": "Robin Williams: Weapons of Self Destruction",
+      "poster": "https://image.tmdb.org/t/p/w500/kjEElgEFtAtyadUt8JayBLUw5Sf.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt0334249",
+      "type": "movie",
+      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
+      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt0148538",
+      "type": "movie",
+      "name": "Rodney Dangerfield: Nothin' Goes Right",
+      "poster": "https://image.tmdb.org/t/p/w500/c8lBrr0TDfqCoBPTI9wb6eI4Zwv.jpg",
+      "releaseInfo": "1988"
     }
   ]
 }

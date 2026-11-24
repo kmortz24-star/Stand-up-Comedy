@@ -328,6 +328,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "tt31869794",
+      "type": "movie",
+      "name": "Chris Ramsey Live: All Growed Up",
+      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "tmdb:510872",
       "type": "movie",
       "name": "Is That… Chris Ramsey?",
@@ -347,13 +354,6 @@
       "name": "Chris Ramsey: Live from London",
       "poster": "https://image.tmdb.org/t/p/w500/jTAXVTjdgWw3EM69TLjAKUYxfJr.jpg",
       "releaseInfo": "2024"
-    },
-    {
-      "id": "tt31869794",
-      "type": "movie",
-      "name": "Chris Ramsey Live: All Growed Up",
-      "poster": "https://image.tmdb.org/t/p/w500/wbQU5a2KlyGeXQghFNIZNDJg0G0.jpg",
-      "releaseInfo": "2015"
     }
   ]
 }

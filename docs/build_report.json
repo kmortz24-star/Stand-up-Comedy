@@ -1,19 +1,19 @@
 {
   "counts": {
-    "New Specials": 190,
+    "New Specials": 180,
     "Top Rated": 200,
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
     "Hidden Gems": 40,
-    "Comedy Legends": 64,
+    "Comedy Legends": 55,
     "Viral & Rising Comedians": 32,
-    "Roasts & Comedy Events": 72,
-    "Comedians AB": 260,
-    "CDEFG": 387,
-    "HIJ": 285,
-    "KLM": 296,
-    "NOPQR": 269,
-    "STUVWXYZ": 249,
+    "Roasts & Comedy Events": 77,
+    "Comedians AB": 242,
+    "CDEFG": 377,
+    "HIJ": 277,
+    "KLM": 284,
+    "NOPQR": 257,
+    "STUVWXYZ": 236,
     "Stand-Up TV Shows": 25
   },
   "total_unique_records": 3006,
@@ -71,7 +71,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt19850322",
@@ -125,7 +126,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1171671",
@@ -170,19 +172,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1186578",
-      "tmdb_id": 1186578,
-      "title": "Et qui on est!",
-      "performer": null,
-      "release_date": "2000-10-02",
-      "poster_path": null,
-      "popularity": 0.2431,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1201381",
       "tmdb_id": 1201381,
       "title": "Beyond a Joke",
@@ -193,7 +182,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1215557",
@@ -203,19 +193,6 @@
       "release_date": "2022-06-29",
       "poster_path": "/1hRYZ7NG5kfNpAjQqeXTAGLWLyA.jpg",
       "popularity": 0.3306,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1215647",
-      "tmdb_id": 1215647,
-      "title": "Michael Mittermeier - LIVE Club Special",
-      "performer": null,
-      "release_date": "2018-07-14",
-      "poster_path": null,
-      "popularity": 0.1843,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -264,19 +241,6 @@
       "original_language": "en"
     },
     {
-      "id": "tt4235918",
-      "tmdb_id": 1271002,
-      "title": "Kel Alaka",
-      "performer": null,
-      "release_date": "2014-10-24",
-      "poster_path": "/ty24aYTevmZG6h0Eliq0ILufC4c.jpg",
-      "popularity": 0.1213,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt32108764",
       "tmdb_id": 1274344,
       "title": "Para una vez que hablo",
@@ -317,19 +281,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1295126",
-      "tmdb_id": 1295126,
-      "title": "Matrioska",
-      "performer": null,
-      "release_date": "2021-08-01",
-      "poster_path": "/5jQNjVY8RiUodnLSeMvoakJ1HPW.jpg",
-      "popularity": 0.2294,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1307876",
       "tmdb_id": 1307876,
       "title": "Pride Comedy Show, 2e édition",
@@ -353,7 +304,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt32731760",
@@ -366,7 +318,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt32731748",
@@ -379,7 +332,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt1736050",
@@ -408,71 +362,6 @@
       "vote_count": 1,
       "tags": [],
       "last_checked": "2026-11-24"
-    },
-    {
-      "id": "tmdb:1379566",
-      "tmdb_id": 1379566,
-      "title": "Le 5ème Stuuût",
-      "performer": null,
-      "release_date": "2009-05-05",
-      "poster_path": null,
-      "popularity": 0.1539,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt11640116",
-      "tmdb_id": 1384516,
-      "title": "Mads de Krak - Drengestreger",
-      "performer": null,
-      "release_date": "2020-03-02",
-      "poster_path": "/8HDJEVcYpn3hQnLDRON6VBl6wSM.jpg",
-      "popularity": 0.2135,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1384538",
-      "tmdb_id": 1384538,
-      "title": "Mads De Krak - Madsere af succes?",
-      "performer": null,
-      "release_date": "2024-10-24",
-      "poster_path": "/7RICETjkcv8MkTLw2iRycKW7322.jpg",
-      "popularity": 0.1919,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1385812",
-      "tmdb_id": 1385812,
-      "title": "I believe I'm the crack",
-      "performer": null,
-      "release_date": "2024-11-03",
-      "poster_path": "/xl9jTCUerDO3SflRyq8rOGxqxO4.jpg",
-      "popularity": 0.0636,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1402476",
-      "tmdb_id": 1402476,
-      "title": "Mulher Não Tem Graça",
-      "performer": null,
-      "release_date": "2024-11-25",
-      "poster_path": "/pURXqtVQP8F81nqbDx8G4vHOrvN.jpg",
-      "popularity": 0.1215,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt35294394",
@@ -553,7 +442,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt1871356",
@@ -579,7 +469,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1510599",
@@ -610,19 +501,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:1510969",
-      "tmdb_id": 1510969,
-      "title": "Neatšķaidīts",
-      "performer": null,
-      "release_date": "2022-11-25",
-      "poster_path": "/oPYrZ4j0D5Ut2Paj8Hvu0tBGhNT.jpg",
-      "popularity": 0.2374,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1512556",
       "tmdb_id": 1512556,
       "title": "Tiempo, Espacio, Persona - César Aramís",
@@ -630,19 +508,6 @@
       "release_date": "2024-11-18",
       "poster_path": "/oTxGf539UAHmvSH8ueMqJNr8rux.jpg",
       "popularity": 0.2315,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt37778930",
-      "tmdb_id": 1523311,
-      "title": "Fer & Pipo",
-      "performer": null,
-      "release_date": "2025-11-07",
-      "poster_path": "/ywGnpSHbyzWyeW6QLEZCsPuaKQl.jpg",
-      "popularity": 0.1574,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -703,32 +568,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tt38495272",
-      "tmdb_id": 1550549,
-      "title": "Maxime Gervais - BIG MAX",
-      "performer": null,
-      "release_date": "2025-09-22",
-      "poster_path": "/lAQtGW96qVNrVBBWRsjKrJ5AkIh.jpg",
-      "popularity": 0.5701,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1557231",
-      "tmdb_id": 1557231,
-      "title": "Johnny Robertson - Maraton latter",
-      "performer": null,
-      "release_date": "2025-08-01",
-      "poster_path": "/x4SvX66KGLrTZZU6h25GKHINSG6.jpg",
-      "popularity": 0.1783,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1562035",
       "tmdb_id": 1562035,
       "title": "Olav Lundsgaard - Komikeren, der vil vide, hvem der har lavet lort i hans liv",
@@ -752,7 +591,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1566858",
@@ -778,7 +618,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1586683",
@@ -801,19 +642,6 @@
       "release_date": "2023-09-22",
       "poster_path": "/vjTCFJ5MMnzewkIzgWgHCyaElZt.jpg",
       "popularity": 0.2713,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1586734",
-      "tmdb_id": 1586734,
-      "title": "Locura- Led Varela",
-      "performer": null,
-      "release_date": "2024-12-25",
-      "poster_path": "/fG45ZkULLmwPL7wohx9Xgtdylyn.jpg",
-      "popularity": 0.077,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -846,19 +674,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1604478",
-      "tmdb_id": 1604478,
-      "title": "Daniel Lill - Det næste skridt",
-      "performer": null,
-      "release_date": "2025-12-23",
-      "poster_path": null,
-      "popularity": 0.1368,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt36853626",
       "tmdb_id": 1615876,
       "title": "The Joke's on Him",
@@ -866,32 +681,6 @@
       "release_date": "2026-03-04",
       "poster_path": "/vJCLl3JNnNFqKB9fJP49CAMMdwP.jpg",
       "popularity": 0.7412,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1633496",
-      "tmdb_id": 1633496,
-      "title": "Falha Minha",
-      "performer": null,
-      "release_date": "2025-11-02",
-      "poster_path": "/tl47LJSbmVExbDeiAkU2H88ebx5.jpg",
-      "popularity": 0.0972,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1635094",
-      "tmdb_id": 1635094,
-      "title": "Kaiserin Stasi die Erste",
-      "performer": null,
-      "release_date": "2025-09-20",
-      "poster_path": "/gKVH9Kpotp5mv3HheNb9DwN4RVv.jpg",
-      "popularity": 0.3892,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -910,32 +699,6 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:1642224",
-      "tmdb_id": 1642224,
-      "title": "Nezahualpilli",
-      "performer": null,
-      "release_date": "2026-03-05",
-      "poster_path": "/27DOiyTnCdeffjHbL2aXobMlKo9.jpg",
-      "popularity": 0.2636,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1643147",
-      "tmdb_id": 1643147,
-      "title": "Crónico- Nicolás de Tracy",
-      "performer": null,
-      "release_date": "2026-04-15",
-      "poster_path": "/v4UgJ4mXWUI2gGXzaf71AYz9orN.jpg",
-      "popularity": 0.3542,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:1644642",
@@ -990,32 +753,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:1659181",
-      "tmdb_id": 1659181,
-      "title": "Cecilie Bau - Når du mest venter det",
-      "performer": null,
-      "release_date": "2026-03-15",
-      "poster_path": "/m6iXVihotno75ZglAHnMEpJshXy.jpg",
-      "popularity": 0.3297,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1669729",
-      "tmdb_id": 1669729,
-      "title": "Niclas Vingaard  - Er Jeg Virkelig Voksen?",
-      "performer": null,
-      "release_date": "2026-03-29",
-      "poster_path": "/dGwIyIpc89uOJbx6sPPkfUNcCU.jpg",
-      "popularity": 0.2214,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:1676313",
       "tmdb_id": 1676313,
       "title": "Brandie Posey - Milk Job",
@@ -1026,33 +763,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1680779",
-      "tmdb_id": 1680779,
-      "title": "Fernando Rocha - Ao vivo no Teatro Sá da Bandeira",
-      "performer": null,
-      "release_date": "2009-01-01",
-      "poster_path": "/pWWXAuFc4b6Lm0AumrwOgunRMwJ.jpg",
-      "popularity": 0.3897,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1688259",
-      "tmdb_id": 1688259,
-      "title": "Martin Lauzon - Live au Centre Bell - Réfléchir avant de penser",
-      "performer": null,
-      "release_date": "2026-04-10",
-      "poster_path": "/lRlQSYsvPFNYri4BJPQjm5TUmVu.jpg",
-      "popularity": 0.4279,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt41806849",
@@ -1065,20 +777,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1706704",
-      "tmdb_id": 1706704,
-      "title": "A Showder Klub bemutatja - 40/20 - Kiss Ádám",
-      "performer": null,
-      "release_date": "2026-05-29",
-      "poster_path": "/91S3Jyc5jLMm3AqLTkU2o9AfR43.jpg",
-      "popularity": 0.559,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1713376",
@@ -1104,7 +804,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1725857",
@@ -1114,32 +815,6 @@
       "release_date": "2007-12-03",
       "poster_path": "/1nHvSyaetWVRG32AUOkYRWbT6Fs.jpg",
       "popularity": 0.0631,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1729842",
-      "tmdb_id": 1729842,
-      "title": "Karim Duval - Y",
-      "performer": null,
-      "release_date": "2019-07-04",
-      "poster_path": "/tpKNXVLvDK6KbfsTx3yPMp6VB15.jpg",
-      "popularity": 0.6232,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1729965",
-      "tmdb_id": 1729965,
-      "title": "Menino de Ouro",
-      "performer": null,
-      "release_date": "2025-12-27",
-      "poster_path": "/pcbLYnOD811Jivh1ocKKreEXns1.jpg",
-      "popularity": 0.0689,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -1166,45 +841,6 @@
       "release_date": "1989-06-04",
       "poster_path": "/z50szud4Ex38ovdsxSHRKxVzevv.jpg",
       "popularity": 0.216,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1745443",
-      "tmdb_id": 1745443,
-      "title": "Marcin Chmiel \"Windykator\" | Stand-up",
-      "performer": null,
-      "release_date": "2025-03-07",
-      "poster_path": "/5lfYuHJgJF1cnJv50JYNgtrArmt.jpg",
-      "popularity": 0.1372,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1746409",
-      "tmdb_id": 1746409,
-      "title": "Marcin Chmiel \"Szachista Upadły\" | Stand-up",
-      "performer": null,
-      "release_date": "2025-12-27",
-      "poster_path": "/81wdNAIK3SWxtzHdfZQZhkGTIn6.jpg",
-      "popularity": 0.2549,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1746431",
-      "tmdb_id": 1746431,
-      "title": "Marcin Chmiel \"Trzy egzaminy i pogrzeb\" | Stand-up",
-      "performer": null,
-      "release_date": "2026-01-30",
-      "poster_path": "/nIvNFNuvu6iW7IJjW2tm2HWxQCD.jpg",
-      "popularity": 0.3052,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -1247,7 +883,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1789299",
@@ -1288,7 +925,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tmdb:1814100",
@@ -1301,7 +939,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt8746682",
@@ -1311,19 +950,6 @@
       "release_date": "2015-04-19",
       "poster_path": "/loEyd0OYw8MOiJS6J7moWiWkLgm.jpg",
       "popularity": 0.1528,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:1830969",
-      "tmdb_id": 1830969,
-      "title": "King of kings",
-      "performer": null,
-      "release_date": "",
-      "poster_path": null,
-      "popularity": 0.0,
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
@@ -1482,19 +1108,6 @@
       "last_checked": "2026-11-24"
     },
     {
-      "id": "tmdb:295968",
-      "tmdb_id": 295968,
-      "title": "Comedy Aid 2014",
-      "performer": null,
-      "release_date": "2014-12-27",
-      "poster_path": "/fQyou2fsLwkoWjdrHPRUZSZNlji.jpg",
-      "popularity": 0.3134,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt5605674",
       "tmdb_id": 306959,
       "title": "Stand Up, Strip Down",
@@ -1537,32 +1150,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:432603",
-      "tmdb_id": 432603,
-      "title": "Comedy Aid 2016",
-      "performer": null,
-      "release_date": "2016-12-29",
-      "poster_path": "/ihufSGlsqUHwMxzHLUFNMYgnhaM.jpg",
-      "popularity": 0.3037,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tmdb:494247",
-      "tmdb_id": 494247,
-      "title": "Comedy Aid 2009",
-      "performer": null,
-      "release_date": "2009-12-23",
-      "poster_path": "/tke7B702DZVSddiPgArnjmzkojQ.jpg",
-      "popularity": 0.1993,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tmdb:497921",
       "tmdb_id": 497921,
       "title": "The 3rd Annual Howie Mandel Stand-up Gala",
@@ -1603,19 +1190,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tt10340662",
-      "tmdb_id": 548594,
-      "title": "Comedy Aid 2018",
-      "performer": null,
-      "release_date": "2018-12-29",
-      "poster_path": "/2GV7ny0PMoPFjrFTLlaczPl7BPM.jpg",
-      "popularity": 0.2911,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tt5803530",
@@ -1673,32 +1247,6 @@
       "last_checked": "2026-11-19"
     },
     {
-      "id": "tmdb:684796",
-      "tmdb_id": 684796,
-      "title": "Heino What You Did Last Summer",
-      "performer": null,
-      "release_date": "2019-12-16",
-      "poster_path": "/6vwN7pb1Kx0F9XS0koOrTPsMxT6.jpg",
-      "popularity": 0.2792,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt2415232",
-      "tmdb_id": 70211,
-      "title": "Comedy Aid 2010",
-      "performer": null,
-      "release_date": "2010-12-29",
-      "poster_path": "/f2FDgynSDls0SmfpFMtt2kbSEo.jpg",
-      "popularity": 0.25,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt12498618",
       "tmdb_id": 714842,
       "title": "8:46",
@@ -1711,19 +1259,6 @@
       "tags": [],
       "last_checked": "2026-11-19",
       "original_language": "en"
-    },
-    {
-      "id": "tmdb:748014",
-      "tmdb_id": 748014,
-      "title": "Grin til gavn 2020",
-      "performer": null,
-      "release_date": "2020-12-27",
-      "poster_path": "/y8sTGElswesZ5QuToB05s9Gu6KF.jpg",
-      "popularity": 0.3004,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
     },
     {
       "id": "tmdb:756428",
@@ -1749,7 +1284,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt41009831",
@@ -1762,7 +1298,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt12566386",
@@ -1788,20 +1325,8 @@
       "vote_average": 0.0,
       "vote_count": 0,
       "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
-      "id": "tt27012149",
-      "tmdb_id": 896229,
-      "title": "Laurent Paquin - Déplaire",
-      "performer": null,
-      "release_date": "2021-11-30",
-      "poster_path": "/5FNt1IZA7tKoxB29dxc1My7JKQB.jpg",
-      "popularity": 0.1486,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
+      "last_checked": "2026-11-19",
+      "original_language": "en"
     },
     {
       "id": "tt0305695",
@@ -1846,19 +1371,6 @@
       "original_language": "en"
     },
     {
-      "id": "tmdb:936842",
-      "tmdb_id": 936842,
-      "title": "DM i standup 2019",
-      "performer": null,
-      "release_date": "2019-11-20",
-      "poster_path": "/8ZqeYyUS76uTBJOg0rbkXmgp7g7.jpg",
-      "popularity": 0.0243,
-      "vote_average": 0.0,
-      "vote_count": 0,
-      "tags": [],
-      "last_checked": "2026-11-19"
-    },
-    {
       "id": "tt15325660",
       "tmdb_id": 956092,
       "title": "2020: A Comedy Special",
@@ -1871,36 +1383,25 @@
       "vote_count": 0,
       "tags": [],
       "last_checked": "2026-11-23"
-    },
-    {
-      "id": "tmdb:967541",
-      "tmdb_id": 967541,
-      "title": "Zöld Stand-Up – Est a fenntarthatóságról",
-      "performer": null,
-      "release_date": "2021-06-03",
-      "poster_path": "/9FOdM4IRmpvOEyZRrcIYiVbKirG.jpg",
-      "popularity": 0.271,
-      "vote_average": 10.0,
-      "vote_count": 1,
-      "tags": [],
-      "last_checked": "2026-11-19"
     }
   ],
   "unrated_cleanup": {
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2148,
-    "remaining_alphabetical_movies": 1704,
-    "unrated_movies_hidden": 444,
-    "unrated_established_movies_kept": 213
+    "original_alphabetical_movies": 2006,
+    "remaining_alphabetical_movies": 1631,
+    "unrated_movies_hidden": 375,
+    "unrated_established_movies_kept": 210
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
-    "min_votes": 5,
-    "rating_below": 6.0,
-    "low_rated_movies_hidden": 4,
-    "low_rated_established_movies_kept": 150,
+    "min_votes": 1,
+    "rating_below": 6.5,
+    "low_rated_movies_hidden": 54,
+    "hidden_low_sample_1_to_4_votes": 51,
+    "hidden_5_plus_votes": 3,
+    "low_rated_established_movies_kept": 547,
     "reversible": true,
     "tv_series_untouched": true
   },
@@ -2031,31 +1532,31 @@
     "discovery": {
       "target": 15,
       "selected": 15,
-      "available_comedians": 127,
+      "available_comedians": 126,
       "selected_comedians": [
         "Tiffany Haddish",
-        "Frankie Boyle",
+        "Fred Armisen",
         "Simon Amstell",
-        "Tim Minchin",
+        "Rory Scovel",
         "Bill Maher",
-        "Jon Richardson Live",
+        "Jon Stewart",
         "Ray Romano",
         "Sinbad",
-        "Jeff Arcuri",
-        "Lee Evans",
-        "Frank Zappa",
+        "Jeff Foxworthy",
+        "Lenny Bruce",
+        "Frankie Boyle",
         "Chris D'Elia",
-        "Micky Flanagan",
-        "Matteo Lane",
+        "Mike Epps",
+        "Maz Jobrani",
         "Stephen Merchant"
       ]
     }
   },
   "english_language_policy": {
     "status": "Known non-English excluded; unknown language needs confirmation",
-    "known_non_english_source_records": 549,
-    "unknown_language_source_records": 511,
-    "unknown_language_alphabetical_records": 68,
+    "known_non_english_source_records": 702,
+    "unknown_language_source_records": 161,
+    "unknown_language_alphabetical_records": 23,
     "known_non_english_published_movie_records": 0,
     "multilingual_tv_shows_excluded": [
       "COMEDIANS of the world"

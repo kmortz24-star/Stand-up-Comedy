@@ -333,13 +333,6 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "tmdb:1242049",
-      "type": "movie",
-      "name": "Daniel Muggleton: White & Wrong",
-      "poster": "https://image.tmdb.org/t/p/w500/buDrgCp893LRGN3LpZkr7JfsBR3.jpg",
-      "releaseInfo": "2024"
-    },
-    {
       "id": "tt6787668",
       "type": "movie",
       "name": "Daniel Sloss Live",
@@ -352,6 +345,13 @@
       "name": "Daniel Sloss: X",
       "poster": "https://image.tmdb.org/t/p/w500/fFYAqewU7dmInRGU8yXbQ3rPPya.jpg",
       "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11178728",
+      "type": "movie",
+      "name": "Daniel Sloss: Socio",
+      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
+      "releaseInfo": "2022"
     }
   ]
 }

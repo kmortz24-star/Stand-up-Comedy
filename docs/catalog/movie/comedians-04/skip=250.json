@@ -1,76 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2137119",
-      "type": "movie",
-      "name": "Micky Flanagan: Live - The Out Out Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/owX7R6i7fv5NQnjIYPfQZvZ2tsR.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt3406050",
-      "type": "movie",
-      "name": "Micky Flanagan: Live – Back in the Game Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/rmpqov6rheZsDBPlB1C0x9ScXMq.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt8277710",
-      "type": "movie",
-      "name": "Micky Flanagan - An' Another Fing Live",
-      "poster": "https://image.tmdb.org/t/p/w500/lq85euQMEjQPR1c8HtRzoEGBw5Z.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt39295990",
-      "type": "movie",
-      "name": "Micky Flanagan: If Ever We Needed It",
-      "poster": "https://image.tmdb.org/t/p/w500/xYelEIodKAoLnPluhq2UF4hOePk.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt36519331",
-      "type": "movie",
-      "name": "Mihai Bobonete: Life advice",
-      "poster": "https://image.tmdb.org/t/p/w500/5izo93y87a65YaKZPRb6klbl34j.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1188112",
-      "type": "movie",
-      "name": "Mike Birbiglia: What I Should Have Said Was Nothing",
-      "poster": "https://image.tmdb.org/t/p/w500/jRPrSOkeR2KPsmBaskxDqeaDXW1.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt2937390",
-      "type": "movie",
-      "name": "Mike Birbiglia: My Girlfriend's Boyfriend",
-      "poster": "https://image.tmdb.org/t/p/w500/gGLGbjB68fJ8Z0hhCUoCeWiwq1P.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt6608034",
-      "type": "movie",
-      "name": "Mike Birbiglia: Thank God for Jokes",
-      "poster": "https://image.tmdb.org/t/p/w500/j6U5qW82Cw2ugeoljgWAmB0MR8U.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt11163014",
-      "type": "movie",
-      "name": "Mike Birbiglia: The New One",
-      "poster": "https://image.tmdb.org/t/p/w500/yEeLcZuwm9JDpqxXp4FeRCkVtp9.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt29729075",
-      "type": "movie",
-      "name": "Mike Birbiglia: The Old Man and the Pool",
-      "poster": "https://image.tmdb.org/t/p/w500/rq4c90wsRYIdWAIl0rMt3Ebzgp2.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt36462322",
       "type": "movie",
       "name": "Mike Birbiglia: The Good Life",
@@ -158,13 +88,6 @@
       "name": "Mike Reid - Alive & Kidding",
       "poster": "https://image.tmdb.org/t/p/w500/mZ5XZD3GEniNnLORKRyNYId0UGg.jpg",
       "releaseInfo": "1998"
-    },
-    {
-      "id": "tmdb:247096",
-      "type": "movie",
-      "name": "Mike Reid: The Guv'nors Last Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/qYknkOZJy6pv75mYeyDlcYZtFOv.jpg",
-      "releaseInfo": "2008"
     },
     {
       "id": "tt46068179",
@@ -271,13 +194,6 @@
       "type": "movie",
       "name": "Mo Gilligan: In the Moment",
       "poster": "https://image.tmdb.org/t/p/w500/4Q1E0rQlYfxiWByxvespMMk8TJc.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt45819060",
-      "type": "movie",
-      "name": "Mojo Brookzz: I Know You Lying",
-      "poster": "https://image.tmdb.org/t/p/w500/hty8zaBtZp83WZXHB3RbGjhhwjI.jpg",
       "releaseInfo": "2026"
     },
     {

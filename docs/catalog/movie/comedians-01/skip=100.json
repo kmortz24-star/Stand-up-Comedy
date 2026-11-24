@@ -1,90 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt42172944",
-      "type": "movie",
-      "name": "Anjelah Johnson-Reyes: Ugly Baby",
-      "poster": "https://image.tmdb.org/t/p/w500/ux1fYlc6rtnBLc2GBpZ6efMWjRW.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt15759876",
-      "type": "movie",
-      "name": "Anne Edmonds & Lloyd Langford: Business With Pleasure",
-      "poster": "https://image.tmdb.org/t/p/w500/8SADhkXD0R8nPrv536cMJuTj2Gt.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt2624662",
-      "type": "movie",
-      "name": "Anthony Jeselnik: Caligula",
-      "poster": "https://image.tmdb.org/t/p/w500/bwomVOksahLKETSLsf8vjky44hu.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt5087554",
-      "type": "movie",
-      "name": "Anthony Jeselnik: Thoughts and Prayers",
-      "poster": "https://image.tmdb.org/t/p/w500/s257nbi40jQXFy4AyjVMT4Nhfun.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt10050780",
-      "type": "movie",
-      "name": "Anthony Jeselnik: Fire in the Maternity Ward",
-      "poster": "https://image.tmdb.org/t/p/w500/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt34225422",
-      "type": "movie",
-      "name": "Anthony Jeselnik: Bones and All",
-      "poster": "https://image.tmdb.org/t/p/w500/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt38711471",
-      "type": "movie",
-      "name": "Aparna Nancherla: Hopeful Potato",
-      "poster": "https://image.tmdb.org/t/p/w500/smxXLZkK7tp6Q0a9jmcRLWuezKi.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:1628273",
-      "type": "movie",
-      "name": "We Need to Talk",
-      "poster": "https://image.tmdb.org/t/p/w500/begZh34IMryzSRkbTN7sR8O8B1L.jpg",
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt23401842",
-      "type": "movie",
-      "name": "Ari Shaffir: Revenge for the Holocaust",
-      "poster": "https://image.tmdb.org/t/p/w500/7DLxq0U7nhc9LhMceJcVUdNHSj2.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt2604846",
-      "type": "movie",
-      "name": "Ari Shaffir: Passive Aggressive",
-      "poster": "https://image.tmdb.org/t/p/w500/gZw7LbKoGUfIKDaqSVQf3lZD9N0.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt4414858",
-      "type": "movie",
-      "name": "Ari Shaffir: Paid Regular",
-      "poster": "https://image.tmdb.org/t/p/w500/A3Ab6qnoagrZnl6oaoi97mMnUa2.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt23219324",
-      "type": "movie",
-      "name": "Ari Shaffir: JEW",
-      "poster": "https://image.tmdb.org/t/p/w500/lPQ0XR3XkzJMfe2NtNbbxpQKOzC.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt34753871",
       "type": "movie",
       "name": "Ari Shaffir: America's Sweetheart",
@@ -196,13 +112,6 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt21464298",
-      "type": "movie",
-      "name": "BeBe Zahara Benet: Africa Is Not a Country",
-      "poster": "https://image.tmdb.org/t/p/w500/4hc3CEpL59dmxVxQXhS25icXkiK.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "standupyt_yRMgKJov5_U",
       "type": "movie",
       "name": "Ben Brainard: What a Mature Child | Full Stand Up Comedy Special [YouTube]",
@@ -231,13 +140,6 @@
       "name": "Ben Elton: Live",
       "poster": "https://image.tmdb.org/t/p/w500/wax5SE4LuAENNpuN1UVKg3bwJSy.jpg",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tt28656741",
-      "type": "movie",
-      "name": "Ben Roy - Hyena",
-      "poster": "https://image.tmdb.org/t/p/w500/qqexDiGhfdp7EsGJLdNuDy09Q4h.jpg",
-      "releaseInfo": "2023"
     },
     {
       "id": "tmdb:448547",
@@ -350,6 +252,105 @@
       "name": "Bill Bailey: Larks in Transit",
       "poster": "https://image.tmdb.org/t/p/w500/5hjo0wpmlqQqW8GplqRUaIfNIOz.jpg",
       "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:1664093",
+      "type": "movie",
+      "name": "Bill Bailey: Thoughtifier",
+      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0666199",
+      "type": "movie",
+      "name": "Bill Burr: One Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1254947",
+      "type": "movie",
+      "name": "Bill Burr: Why Do I Do This?",
+      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1717578",
+      "type": "movie",
+      "name": "Bill Burr: Let It Go",
+      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt2290153",
+      "type": "movie",
+      "name": "Bill Burr: You People Are All The Same",
+      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3823690",
+      "type": "movie",
+      "name": "Bill Burr: I'm Sorry You Feel That Way",
+      "poster": "https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt6184894",
+      "type": "movie",
+      "name": "Bill Burr: Walk Your Way Out",
+      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10847306",
+      "type": "movie",
+      "name": "Bill Burr: Paper Tiger",
+      "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt20723672",
+      "type": "movie",
+      "name": "Bill Burr Presents: Friends Who Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/9gSpgNwjP3Qg8LAsrBgo1Fu6QdL.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt21106500",
+      "type": "movie",
+      "name": "Bill Burr: Live at Red Rocks",
+      "poster": "https://image.tmdb.org/t/p/w500/w3VmDVhgVq8c9lWNkMzsSeJIdgA.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt34686029",
+      "type": "movie",
+      "name": "Bill Burr: Drop Dead Years",
+      "poster": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "standupyt_uCJDLgQ6xFk",
+      "type": "movie",
+      "name": "Bill Burr - Let It Go - 2010 - Stand-up Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
+      "description": "Bill Burr · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0083652",
+      "type": "movie",
+      "name": "Bill Cosby: Himself",
+      "poster": "https://image.tmdb.org/t/p/w500/t685Vbw4q2PxgnrlBFpgZO607D0.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt1002564",
+      "type": "movie",
+      "name": "Cutting Edge Comedians of the '60s & '70s",
+      "releaseInfo": "2007"
     }
   ]
 }

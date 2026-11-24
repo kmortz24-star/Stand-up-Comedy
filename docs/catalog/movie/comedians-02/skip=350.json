@@ -1,69 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0248826",
-      "type": "movie",
-      "name": "George Carlin: 40 Years of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/pQdyep8PiI72qO99IvP8RiISRv7.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tt0246645",
-      "type": "movie",
-      "name": "George Carlin: You Are All Diseased",
-      "poster": "https://image.tmdb.org/t/p/w500/6dyDMkaU61ZPDadfsiNqgu6VQvi.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt0287460",
-      "type": "movie",
-      "name": "George Carlin: Complaints & Grievances",
-      "poster": "https://image.tmdb.org/t/p/w500/qUMJgSvji7ZFI8RxiGRumW0UJKs.jpg",
-      "releaseInfo": "2001"
-    },
-    {
-      "id": "tt0484855",
-      "type": "movie",
-      "name": "George Carlin: Life Is Worth Losing",
-      "poster": "https://image.tmdb.org/t/p/w500/djoek5ZJA1J7E6vD0jAoUN5Mqjb.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0963207",
-      "type": "movie",
-      "name": "George Carlin: It's Bad for Ya!",
-      "poster": "https://image.tmdb.org/t/p/w500/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt37992733",
-      "type": "movie",
-      "name": "George Civeris: A Sense of Urgency",
-      "poster": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0332720",
-      "type": "movie",
-      "name": "The Original Latin Kings of Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/9vO1cHD0zOxFhWrZ82TxQ5ej3TB.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "tt6344974",
-      "type": "movie",
-      "name": "George Lopez: Why You Crying?",
-      "poster": "https://image.tmdb.org/t/p/w500/f7BWLplB5ZWnp88wSGj3bLOIDIo.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0975673",
-      "type": "movie",
-      "name": "George Lopez: America's Mexican",
-      "poster": "https://image.tmdb.org/t/p/w500/iLTiLEjFh7tbFjKFNvEsxfYqT70.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt1508274",
       "type": "movie",
       "name": "George Lopez: Tall, Dark & Chicano",
@@ -182,13 +119,6 @@
       "name": "Gina Yashere: Laughing To America",
       "poster": "https://image.tmdb.org/t/p/w500/u1zGbih0BOFokg8gRJuldZTtHks.jpg",
       "releaseInfo": "2014"
-    },
-    {
-      "id": "tt21459514",
-      "type": "movie",
-      "name": "Ginger Minj: Bless Your Heart",
-      "poster": "https://image.tmdb.org/t/p/w500/2BiuOvS8Ky6u6CAisVLiIqHgqXc.jpg",
-      "releaseInfo": "2023"
     },
     {
       "id": "tmdb:1602346",

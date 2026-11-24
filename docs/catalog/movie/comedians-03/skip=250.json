@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt5069564",
-      "type": "movie",
-      "name": "John Mulaney: The Comeback Kid",
-      "poster": "https://image.tmdb.org/t/p/w500/pzM9t33T2YUA7vaCb2GxaDrlTW1.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt8271714",
-      "type": "movie",
-      "name": "John Mulaney: Kid Gorgeous at Radio City",
-      "poster": "https://image.tmdb.org/t/p/w500/fERO7sktbElVbGS1SGDKzQJWxtn.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt27141610",
-      "type": "movie",
-      "name": "John Mulaney: Baby J",
-      "poster": "https://image.tmdb.org/t/p/w500/68IvnpczS3snky0W6K7SpxIGZLp.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt32801258",
-      "type": "movie",
-      "name": "John Novosad: Jokes I Can Only Tell Here",
-      "poster": "https://image.tmdb.org/t/p/w500/3eYSkbkKicKM5GwloJv9F3Pzoti.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt1567243",
-      "type": "movie",
-      "name": "John Pinette: I Say Nay Nay",
-      "poster": "https://image.tmdb.org/t/p/w500/yxtSfU6dVtHSPrAtQpY47dktgeN.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1073499",
-      "type": "movie",
-      "name": "John Pinette: I'm Starvin'!",
-      "poster": "https://image.tmdb.org/t/p/w500/3i6Av4EjzAW30fd73vkv0DDdjyV.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt38783891",
       "type": "movie",
       "name": "John Robins: The Darkness of Robins",
@@ -69,13 +27,6 @@
       "name": "Jon Stewart: Unleavened",
       "poster": "https://image.tmdb.org/t/p/w500/zDOMgv9JbboclmyTdbzbzJMPG5j.jpg",
       "releaseInfo": "1996"
-    },
-    {
-      "id": "tt10613308",
-      "type": "movie",
-      "name": "The Hall: Honoring the Greats of Stand-Up",
-      "poster": "https://image.tmdb.org/t/p/w500/dwFflLDrSD6RcBBEnG8Ov3c7oPm.jpg",
-      "releaseInfo": "2022"
     },
     {
       "id": "tt37961067",
@@ -236,13 +187,6 @@
       "name": "Just for Laughs Stand Up, Vol. 1: Best of the Uptown Comics",
       "poster": "https://image.tmdb.org/t/p/w500/kBOxLWic3YwTdVXooH3URV4Utkn.jpg",
       "releaseInfo": "2005"
-    },
-    {
-      "id": "tt27180536",
-      "type": "movie",
-      "name": "Just for Laughs: The Gala Specials - Chelsea Handler",
-      "poster": "https://image.tmdb.org/t/p/w500/zk7NMZ21igcm2CaOMiX9ywks2OX.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

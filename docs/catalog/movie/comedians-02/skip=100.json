@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt11178728",
-      "type": "movie",
-      "name": "Daniel Sloss: Socio",
-      "poster": "https://image.tmdb.org/t/p/w500/cyDP3cstfopC7C3lPeStxlEBQlh.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tt39115106",
       "type": "movie",
       "name": "Daniel Sloss: Can't",
@@ -291,12 +284,6 @@
       "releaseInfo": "2018"
     },
     {
-      "id": "tt4422544",
-      "type": "movie",
-      "name": "Gutbuster",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt1243458",
       "type": "movie",
       "name": "David Cross: HBO Comedy Half-Hour",
@@ -344,6 +331,20 @@
       "name": "David Cross: The End of the Beginning of the End",
       "poster": "https://image.tmdb.org/t/p/w500/c666E13zMETRTwd2JAo8Asps9AQ.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tt32014001",
+      "type": "movie",
+      "name": "My Next Guest with David Letterman and John Mulaney",
+      "poster": "https://image.tmdb.org/t/p/w500/6PXwk83W4BBQs0aSujZ2fqpoESK.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0233528",
+      "type": "movie",
+      "name": "David Spade: Take the Hit",
+      "poster": "https://image.tmdb.org/t/p/w500/bYfiNPOGLVseQQcZPQwbDQagdqH.jpg",
+      "releaseInfo": "1998"
     }
   ]
 }

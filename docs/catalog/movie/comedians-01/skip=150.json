@@ -1,105 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1664093",
-      "type": "movie",
-      "name": "Bill Bailey: Thoughtifier",
-      "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0666199",
-      "type": "movie",
-      "name": "Bill Burr: One Night Stand",
-      "poster": "https://image.tmdb.org/t/p/w500/uh2jcpATBoYbbgFBC7FNg4Z7JAk.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt1254947",
-      "type": "movie",
-      "name": "Bill Burr: Why Do I Do This?",
-      "poster": "https://image.tmdb.org/t/p/w500/iKycji2aWSOS8at0W4VIEm2cmec.jpg",
-      "releaseInfo": "2008"
-    },
-    {
-      "id": "tt1717578",
-      "type": "movie",
-      "name": "Bill Burr: Let It Go",
-      "poster": "https://image.tmdb.org/t/p/w500/9DKunkJiOxInOXZsk22bULt1428.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt2290153",
-      "type": "movie",
-      "name": "Bill Burr: You People Are All The Same",
-      "poster": "https://image.tmdb.org/t/p/w500/3bjakdfXXzQ1M82vpqyQXH85lz0.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3823690",
-      "type": "movie",
-      "name": "Bill Burr: I'm Sorry You Feel That Way",
-      "poster": "https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt6184894",
-      "type": "movie",
-      "name": "Bill Burr: Walk Your Way Out",
-      "poster": "https://image.tmdb.org/t/p/w500/wQpJbMzfmzwb14MiUVC991LEyTV.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt10847306",
-      "type": "movie",
-      "name": "Bill Burr: Paper Tiger",
-      "poster": "https://image.tmdb.org/t/p/w500/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt20723672",
-      "type": "movie",
-      "name": "Bill Burr Presents: Friends Who Kill",
-      "poster": "https://image.tmdb.org/t/p/w500/9gSpgNwjP3Qg8LAsrBgo1Fu6QdL.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt21106500",
-      "type": "movie",
-      "name": "Bill Burr: Live at Red Rocks",
-      "poster": "https://image.tmdb.org/t/p/w500/w3VmDVhgVq8c9lWNkMzsSeJIdgA.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt34686029",
-      "type": "movie",
-      "name": "Bill Burr: Drop Dead Years",
-      "poster": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "standupyt_uCJDLgQ6xFk",
-      "type": "movie",
-      "name": "Bill Burr - Let It Go - 2010 - Stand-up Special [YouTube]",
-      "poster": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
-      "background": "https://i.ytimg.com/vi/uCJDLgQ6xFk/hqdefault.jpg",
-      "description": "Bill Burr · 64 minute YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt0083652",
-      "type": "movie",
-      "name": "Bill Cosby: Himself",
-      "poster": "https://image.tmdb.org/t/p/w500/t685Vbw4q2PxgnrlBFpgZO607D0.jpg",
-      "releaseInfo": "1983"
-    },
-    {
-      "id": "tt1002564",
-      "type": "movie",
-      "name": "Cutting Edge Comedians of the '60s & '70s",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "tt3053202",
       "type": "movie",
       "name": "Bill Cosby: Far From Finished",
@@ -147,13 +48,6 @@
       "name": "Bill Hicks: Revelations",
       "poster": "https://image.tmdb.org/t/p/w500/1xcuMgFbvWZBoTKS46Xbo5kOMj.jpg",
       "releaseInfo": "1993"
-    },
-    {
-      "id": "tt2287418",
-      "type": "movie",
-      "name": "Bill Hicks: It's Just a Ride",
-      "poster": "https://image.tmdb.org/t/p/w500/4rGNrqYp13zK4No5resmtlmQasn.jpg",
-      "releaseInfo": "1994"
     },
     {
       "id": "tt0836636",
@@ -348,6 +242,110 @@
       "name": "Billy Connolly: You Asked for It",
       "poster": "https://image.tmdb.org/t/p/w500/4SMhsPLfqlU2q0nUICsxxfoepsh.jpg",
       "releaseInfo": "2011"
+    },
+    {
+      "id": "tt6405058",
+      "type": "movie",
+      "name": "Billy Connolly: High Horse Tour Live",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZIoalaNzU8zmsEfQFOKRzXSlIf.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tmdb:463886",
+      "type": "movie",
+      "name": "Billy Connolly: Portrait of a Lifetime",
+      "poster": "https://image.tmdb.org/t/p/w500/toaHSyuWEgNc33pY0fFKCzS0CjQ.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt11129970",
+      "type": "movie",
+      "name": "Billy Connolly: The Sex Life of Bandages",
+      "poster": "https://image.tmdb.org/t/p/w500/qZ8REpiXTB706KoZTVUzbLxwzlK.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt14394486",
+      "type": "movie",
+      "name": "Billy Connolly: It’s Been a Pleasure...",
+      "poster": "https://image.tmdb.org/t/p/w500/3kluHXB8sKNoFUa04Lnp8ymkZ8C.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tmdb:941402",
+      "type": "movie",
+      "name": "Billy Connolly: In His Own Words",
+      "poster": "https://image.tmdb.org/t/p/w500/ro1xwQxIhmjXpYfZ6n377KoNfkY.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt16741544",
+      "type": "movie",
+      "name": "Billy Connolly: My Absolute Pleasure",
+      "poster": "https://image.tmdb.org/t/p/w500/xD3VCgc6oy9f93H1NVS5eUXn43V.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt3383040",
+      "type": "movie",
+      "name": "Billy Crystal: 700 Sundays",
+      "poster": "https://image.tmdb.org/t/p/w500/e9IQ8NfyWWsIDywyXXIE9sNxNNi.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt1747960",
+      "type": "movie",
+      "name": "Bo Burnham: Words, Words, Words",
+      "poster": "https://image.tmdb.org/t/p/w500/nAiFGbyoYc4iMFeRhxsilUaCteR.jpg",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt3210258",
+      "type": "movie",
+      "name": "Bo Burnham: What.",
+      "poster": "https://image.tmdb.org/t/p/w500/kGDpMWPOKStmvf4F1gkqfeFZmXA.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5192124",
+      "type": "movie",
+      "name": "Bo Burnham: Make Happy",
+      "poster": "https://image.tmdb.org/t/p/w500/qVThhskXZZHDfj4m8jOx2CxIVIW.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt14544192",
+      "type": "movie",
+      "name": "Bo Burnham: Inside",
+      "poster": "https://image.tmdb.org/t/p/w500/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt38906524",
+      "type": "movie",
+      "name": "Bo Johnson: Two Sailboats",
+      "poster": "https://image.tmdb.org/t/p/w500/rvLpTJMisjltIsxvojLD5PY0x8G.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt31013511",
+      "type": "movie",
+      "name": "Bob Goldthwait: Don't Watch This Show",
+      "poster": "https://image.tmdb.org/t/p/w500/mrLDE4AgNZPOSLF2mzivH84LmR0.jpg",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt7690148",
+      "type": "movie",
+      "name": "Bob Goldthwait: Is He Like That All the Time?",
+      "poster": "https://image.tmdb.org/t/p/w500/dNrOGkuTVycAS2yjjl48Y3cZT3g.jpg",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt1037704",
+      "type": "movie",
+      "name": "The Bob Hope All Star Christmas Comedy Special",
+      "releaseInfo": "1977"
     }
   ]
 }

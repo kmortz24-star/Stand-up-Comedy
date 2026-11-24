@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2488254",
-      "type": "movie",
-      "name": "Eddie Murphy: One Night Only",
-      "poster": "https://image.tmdb.org/t/p/w500/kpUFMbVTAhZWrcYYJCU5Gn1WJAv.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt11045806",
-      "type": "movie",
-      "name": "Eddie Pence: The (Un)special Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/d2852w9VO2wCWzm3KDJmp4tWros.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tt3974972",
-      "type": "movie",
-      "name": "Eddie Pepitone: In Ruins",
-      "poster": "https://image.tmdb.org/t/p/w500/e5BJgM1KBqvxP8Pk4wcDKEay51S.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt12395780",
-      "type": "movie",
-      "name": "Eddie Pepitone: For the Masses",
-      "poster": "https://image.tmdb.org/t/p/w500/aBWSGsup7FNnQZbERgFciXZyyuE.jpg",
-      "releaseInfo": "2020"
-    },
-    {
       "id": "tt37499050",
       "type": "movie",
       "name": "Eddie Pepitone: The Collapse",
@@ -294,27 +266,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt0089035",
-      "type": "movie",
-      "name": "Frank Zappa: Does Humor Belong in Music?",
-      "poster": "https://image.tmdb.org/t/p/w500/d8WiX7iLInFpp1IjrsBKRrvfEl5.jpg",
-      "releaseInfo": "1985"
-    },
-    {
-      "id": "tmdb:220138",
-      "type": "movie",
-      "name": "Frank Zappa: Live in Barcelona",
-      "poster": "https://image.tmdb.org/t/p/w500/29b0PfeRLggt2jwFKu4kEe8d36g.jpg",
-      "releaseInfo": "1988"
-    },
-    {
-      "id": "tmdb:126455",
-      "type": "movie",
-      "name": "Frank Zappa - Live in Paris 1980",
-      "poster": "https://image.tmdb.org/t/p/w500/p7YmeArFD0X8LYriUnlTIuvYO4d.jpg",
-      "releaseInfo": "2008"
-    },
-    {
       "id": "tt1350491",
       "type": "movie",
       "name": "Frankie Boyle: Live",
@@ -347,6 +298,55 @@
       "name": "Frankie Boyle's Farewell to the Monarchy",
       "poster": "https://image.tmdb.org/t/p/w500/vUCBQ8U30VztlYvvF2t68LvlJAk.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:1419203",
+      "type": "movie",
+      "name": "Frankie Quiñones: Superhomies",
+      "poster": "https://image.tmdb.org/t/p/w500/kWQrcMhrztXXUKqegMfQlNudqrv.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt34601055",
+      "type": "movie",
+      "name": "Frankie Quiñones: Damn That's Crazy",
+      "poster": "https://image.tmdb.org/t/p/w500/4M7FjKWCiESXF1wjp9ksS36iD8L.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt2317255",
+      "type": "movie",
+      "name": "The Secret Policeman's Ball",
+      "poster": "https://image.tmdb.org/t/p/w500/lPkXT3wwrVTI1x5avJDFdG7LQGS.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt7924798",
+      "type": "movie",
+      "name": "Fred Armisen: Standup for Drummers",
+      "poster": "https://image.tmdb.org/t/p/w500/2thxqf0Rbm2GaphAfAUdP8dvpXg.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt9426212",
+      "type": "movie",
+      "name": "Gabriel \"Fluffy\" Iglesias: One Show Fits All",
+      "poster": "https://image.tmdb.org/t/p/w500/jUt2Zz7sClVIG1co2V9D9iSLN93.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt1082588",
+      "type": "movie",
+      "name": "Gabriel Iglesias: Hot and Fluffy",
+      "poster": "https://image.tmdb.org/t/p/w500/hYYiubXgtEmWvsaKVp3ssAzUr9l.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt1554966",
+      "type": "movie",
+      "name": "Gabriel Iglesias: I'm Not Fat... I'm Fluffy",
+      "poster": "https://image.tmdb.org/t/p/w500/MUi4MsIJpoR0ruWqGtw1HTBSAo.jpg",
+      "releaseInfo": "2009"
     }
   ]
 }

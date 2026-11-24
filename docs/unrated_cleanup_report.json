@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 2148,
-    "remaining_alphabetical_movies": 1704,
-    "unrated_movies_hidden": 444,
-    "unrated_established_movies_kept": 213
+    "original_alphabetical_movies": 2006,
+    "remaining_alphabetical_movies": 1631,
+    "unrated_movies_hidden": 375,
+    "unrated_established_movies_kept": 210
   },
   "hidden": [
     {
@@ -46,22 +46,10 @@
       "release_date": "2013-02-10"
     },
     {
-      "id": "tt21438730",
-      "performer": "Adrián Marcelo",
-      "title": "Adrian Marcelo Primero... ¿y último?",
-      "release_date": "2022-08-01"
-    },
-    {
       "id": "tt13845968",
       "performer": "Aisha Alfa",
       "title": "Aisha Alfa: All The Parts",
       "release_date": "2020-07-20"
-    },
-    {
-      "id": "tt39243652",
-      "performer": "Al Pitcher",
-      "title": "Al Pitcher - Tid för Skratt",
-      "release_date": "2026-02-13"
     },
     {
       "id": "tt35349842",
@@ -80,12 +68,6 @@
       "performer": "Alec Baldwin",
       "title": "Alec Baldwin: One Night Only",
       "release_date": "2017-07-09"
-    },
-    {
-      "id": "tmdb:1705551",
-      "performer": "Alexa Zuart",
-      "title": "Alexa Zuart: En vivo desde el TEATRO METROPOLITAN",
-      "release_date": "2025-12-25"
     },
     {
       "id": "tt22310090",
@@ -113,13 +95,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "Alok",
+      "performer": "ALOK",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -196,24 +178,6 @@
       "release_date": "2025-09-18"
     },
     {
-      "id": "tmdb:1783369",
-      "performer": "Antoni Rémillard",
-      "title": "Antoni Rémillard: Impuissant",
-      "release_date": "2026-09-03"
-    },
-    {
-      "id": "tt29276114",
-      "performer": "Antoni Syrek-Dąbrowski",
-      "title": "Antoni Syrek-Dąbrowski: Norma",
-      "release_date": "2019-02-14"
-    },
-    {
-      "id": "tmdb:826676",
-      "performer": "António Raminhos",
-      "title": "António Raminhos: O Melhor do Pior",
-      "release_date": "2017-01-01"
-    },
-    {
       "id": "tmdb:1440712",
       "performer": "Are You Garbage",
       "title": "Are You Garbage: Comedy Special 2021",
@@ -274,24 +238,6 @@
       "release_date": "2026-10-11"
     },
     {
-      "id": "tt39301669",
-      "performer": "Berk Karan",
-      "title": "Berk Karan: Yetim",
-      "release_date": "2024-10-16"
-    },
-    {
-      "id": "tt39301679",
-      "performer": "Berk Karan",
-      "title": "Berk Karan: Yetim Londra'da",
-      "release_date": "2025-12-19"
-    },
-    {
-      "id": "tt46083053",
-      "performer": "Bert Gabriëls",
-      "title": "Bert Gabriëls: Live vanuit de Wetstraat",
-      "release_date": "2026-09-07"
-    },
-    {
       "id": "tmdb:1455252",
       "performer": "Bilal Zafar",
       "title": "Bilal Zafar: Cakes",
@@ -323,13 +269,13 @@
     },
     {
       "id": "tmdb:860479",
-      "performer": "Bob The Drag Queen",
+      "performer": "Bob the Drag Queen",
       "title": "Bob the Drag Queen: Crazy Black Lady",
       "release_date": "2020-02-21"
     },
     {
       "id": "tt28092820",
-      "performer": "Bob The Drag Queen",
+      "performer": "Bob the Drag Queen",
       "title": "Bob The Drag Queen: Woke Man in a Dress",
       "release_date": "2023-06-22"
     },
@@ -416,12 +362,6 @@
       "performer": "Camille Solari",
       "title": "Camille Solari: Hello New Zealand My Life In Pink",
       "release_date": "2025-08-11"
-    },
-    {
-      "id": "tmdb:284992",
-      "performer": "Caribbean Combo",
-      "title": "Caribbean Combo: Tijd voor Caribbean Combo",
-      "release_date": "2011-08-30"
     },
     {
       "id": "tt1703909",
@@ -538,12 +478,6 @@
       "release_date": "2025-12-14"
     },
     {
-      "id": "tmdb:1705530",
-      "performer": "Cojo Feliz",
-      "title": "Cojo Feliz: Última Vida",
-      "release_date": "2022-09-11"
-    },
-    {
       "id": "tmdb:1052293",
       "performer": "Count Arthur Strong",
       "title": "Count Arthur Strong: And This Is Me!",
@@ -578,18 +512,6 @@
       "performer": "Damien Power",
       "title": "Damien Power: Not So Funny Now Is It?",
       "release_date": "2024-12-19"
-    },
-    {
-      "id": "tmdb:1199723",
-      "performer": "Dan Andersen",
-      "title": "Dan Andersen: Holder 100",
-      "release_date": "2008-01-28"
-    },
-    {
-      "id": "tmdb:630528",
-      "performer": "Dan Andersen",
-      "title": "Dan Andersen: På vippen",
-      "release_date": "2019-01-27"
     },
     {
       "id": "tmdb:809818",
@@ -640,12 +562,6 @@
       "release_date": "2022-07-29"
     },
     {
-      "id": "tt38793681",
-      "performer": "David Castello-Lopes",
-      "title": "David Castello-Lopes : Authentique",
-      "release_date": "2022-10-11"
-    },
-    {
       "id": "tmdb:1324683",
       "performer": "David Gborie",
       "title": "David Gborie: Gbirth of a Nation",
@@ -668,12 +584,6 @@
       "performer": "David Suárez",
       "title": "Todos vamos a morir",
       "release_date": "2024-09-13"
-    },
-    {
-      "id": "tmdb:1506015",
-      "performer": "Deco Machado",
-      "title": "Deco Machado: Desencaixado",
-      "release_date": "2025-06-28"
     },
     {
       "id": "tmdb:1715172",
@@ -701,13 +611,13 @@
     },
     {
       "id": "tmdb:1354467",
-      "performer": "Drew Michael",
+      "performer": "drew michael",
       "title": "Drew Michael: 41 Minutes of Stand-Up",
       "release_date": ""
     },
     {
       "id": "tmdb:1097047",
-      "performer": "Drew Michael",
+      "performer": "drew michael",
       "title": "Drew Michael: Lovely",
       "release_date": "2013-05-17"
     },
@@ -740,18 +650,6 @@
       "performer": "Elf Lyons",
       "title": "Elf Lyons: Swan",
       "release_date": "2017-08-25"
-    },
-    {
-      "id": "tmdb:1410113",
-      "performer": "Elis James",
-      "title": "Elis James: Derwydd",
-      "release_date": "2024-11-26"
-    },
-    {
-      "id": "tmdb:931389",
-      "performer": "Elisabeth Buffet",
-      "title": "Elisabeth Buffet : Obsolescence programmée",
-      "release_date": "2020-09-18"
     },
     {
       "id": "tt36838406",
@@ -790,12 +688,6 @@
       "release_date": "2026-02-17"
     },
     {
-      "id": "tmdb:1670792",
-      "performer": "Fanny Ruwet",
-      "title": "Fanny Ruwet : On disait qu'on faisait la fête",
-      "release_date": "2026-04-22"
-    },
-    {
       "id": "tmdb:1532680",
       "performer": "Finlay Christie",
       "title": "Finlay Christie: Aura Farmer",
@@ -806,12 +698,6 @@
       "performer": "Flip Wilson",
       "title": "Flip Wilson... Of Course",
       "release_date": "1974-10-18"
-    },
-    {
-      "id": "tmdb:1149458",
-      "performer": "François Pirette",
-      "title": "François Pirette: Jingle Belges",
-      "release_date": "2010-01-01"
     },
     {
       "id": "tt32801147",
@@ -838,40 +724,16 @@
       "release_date": "2025-12-31"
     },
     {
-      "id": "tmdb:1702960",
-      "performer": "Ge Pamungkas",
-      "title": "GOAT Pandemonium Ge on all tempo",
-      "release_date": "2026-06-18"
-    },
-    {
       "id": "tmdb:1657712",
       "performer": "Geoff Norcott",
       "title": "Geoff Norcott: I Blame The Parents",
       "release_date": "2022-01-01"
     },
     {
-      "id": "tt39381562",
-      "performer": "Gili",
-      "title": "Gili: Raar, hè?!",
-      "release_date": "2026-01-19"
-    },
-    {
       "id": "tt9173436",
       "performer": "Goatface",
       "title": "Goatface: A Comedy Special",
       "release_date": "2018-11-27"
-    },
-    {
-      "id": "tt27526703",
-      "performer": "Goran Vincic",
-      "title": "Goran Vincic: Usual Suspect",
-      "release_date": "2023-04-16"
-    },
-    {
-      "id": "tt38570199",
-      "performer": "Goran Vincic",
-      "title": "Goran Vincic: I Love You So",
-      "release_date": "2025-09-29"
     },
     {
       "id": "tmdb:1401881",
@@ -916,18 +778,6 @@
       "release_date": "2026-04-17"
     },
     {
-      "id": "tmdb:1547901",
-      "performer": "Grecia Castillo",
-      "title": "I Am Now on Medication",
-      "release_date": "2025-09-16"
-    },
-    {
-      "id": "tmdb:1782986",
-      "performer": "GuiHome présente",
-      "title": "GuiHome présente: Namur is a joke",
-      "release_date": "2026-09-24"
-    },
-    {
       "id": "tt31450473",
       "performer": "H. Foley",
       "title": "H. Foley: Live From Madison",
@@ -940,40 +790,22 @@
       "release_date": "2020-12-01"
     },
     {
-      "id": "tmdb:1730181",
-      "performer": "Han Solo",
-      "title": "Han Solo: XXXL",
-      "release_date": "2026-07-17"
+      "id": "tt38974602",
+      "performer": "Hazel Brugger",
+      "title": "Immer noch wach",
+      "release_date": "2025-12-21"
+    },
+    {
+      "id": "tmdb:1800258",
+      "performer": "Hazel Brugger",
+      "title": "Hazel Brugger: Still Awake",
+      "release_date": "2026-05-15"
     },
     {
       "id": "tmdb:1365657",
       "performer": "Heather McMahan",
       "title": "Heather McMahan: Breadwinner",
       "release_date": "2024-10-11"
-    },
-    {
-      "id": "tt7653974",
-      "performer": "Henk Rijckaert",
-      "title": "Henk Rijckaert: Cardboard boxes",
-      "release_date": "2010-03-01"
-    },
-    {
-      "id": "tt8089850",
-      "performer": "Henk Rijckaert",
-      "title": "Henk Rijckaert: Het Experiment",
-      "release_date": "2012-11-01"
-    },
-    {
-      "id": "tt25403022",
-      "performer": "Henk Rijckaert",
-      "title": "Henk Rijckaert: Maker",
-      "release_date": "2019-01-01"
-    },
-    {
-      "id": "tmdb:1112719",
-      "performer": "Henk Rijckaert",
-      "title": "Henk Rijckaert: Influencer",
-      "release_date": "2022-01-27"
     },
     {
       "id": "tmdb:1284188",
@@ -1006,12 +838,6 @@
       "release_date": "2019-09-25"
     },
     {
-      "id": "tmdb:1729014",
-      "performer": "Hugo Sousa",
-      "title": "Hugo Sousa: Premissas",
-      "release_date": "2025-10-03"
-    },
-    {
       "id": "tt29282800",
       "performer": "Ian Abramson",
       "title": "Ian Abramson: The Heist",
@@ -1034,18 +860,6 @@
       "performer": "Ian Lara",
       "title": "Ian Lara: Material Boy",
       "release_date": "2025-11-07"
-    },
-    {
-      "id": "tmdb:1418945",
-      "performer": "István Dombóvári",
-      "title": "Az élet császára - Dombóvári István önálló estje",
-      "release_date": "2023-04-01"
-    },
-    {
-      "id": "tmdb:1664405",
-      "performer": "J. Kreičmaņa stendaps",
-      "title": "J. Kreičmaņa stendaps: Puņķi un asaras",
-      "release_date": "2026-04-01"
     },
     {
       "id": "tmdb:1466072",
@@ -1082,12 +896,6 @@
       "performer": "James Donald Forbes McCann",
       "title": "James Donald Forbes McCann: Black Israelite",
       "release_date": "2025-09-01"
-    },
-    {
-      "id": "tmdb:1329961",
-      "performer": "Jandino Asporaat",
-      "title": "Gabbers",
-      "release_date": "2016-06-23"
     },
     {
       "id": "tmdb:1609450",
@@ -1166,18 +974,6 @@
       "performer": "Jeremiah Watkins",
       "title": "Jeremiah Watkins: Crazy Pizza",
       "release_date": ""
-    },
-    {
-      "id": "tmdb:1297193",
-      "performer": "Jérémy Lorca",
-      "title": "Jérémy Lorca - Amoureux solitaire",
-      "release_date": "2021-11-11"
-    },
-    {
-      "id": "tmdb:1480308",
-      "performer": "Jérémy Lorca",
-      "title": "Jérémy Lorca : Viens, on se marre",
-      "release_date": "2025-05-12"
     },
     {
       "id": "tmdb:529703",
@@ -1354,12 +1150,6 @@
       "release_date": "2012-11-08"
     },
     {
-      "id": "tt38589135",
-      "performer": "John Achkar",
-      "title": "John Achkar: Tryin'",
-      "release_date": "2026-05-27"
-    },
-    {
       "id": "tmdb:1589792",
       "performer": "Johnnie Casson",
       "title": "Johnnie Casson: Live At The Opera House",
@@ -1414,12 +1204,6 @@
       "release_date": "2024-07-17"
     },
     {
-      "id": "tt39164730",
-      "performer": "Julien Lacroix",
-      "title": "Julien Lacroix - Le temps au temps",
-      "release_date": "2025-12-11"
-    },
-    {
       "id": "tt7433978",
       "performer": "Julio Torres",
       "title": "Julio Torres: Comedy Central Stand-Up Presents",
@@ -1427,27 +1211,15 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
-    },
-    {
-      "id": "tt27756059",
-      "performer": "Just For Laughs",
-      "title": "Just for Laughs: The Gala Specials - Russell Peters",
-      "release_date": "2023-02-09"
-    },
-    {
-      "id": "tt27515036",
-      "performer": "Just For Laughs",
-      "title": "Just for Laughs: The Gala Specials - Jo Koy",
-      "release_date": "2023-04-11"
     },
     {
       "id": "tmdb:1683788",
@@ -1466,12 +1238,6 @@
       "performer": "Kae Kurd",
       "title": "Kae Kurd - Spoken Kurd",
       "release_date": "2022-08-27"
-    },
-    {
-      "id": "tmdb:1555016",
-      "performer": "Kaspars Žilins",
-      "title": "Ashamed to Know You",
-      "release_date": "2025-10-01"
     },
     {
       "id": "tmdb:354653",
@@ -1498,12 +1264,6 @@
       "release_date": "2025-05-12"
     },
     {
-      "id": "tmdb:1700962",
-      "performer": "Kevin Robin - Spectacle N°3",
-      "title": "Kevin Robin - Spectacle N°3 : Tous teubés",
-      "release_date": "2023-01-29"
-    },
-    {
       "id": "tmdb:1770059",
       "performer": "Kevin Ryan",
       "title": "Are You Garbage Presents: American Garbage",
@@ -1514,12 +1274,6 @@
       "performer": "Kim Cea",
       "title": "The Naughty Show: Bad Girls of Comedy",
       "release_date": "2005-01-01"
-    },
-    {
-      "id": "tt36484010",
-      "performer": "Kim Dongha",
-      "title": "Kim Dongha : Connect",
-      "release_date": "2025-04-02"
     },
     {
       "id": "tmdb:688190",
@@ -1534,28 +1288,10 @@
       "release_date": "2024-12-21"
     },
     {
-      "id": "tt35712596",
-      "performer": "Kwak Beom",
-      "title": "Mandam",
-      "release_date": "2025-02-05"
-    },
-    {
       "id": "tt3219810",
       "performer": "Lahna Turner",
       "title": "Lahna Turner: I Wrote A Song About It",
       "release_date": "2014-08-19"
-    },
-    {
-      "id": "tmdb:1630891",
-      "performer": "Lalo Elizarrarás",
-      "title": "Lalo Elizarrarás: Me Partieron La Mandarina En Gajos",
-      "release_date": "2023-11-26"
-    },
-    {
-      "id": "tmdb:1705313",
-      "performer": "Lalo Elizarrarás",
-      "title": "Lalo Elizarrarás: Nuevos éxitos solo para adultos",
-      "release_date": "2026-05-31"
     },
     {
       "id": "tt35003847",
@@ -1598,12 +1334,6 @@
       "performer": "Lewis Garnham",
       "title": "Lewis Garnham: Choosing the Wrong Story to Tell",
       "release_date": "2025-02-06"
-    },
-    {
-      "id": "tmdb:1549283",
-      "performer": "Lisa Delmoitiez",
-      "title": "Lisa Delmoitiez - Remontada",
-      "release_date": "2025-09-19"
     },
     {
       "id": "tt33034272",
@@ -1666,12 +1396,6 @@
       "release_date": "2025-06-26"
     },
     {
-      "id": "tmdb:263501",
-      "performer": "MacLeod 2",
-      "title": "MacLeod 2: Libéré sur parole",
-      "release_date": "2004-01-01"
-    },
-    {
       "id": "tmdb:1194926",
       "performer": "Marc Jennings",
       "title": "Marc Jennings: Original Sound",
@@ -1694,30 +1418,6 @@
       "performer": "Marcus D. Wiley",
       "title": "Marcus D. Wiley: Rehab",
       "release_date": "2026-02-01"
-    },
-    {
-      "id": "tmdb:1734095",
-      "performer": "Martin Niemeyer",
-      "title": "Martin Niemeyer: Supersubtil",
-      "release_date": "2025-12-25"
-    },
-    {
-      "id": "tt29579157",
-      "performer": "Mateusz Socha",
-      "title": "Mateusz Socha: Masochist",
-      "release_date": "2021-04-04"
-    },
-    {
-      "id": "tt29579207",
-      "performer": "Mateusz Socha",
-      "title": "Mateusz Socha: How much can one take",
-      "release_date": "2022-10-01"
-    },
-    {
-      "id": "tmdb:1730969",
-      "performer": "Mateusz Socha",
-      "title": "Mateusz Socha: Mr. Mateusz",
-      "release_date": "2024-12-08"
     },
     {
       "id": "tmdb:1296848",
@@ -1750,24 +1450,6 @@
       "release_date": "2025-01-01"
     },
     {
-      "id": "tmdb:1225147",
-      "performer": "Max van den Burg",
-      "title": "Max van den Burg: Op een bedje van Rucola",
-      "release_date": "2017-01-27"
-    },
-    {
-      "id": "tmdb:1362465",
-      "performer": "Maxi Gstettenbauer",
-      "title": "Maxi Gstettenbauer - Lieber Maxi als normal",
-      "release_date": "2020-11-01"
-    },
-    {
-      "id": "tmdb:1362459",
-      "performer": "Maxi Gstettenbauer",
-      "title": "Gute Zeit",
-      "release_date": "2023-10-01"
-    },
-    {
       "id": "tt43674207",
       "performer": "Mayce Galoni",
       "title": "Mayce Galoni: Live at the Blue Grotto",
@@ -1796,18 +1478,6 @@
       "performer": "Mick Miller",
       "title": "Mick Miller: In the Club",
       "release_date": "2005-12-19"
-    },
-    {
-      "id": "tmdb:1522476",
-      "performer": "Mikael Meema",
-      "title": "Mikael Meema: Peaingel Mikael",
-      "release_date": "2025-05-04"
-    },
-    {
-      "id": "tmdb:1799094",
-      "performer": "Mikael Meema",
-      "title": "Mikael Meema: The Hour / The Lesson",
-      "release_date": "2026-03-22"
     },
     {
       "id": "tmdb:1401030",
@@ -1894,28 +1564,10 @@
       "release_date": "2024-04-18"
     },
     {
-      "id": "tmdb:1728731",
-      "performer": "Munawar Faruqui",
-      "title": "Munawar Faruqui: Dhandho",
-      "release_date": "2026-07-11"
-    },
-    {
-      "id": "tmdb:1055381",
-      "performer": "Muriel Robin",
-      "title": "Muriel Robin reprend ses sketchs cultes : Et pof !",
-      "release_date": "2022-11-29"
-    },
-    {
       "id": "tmdb:167061",
       "performer": "Nadav Abuksis",
       "title": "Nadav Abuksis",
       "release_date": ""
-    },
-    {
-      "id": "tmdb:802046",
-      "performer": "Nanutria",
-      "title": "Nanutria: El ciclo de la vida",
-      "release_date": "2019-07-14"
     },
     {
       "id": "tmdb:1144746",
@@ -1970,12 +1622,6 @@
       "performer": "Nina Dicker",
       "title": "Nina Dicker - Tangerine Vagina",
       "release_date": "2026-07-01"
-    },
-    {
-      "id": "tmdb:1624837",
-      "performer": "Nino Arial",
-      "title": "Montreux Fashion Show by Nino Arial",
-      "release_date": "2026-01-30"
     },
     {
       "id": "tmdb:1178967",
@@ -2146,12 +1792,6 @@
       "release_date": "2021-03-20"
     },
     {
-      "id": "tmdb:817178",
-      "performer": "Raditya Dika",
-      "title": "Cerita Cintaku",
-      "release_date": "2020-01-08"
-    },
-    {
       "id": "tmdb:1614460",
       "performer": "Raditya Dika",
       "title": "Cerita Sebelku",
@@ -2261,7 +1901,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy Chubby Brown",
+      "performer": "Roy 'Chubby' Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -2410,24 +2050,6 @@
       "release_date": "2022-08-26"
     },
     {
-      "id": "tmdb:1750062",
-      "performer": "Sten-Åke Cederhök",
-      "title": "Ni får ta' mig precis som jag är",
-      "release_date": "1986-02-20"
-    },
-    {
-      "id": "tmdb:1560201",
-      "performer": "Sten-Åke Cederhök",
-      "title": "Sten-Åke Cederhöks avskedsföreställning",
-      "release_date": "1989-01-01"
-    },
-    {
-      "id": "tmdb:1136480",
-      "performer": "Štěpán Kozub",
-      "title": "Krhut & Kozub",
-      "release_date": "2023-05-26"
-    },
-    {
       "id": "tmdb:1331500",
       "performer": "Stephen Buchanan",
       "title": "Stephen Buchanan: Charicature",
@@ -2468,18 +2090,6 @@
       "performer": "Susie McCabe",
       "title": "Susie McCabe: Femme Fatality",
       "release_date": "2023-12-15"
-    },
-    {
-      "id": "tmdb:1478687",
-      "performer": "Tahnee",
-      "title": "Tahnee, l'autre",
-      "release_date": "2025-05-09"
-    },
-    {
-      "id": "tmdb:1739199",
-      "performer": "Tahnee",
-      "title": "Comédie Queer, la scène des Outre-mer",
-      "release_date": "2025-08-08"
     },
     {
       "id": "tt40123921",
@@ -2584,12 +2194,6 @@
       "release_date": "2024-07-13"
     },
     {
-      "id": "tmdb:1634149",
-      "performer": "Ulrich Takam",
-      "title": "Cotonou Comedy Festival",
-      "release_date": "2026-02-14"
-    },
-    {
       "id": "tt44120355",
       "performer": "Vanessa Gonzalez",
       "title": "Vanessa Gonzalez: Mamona",
@@ -2638,24 +2242,6 @@
       "release_date": ""
     },
     {
-      "id": "tmdb:1660166",
-      "performer": "Yunus Emre Gündüz",
-      "title": "Kemikleşmiş Travma",
-      "release_date": "2023-12-15"
-    },
-    {
-      "id": "tmdb:1660791",
-      "performer": "Yunus Emre Gündüz",
-      "title": "Başka Biri Var",
-      "release_date": "2024-06-09"
-    },
-    {
-      "id": "tmdb:1660801",
-      "performer": "Yunus Emre Gündüz",
-      "title": "Call When You Arrive",
-      "release_date": "2025-09-05"
-    },
-    {
       "id": "tmdb:1175135",
       "performer": "Yuri Marçal",
       "title": "Yuri Marçal - Nem se Minha Vida Dependesse Disso",
@@ -2699,11 +2285,6 @@
       "id": "tt11091292",
       "performer": "Adam Hills",
       "title": "Adam Hills: Take His Legs"
-    },
-    {
-      "id": "tt4326374",
-      "performer": "Al Murray",
-      "title": "Al Murray's Great British Spy Movies"
     },
     {
       "id": "tt9189696",
@@ -2809,11 +2390,6 @@
       "id": "tt14365068",
       "performer": "Bob Newhart",
       "title": "TV's Funniest Comedians - 14 Stars Do Classic Routines"
-    },
-    {
-      "id": "tt33023573",
-      "performer": "Bob Newhart",
-      "title": "Bob Newhart: A Legacy of Laughter"
     },
     {
       "id": "tt1096860",
@@ -3427,7 +3003,7 @@
     },
     {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'Neal",
+      "performer": "Patrice O'neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {
@@ -3504,11 +3080,6 @@
       "id": "tmdb:307171",
       "performer": "Ricky Gervais",
       "title": "Ricky Gervais on Derek with Joy Behar: Live at the Paley Center"
-    },
-    {
-      "id": "tmdb:750386",
-      "performer": "Robin Williams",
-      "title": "Robin Williams: Comic Genius"
     },
     {
       "id": "tt1858777",

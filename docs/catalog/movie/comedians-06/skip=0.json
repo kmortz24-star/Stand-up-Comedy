@@ -36,20 +36,6 @@
       "releaseInfo": "1991"
     },
     {
-      "id": "tt0174180",
-      "type": "movie",
-      "name": "Sam Kinison: Why Did We Laugh?",
-      "poster": "https://image.tmdb.org/t/p/w500/b8alikXtkJQwrJCUXGIPuV9EiK9.jpg",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt7693434",
-      "type": "movie",
-      "name": "I Am Sam Kinison",
-      "poster": "https://image.tmdb.org/t/p/w500/4Cjt5cgUr0c6jKZnPr2jkSQExs.jpg",
-      "releaseInfo": "2017"
-    },
-    {
       "id": "tt21836654",
       "type": "movie",
       "name": "Sam Morril: Same Time Tomorrow",
@@ -98,13 +84,6 @@
       "type": "movie",
       "name": "Sammy Petersen: Why the Long Face?",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt36751874",
-      "type": "movie",
-      "name": "Sara Huntington: Rust Belt Royalty",
-      "poster": "https://image.tmdb.org/t/p/w500/vc46foM2FVrJTgOYg6ou8WGZiqx.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "tmdb:1718341",
@@ -225,20 +204,6 @@
       "releaseInfo": "2017"
     },
     {
-      "id": "tmdb:798002",
-      "type": "movie",
-      "name": "Sean McLoughlin - Hail Mary",
-      "poster": "https://image.tmdb.org/t/p/w500/4H0XoPy2v24xvOLcUVG5FVw9kr.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:1178282",
-      "type": "movie",
-      "name": "Sean McLoughlin: So Be It",
-      "poster": "https://image.tmdb.org/t/p/w500/zESRfj2PDSsQz0O057TCiDYY9dw.jpg",
-      "releaseInfo": "2022"
-    },
-    {
       "id": "tmdb:1810402",
       "type": "movie",
       "name": "Sean McLoughlin: White Elephant",
@@ -348,6 +313,41 @@
       "name": "Shane Mauss: Trips: First Dose",
       "poster": "https://image.tmdb.org/t/p/w500/tkecz8PPe0tnGnZtdN3FC3wqID2.jpg",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "tt30394557",
+      "type": "movie",
+      "name": "Shane Torres: The Blue Eyed Mexican",
+      "poster": "https://image.tmdb.org/t/p/w500/lDVDWPpEMjtpkFmBjwUy8F2chgt.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:507975",
+      "type": "movie",
+      "name": "Shayne Smith: Prison for Wizards",
+      "poster": "https://image.tmdb.org/t/p/w500/52bJVYbch8PFmHLBy3FM9u20i7a.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tmdb:716121",
+      "type": "movie",
+      "name": "Shayne Smith: Tattoos Will Ruin Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/xHDrk019FKh4OhYSDBt5USgcFD7.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt11983388",
+      "type": "movie",
+      "name": "Shayne Smith: Alligator Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/sr409gBCUzVIXBxgfYU7antxOxI.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tmdb:1616397",
+      "type": "movie",
+      "name": "Shayne Smith: The Animal",
+      "poster": "https://image.tmdb.org/t/p/w500/swyIBicLGMKfQREDGpDMcxQE3Az.jpg",
+      "releaseInfo": "2021"
     }
   ]
 }

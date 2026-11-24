@@ -1,55 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1419203",
-      "type": "movie",
-      "name": "Frankie Quiñones: Superhomies",
-      "poster": "https://image.tmdb.org/t/p/w500/kWQrcMhrztXXUKqegMfQlNudqrv.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt34601055",
-      "type": "movie",
-      "name": "Frankie Quiñones: Damn That's Crazy",
-      "poster": "https://image.tmdb.org/t/p/w500/4M7FjKWCiESXF1wjp9ksS36iD8L.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt2317255",
-      "type": "movie",
-      "name": "The Secret Policeman's Ball",
-      "poster": "https://image.tmdb.org/t/p/w500/lPkXT3wwrVTI1x5avJDFdG7LQGS.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt7924798",
-      "type": "movie",
-      "name": "Fred Armisen: Standup for Drummers",
-      "poster": "https://image.tmdb.org/t/p/w500/2thxqf0Rbm2GaphAfAUdP8dvpXg.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt9426212",
-      "type": "movie",
-      "name": "Gabriel \"Fluffy\" Iglesias: One Show Fits All",
-      "poster": "https://image.tmdb.org/t/p/w500/jUt2Zz7sClVIG1co2V9D9iSLN93.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt1082588",
-      "type": "movie",
-      "name": "Gabriel Iglesias: Hot and Fluffy",
-      "poster": "https://image.tmdb.org/t/p/w500/hYYiubXgtEmWvsaKVp3ssAzUr9l.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt1554966",
-      "type": "movie",
-      "name": "Gabriel Iglesias: I'm Not Fat... I'm Fluffy",
-      "poster": "https://image.tmdb.org/t/p/w500/MUi4MsIJpoR0ruWqGtw1HTBSAo.jpg",
-      "releaseInfo": "2009"
-    },
-    {
       "id": "tt2828960",
       "type": "movie",
       "name": "Gabriel Iglesias: Aloha Fluffy",
@@ -112,6 +63,13 @@
       "type": "movie",
       "name": "Gallagher: The Maddest",
       "poster": "https://image.tmdb.org/t/p/w500/frDKuWLEkmBlpPnZLcicYr1uSRP.jpg",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0284139",
+      "type": "movie",
+      "name": "Gallagher: Stuck in the 60's",
+      "poster": "https://image.tmdb.org/t/p/w500/q6rmLsjByvtV7g87XGYAJKQAoBK.jpg",
       "releaseInfo": "1983"
     },
     {
@@ -282,13 +240,6 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt43626808",
-      "type": "movie",
-      "name": "Gavin Matts: present",
-      "poster": "https://image.tmdb.org/t/p/w500/g5sW4C2q60ZIn8mxWgLMLYOwgXg.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "standupyt_8MjDcvrSkN8",
       "type": "movie",
       "name": "Gavin Matts: present (a Just for Laughs original) | Stand Up Comedy Special [YouTube]",
@@ -359,6 +310,55 @@
       "name": "George Carlin: George's Best Stuff",
       "poster": "https://image.tmdb.org/t/p/w500/w8Cz07ewoPhj1aGIxVG8ZsBsqph.jpg",
       "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0246645",
+      "type": "movie",
+      "name": "George Carlin: You Are All Diseased",
+      "poster": "https://image.tmdb.org/t/p/w500/6dyDMkaU61ZPDadfsiNqgu6VQvi.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0287460",
+      "type": "movie",
+      "name": "George Carlin: Complaints & Grievances",
+      "poster": "https://image.tmdb.org/t/p/w500/qUMJgSvji7ZFI8RxiGRumW0UJKs.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0484855",
+      "type": "movie",
+      "name": "George Carlin: Life Is Worth Losing",
+      "poster": "https://image.tmdb.org/t/p/w500/djoek5ZJA1J7E6vD0jAoUN5Mqjb.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0963207",
+      "type": "movie",
+      "name": "George Carlin: It's Bad for Ya!",
+      "poster": "https://image.tmdb.org/t/p/w500/m9fIvowFHpVjGn5OzFKudp2XJLD.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0332720",
+      "type": "movie",
+      "name": "The Original Latin Kings of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/9vO1cHD0zOxFhWrZ82TxQ5ej3TB.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt6344974",
+      "type": "movie",
+      "name": "George Lopez: Why You Crying?",
+      "poster": "https://image.tmdb.org/t/p/w500/f7BWLplB5ZWnp88wSGj3bLOIDIo.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0975673",
+      "type": "movie",
+      "name": "George Lopez: America's Mexican",
+      "poster": "https://image.tmdb.org/t/p/w500/iLTiLEjFh7tbFjKFNvEsxfYqT70.jpg",
+      "releaseInfo": "2007"
     }
   ]
 }

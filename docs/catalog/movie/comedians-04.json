@@ -262,20 +262,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tmdb:268932",
-      "type": "movie",
-      "name": "420 Friendly Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/oeVYvkTCLB3eFVZfKT0zDZHVn3G.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tmdb:1177534",
-      "type": "movie",
-      "name": "Keith Lowell Jensen: What I Was Arrested For",
-      "poster": "https://image.tmdb.org/t/p/w500/vrtC1lgTkMwhqRAJ9zSpkYxORy0.jpg",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "tt35585994",
       "type": "movie",
       "name": "Kelsey Cook: Mark Your Territory",
@@ -350,6 +336,20 @@
       "type": "movie",
       "name": "Kevin Hart: Standing Tall",
       "poster": "https://image.tmdb.org/t/p/w500/gPzHQ2o647WYOqkr83RobwiytuD.jpg"
+    },
+    {
+      "id": "tt1420554",
+      "type": "movie",
+      "name": "Kevin Hart: I'm a Grown Little Man",
+      "poster": "https://image.tmdb.org/t/p/w500/xixDPGXhg9Kz93HspsDo1iHf5PO.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1714196",
+      "type": "movie",
+      "name": "Kevin Hart: Seriously Funny",
+      "poster": "https://image.tmdb.org/t/p/w500/xzmEzbqIS52IhfN7InU2KsljY04.jpg",
+      "releaseInfo": "2010"
     }
   ]
 }

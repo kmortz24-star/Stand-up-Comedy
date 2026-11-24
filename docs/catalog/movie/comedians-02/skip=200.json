@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:537132",
-      "type": "movie",
-      "name": "Popov Vodka Presents: An Evening with Doug Stanhope",
-      "poster": "https://image.tmdb.org/t/p/w500/jf7HJYC4jLLNqKBnfuHTTlJagpl.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt12466128",
-      "type": "movie",
-      "name": "Doug Stanhope: The Dying of a Last Breed",
-      "poster": "https://image.tmdb.org/t/p/w500/kCwz99uX70JrjsTS80IclJpu5dZ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
       "id": "tt0294542",
       "type": "movie",
       "name": "Drew Carey: Human Cartoon",
@@ -353,6 +339,20 @@
       "name": "Eddie Murphy Raw",
       "poster": "https://image.tmdb.org/t/p/w500/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
       "releaseInfo": "1987"
+    },
+    {
+      "id": "tt3974972",
+      "type": "movie",
+      "name": "Eddie Pepitone: In Ruins",
+      "poster": "https://image.tmdb.org/t/p/w500/e5BJgM1KBqvxP8Pk4wcDKEay51S.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt12395780",
+      "type": "movie",
+      "name": "Eddie Pepitone: For the Masses",
+      "poster": "https://image.tmdb.org/t/p/w500/aBWSGsup7FNnQZbERgFciXZyyuE.jpg",
+      "releaseInfo": "2020"
     }
   ]
 }

@@ -85,13 +85,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt43626808",
-      "type": "movie",
-      "name": "Gavin Matts: present",
-      "poster": "https://image.tmdb.org/t/p/w500/g5sW4C2q60ZIn8mxWgLMLYOwgXg.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt46062767",
       "type": "movie",
       "name": "Kate Berlant: Parmesan",
@@ -106,13 +99,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "tt14179106",
-      "type": "movie",
-      "name": "Sumukhi Suresh: Hoemonal",
-      "poster": "https://image.tmdb.org/t/p/w500/3zmfnrpjZDz9sSglPzpPDLa21KS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "tt47658621",
       "type": "movie",
       "name": "Michael Che: Shot in Minnesota",
@@ -124,13 +110,6 @@
       "type": "movie",
       "name": "Jamie Foxx: Take Care of Yourself",
       "poster": "https://image.tmdb.org/t/p/w500/lVMY9gUcGpYozb4WVEJTNuUG2fN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt45819060",
-      "type": "movie",
-      "name": "Mojo Brookzz: I Know You Lying",
-      "poster": "https://image.tmdb.org/t/p/w500/hty8zaBtZp83WZXHB3RbGjhhwjI.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -193,13 +172,6 @@
       "type": "movie",
       "name": "Jared Freid: The Family Plan",
       "poster": "https://image.tmdb.org/t/p/w500/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt42654471",
-      "type": "movie",
-      "name": "Stamptown",
-      "poster": "https://image.tmdb.org/t/p/w500/2ZPVi4ThvB3EhAKCYUMQTLTzEbf.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -347,6 +319,34 @@
       "type": "movie",
       "name": "Wanda Sykes: Legacy",
       "poster": "https://image.tmdb.org/t/p/w500/nHE1A7YA51xegolfczZShIsO4dc.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt38687274",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "poster": "https://image.tmdb.org/t/p/w500/4dtbgdKcKW6ahoKK3fn978TKFKY.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tmdb:1699130",
+      "type": "movie",
+      "name": "Lara Ricote: Little Tiny Wet Show (baptism)",
+      "poster": "https://image.tmdb.org/t/p/w500/elkpNoanC6K4gk19PVYC5N6DE2N.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt42172944",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes: Ugly Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/ux1fYlc6rtnBLc2GBpZ6efMWjRW.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt39368705",
+      "type": "movie",
+      "name": "Patton Oswalt: Tea & Scotch",
+      "poster": "https://image.tmdb.org/t/p/w500/csfenhsPmoW37RLdTMkh5WCJjdw.jpg",
       "releaseInfo": "2026"
     }
   ]
