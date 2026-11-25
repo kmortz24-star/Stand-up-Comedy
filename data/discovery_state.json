@@ -11591,12 +11591,12 @@
   },
   "youtube_last_run": "2026-11-25",
   "youtube_last_discovery": {
-    "queries_completed": 6,
+    "queries_completed": 0,
     "daily_queries_used": 6,
     "daily_query_budget": 6,
-    "videos_checked": 901,
-    "new_candidates": 66,
-    "channels_scanned": 6,
+    "videos_checked": 1,
+    "new_candidates": 0,
+    "channels_scanned": 0,
     "quota_or_connection_blocked": false
   },
   "wikidata_schema": 3,

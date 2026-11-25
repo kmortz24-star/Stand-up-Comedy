@@ -24,20 +24,20 @@
       "background": "https://image.tmdb.org/t/p/w780/gAJcVD0lweNKpW1xwniL1Xldr3I.jpg"
     },
     {
-      "id": "tmdb:190",
-      "type": "series",
-      "name": "Def Comedy Jam",
-      "releaseInfo": "1992",
-      "poster": "https://image.tmdb.org/t/p/w500/ksjgVXKnovogx01Xqf9GzYKIZKq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vqjAu8Qdkc4uwJVlypU8Pep3QL5.jpg"
-    },
-    {
       "id": "tmdb:1699",
       "type": "series",
       "name": "Last Comic Standing",
       "releaseInfo": "2003",
       "poster": "https://image.tmdb.org/t/p/w500/niuE91WVx8TcFNzL972Qb6pHrhD.jpg",
       "background": "https://image.tmdb.org/t/p/w780/k2k4TeOnOXxy3bPt1LSjf4uWdqP.jpg"
+    },
+    {
+      "id": "tmdb:190",
+      "type": "series",
+      "name": "Def Comedy Jam",
+      "releaseInfo": "1992",
+      "poster": "https://image.tmdb.org/t/p/w500/ksjgVXKnovogx01Xqf9GzYKIZKq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vqjAu8Qdkc4uwJVlypU8Pep3QL5.jpg"
     },
     {
       "id": "tmdb:82820",
