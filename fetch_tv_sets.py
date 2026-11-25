@@ -54,6 +54,29 @@ SHOWS = (
     ('Roast Battle', ('Roast Battle', 'Jeff Ross Presents Roast Battle')),
 )
 
+# Sketch series are discovered as real TV episodes, never as comedian leads.
+SKETCH_SHOWS = (
+    ('Saturday Night Live', ('Saturday Night Live',)),
+    ("Chappelle's Show", ("Chappelle's Show",)),
+    ('In Living Color', ('In Living Color',)),
+    ('MADtv', ('MADtv', 'Mad TV')),
+    ('Key & Peele', ('Key & Peele', 'Key and Peele')),
+    ("The Whitest Kids U' Know", ("The Whitest Kids U' Know", "The Whitest Kids U'Know", 'The Whitest Kids You Know')),
+    ('I Think You Should Leave with Tim Robinson', ('I Think You Should Leave with Tim Robinson',)),
+    ('Mr. Show with Bob and David', ('Mr. Show with Bob and David', 'Mr. Show with Bob & David')),
+    ('The Kids in the Hall', ('The Kids in the Hall',)),
+    ("Monty Python's Flying Circus", ("Monty Python's Flying Circus",)),
+    ('Portlandia', ('Portlandia',)),
+    ('Tim and Eric Awesome Show, Great Job!', ('Tim and Eric Awesome Show, Great Job!', 'Tim & Eric Awesome Show, Great Job!')),
+)
+SKETCH_YEARS = {
+    'Saturday Night Live': 1975, "Chappelle's Show": 2003, 'In Living Color': 1990,
+    'MADtv': 1995, 'Key & Peele': 2012, "The Whitest Kids U' Know": 2007,
+    'I Think You Should Leave with Tim Robinson': 2019, 'Mr. Show with Bob and David': 1995,
+    'The Kids in the Hall': 1989, "Monty Python's Flying Circus": 1969,
+    'Portlandia': 2011, 'Tim and Eric Awesome Show, Great Job!': 2007,
+}
+
 # Safeguards for short/ambiguous search names: TMDB occasionally has an
 # unrelated drama/reality show with the exact same name. Years are reference
 # dates of the ACTUAL stand-up shows, not invented episode dates.
@@ -97,7 +120,7 @@ def find_show(api, variants: tuple[str, ...], display_name: str | None = None) -
     cannot be confidently resolved, skip it and log it for a future refresh.
     """
     display_name = display_name or variants[0]
-    expected = SHOW_FIRST_YEARS.get(display_name)
+    expected = SKETCH_YEARS.get(display_name) or SHOW_FIRST_YEARS.get(display_name)
     allowed = {normalized(alias) for alias in variants}
     matches = {}
     for query in variants:
@@ -106,6 +129,8 @@ def find_show(api, variants: tuple[str, ...], display_name: str | None = None) -
                 continue
             year_text = str(row.get('first_air_date') or '')[:4]
             year = int(year_text) if year_text.isdecimal() else None
+            if display_name in SKETCH_YEARS and (year is None or abs(year - expected) > 1):
+                continue
             if expected and year and abs(year - expected) > 4:
                 continue
             overview = str(row.get('overview') or '')
@@ -148,7 +173,7 @@ def episode_performer(episode: dict) -> tuple[str | None, str]:
     return None, 'unidentified'
 
 
-def fetch_tv_candidates(api, series=SHOWS) -> list[dict]:
+def fetch_tv_candidates(api, series=SHOWS + SKETCH_SHOWS) -> list[dict]:
     """Collect unique episodes with series/season/episode IDs and credited act."""
     found = {}
     for display_name, variants in series:
@@ -160,6 +185,7 @@ def fetch_tv_candidates(api, series=SHOWS) -> list[dict]:
             show_id = int(show['id'])
             details = api.get(f'/tv/{show_id}')
             title = details.get('name') or show.get('name') or display_name
+            sketch = display_name in SKETCH_YEARS
             if display_name in AMBIGUOUS_SHOWS:
                 network_names = ' '.join(n.get('name', '') for n in details.get('networks', []))
                 if not COMEDY_CONTEXT.search(network_names + ' ' + (details.get('overview') or '')):
@@ -182,12 +208,19 @@ def fetch_tv_candidates(api, series=SHOWS) -> list[dict]:
                     number = int(number)
                     if number <= 0:
                         continue
-                    performer, attribution = episode_performer(episode)
+                    performer, attribution = (None, 'sketch_show') if sketch else episode_performer(episode)
                     identifier = f'tmdb-tv:{show_id}:{season}:{number}'
                     found[identifier] = {
                         'id': identifier,
                         'source': 'tmdb-tv-episode',
                         'show_title': title,
+                        'show_catalog_name': display_name,
+                        'show_kind': 'sketch' if sketch else 'standup',
+                        'show_vote_average': details.get('vote_average', show.get('vote_average')),
+                        'show_vote_count': details.get('vote_count', show.get('vote_count')),
+                        'show_popularity': details.get('popularity', show.get('popularity')),
+                        'show_first_air_date': details.get('first_air_date') or show.get('first_air_date') or '',
+                        'episode_overview': episode.get('overview') or '',
                         'show_poster_path': details.get('poster_path'),
                         'show_background_path': details.get('backdrop_path'),
                         'show_overview': details.get('overview') or '',

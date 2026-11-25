@@ -19,6 +19,7 @@ from datetime import date
 from pathlib import Path
 
 from language_filters import movie_allowed, performer_non_english_evidence, language_code
+from comedy_rankings import audience_score
 
 
 ROOT = Path(__file__).resolve().parent
@@ -479,6 +480,15 @@ def is_event_record(record: dict, config: dict) -> bool:
                 any(term.casefold() in title for term in terms))
 
 
+def roast_event_sort_key(record):
+    """Actual roasts precede the rest; both groups use audience ranking."""
+    title = display_title(record)
+    is_roast = ('roast' in (record.get('tags') or []) or
+                bool(re.search(r"\broast(?:s|ing|ed)?\b", title, re.IGNORECASE)))
+    score = audience_score(record.get('vote_average'), record.get('vote_count'), record.get('popularity'))
+    return (not is_roast, -score, -int(record.get('vote_count') or 0), norm(title), record['id'])
+
+
 def categories(records: list[dict], config: dict, today: date | None = None, *, roster_names=()):
     today = today or date.today()
     groups = config["alphabet_groups"]
@@ -574,7 +584,7 @@ def categories(records: list[dict], config: dict, today: date | None = None, *, 
         and movie_allowed(r, english_only, non_english_people)
         and is_event_record(r, config)
     ]
-    roasts.sort(key=lambda r: (release_date(r), display_title(r)), reverse=True)
+    roasts.sort(key=roast_event_sort_key)
 
     # Backward compatible with the existing offline test fixtures; only the
     # actual installed addon's config enables the new catalogs and ordering.
@@ -661,7 +671,10 @@ def build(records: list[dict], config: dict, out_dir: Path, today: date | None =
             read_json(ROOT / "data/tv_episode_candidates.json", []),
             english_only=bool(config.get("english_language_only", False)),
             exclude_multilingual=config.get("exclude_multilingual_tv_shows", []),
-            priority_order=config.get("tv_show_priority_order", []))
+            priority_order=config.get("tv_show_priority_order", []),
+            rank_by_popularity=config.get("rank_tv_by_popularity", False),
+            sketch_order=config.get("tv_sketch_order", []),
+            sketch_after=config.get("tv_sketch_after", 8))
     resources = ["catalog"]
     if merged_youtube:
         resources.extend([

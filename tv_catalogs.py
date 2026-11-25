@@ -11,6 +11,7 @@ from datetime import date
 from typing import Any
 
 from language_filters import explicitly_non_english
+from comedy_rankings import audience_score
 
 
 def _positive_int(value: Any) -> int | None:
@@ -35,7 +36,8 @@ def _release_year(value: str) -> str:
 
 
 def build_tv_series(candidates: list[dict], *, english_only=False,
-                    exclude_multilingual=(), priority_order=()) -> tuple[list[dict], dict[str, dict], dict]:
+                    exclude_multilingual=(), priority_order=(), rank_by_popularity=False,
+                    sketch_order=(), sketch_after=8) -> tuple[list[dict], dict[str, dict], dict]:
     """Return (catalog previews, show-id keyed full series meta, audit counts).
 
     Keep only unambiguous TV IDs and positive episode identifiers. No fictitious
@@ -62,7 +64,9 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
                 continue
         info = show_info.setdefault(show_id, row)
         # Prefer records that have visual metadata from a newer TMDB refresh.
-        if row.get('show_poster_path') and not info.get('show_poster_path'):
+        if ((row.get('show_vote_count') is not None and info.get('show_vote_count') is None)
+                or (row.get('show_poster_path') and not info.get('show_poster_path')
+                    and (info.get('show_vote_count') is None or row.get('show_vote_count') is not None))):
             show_info[show_id] = row
         key = (season, episode)
         old = by_show[show_id].get(key)
@@ -72,18 +76,37 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
     previews: list[dict] = []
     details: dict[str, dict] = {}
     counts: dict[str, int] = {}
-    # Recognition-first is an editorial order, not a fabricated viewing metric.
-    # Any newly discovered shows not listed explicitly follow alphabetically.
-    ranks = {str(name).strip().casefold(): idx for idx, name in enumerate(priority_order)
-             if str(name).strip()}
+    # Retain a curated fallback for the cached pre-rating dataset. Once the
+    # fetcher provides show-level ratings, rank by confidence and audience reach.
+    def key_name(name):
+        return ''.join(ch for ch in str(name).casefold() if ch.isalnum())
+    ranks = {key_name(name): idx for idx, name in enumerate(priority_order)}
+    sketch_ranks = {key_name(name): idx for idx, name in enumerate(sketch_order)}
+    def identity(item):
+        info = show_info[item[0]]
+        return key_name(info.get('show_catalog_name') or info['show_title'])
+    def is_sketch(item):
+        return show_info[item[0]].get('show_kind') == 'sketch' or identity(item) in sketch_ranks
     def show_sort(item):
-        name = str(show_info[item[0]]['show_title']).strip().casefold()
-        return (ranks.get(name, len(ranks)), name, item[0])
+        info = show_info[item[0]]
+        name = identity(item)
+        fallback = (ranks.get(name, len(ranks)), name, item[0])
+        if not rank_by_popularity:
+            return fallback
+        measured = info.get('show_vote_count') is not None
+        score = audience_score(info.get('show_vote_average'), info.get('show_vote_count'), info.get('show_popularity'))
+        return (not measured, -score if measured else 0, *fallback)
+    standup = sorted((item for item in by_show.items() if not is_sketch(item)), key=show_sort)
+    sketches = sorted((item for item in by_show.items() if is_sketch(item)),
+                      key=lambda item: (sketch_ranks.get(identity(item), len(sketch_ranks)), identity(item), item[0]))
+    split = max(0, int(sketch_after))
+    ordered = standup[:split] + sketches + standup[split:]
 
-    for show_id, episode_map in sorted(by_show.items(), key=show_sort):
+    for show_id, episode_map in ordered:
         info = show_info[show_id]
         show_name = str(info['show_title']).strip()
         show_key = f'tmdb:{show_id}'
+        sketch = is_sketch((show_id, episode_map))
         episodes = []
         for (season, episode_number), row in sorted(episode_map.items()):
             person = str(row.get('performer') or '').strip()
@@ -94,7 +117,10 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
             aired = row.get('air_date') or ''
             if _release_year(aired):
                 item['released'] = aired + 'T00:00:00.000Z'
-            if person:
+            if sketch:
+                if row.get('episode_overview'):
+                    item['overview'] = row['episode_overview']
+            elif person:
                 item['overview'] = f'Stand-up performance featuring {person}.'
             thumb = _tmdb_image(row.get('still_path'), backdrop=True)
             if thumb:
@@ -104,6 +130,7 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
             continue
         start = min((i['released'][:4] for i in episodes if i.get('released')), default='')
         preview = {'id': show_key, 'type': 'series', 'name': show_name}
+        start = _release_year(info.get('show_first_air_date')) or start
         if start:
             preview['releaseInfo'] = start
         poster = _tmdb_image(info.get('show_poster_path'))
@@ -114,7 +141,7 @@ def build_tv_series(candidates: list[dict], *, english_only=False,
             preview['background'] = background
         summary = str(info.get('show_overview') or '').strip()
         meta = {**preview, 'description': summary or
-                f'{show_name}: {len(episodes)} indexed stand-up episodes. '
+                f'{show_name}: {len(episodes)} indexed {"sketch comedy" if sketch else "stand-up"} episodes. '
                 'Episode availability depends on installed streaming addons.',
                 'videos': episodes}
         previews.append(preview)

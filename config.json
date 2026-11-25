@@ -35,7 +35,6 @@
     "Gilbert Gottfried",
     "Bob Saget",
     "Richard Lewis",
-    "Sinbad",
     "Denis Leary",
     "Lewis Black"
   ],
@@ -1222,5 +1221,21 @@
       "published_at": "2024-11-21",
       "url": "https://www.youtube.com/watch?v=a3BMzZVEn6g"
     }
+  ],
+  "rank_tv_by_popularity": true,
+  "tv_sketch_after": 8,
+  "tv_sketch_order": [
+    "Saturday Night Live",
+    "Chappelle's Show",
+    "In Living Color",
+    "MADtv",
+    "Key & Peele",
+    "The Whitest Kids U' Know",
+    "I Think You Should Leave with Tim Robinson",
+    "Mr. Show with Bob and David",
+    "The Kids in the Hall",
+    "Monty Python's Flying Circus",
+    "Portlandia",
+    "Tim and Eric Awesome Show, Great Job!"
   ]
 }
