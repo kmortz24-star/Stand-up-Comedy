@@ -1,6 +1,26 @@
 {
   "metas": [
     {
+      "id": "tt1243457",
+      "type": "movie",
+      "name": "Dave Attell - HBO Comedy Half-Hour",
+      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0407679",
+      "type": "movie",
+      "name": "Comedy Central Presents: Dave Attell",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt2047709",
+      "type": "movie",
+      "name": "Dave Attell: Hey, Your Mouth's Not Pregnant!",
+      "poster": "https://image.tmdb.org/t/p/w500/6LkOrhIPH84uuyc5rdVdbs0DFrT.jpg",
+      "releaseInfo": "2006"
+    },
+    {
       "id": "tt1151813",
       "type": "movie",
       "name": "Dave Attell: Captain Miserable",
@@ -326,27 +346,6 @@
       "name": "Dom Irrera: Live from Las Vegas",
       "poster": "https://image.tmdb.org/t/p/w500/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt1071280",
-      "type": "movie",
-      "name": "Don Rickles: Alive and Kicking",
-      "poster": "https://image.tmdb.org/t/p/w500/bbBuYOQlsbroResbxadgaXqNeXK.jpg",
-      "releaseInfo": "1972"
-    },
-    {
-      "id": "tt28267801",
-      "type": "movie",
-      "name": "Don Rickles Live Pine Knob Music Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/bcMLBkReBTPuJwzZ51SYjOZEECm.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:1193892",
-      "type": "movie",
-      "name": "Don Rickles Live in Casino Rama 2010",
-      "poster": "https://image.tmdb.org/t/p/w500/ziyFzy44P0A8UHvGMbqiRpLgApL.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

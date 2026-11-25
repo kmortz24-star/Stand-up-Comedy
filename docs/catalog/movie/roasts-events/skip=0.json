@@ -1,39 +1,46 @@
 {
   "metas": [
     {
-      "id": "tt40898187",
+      "id": "tt3098812",
       "type": "movie",
-      "name": "The Roast of Kevin Hart",
-      "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "releaseInfo": "2026"
+      "name": "Comedy Central Roast of James Franco",
+      "poster": "https://image.tmdb.org/t/p/w500/5FrJ7IarXFtM3bgpHDzFsoXu8mS.jpg",
+      "releaseInfo": "2013"
     },
     {
-      "id": "tt41973417",
+      "id": "tt1985970",
       "type": "movie",
-      "name": "KillTonyMania",
-      "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
-      "releaseInfo": "2026"
+      "name": "Comedy Central Roast of Charlie Sheen",
+      "poster": "https://image.tmdb.org/t/p/w500/d96F0rtaKNEgK5yP2GwEBghkJ9X.jpg",
+      "releaseInfo": "2011"
     },
     {
-      "id": "tt36109347",
+      "id": "tt4504452",
       "type": "movie",
-      "name": "Kill Tony: Mayhem at Madison Square Garden",
-      "poster": "https://image.tmdb.org/t/p/w500/cvNM3CoKnXdY8oAmyAHTPOu17aC.jpg",
-      "releaseInfo": "2025"
+      "name": "Comedy Central Roast of Justin Bieber",
+      "poster": "https://image.tmdb.org/t/p/w500/3UcygBPTvT9InzaeIDbQrsElbxk.jpg",
+      "releaseInfo": "2015"
     },
     {
-      "id": "tt36109402",
+      "id": "tt1694505",
       "type": "movie",
-      "name": "Kill Tony: Kill or Be Killed",
-      "poster": "https://image.tmdb.org/t/p/w500/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
-      "releaseInfo": "2025"
+      "name": "Comedy Central Roast of David Hasselhoff",
+      "poster": "https://image.tmdb.org/t/p/w500/sX66iM4rds1pkLBbNYOVWSTcMZR.jpg",
+      "releaseInfo": "2010"
     },
     {
-      "id": "tt34909701",
+      "id": "tt1865333",
       "type": "movie",
-      "name": "Torching 2024: A Roast of the Year",
-      "poster": "https://image.tmdb.org/t/p/w500/hivi6Swn1UINO3xYGzNhAFx6Dkv.jpg",
-      "releaseInfo": "2024"
+      "name": "Comedy Central Roast of Donald Trump",
+      "poster": "https://image.tmdb.org/t/p/w500/jVZzb62rn1poTUjbtpO4e2Dmjr.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt8301054",
+      "type": "movie",
+      "name": "Comedy Central Roast of Bruce Willis",
+      "poster": "https://image.tmdb.org/t/p/w500/cvNdyLvmyfEiKfKV5kFAaIlNNCU.jpg",
+      "releaseInfo": "2018"
     },
     {
       "id": "tt32244679",
@@ -43,18 +50,123 @@
       "releaseInfo": "2024"
     },
     {
-      "id": "tt27898706",
+      "id": "tt0474603",
       "type": "movie",
-      "name": "The Roast of Whitney Cummings",
-      "poster": "https://image.tmdb.org/t/p/w500/wTs3R9VxTVpeqcF8yGyHqZmy3U2.jpg",
-      "releaseInfo": "2023"
+      "name": "Comedy Central Roast of Pamela Anderson",
+      "poster": "https://image.tmdb.org/t/p/w500/cZP1Oj9KuKjZLTUFaMxVtSzY0NC.jpg",
+      "releaseInfo": "2005"
     },
     {
-      "id": "tt27515036",
+      "id": "tt6038506",
       "type": "movie",
-      "name": "Just for Laughs: The Gala Specials - Jo Koy",
-      "poster": "https://image.tmdb.org/t/p/w500/f7LdyiQXkg6Ygw7bMWaVH86LQoh.jpg",
-      "releaseInfo": "2023"
+      "name": "Comedy Central Roast of Rob Lowe",
+      "poster": "https://image.tmdb.org/t/p/w500/iVK0Rq63XEAmK1M4DSDQ2INOIjB.jpg",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0840305",
+      "type": "movie",
+      "name": "Comedy Central Roast of William Shatner",
+      "poster": "https://image.tmdb.org/t/p/w500/3iqOKRso4MrmGiXeJl3VcmgAU0j.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt10520800",
+      "type": "movie",
+      "name": "Comedy Central Roast of Alec Baldwin",
+      "poster": "https://image.tmdb.org/t/p/w500/vbasQnawBPneKDRneBvmfIe9phf.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt15763882",
+      "type": "movie",
+      "name": "Jonas Brothers Family Roast",
+      "poster": "https://image.tmdb.org/t/p/w500/eEEj1mC2N2oTrluubqA5dYRwvOb.jpg",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2231500",
+      "type": "movie",
+      "name": "Comedy Central Roast of Roseanne",
+      "poster": "https://image.tmdb.org/t/p/w500/sQmjQomhXUufN3OD9KWSVW9OJ1I.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt1413788",
+      "type": "movie",
+      "name": "Comedy Central Roast of Joan Rivers",
+      "poster": "https://image.tmdb.org/t/p/w500/2OB9QIYb5CkpzqiyFQqlzy7am6A.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1037714",
+      "type": "movie",
+      "name": "Comedy Central Roast of Flavor Flav",
+      "poster": "https://image.tmdb.org/t/p/w500/hRn7mICSwQfmsDwA9tkPpWbY4uu.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt40898187",
+      "type": "movie",
+      "name": "The Roast of Kevin Hart",
+      "poster": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt1380790",
+      "type": "movie",
+      "name": "Comedy Central Roast of Larry the Cable Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/ymGDZIlcaTvxv5Cq3tZIxWUAyLw.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt0439729",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Drew Carey",
+      "poster": "https://image.tmdb.org/t/p/w500/prcJy3DXdbOUrVNc6jUn9890LHX.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0300261",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Hugh Hefner",
+      "poster": "https://image.tmdb.org/t/p/w500/6PaNW9QEeYmuqfjUvE8y63Hgh5v.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0383998",
+      "type": "movie",
+      "name": "Comedy Central Roast of Denis Leary",
+      "poster": "https://image.tmdb.org/t/p/w500/vxyIFDNdB1xEmmkbNyA0CVPXTtu.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0437931",
+      "type": "movie",
+      "name": "Comedy Central Roast of Jeff Foxworthy",
+      "poster": "https://image.tmdb.org/t/p/w500/az5eTqEALSEAB17gXtBwi8SO8CU.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0463482",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Jerry Stiller",
+      "poster": "https://image.tmdb.org/t/p/w500/m3JDHHC33ku9NY2aBJnDjkvNaz1.jpg",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt34909701",
+      "type": "movie",
+      "name": "Torching 2024: A Roast of the Year",
+      "poster": "https://image.tmdb.org/t/p/w500/hivi6Swn1UINO3xYGzNhAFx6Dkv.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0347626",
+      "type": "movie",
+      "name": "The N.Y. Friars Club Roast of Chevy Chase",
+      "poster": "https://image.tmdb.org/t/p/w500/ab86Jqv3sK1y97IduPe0e6aKqcm.jpg",
+      "releaseInfo": "2002"
     },
     {
       "id": "tt27405314",
@@ -64,23 +176,10 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "tt27180536",
+      "id": "tt27898706",
       "type": "movie",
-      "name": "Just for Laughs: The Gala Specials - Chelsea Handler",
-      "poster": "https://image.tmdb.org/t/p/w500/zk7NMZ21igcm2CaOMiX9ywks2OX.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt27756059",
-      "type": "movie",
-      "name": "Just for Laughs: The Gala Specials - Russell Peters",
-      "poster": "https://image.tmdb.org/t/p/w500/3xmaSF8VITXxiLboTL2jJ23FMIJ.jpg",
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt26491176",
-      "type": "movie",
-      "name": "The SF Sketchfest Roast of Bruce Campbell",
+      "name": "The Roast of Whitney Cummings",
+      "poster": "https://image.tmdb.org/t/p/w500/wTs3R9VxTVpeqcF8yGyHqZmy3U2.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -91,11 +190,85 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt20723742",
+      "id": "tt0860927",
       "type": "movie",
-      "name": "Snoop Dogg's F*cn Around Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
-      "releaseInfo": "2022"
+      "name": "Platinum Comedy Series: Roasting Shaquille O'Neal",
+      "poster": "https://image.tmdb.org/t/p/w500/z6ujuVhgoexiOlq26pwd5Q1sdBJ.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt8548670",
+      "type": "movie",
+      "name": "The Roast of Rich Vos",
+      "poster": "https://image.tmdb.org/t/p/w500/tmGbg9ce3uQplGsbWZmAONW8djm.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt26491176",
+      "type": "movie",
+      "name": "The SF Sketchfest Roast of Bruce Campbell",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1107612",
+      "type": "movie",
+      "name": "Friars Club Roast of Don Rickles",
+      "poster": "https://image.tmdb.org/t/p/w500/qKKmoPcwJnMEPi5hltHJ4gTAvJH.jpg",
+      "releaseInfo": "1970"
+    },
+    {
+      "id": "tmdb:1802648",
+      "type": "movie",
+      "name": "The Friars Lifetime Achievement Award Roast of Hugh M. Hefner",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tmdb:1802652",
+      "type": "movie",
+      "name": "New York Friars Club Roast of Chevy Chase",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt8075256",
+      "type": "movie",
+      "name": "Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life",
+      "poster": "https://image.tmdb.org/t/p/w500/3STPYldeX274Uw20UikS55irMXM.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt0236388",
+      "type": "movie",
+      "name": "The Original Kings of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/vjbEcW9OqWoXKr9e2KySG1WZlNS.jpg",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0330069",
+      "type": "movie",
+      "name": "Blue Collar Comedy Tour: The Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/fUlTnmldkZQCSOy3nCAfire0SWM.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt2302925",
+      "type": "movie",
+      "name": "Them Idiots: Whirled Tour",
+      "poster": "https://image.tmdb.org/t/p/w500/3pobUQRgz9c0WNKWOsmxKvuWiA6.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt41973417",
+      "type": "movie",
+      "name": "KillTonyMania",
+      "poster": "https://image.tmdb.org/t/p/w500/kpIrnIzKE3DfSVEGGc71kWFiKx8.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0423871",
+      "type": "movie",
+      "name": "Blue Collar Comedy Tour Rides Again",
+      "poster": "https://image.tmdb.org/t/p/w500/bWOHNsZ4MXMXhR5TwAU92ncd0UZ.jpg",
+      "releaseInfo": "2004"
     },
     {
       "id": "tt20723738",
@@ -105,18 +278,11 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt20723748",
+      "id": "tt0451141",
       "type": "movie",
-      "name": "Pete Davidson Presents: The Best Friends",
-      "poster": "https://image.tmdb.org/t/p/w500/qGDYnu6cqF5T9Hgh5WoOtofE2tj.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt20723644",
-      "type": "movie",
-      "name": "Stand Out: An LGBTQ+ Celebration",
-      "poster": "https://image.tmdb.org/t/p/w500/pflwbz4m4YCwS5wb0wXCk2lDkgU.jpg",
-      "releaseInfo": "2022"
+      "name": "Rodney Dangerfield Hosts the 9th Annual Young Comedians Special",
+      "poster": "https://image.tmdb.org/t/p/w500/e4c06J9Gb5nQbVJqPHw2uebKhwT.jpg",
+      "releaseInfo": "1985"
     },
     {
       "id": "tt20723672",
@@ -133,53 +299,11 @@
       "releaseInfo": "2022"
     },
     {
-      "id": "tt18950688",
+      "id": "tt20723742",
       "type": "movie",
-      "name": "Marlon Wayans Presents: The Headliners",
-      "poster": "https://image.tmdb.org/t/p/w500/oXqStSGndKLBL7FCgTFBBo7jWcc.jpg",
+      "name": "Snoop Dogg's F*cn Around Comedy Special",
+      "poster": "https://image.tmdb.org/t/p/w500/lQalMMwpAP31ptuy2IZihooXD4w.jpg",
       "releaseInfo": "2022"
-    },
-    {
-      "id": "tt15763882",
-      "type": "movie",
-      "name": "Jonas Brothers Family Roast",
-      "poster": "https://image.tmdb.org/t/p/w500/eEEj1mC2N2oTrluubqA5dYRwvOb.jpg",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "tt10520800",
-      "type": "movie",
-      "name": "Comedy Central Roast of Alec Baldwin",
-      "poster": "https://image.tmdb.org/t/p/w500/vbasQnawBPneKDRneBvmfIe9phf.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "tt8301054",
-      "type": "movie",
-      "name": "Comedy Central Roast of Bruce Willis",
-      "poster": "https://image.tmdb.org/t/p/w500/cvNdyLvmyfEiKfKV5kFAaIlNNCU.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt8548670",
-      "type": "movie",
-      "name": "The Roast of Rich Vos",
-      "poster": "https://image.tmdb.org/t/p/w500/tmGbg9ce3uQplGsbWZmAONW8djm.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt8075256",
-      "type": "movie",
-      "name": "Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life",
-      "poster": "https://image.tmdb.org/t/p/w500/3STPYldeX274Uw20UikS55irMXM.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "tt8178116",
-      "type": "movie",
-      "name": "Seth Rogen's Hilarity for Charity",
-      "poster": "https://image.tmdb.org/t/p/w500/xoRYL6uuS9qvGeJ4o0hbmQji7hm.jpg",
-      "releaseInfo": "2018"
     },
     {
       "id": "tt7657600",
@@ -189,116 +313,11 @@
       "releaseInfo": "2017"
     },
     {
-      "id": "tt6054328",
+      "id": "tt36109402",
       "type": "movie",
-      "name": "All Def Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zsocJUQIklZS9AWDcz4CkTabtW.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt6038506",
-      "type": "movie",
-      "name": "Comedy Central Roast of Rob Lowe",
-      "poster": "https://image.tmdb.org/t/p/w500/iVK0Rq63XEAmK1M4DSDQ2INOIjB.jpg",
-      "releaseInfo": "2016"
-    },
-    {
-      "id": "tt4504452",
-      "type": "movie",
-      "name": "Comedy Central Roast of Justin Bieber",
-      "poster": "https://image.tmdb.org/t/p/w500/3UcygBPTvT9InzaeIDbQrsElbxk.jpg",
-      "releaseInfo": "2015"
-    },
-    {
-      "id": "tt4003912",
-      "type": "movie",
-      "name": "Seth Rogen's Hilarity for Charity",
-      "poster": "https://image.tmdb.org/t/p/w500/agSrmfqtV7QNsoYsG2RypC1Zm1r.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt3098812",
-      "type": "movie",
-      "name": "Comedy Central Roast of James Franco",
-      "poster": "https://image.tmdb.org/t/p/w500/5FrJ7IarXFtM3bgpHDzFsoXu8mS.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "tt2231500",
-      "type": "movie",
-      "name": "Comedy Central Roast of Roseanne",
-      "poster": "https://image.tmdb.org/t/p/w500/sQmjQomhXUufN3OD9KWSVW9OJ1I.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt2302925",
-      "type": "movie",
-      "name": "Them Idiots: Whirled Tour",
-      "poster": "https://image.tmdb.org/t/p/w500/3pobUQRgz9c0WNKWOsmxKvuWiA6.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt1985970",
-      "type": "movie",
-      "name": "Comedy Central Roast of Charlie Sheen",
-      "poster": "https://image.tmdb.org/t/p/w500/d96F0rtaKNEgK5yP2GwEBghkJ9X.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt1865333",
-      "type": "movie",
-      "name": "Comedy Central Roast of Donald Trump",
-      "poster": "https://image.tmdb.org/t/p/w500/jVZzb62rn1poTUjbtpO4e2Dmjr.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt1858777",
-      "type": "movie",
-      "name": "Ron White: Comedy Salute to the Troops",
-      "poster": "https://image.tmdb.org/t/p/w500/dMb8WLOL21zPdlfk4k2jEdVLZ0e.jpg",
-      "releaseInfo": "2011"
-    },
-    {
-      "id": "tt1725936",
-      "type": "movie",
-      "name": "Broken Lizard Stands Up",
-      "poster": "https://image.tmdb.org/t/p/w500/995Xf3En945GiAPSH50MypXLU4P.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt1694505",
-      "type": "movie",
-      "name": "Comedy Central Roast of David Hasselhoff",
-      "poster": "https://image.tmdb.org/t/p/w500/sX66iM4rds1pkLBbNYOVWSTcMZR.jpg",
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tt1413788",
-      "type": "movie",
-      "name": "Comedy Central Roast of Joan Rivers",
-      "poster": "https://image.tmdb.org/t/p/w500/2OB9QIYb5CkpzqiyFQqlzy7am6A.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1380790",
-      "type": "movie",
-      "name": "Comedy Central Roast of Larry the Cable Guy",
-      "poster": "https://image.tmdb.org/t/p/w500/ymGDZIlcaTvxv5Cq3tZIxWUAyLw.jpg",
-      "releaseInfo": "2009"
-    },
-    {
-      "id": "tt1037714",
-      "type": "movie",
-      "name": "Comedy Central Roast of Flavor Flav",
-      "poster": "https://image.tmdb.org/t/p/w500/hRn7mICSwQfmsDwA9tkPpWbY4uu.jpg",
-      "releaseInfo": "2007"
-    },
-    {
-      "id": "tt0840305",
-      "type": "movie",
-      "name": "Comedy Central Roast of William Shatner",
-      "poster": "https://image.tmdb.org/t/p/w500/3iqOKRso4MrmGiXeJl3VcmgAU0j.jpg",
-      "releaseInfo": "2006"
+      "name": "Kill Tony: Kill or Be Killed",
+      "poster": "https://image.tmdb.org/t/p/w500/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "tt0807745",
@@ -308,18 +327,11 @@
       "releaseInfo": "2006"
     },
     {
-      "id": "tt0474603",
+      "id": "tt0188516",
       "type": "movie",
-      "name": "Comedy Central Roast of Pamela Anderson",
-      "poster": "https://image.tmdb.org/t/p/w500/cZP1Oj9KuKjZLTUFaMxVtSzY0NC.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "tt0437931",
-      "type": "movie",
-      "name": "Comedy Central Roast of Jeff Foxworthy",
-      "poster": "https://image.tmdb.org/t/p/w500/az5eTqEALSEAB17gXtBwi8SO8CU.jpg",
-      "releaseInfo": "2005"
+      "name": "Comedy's Dirtiest Dozen",
+      "poster": "https://image.tmdb.org/t/p/w500/iNBahNCvPtCKk8M9N5mau57fMjf.jpg",
+      "releaseInfo": "1988"
     },
     {
       "id": "tt1869360",
@@ -329,25 +341,11 @@
       "releaseInfo": "2005"
     },
     {
-      "id": "tt0423871",
+      "id": "tt0332720",
       "type": "movie",
-      "name": "Blue Collar Comedy Tour Rides Again",
-      "poster": "https://image.tmdb.org/t/p/w500/bWOHNsZ4MXMXhR5TwAU92ncd0UZ.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0383998",
-      "type": "movie",
-      "name": "Comedy Central Roast of Denis Leary",
-      "poster": "https://image.tmdb.org/t/p/w500/vxyIFDNdB1xEmmkbNyA0CVPXTtu.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "tt0330069",
-      "type": "movie",
-      "name": "Blue Collar Comedy Tour: The Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/fUlTnmldkZQCSOy3nCAfire0SWM.jpg",
-      "releaseInfo": "2003"
+      "name": "The Original Latin Kings of Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/9vO1cHD0zOxFhWrZ82TxQ5ej3TB.jpg",
+      "releaseInfo": "2002"
     }
   ]
 }

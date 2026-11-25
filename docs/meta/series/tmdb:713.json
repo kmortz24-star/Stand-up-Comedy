@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "id": "tmdb:713",
+    "type": "series",
+    "name": "Chappelle's Show",
+    "releaseInfo": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/aHpTmNU2wLHokoVpzcnh2VQBJOI.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/m67I7sJNdmvOGs3I6EPdVSaQhl7.jpg",
+    "description": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+    "videos": [
+      {
+        "id": "tmdb:713:1:1",
+        "title": "Black White Supremacist",
+        "season": 1,
+        "episode": 1,
+        "released": "2003-01-22T00:00:00.000Z",
+        "overview": "Dave pokes fun at an annoying Mitsubishi car commercial. Dave appears in a video to show Popcopy copy store employees how to annoy the customers. Dave makes a case for hip-hop's degradation of women, which ruins the legacy of Nat King Cole. Learn how to order your very own home stenographer. Dave plays a blind, angry white supremacist who joins the KKK, but doesn't know he's black.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aUMACcMIBtYUHRAfZiLeVVnOvQP.jpg"
+      },
+      {
+        "id": "tmdb:713:1:2",
+        "title": "Introducing Tyrone Biggums",
+        "season": 1,
+        "episode": 2,
+        "released": "2003-01-29T00:00:00.000Z",
+        "overview": "Dave plays crack addict Tyrone Biggums, who gives a speech to an elementary school classroom. Also featuring musical guest Mos Def.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/dE3eSOpcrwNezigrtJsfFbhylSI.jpg"
+      },
+      {
+        "id": "tmdb:713:1:3",
+        "title": "Love Those Breasts",
+        "season": 1,
+        "episode": 3,
+        "released": "2003-02-05T00:00:00.000Z",
+        "overview": "Dave plays an angel who shows a woman, regretful of her large chest, the error of her ways in \"It's a Wonderful Chest.\" A shopping network spoof finds QVC selling very odd and distasteful items. Dave also shares humorous outtakes from the classic miniseries \"Roots.\" Also featuring musical performer Talib Kweli.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/g3lniq6alHMMkLVFusIlP8jV2aJ.jpg"
+      },
+      {
+        "id": "tmdb:713:1:4",
+        "title": "Slavery Reparations",
+        "season": 1,
+        "episode": 4,
+        "released": "2003-02-12T00:00:00.000Z",
+        "overview": "Dave gives out awards to women with great \"New York Boobs\" and assesses the problems that would result from offering slavery reparations. Also featuring musical guest Busta Rhymes.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rSCxi9jLhwZgkINgcQwTamH4Uza.jpg"
+      },
+      {
+        "id": "tmdb:713:1:5",
+        "title": "Great Moments in Hookup History",
+        "season": 1,
+        "episode": 5,
+        "released": "2003-02-19T00:00:00.000Z",
+        "overview": "Dave looks at \"Great Moments in Hook-Up History\" and is an interview guest on \"Inside Chappelle's Show Studio.\" Paul Mooney hosts a segment of \"Ask a Black Dude.\" Redman offers up his new \"Redman Potty Fresh\" toilet cleaner in a commercial, and Dave shows a commercial for \"Rocka Pads.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/l63GHSnnew6Ja1dkjPU4vduabyC.jpg"
+      },
+      {
+        "id": "tmdb:713:1:6",
+        "title": "The Mad Real World",
+        "season": 1,
+        "episode": 6,
+        "released": "2003-02-26T00:00:00.000Z",
+        "overview": "Dave envisions what \"The Real World\" would be like with a black cast that includes one super white man. Also featuring musical performer David Broom.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iIut5x636cAeXvwAymyRShZHQ8f.jpg"
+      },
+      {
+        "id": "tmdb:713:1:7",
+        "title": "Wu-Tang Consulting Firm",
+        "season": 1,
+        "episode": 7,
+        "released": "2003-03-05T00:00:00.000Z",
+        "overview": "Dave takes a look at a great moment in hook-up history and shows \"Real Movies\" based on \"The Matrix\" and a grim look at \"Pretty Woman.\" The Wu Tang Clan advertises their new financial firm, and Paul Mooney offers up another segment of \"Ask a Black Dude.\" A Jedi Scandal is exposed. Also featuring music performer Killer Mike.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4olD6Fk9GRggLlN1gW5kYqegB2x.jpg"
+      },
+      {
+        "id": "tmdb:713:1:8",
+        "title": "The Return of Tyrone Biggums",
+        "season": 1,
+        "episode": 8,
+        "released": "2003-03-12T00:00:00.000Z",
+        "overview": "Dave looks at what really happened behind the scenes of the movies \"Ghost\" and \"Half Baked.\" Dave goes inside the racism present among Hollywood's animal stars. Dave also returns as crackhead Tyrone Biggums, whose friends stage an intervention and take him to a rehab center. Also featuring a musical performance by Slum Village.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/oQkI8GhSkMlqfpqdcZpjonyrfIw.jpg"
+      },
+      {
+        "id": "tmdb:713:1:9",
+        "title": "Blackzilla",
+        "season": 1,
+        "episode": 9,
+        "released": "2003-03-19T00:00:00.000Z",
+        "overview": "Dave invades Japan in the sci-fi-themed \"Blackzilla\" and stars in his own video game. Dave also offers up a look at the \"Player Hater's Ball.\" Also featuring musical performer The Roots.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/doedLry8vjpU6DJs3IRpgcYpB6X.jpg"
+      },
+      {
+        "id": "tmdb:713:1:10",
+        "title": "Inner City Gang Wars",
+        "season": 1,
+        "episode": 10,
+        "released": "2003-03-26T00:00:00.000Z",
+        "overview": "Dave looks at one of the world's greatest wars. He also examines R. Kelly's older videos to point out the future sex crimes that are indicated in the material. Also featuring another segment of \"Ask a Black Dude\" with Paul Mooney and a musical performance by GZA.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/5ZdG3lpNzPlx7ho646Ev8JcpPbw.jpg"
+      },
+      {
+        "id": "tmdb:713:1:11",
+        "title": "Fisticuffs",
+        "season": 1,
+        "episode": 11,
+        "released": "2003-04-02T00:00:00.000Z",
+        "overview": "Funkmaster Flex hires a rapper, played by Dave, who keeps repeating the same non-lyrical phrases over and over again. Dave visits a kid with cancer, but takes no mercy when he plays the kid at Playstation 2. Dave also buys a camera that has the power to see people's innermost thoughts. Also featuring music performer De La Soul.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zy9SqUHqPQEg7dV8zffv9PwTcTV.jpg"
+      },
+      {
+        "id": "tmdb:713:1:12",
+        "title": "Trading Spouses",
+        "season": 1,
+        "episode": 12,
+        "released": "2003-04-09T00:00:00.000Z",
+        "overview": "Dave delves into what would happen if couples attempted \"Trading Spouses\" and introduces a new family-oriented form of marijuana which contains no THC. Also featuring musical guest Blackstar.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/uomGhnumReompFzuQ9GdpkKxUNH.jpg"
+      },
+      {
+        "id": "tmdb:713:2:1",
+        "title": "The Racial Draft",
+        "season": 2,
+        "episode": 1,
+        "released": "2004-01-21T00:00:00.000Z",
+        "overview": "Dave runs for office and offers a look at life in slow motion. Dave also plays Samuel L Jackson in a beer commercial, and co-commentates on the first-ever \"Racial Draft.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6IF3VRcxgivkwL9Kcw8MEuDzTjl.jpg"
+      },
+      {
+        "id": "tmdb:713:2:2",
+        "title": "The Niggar Family",
+        "season": 2,
+        "episode": 2,
+        "released": "2004-01-28T00:00:00.000Z",
+        "overview": "Dave looks at what it would be like to have a black version of watermelon-smashing comedian Gallagher. Paul Mooney plays \"Negrodamus\" and Dave plays Calvin, who gets a job at WacArnolds. Also featuring music performer DMX.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/26bj1T1kf6GOwQlXAzhCctYYc1d.jpg"
+      },
+      {
+        "id": "tmdb:713:2:3",
+        "title": "White People Can't Dance",
+        "season": 2,
+        "episode": 3,
+        "released": "2004-02-04T00:00:00.000Z",
+        "overview": "Dave Chappelle examines the age-old myth about white people's inability to dance. Dave tries out a new sleep aid. The Three Daves: A retrospective look at Dave at age 18, 24 and 30.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7fNnHap2ixS00ewt1gbvPspUMyB.jpg"
+      },
+      {
+        "id": "tmdb:713:2:4",
+        "title": "True Hollywood Stories - Rick James",
+        "season": 2,
+        "episode": 4,
+        "released": "2004-02-11T00:00:00.000Z",
+        "overview": "Dave unveils the Love Contract and offers up the True Hollywood Story of actor Charlie Murphy, along with musical guest Ludacris.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qEU31isWUNpkuNTKIOQl9sOh2E5.jpg"
+      },
+      {
+        "id": "tmdb:713:2:5",
+        "title": "True Hollywood Stories - Prince",
+        "season": 2,
+        "episode": 5,
+        "released": "2004-02-18T00:00:00.000Z",
+        "overview": "Paul Mooney provides answers about the mysteries of life as \"Negrodamus.\" \"Charlie Murphy's True Hollywood Story\" focuses on Prince, as he takes to the basketball court. Also featuring musical guest Cee-Lo.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/c2cIJH2lD1T2MxEgRZ3seaOLj3X.jpg"
+      },
+      {
+        "id": "tmdb:713:2:6",
+        "title": "If The Internet Were Real",
+        "season": 2,
+        "episode": 6,
+        "released": "2004-02-25T00:00:00.000Z",
+        "overview": "Dave examines what the daily life of rapper Lil John might be like and tries to imagine how the internet would look if it was an actual place. Also featuring musical guest Anthony Hamilton.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/uFltxR0q5LJGOwns8f1FNd2WeKu.jpg"
+      },
+      {
+        "id": "tmdb:713:2:7",
+        "title": "World Series of Dice",
+        "season": 2,
+        "episode": 7,
+        "released": "2004-03-03T00:00:00.000Z",
+        "overview": "Dave and his friends have a mishap at the drive-thru. A look at the World Series of Dice. Also featuring musical guests Common and Kanye West.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3dESIBTjsnKxzQ39MLY1JnhBxzF.jpg"
+      },
+      {
+        "id": "tmdb:713:2:8",
+        "title": "I Know Black People",
+        "season": 2,
+        "episode": 8,
+        "released": "2004-03-10T00:00:00.000Z",
+        "overview": "Dave hosts the game show \"I Know Black People\" and offers up another look at \"When Keeping it Real Goes Wrong.\" Also featuring musical performer Erykah Badu.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/h0iSqlICenLZnTr8IdoclDmX8sO.jpg"
+      },
+      {
+        "id": "tmdb:713:2:9",
+        "title": "Oprah's Baby Daddy",
+        "season": 2,
+        "episode": 9,
+        "released": "2004-03-24T00:00:00.000Z",
+        "overview": "Dave thinks Oprah is pregant with his child. Dave also goes into his experience as a member of the O.J. Simpson trial jury. Also featuring musical guest Wyclef.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/618xO9npJtI1cZwUqfd2Ho39gSr.jpg"
+      },
+      {
+        "id": "tmdb:713:2:10",
+        "title": "Making Da Band",
+        "season": 2,
+        "episode": 10,
+        "released": "2004-03-25T00:00:00.000Z",
+        "overview": "Dave takes a closer look at the P. Diddy-produced reality television show called \"Making Da Band\" and introduces a new children's show called \"Kneehigh Park.\" Also featuring musical guests Snoop Dogg, and Wyclef and Q-Tip.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/A6LqqRwVQ6bqJGdXNs3jiZNGobv.jpg"
+      },
+      {
+        "id": "tmdb:713:2:11",
+        "title": "Greatest Misses",
+        "season": 2,
+        "episode": 11,
+        "released": "2004-03-31T00:00:00.000Z",
+        "overview": "Dave introduces skits that were too crazy to make the cut, including footage of a trip to the Nelson Mandela bootcamp for teenagers. Dave also imagines what it would be like if the whole world was gay. Also featuring musical guests Kanye West and Mos Def.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xal75AkWlkc9SJy5NV0JvytoE24.jpg"
+      },
+      {
+        "id": "tmdb:713:2:12",
+        "title": "The Wayne Brady Show",
+        "season": 2,
+        "episode": 12,
+        "released": "2004-04-07T00:00:00.000Z",
+        "overview": "Dave quits his show at Comedy Central and is promptly replaced by comedian Wayne Brady. Dave returns as crackhead Tyrone Biggums, who appears as a guest on \"Fear Factor.\" Dave also hangs out with Wayne Brady, who proves to be unexpectedly menacing. Also featuring music performer Talib Kweli.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/b3pfIRVoUfMmkvf0uyoB42OunU9.jpg"
+      },
+      {
+        "id": "tmdb:713:2:13",
+        "title": "Black Bush",
+        "season": 2,
+        "episode": 13,
+        "released": "2004-04-14T00:00:00.000Z",
+        "overview": "Dave looks at recent world events and tries to assess the way things would have gone had President Bush been black. Dave takes a look back at the first black person in history to use a white toilet. Dave also examines a moment in the life of Lil Jon when he plays the rapper while talking to the real Lil Jon on the phone. Also featuring a musical performance by Big Boi.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/LNmz00niNNW8UxsKdLItsQZJeG.jpg"
+      },
+      {
+        "id": "tmdb:713:3:1",
+        "title": "Lost Episode 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2006-07-09T00:00:00.000Z",
+        "overview": "Dave looks to enact vengeance on everyone who has done him wrong in the past after signing a sweet new deal. Meanwhile, people suddenly charge him a lot more money for even the most trivial things that used to cost very little.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qDY7V04VkkUkE0qsXxjWOv4n7xv.jpg"
+      },
+      {
+        "id": "tmdb:713:3:2",
+        "title": "Lost Episode 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2006-07-16T00:00:00.000Z",
+        "overview": "Dave hits the campaign trail as yell-happy presidential candidate Howard Dean and assumes the role of an antagonistic Gary Coleman. He also attempts to elude a crop of persistent racial stereotype pixies.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yaC6S1qlUjz8WzuAnQRoOs5DJYP.jpg"
+      },
+      {
+        "id": "tmdb:713:3:3",
+        "title": "Lost Episode 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2006-07-23T00:00:00.000Z",
+        "overview": "Dave meets the powerful Show Business and offers a look at a bunch of monsters who have seen their share of discrimination.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/v5Euib6WDPrKPWKzsu58sgULix6.jpg"
+      }
+    ]
+  }
+}

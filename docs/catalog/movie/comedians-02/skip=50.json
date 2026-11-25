@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt19783524",
+      "type": "movie",
+      "name": "Chris Rock: One Man Show",
+      "poster": "https://image.tmdb.org/t/p/w500/lU6vj5kEm9UsnoAm8x7j0FmLy2O.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt23571908",
+      "type": "movie",
+      "name": "Chris Rock: Selective Outrage",
+      "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "tt0414324",
       "type": "movie",
       "name": "Christopher Titus: Norman Rockwell is Bleeding",
@@ -168,6 +182,15 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "standupyt_BjRW9WhfGgo",
+      "type": "movie",
+      "name": "Dan Soder: Not Special - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/BjRW9WhfGgo/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/BjRW9WhfGgo/hqdefault.jpg",
+      "description": "Dan Soder · 41 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt1391890",
       "type": "movie",
       "name": "Dana Gould: Let Me Put My Thoughts in You",
@@ -330,26 +353,6 @@
       "type": "movie",
       "name": "1995 Young Comedians Special",
       "releaseInfo": "1995"
-    },
-    {
-      "id": "tt1243457",
-      "type": "movie",
-      "name": "Dave Attell - HBO Comedy Half-Hour",
-      "poster": "https://image.tmdb.org/t/p/w500/8qvs8EfD8F6fFvZGwyCVfzWeF58.jpg",
-      "releaseInfo": "1996"
-    },
-    {
-      "id": "tt0407679",
-      "type": "movie",
-      "name": "Comedy Central Presents: Dave Attell",
-      "releaseInfo": "1999"
-    },
-    {
-      "id": "tt2047709",
-      "type": "movie",
-      "name": "Dave Attell: Hey, Your Mouth's Not Pregnant!",
-      "poster": "https://image.tmdb.org/t/p/w500/6LkOrhIPH84uuyc5rdVdbs0DFrT.jpg",
-      "releaseInfo": "2006"
     }
   ]
 }

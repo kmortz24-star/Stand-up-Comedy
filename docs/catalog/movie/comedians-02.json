@@ -136,6 +136,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_ADesE3xT2VU",
+      "type": "movie",
+      "name": "Charles Gould | LA Nights (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/ADesE3xT2VU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/ADesE3xT2VU/hqdefault.jpg",
+      "description": "Charles Gould · 35 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:1091628",
       "type": "movie",
       "name": "Charlie Berens: Midwest Goodbye",
@@ -272,6 +281,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_twIn9kcpOLM",
+      "type": "movie",
+      "name": "Chris Hardwick | The Middle Ages (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/twIn9kcpOLM/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/twIn9kcpOLM/hqdefault.jpg",
+      "description": "Chris Hardwick · 52 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt3041030",
       "type": "movie",
       "name": "Chris Porter: Ugly and Angry",
@@ -340,20 +358,6 @@
       "name": "Chris Rock: Tamborine",
       "poster": "https://image.tmdb.org/t/p/w500/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg",
       "releaseInfo": "2018"
-    },
-    {
-      "id": "tt19783524",
-      "type": "movie",
-      "name": "Chris Rock: One Man Show",
-      "poster": "https://image.tmdb.org/t/p/w500/lU6vj5kEm9UsnoAm8x7j0FmLy2O.jpg",
-      "releaseInfo": "2022"
-    },
-    {
-      "id": "tt23571908",
-      "type": "movie",
-      "name": "Chris Rock: Selective Outrage",
-      "poster": "https://image.tmdb.org/t/p/w500/hGTJfBzS8rpNQiitbg6ZnwnD6um.jpg",
-      "releaseInfo": "2023"
     }
   ]
 }

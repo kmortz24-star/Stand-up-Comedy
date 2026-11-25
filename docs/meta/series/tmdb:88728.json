@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "id": "tmdb:88728",
+    "type": "series",
+    "name": "I Think You Should Leave with Tim Robinson",
+    "releaseInfo": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/3yA0Zw7jeftK4F51PbnZyJOoNs2.jpg",
+    "description": "There is no such thing as an ordinary interaction in this offbeat sketch comedy series that features a deep roster of guest stars.",
+    "videos": [
+      {
+        "id": "tmdb:88728:1:1",
+        "title": "Has This Ever Happened to You?",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "An awkward exit at a job interview. A very specific legal problem. Things get ugly at the \"Baby of the Year\" contest. A gift receipt causes stress.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/llsTEWC6iWBFn7b759wCtkt1Cb1.jpg"
+      },
+      {
+        "id": "tmdb:88728:1:2",
+        "title": "Thanks for Thinking They Are Cool",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "A nifty new tug-friendly t-shirt. The smart way to ditch your toupee. A prank doesn't go so well. An airline passenger gets aggressively creepy.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rXmI6xY8cHy20b7o0FdAtn1nK07.jpg"
+      },
+      {
+        "id": "tmdb:88728:1:3",
+        "title": "It's the Cigars You Smoke That Are Gonna Give You Cancer",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "A magic show opens up a marital rift. Interesting idea at a car design brainstorm. A fill-in organist at a funeral. A very esoteric charades player.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7niUW7lpP9qbwRTu8u2xjYw4Fsy.jpg"
+      },
+      {
+        "id": "tmdb:88728:1:4",
+        "title": "Oh Crap, a Bunch More Bad Stuff Just Happened",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "A service dog gets super friendsly. Ebenezer Scrooge and the Ghost of Christmas Way-Future. A man takes a bumper sticker way too literally.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zKHPvuKeO9Tt4hHFFOruwkvZGOh.jpg"
+      },
+      {
+        "id": "tmdb:88728:1:5",
+        "title": "I'm Wearing One of Their Belts Right Now",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "A hot dog-shaped car crash. A co-worker latches on to an expression. Music studio riffing goes awry. An excuse for tardiness spirals out of control",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2IHThpbqChc2ThGRnyAwFsZzOon.jpg"
+      },
+      {
+        "id": "tmdb:88728:1:6",
+        "title": "We Used to Watch This at My Old Work",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-04-23T00:00:00.000Z",
+        "overview": "A solution to equine-related emasculation. A problematic game show mascot. Baby shower planning gets heated. A weird place to hold an intervention",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hgekZAE652uZeCSt34Sr8Tz9IIh.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:1",
+        "title": "They said that to me at a dinner.",
+        "season": 2,
+        "episode": 1,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "An unplanned meeting leads to lunchtime chaos. A prank show goes awry at the mall. The \"Little Buff Boys\" competition. A ghost tour guest goes too far.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/h8vKsbUsXfFvSyyL0FcHs7vU6iN.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:2",
+        "title": "They have a cake shop there Susan where the cakes just look stunning.",
+        "season": 2,
+        "episode": 2,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "An office dispute over shirt patterns. A little lie about the ice cream store escalates quickly. A man suspects a baby is aware of his checkered past.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/22wYhokJQ9kP6Kd23zK9tIdOoDK.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:3",
+        "title": "You sure about that? You sure about that that's why?",
+        "season": 2,
+        "episode": 3,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "A professor really regrets his dinner order. The Carber hot dog vacuum. \"Detective Crashmore.\" A hat has its day in court.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pRITOlOxjAIgUsrzoar3ExWzEwI.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:4",
+        "title": "Everyone just needs to be more in the moment.",
+        "season": 2,
+        "episode": 4,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "An offhanded joke leaves a husband guilt-ridden. An attempt to ease tensions during a trip backfires. A pants-centric website with a specific purpose.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3xiSgNpYeeSjmrLNc38rhNx2UKJ.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:5",
+        "title": "Didn't you say there was gonna be five people at this table?",
+        "season": 2,
+        "episode": 5,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "A novice driver in a parking lot. Defying the rules of credit card roulette. Celebrity impersonators get unruly. Date night at a cosmos-themed bar.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/g8xtmf7h78KR2j4IxVql5Ik84hV.jpg"
+      },
+      {
+        "id": "tmdb:88728:2:6",
+        "title": "I need a wet paper towel.",
+        "season": 2,
+        "episode": 6,
+        "released": "2021-07-06T00:00:00.000Z",
+        "overview": "A mistaken identity at work. The new \"Tammy Craps\" doll. Some interesting instructional videos during a Driver's Ed class and an attempted ear-piercing.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3vvksk2X6gmJr0djD6VXJHaTkZj.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:1",
+        "title": "THAT WAS THE EARTH TELLING ME I'M SUPPOSED TO DO SOMETHING GREAT.",
+        "season": 3,
+        "episode": 1,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "A TV pundit copes with conflict. Team building breaks down. Is Ronnie here for the right reasons? A dad tries to look tough. James asks for a ride home.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7FtWC5Xrmmx7UeOZTL9BYBgU0xN.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:2",
+        "title": "I CAN DO WHATEVER I WANT.",
+        "season": 3,
+        "episode": 2,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "A VR shopping spree takes a turn. Consider a high-security dog door! Ponytail problems. A bad egg at the office. Old wounds surface at a sitcom taping.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cpCslrKvvwJ40aiZvaUnIgJx2Uc.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:3",
+        "title": "CUT TO: WE'RE CHATTING ABOUT THIS AT YOUR BACHELOR PARTY.",
+        "season": 3,
+        "episode": 3,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "A silent performer builds a hostile fanbase. First date jitters. A doctor monitors a patient's heart. Paying it forward. Catharsis at an office party.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/AhtsHNzLouq298PUB6yDTUqq7q9.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:4",
+        "title": "SO NOW EVERY TIME I'M ABOUT TO DO SOMETHING I REALLY WANT TO DO, I ASK MYSELF, \"WAIT A MINUTE, WHAT IS THIS?\"",
+        "season": 3,
+        "episode": 4,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "Stuart's co-workers learn about his friend group. A proposal spot does double duty. Try Gelutol! Goodbye, Ronnie. Matching shirts at a school concert.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yrL41pnaM5PjpBigsDNZSde5x2t.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:5",
+        "title": "DON'T JUST SAY \"RELAX,\" ACTUALLY RELAX.",
+        "season": 3,
+        "episode": 5,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "Amanda, do not say Randall is interesting. Father of the bride vs. a wedding photo booth. A new small-talk strategy at a party yields unexpected results.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/BuLqdQGXUx4OWIF50E078s5lSU.jpg"
+      },
+      {
+        "id": "tmdb:88728:3:6",
+        "title": "WHEN I FIRST THOUGHT OF THIS YOU DIDN'T EVEN HAVE HANDS UP THERE — YOU WERE JUST WALKING STRAIGHT UP THE WALL.",
+        "season": 3,
+        "episode": 6,
+        "released": "2023-05-30T00:00:00.000Z",
+        "overview": "Banana breath at sensitivity training. Technical issues hit Metal Motto Search. Don Bon Darley loses his touch. What's up with Draven's Tasty Time Vids?",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7INlxswLo8UVBILrJTMWu1UnIhM.jpg"
+      }
+    ]
+  }
+}

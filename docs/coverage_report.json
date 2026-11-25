@@ -8,8 +8,8 @@
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 57,
     "catalog_movie_records": 3032,
-    "tv_review_leads": 1336,
-    "youtube_review_candidates": 125
+    "tv_review_leads": 3296,
+    "youtube_review_candidates": 191
   },
   "comedians": [
     {
@@ -95,7 +95,7 @@
       "priority": "established",
       "movie_special_records": 2,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 6,
       "independent_unmatched_works": [
         {
           "title": "Making Lite of Myself",
@@ -1190,7 +1190,7 @@
       "priority": "established",
       "movie_special_records": 2,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 4,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"
@@ -2570,7 +2570,7 @@
       "priority": "select_underrated",
       "movie_special_records": 0,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 2,
       "independent_unmatched_works": [],
       "needs_attention": true,
       "coverage_claim": "incomplete_evidence_only"

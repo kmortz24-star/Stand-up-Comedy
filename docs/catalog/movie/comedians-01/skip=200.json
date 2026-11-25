@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt1284973",
+      "type": "movie",
+      "name": "Brian Regan: The Epitome of Hyperbole",
+      "poster": "https://image.tmdb.org/t/p/w500/u5imqGgIl3yqQ5RrGvn3mhRNGhg.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt5748362",
+      "type": "movie",
+      "name": "Brian Regan: Live From Radio City Music Hall",
+      "poster": "https://image.tmdb.org/t/p/w500/WGHmlFrZykmKe7OCz0ZVh04iA8.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "standupyt_NqK1gyTYt8M",
       "type": "movie",
       "name": "Brian Simpson | Live From The Mothership (Full Comedy Special) [YouTube]",

@@ -1,3 +1,85 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "standupyt_GvVXyXNFvrg",
+      "type": "movie",
+      "name": "“He Thought My Dad Was My Sugar Daddy” - Gus Constantellis - Stand-Up Featuring [YouTube]",
+      "poster": "https://i.ytimg.com/vi/GvVXyXNFvrg/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/GvVXyXNFvrg/hqdefault.jpg",
+      "description": "Gus Constantellis · 13 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_NhnMwAwURvg",
+      "type": "movie",
+      "name": "\"No, You're Not Slim Shady\" - Tom Papa - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/NhnMwAwURvg/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/NhnMwAwURvg/hqdefault.jpg",
+      "description": "Tom Papa · 21 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_-gbxzkU80HI",
+      "type": "movie",
+      "name": "Lavell Crawford: “The Devil Want Me to Stay Fat” - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/-gbxzkU80HI/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/-gbxzkU80HI/hqdefault.jpg",
+      "description": "Lavell Crawford · 21 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_aMPPOpYEiuQ",
+      "type": "movie",
+      "name": "Rachel Feinstein: “The Godless Things I’ve Done...” - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/aMPPOpYEiuQ/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/aMPPOpYEiuQ/hqdefault.jpg",
+      "description": "Rachel Feinstein · 20 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_exUKjQp_xo4",
+      "type": "movie",
+      "name": "Gianmarco Soresi | Shelf Life (2020) | Full Stand Up Comedy Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/exUKjQp_xo4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/exUKjQp_xo4/hqdefault.jpg",
+      "description": "Gianmarco Soresi · 31 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_mfjnDLbCroQ",
+      "type": "movie",
+      "name": "15 Minutes of Bill Burr Stand-Up Comedy | Netflix Is A Joke [YouTube]",
+      "poster": "https://i.ytimg.com/vi/mfjnDLbCroQ/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/mfjnDLbCroQ/hqdefault.jpg",
+      "description": "Bill Burr · 15 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_LNUfe1aMEDA",
+      "type": "movie",
+      "name": "“How Do You Sleep at Night?” - Andrew Santino - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/LNUfe1aMEDA/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/LNUfe1aMEDA/hqdefault.jpg",
+      "description": "Andrew Santino · 21 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_yTsGxPRVZX0",
+      "type": "movie",
+      "name": "He’s Fluffy! - Gabriel Iglesias: Comedy Central Presents - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yTsGxPRVZX0/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yTsGxPRVZX0/hqdefault.jpg",
+      "description": "Gabriel Iglesias · 21 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "standupyt_sGEAqq16gYU",
+      "type": "movie",
+      "name": "“What Is Going On?” - Sebastian Maniscalco: Comedy Central Presents - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/sGEAqq16gYU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/sGEAqq16gYU/hqdefault.jpg",
+      "description": "Sebastian Maniscalco · 21 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2022"
+    }
+  ]
 }

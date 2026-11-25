@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "tmdb:1229",
+    "type": "series",
+    "name": "Tim and Eric Awesome Show, Great Job!",
+    "releaseInfo": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/1dzPN5M6BbT44CTMaXqqkIdhOWK.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/hqzle7QIKvk8PvIMcK1gh9waOH4.jpg",
+    "description": "Tim and Eric Awesome Show, Great Job! is an American sketch comedy television series, created by and starring Tim Heidecker and Eric Wareheim, which premiered February 11, 2007 on Cartoon Network's Adult Swim comedy block and ran until May 2010. The program features surrealistic and often satirical humor, public-access television–style musical acts, bizarre faux-commercials, and editing and special effects chosen to make the show appear camp.\n\nThe program featured a wide range of actors, spanning from stars such as Will Ferrell, John C. Reilly, David Cross, Bob Odenkirk, Will Forte and Zach Galifianakis, to alternative comedians like Neil Hamburger, to television actors like Alan Thicke, celebrity look-alikes and impressionists.\n\nThe creators of the show have described it as \"the nightmare version of television.\"",
+    "videos": [
+      {
+        "id": "tmdb:1229:1:1",
+        "title": "Dads",
+        "season": 1,
+        "episode": 1,
+        "released": "2007-02-11T00:00:00.000Z",
+        "overview": "Tim gets a gift basket from his father.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pPonV5GRboiSbyMWqj5zwZ3nknJ.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:2",
+        "title": "Friends",
+        "season": 1,
+        "episode": 2,
+        "released": "2007-02-18T00:00:00.000Z",
+        "overview": "Eric sends Tim an ornamental hot dog; Ron Auster teaches children how to dance.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sKpFYupG40W8EL6ZLStWhfQA61K.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:3",
+        "title": "Cats",
+        "season": 1,
+        "episode": 3,
+        "released": "2007-02-25T00:00:00.000Z",
+        "overview": "Tim learns a problematic new magic trick; free portraits on Hollywood Boulevard.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ykdHpKyAqfgAPYBPWtf1z6OJzbC.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:4",
+        "title": "Salame",
+        "season": 1,
+        "episode": 4,
+        "released": "2007-03-04T00:00:00.000Z",
+        "overview": "Tim and Eric hold a seminar on how to build a successful sitcom writing career.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yjg746lajqW4whQVT1Jy2Wvnam2.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:5",
+        "title": "Chunky",
+        "season": 1,
+        "episode": 5,
+        "released": "2007-03-11T00:00:00.000Z",
+        "overview": "A chunky lady's love for her mean boss reaches a boiling point.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bScNMrbmCBV5cky4c6FB4FqiaOi.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:6",
+        "title": "Slop",
+        "season": 1,
+        "episode": 6,
+        "released": "2007-03-18T00:00:00.000Z",
+        "overview": "Dilly is surprised when he finds a batch of cooked shrimp washed ashore and Krunk trips on his way to investigate.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7lA4t1z2j2xujtG1nWPrNi6FxIH.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:7",
+        "title": "Abstinence",
+        "season": 1,
+        "episode": 7,
+        "released": "2007-03-25T00:00:00.000Z",
+        "overview": "An old man photographs himself by mistake.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/t8oyT6e1W8rCoYDgCAT96OVzEeC.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:8",
+        "title": "Anniversary",
+        "season": 1,
+        "episode": 8,
+        "released": "2007-04-01T00:00:00.000Z",
+        "overview": "The 50th Anniversary Show.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/miza8ZdeQYN4N3i6Mcgp8M9YGnu.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:9",
+        "title": "Hamburger",
+        "season": 1,
+        "episode": 9,
+        "released": "2007-04-08T00:00:00.000Z",
+        "overview": "Tim and Eric are late in delivering the episode and rely on Hamburger Taxi to get there on time.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/5AlTH9jHY8ufNANOSTDyNFM4HEn.jpg"
+      },
+      {
+        "id": "tmdb:1229:1:10",
+        "title": "Missing",
+        "season": 1,
+        "episode": 10,
+        "released": "2007-04-15T00:00:00.000Z",
+        "overview": "The Uncle Muscles Hour is turned upside down when Casey goes missing.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xU3GmZCiISJPCsJX1aXSdYbaXNa.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:1",
+        "title": "Vacation",
+        "season": 2,
+        "episode": 1,
+        "released": "2007-11-18T00:00:00.000Z",
+        "overview": "Raz threatens to come between Tim and Eric's partnership.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zfjVIq83Egx4ICZRQ6F5edmLqd8.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:2",
+        "title": "Dad's Off",
+        "season": 2,
+        "episode": 2,
+        "released": "2007-11-25T00:00:00.000Z",
+        "overview": "Armando's day at work gets sidetracked when he finds an unexpected surprise waiting for him in the dumpster. Spagett!! The Heidecker family shows off their state-of-the-art technology at having fun while Eric's family makes do with a home-made slip & slide.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sI3XAgfmuYP9haMsj0UIJVWHmS8.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:3",
+        "title": "Dolls",
+        "season": 2,
+        "episode": 3,
+        "released": "2007-12-02T00:00:00.000Z",
+        "overview": "Baseball Man is forced to take action after noticing odd behavior from one of Chip's dolls during his date with Cindy. Dr. Steve Brule teaches some self-defense. A large man sings a song about sitting on you.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/d2WCVVECGEtMOxG8mtaSr8ohJOa.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:4",
+        "title": "Coma",
+        "season": 2,
+        "episode": 4,
+        "released": "2007-12-09T00:00:00.000Z",
+        "overview": "Tim's birthday is coming up and Eric can't wait, so he takes Wait Mate pills. The problem is, he takes too many and loses his memory.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4gcy0T76PNKiOSWjOFxrQj4wrXW.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:5",
+        "title": "Forest",
+        "season": 2,
+        "episode": 5,
+        "released": "2007-12-16T00:00:00.000Z",
+        "overview": "Tim's life is saved by the Snuggler.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yJmHUScvNSvju5EDKERA56dFQtl.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:6",
+        "title": "Carol",
+        "season": 2,
+        "episode": 6,
+        "released": "2007-12-23T00:00:00.000Z",
+        "overview": "A tape that Carol made for Mr. Henderson is revealed, and her worst fear is realized.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/khfh1Z9o1mFndWxOqb5k6MyQiO5.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:7",
+        "title": "Robin",
+        "season": 2,
+        "episode": 7,
+        "released": "2008-01-06T00:00:00.000Z",
+        "overview": "Tim recieves a robin from Eric. A dad and his father spend a silent moment in the hallway.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/t2ntqVF7geVxov9k4rSQKoPRxey.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:8",
+        "title": "Innernette",
+        "season": 2,
+        "episode": 8,
+        "released": "2008-01-13T00:00:00.000Z",
+        "overview": "The Innernette comes with 103 websites and virus protection! Get your Pussy Doodle and have your cat paint you a picture.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jTOEZXTmeCFr6nLVDZLHM8ck4Zq.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:9",
+        "title": "Pepperoni",
+        "season": 2,
+        "episode": 9,
+        "released": "2008-01-20T00:00:00.000Z",
+        "overview": "The Bread Heads try to get to a Bread Harrity concert. The Mayor and Roy Teppert have a disagreement.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/e5S1UOyfdY6VR4qZlavmwpn510n.jpg"
+      },
+      {
+        "id": "tmdb:1229:2:10",
+        "title": "Embarrassed",
+        "season": 2,
+        "episode": 10,
+        "released": "2008-01-27T00:00:00.000Z",
+        "overview": "Tim gets embarrassed when Eric shows a naked baby picture of him. Steve Brule gets drunk while doing a report on wine.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/uZyfPTaEMbSMeUdfPr9BbHlBLqa.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:1",
+        "title": "Resurrection",
+        "season": 3,
+        "episode": 1,
+        "released": "2008-07-27T00:00:00.000Z",
+        "overview": "Tim returns from the dead with a special gift.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1XFKu6CLgPJ0cqssrOTD1k1vm4d.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:2",
+        "title": "Chan",
+        "season": 3,
+        "episode": 2,
+        "released": "2008-08-03T00:00:00.000Z",
+        "overview": "One Word - Jackie Chan. Channel 5 celebrates 100 years of Jackie Chan. Steve Mahanahan advertises a Child Clown training video.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1xG1K0WQuy0LbbZSZGDj6Vlviz4.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:3",
+        "title": "Rascals",
+        "season": 3,
+        "episode": 3,
+        "released": "2008-08-10T00:00:00.000Z",
+        "overview": "Those Darn Rascals. Bob Odenkirk tries to fix Tim and Eric's friendship when Tim kills Eric's rascal. Cinco introduces the Cinco-Fone. Tairy Greene teaches a child acting class.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pGNTfsctTsEBmomdLzJoBN2sUDy.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:4",
+        "title": "Spagett",
+        "season": 3,
+        "episode": 4,
+        "released": "2008-08-17T00:00:00.000Z",
+        "overview": "The Adventure Begins. Spagett goes Hollywood, and a friendship is threatened. Love is not always hard. (John C. Reilly, Brian Posehn, Steve Schirripa)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jpJ4q5t7p2bDRZdKQRZ7HeY29p5.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:5",
+        "title": "C.O.R.B.S.",
+        "season": 3,
+        "episode": 5,
+        "released": "2008-08-24T00:00:00.000Z",
+        "overview": "When Tim and Eric run out of show ideas, Aboxa balloons drops by. Steve Brule has a report about the internet, where he then makes a video, and hopes it will go viral. C.O.R.B.S (Cops on Recumbent Bikes) attempt to stop a group of Colombian terrorists trying to take over a sugar factory, which ends in a terrible tragedy, and some sound effects. Grill Vogel teaches you how to hug appropriately in a workplace. We're also introduced to a family dealing with divorce, and the Cinco Eye Tanning System.  (John C. Reilly and Ray Wise)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/c6P6DvZAoaYjQ2BWow5KIjocCgm.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:6",
+        "title": "Jim and Derrick",
+        "season": 3,
+        "episode": 6,
+        "released": "2008-08-31T00:00:00.000Z",
+        "overview": "Jim and Derrick board, Chug, and get chill with Elisha Cuthbert in the zone. You just got bonged! And damn... Drez plays it all back. Also, Cinco's Pep Pep makes an appearance. (Elisha Cuthbert and John Mayer)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iPeT7bXAdGcLTRI5s3T2nNmv9py.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:7",
+        "title": "Jazz",
+        "season": 3,
+        "episode": 7,
+        "released": "2008-09-07T00:00:00.000Z",
+        "overview": "Tim and Eric lead their jazz band through jazz chatter scats. The Beaver Boys visit a restaurant and come into contact with some shrimp and white wine. How do you truly clean up after your cat? (Maria Bamford and Bill Hader)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/nXilWVE62o78owBC11hufxc1Yst.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:8",
+        "title": "Muscles for Bones",
+        "season": 3,
+        "episode": 8,
+        "released": "2008-09-14T00:00:00.000Z",
+        "overview": "Channel 5 Live broadcast of the Muscles for Bones benefit for Richard Dunn. Starring Richard Dunn, David Liebe Hart, Casey and his Brother, Uncle Muscles, Steve Brule and more!",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6FVFD2X7xL7DK34XgUiUv8s1Q3w.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:9",
+        "title": "Larry",
+        "season": 3,
+        "episode": 9,
+        "released": "2008-09-21T00:00:00.000Z",
+        "overview": "Larry gets jealous of Mr. Henderson and Carol's date together. Burps with Tim & Eric. Tairy Greene's acting class continues. Bobby Stoan performs on the Channel 5 Child Showcase.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bPzC84S1mBILjA414BUms422yDC.jpg"
+      },
+      {
+        "id": "tmdb:1229:3:10",
+        "title": "Brownies",
+        "season": 3,
+        "episode": 10,
+        "released": "2008-09-26T00:00:00.000Z",
+        "overview": "Tim's mother makes homemade brownies. Lindsay Porch sings \"I Can Wait\". Richard Dunn hosts \"Shot Dunn\". Dr. Steve Brule explains stomach doubling.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sUjFeB8ns5SB45zcIjvdd2YxkQl.jpg"
+      },
+      {
+        "id": "tmdb:1229:4:1",
+        "title": "Snow",
+        "season": 4,
+        "episode": 1,
+        "released": "2009-02-08T00:00:00.000Z",
+        "overview": "When a blizzard snows in Tim and Eric, they reminisce over hot chocolate and urine with David Liebe Hart and Richard Dunn."
+      },
+      {
+        "id": "tmdb:1229:4:2",
+        "title": "Balls",
+        "season": 4,
+        "episode": 2,
+        "released": "2009-02-15T00:00:00.000Z",
+        "overview": "When Eric's 3-T Scroat starts acting up, Tim is forced to investigate.  But can you find the real one?"
+      },
+      {
+        "id": "tmdb:1229:4:3",
+        "title": "Universe",
+        "season": 4,
+        "episode": 3,
+        "released": "2009-02-22T00:00:00.000Z",
+        "overview": "Tim and Eric examine the mysteries of the universe.  Pierre launches a PSA about food poisoning.  The Zillions crew is back with a very special episode of a Celebrity Zillions."
+      },
+      {
+        "id": "tmdb:1229:4:4",
+        "title": "Road Trip",
+        "season": 4,
+        "episode": 4,
+        "released": "2009-03-01T00:00:00.000Z",
+        "overview": "Tim and Eric embark on a road trip.  James Quall goes Back to Squall."
+      },
+      {
+        "id": "tmdb:1229:4:5",
+        "title": "Tommy",
+        "season": 4,
+        "episode": 5,
+        "released": "2009-03-08T00:00:00.000Z",
+        "overview": "Tim and Eric hire Tommy Wiseau to direct a \"Pig Man\" sketch for them. Features clips from The Room.  Cinco introduces the Mancierge service."
+      },
+      {
+        "id": "tmdb:1229:4:6",
+        "title": "Origins",
+        "season": 4,
+        "episode": 6,
+        "released": "2009-03-15T00:00:00.000Z",
+        "overview": "Tim and Eric's origins, The Cinco Mouth Decorator, Dr Steve Brule with a tip on eggs."
+      },
+      {
+        "id": "tmdb:1229:4:7",
+        "title": "Presidents",
+        "season": 4,
+        "episode": 7,
+        "released": "2009-03-22T00:00:00.000Z",
+        "overview": "Ben Hur hosts The Ben Hur Show Awesome. Includes a commercial for FreeRealEstateForJim.biz, a Kid Break about bloody nipples, Channel 5 Presents The Human Body with Dr. Steve Brule, Tim and Eric both want to be President during a press conference, \"White Boys\", Michael Ian Black Focus on Comedy with guests Tim and Eric, and an ad for The Best of Pusswhip Banggang album."
+      },
+      {
+        "id": "tmdb:1229:4:8",
+        "title": "Hair",
+        "season": 4,
+        "episode": 8,
+        "released": "2009-03-29T00:00:00.000Z",
+        "overview": "Cinco introduces the C-Bund as a \"great alternative to pants\", Tim graduates from barber school, \"Live With my Dad\" song, J.J. Pepper's Videography ad(guest starring Will Forte), Afternoon Review, Eric ruins Tim's graduation party, \"Reasonable Shirts\", Cinco Musical Tapes presents \"Groban sings Casey\" ad."
+      },
+      {
+        "id": "tmdb:1229:4:9",
+        "title": "Brothers Cinco",
+        "season": 4,
+        "episode": 9,
+        "released": "2009-04-05T00:00:00.000Z",
+        "overview": "A short film featuring the brothers Cinco; Mark (Tim) & Terry (Eric). During CincoCon, Terry is officially charged with the murder of his wife Lynn. The company rolls out their \"E-Trial\" software, which takes the place of an actual trial."
+      },
+      {
+        "id": "tmdb:1229:4:10",
+        "title": "Tennis",
+        "season": 4,
+        "episode": 10,
+        "released": "2009-04-12T00:00:00.000Z",
+        "overview": "Tim and Eric engage in a high stakes game of tennis, while Richard Dunn presides.  Meanwhile, Glen Tennis sits down with Grum to discuss the release of their latest film."
+      },
+      {
+        "id": "tmdb:1229:5:1",
+        "title": "Comedy",
+        "season": 5,
+        "episode": 1,
+        "released": "2010-02-28T00:00:00.000Z",
+        "overview": "Tim and Eric return at top form with the new and improved show the fans have been wanting. Diahhreaphragm with Jack McBrayer, Diahhreabedis, Quall Of Duty: San Diego Streets, Morning Meditations, Brule's Rules."
+      },
+      {
+        "id": "tmdb:1229:5:2",
+        "title": "Puberty",
+        "season": 5,
+        "episode": 2,
+        "released": "2010-03-07T00:00:00.000Z",
+        "overview": "Eric hits puberty naturally before Tim, causing Tim to seek out synthetic ways to activate puberty to catch up with Eric. Fortin' with Will."
+      },
+      {
+        "id": "tmdb:1229:5:3",
+        "title": "Re-Animated",
+        "season": 5,
+        "episode": 3,
+        "released": "2010-03-14T00:00:00.000Z",
+        "overview": "Casey Tatum, who died in a fiery car crash in a previous season, is brought back to life by his brother after a little girl discovers his bones in the woods. Wendell Pierce guest stars as the detective tasked with the remains."
+      },
+      {
+        "id": "tmdb:1229:5:4",
+        "title": "Choices",
+        "season": 5,
+        "episode": 4,
+        "released": "2010-03-21T00:00:00.000Z",
+        "overview": "Tim writes the semi-autobiographical novel Choices: The Problem with Eric Wareheim, much to Eric's dismay. Meanwhile, the Cinco H'amb saves another life by offering a cheaper alternative to expensive food products (Guest starring William Sanderson). Two actors discuss their achievements in All Dolled Up, and Dr. Steve Brule delivers a depressing message."
+      },
+      {
+        "id": "tmdb:1229:5:5",
+        "title": "Crows",
+        "season": 5,
+        "episode": 5,
+        "released": "2010-03-28T00:00:00.000Z",
+        "overview": "Tim's eyes are pecked out by crows. Cinco advertises the Sleep Watching Chair, a product that helps male friends watch each other sleep. Flamboyant pop group The Paynus Brothers release a new single and start a spanking craze."
+      },
+      {
+        "id": "tmdb:1229:5:6",
+        "title": "Lucky",
+        "season": 5,
+        "episode": 6,
+        "released": "2010-04-04T00:00:00.000Z",
+        "overview": "Tim wears a Cinco Musky Tusk Necklace for good luck, while claiming that Eric's rabbit's foot necklace has no effect. Pierre dreams of a barbecue while under the influence of Dream Cream. The Cinco Bro-oche is advertised in a parody of the Eye Tanning System from \"C.O.R.B.S.\""
+      },
+      {
+        "id": "tmdb:1229:5:7",
+        "title": "Stuntmen",
+        "season": 5,
+        "episode": 7,
+        "released": "2010-04-11T00:00:00.000Z",
+        "overview": "Steve Mahanahan will be going to jail for touching a clown, but his father Donald's Original Child Clown Outlet remains in business. Disaster strikes when the Stontmehn Brothers perform the \"exploding pumpkin\" trick on Feminine Perspectives."
+      },
+      {
+        "id": "tmdb:1229:5:8",
+        "title": "Handsome",
+        "season": 5,
+        "episode": 8,
+        "released": "2010-04-18T00:00:00.000Z",
+        "overview": "Tim and Eric go on a quest to determine who is number one handsome man. Meanwhile, a party is successfully slept away with Cinco Face-Time Party Snoozer."
+      },
+      {
+        "id": "tmdb:1229:5:9",
+        "title": "Greene Machine",
+        "season": 5,
+        "episode": 9,
+        "released": "2010-04-25T00:00:00.000Z",
+        "overview": "An infomercial for the vending machine-sized database of every work Tairy Greene (Zach Galifianakis) has ever acted in."
+      },
+      {
+        "id": "tmdb:1229:5:10",
+        "title": "Man Milk",
+        "season": 5,
+        "episode": 10,
+        "released": "2010-05-02T00:00:00.000Z",
+        "overview": "The half-hour series finale. Tim and Eric are gearing up for the holidays when they begin to lactate. Thinking quickly, the boys (and Eric's son Koi) decide to bottle their man milk to give as holiday gifts. However, they neglect to pasteurize the milk, killing everyone. Meanwhile, Ben Stiller and Ben Hur join forces to form the dynamic comedy duo Ben StillHur, Cinco unveils its Privacy Helmet, David Liebe Hart sings about overseas STDs, and Paul Rudd watches dancing men on a computer and becomes smitten with Tayne."
+      }
+    ]
+  }
+}

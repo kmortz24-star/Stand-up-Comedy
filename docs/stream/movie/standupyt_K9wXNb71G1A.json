@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "YouTube (try in app)",
+      "title": "YouTube · Experimental in-app playback",
+      "ytId": "K9wXNb71G1A"
+    },
+    {
+      "name": "YouTube (open externally)",
+      "title": "YouTube · Browser / YouTube app",
+      "externalUrl": "https://www.youtube.com/watch?v=K9wXNb71G1A"
+    }
+  ]
+}

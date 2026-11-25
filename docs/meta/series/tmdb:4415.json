@@ -1,0 +1,1161 @@
+{
+  "meta": {
+    "id": "tmdb:4415",
+    "type": "series",
+    "name": "In Living Color",
+    "releaseInfo": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/u5BZEJ9X6L24a1MUAun1SdkOFTn.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/hV1VPEmx2RZSL5XVWdw7U8IhlHo.jpg",
+    "description": "Created by stars Keenen Ivory Wayans and Damon Wayans, this Emmy-winning sketch series offers cutting-edge satire and features a host of talent, including Jamie Foxx, Jim Carrey, David Alan Grier and Tommy Davidson.",
+    "videos": [
+      {
+        "id": "tmdb:4415:1:1",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "1990-04-15T00:00:00.000Z",
+        "overview": "\"Love Connection\" host Chuck Woolery questions Robin Givens about her date with Mike Tyson; Redd Foxx gives tax tips. Also: \"Men on Film.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/m8gbBLf8RwlCDxidUXQfDAodSRk.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:2",
+        "title": "The Wrath of Farrakhan",
+        "season": 1,
+        "episode": 2,
+        "released": "1990-04-21T00:00:00.000Z",
+        "overview": "Arsenio Hall welcomes Marion Barry to his show. Also: Keenen and Damon Wayans introduce the \"Do-It-Yourself Milli Vanilli Kit.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/68f3IiHPUsv4omeptO3RCl1CQSH.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:3",
+        "title": "Lean On Me Beautiful",
+        "season": 1,
+        "episode": 3,
+        "released": "1990-04-28T00:00:00.000Z",
+        "overview": "A beauty-school principal lays down the law; an inner-city Lassie saves Timmy and Mom from disaster; talk-show conversation turns intense.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/boCudTx33WmK4h50qiSVJzWdUwB.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:4",
+        "title": "Transitions",
+        "season": 1,
+        "episode": 4,
+        "released": "1990-05-05T00:00:00.000Z",
+        "overview": "\"Men on Art\"; Anton \"entertains\" a subway audience; parodies of Oprah and Billy Dee Williams.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8JYixxZhzouDllAdOJPcb07RTNI.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:5",
+        "title": "A Date With Grace Jones",
+        "season": 1,
+        "episode": 5,
+        "released": "1990-05-12T00:00:00.000Z",
+        "overview": "Boxing greats find a child on their doorstep; a corporate climber hopes his date is suitable; a condo caters to a corpulent clientele; an interpreter introduces Ambassador Shirley Temple Black to her new post.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wHehEwhDQPYWyafZSGssSdrSvMP.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:6",
+        "title": "Jheri's Kids",
+        "season": 1,
+        "episode": 6,
+        "released": "1990-05-19T00:00:00.000Z",
+        "overview": "A picky karate instructor; a specific chemical dependency; the creative process of Tracy Chapman; a yuppie couple at an earthy eatery; a businessman trying to be young.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9h6isCaKO91U2YTSTnhBqTSUksJ.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:7",
+        "title": "Don King - The Early Years",
+        "season": 1,
+        "episode": 7,
+        "released": "1990-05-27T00:00:00.000Z",
+        "overview": "\"Men on Books\"; a black leader's early years; the Jamaican sitcom \"Hey Mon\"; rappers Salt-n-Pepa hosting a cooking show; a wise men's-room attendant; a \"colorized\" classic from Ted Turner.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/blU36rPgj9jxCFMoyNLjWyUNEXU.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:8",
+        "title": "Endangered Species",
+        "season": 1,
+        "episode": 8,
+        "released": "1990-06-03T00:00:00.000Z",
+        "overview": "Anton gives home-remodeling tips; \"President Jesse Jackson\" holds a press conference; a domestic dispute at a salon takes its toll on a client; \"Joan Embery\" shows an endangered species to \"Alan Thicke.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/a6lUMMthvgyIICfvHeQvAlnAXDh.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:9",
+        "title": "Introducing...Homey D. Clown",
+        "season": 1,
+        "episode": 9,
+        "released": "1990-06-17T00:00:00.000Z",
+        "overview": "Whizzer and Ice offer a seminar on making money; \"Andrea Dice Clay\" does her routine. Also: \"America's Funniest Security Camera Videos.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wlKwZak4bhiqzV7cWj8GiFlhHYw.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:10",
+        "title": "Vera DeMilo",
+        "season": 1,
+        "episode": 10,
+        "released": "1990-06-24T00:00:00.000Z",
+        "overview": "An ad for a new celebrity toy; a forgetful Don Cornelius hosting \"Old Train\"; a female bodybuilding contest.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pAVFiso9oRD8kNkORfSK5qEjdAH.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:11",
+        "title": "Anton In The People's Court",
+        "season": 1,
+        "episode": 11,
+        "released": "1990-07-15T00:00:00.000Z",
+        "overview": "Sketches include the homeless Anton defending himself in a people's court; a parody of rapper MC Hammer; Ted Turner's \"colorized classic\" version of \"The Kid.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pbQ8ZIHRUKrdkMHsxu6cHxjiBJ5.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:12",
+        "title": "Conspiracy",
+        "season": 1,
+        "episode": 12,
+        "released": "1990-09-02T00:00:00.000Z",
+        "overview": "A cable repairman benefits when LaQuita tries to impress a producer. Also: a \"Ray Charles in Charge\" segment.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2oWNgybNeCSokp5U5XSnvXGx0gk.jpg"
+      },
+      {
+        "id": "tmdb:4415:1:13",
+        "title": "Homey D. Clown Returns",
+        "season": 1,
+        "episode": 13,
+        "released": "1990-09-09T00:00:00.000Z",
+        "overview": "Damon Wayans plays Homey the Clown; comedienne Samantha Kinison speaks on men and marriage.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bW3lHZqZ6xGUQYtrlTUH6lyk78M.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:1",
+        "title": "Bigger Brothers",
+        "season": 2,
+        "episode": 1,
+        "released": "1990-09-23T00:00:00.000Z",
+        "overview": "Sketches include:\n\nHey Mon/Hedley Hospital /  Sidekick /  Bigger Brothers /  Mudhead's Funeral / Men On Films II / Flava Flave makes an appearance / Queen Latifah performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zB1aVJ6mNLn3OefhZm3w1HJABQB.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:2",
+        "title": "Anton at the Recruiter",
+        "season": 2,
+        "episode": 2,
+        "released": "1990-09-30T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Anton Volunteers\"\"   \"\"Training Men the Wodehouse Way\"\"   \"\"Roseanne Sings America\"\"   \"\"2 Live Crew\"\"   \"\"Homey the Clown: When Homey Met Sally\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/w9laMxQNqEDoDHn332fLb0FehHH.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:3",
+        "title": "Spike's Joint",
+        "season": 2,
+        "episode": 3,
+        "released": "1990-10-07T00:00:00.000Z",
+        "overview": "Sketches (not including intro) include:\n\n\"\"Flatuscents\"\"   \"\"Good Morning/Good Night (Magenta Thompson Show)\"\"   \"\"Cephus & Reesie's Broadway Tour\"\"   \"\"The Buttmans: Guess Who's Coming to Dinner\"\"   \"\"Spike's Joint\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hwLPz58tVqn50YDbjomBQpD4l3x.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:4",
+        "title": "Hour of Power",
+        "season": 2,
+        "episode": 4,
+        "released": "1990-10-14T00:00:00.000Z",
+        "overview": "Sketches include:\n\nTag Team Evangelists / Bonita Butrell: Uninvited Guest / 1-900-YT GUILT / Al MacAfee: Hall Monitor / Monie Love performs \"Monie in the Middle\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3GYESOeLftD6RveQTXKq6XFnEnu.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:5",
+        "title": "Miss Black Person USA",
+        "season": 2,
+        "episode": 5,
+        "released": "1990-10-21T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Black Like You\"\"   \"\"Go On Girl: Sensitive Men\"\"   \"\"I Won't Drift Away\"\"   \"\"Miss Black Person U.S.A.\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pjuDqVcsTBnFd8GIOVwXoxwlSKY.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:6",
+        "title": "The Black Man's Guide to Understanding the Black Woman",
+        "season": 2,
+        "episode": 6,
+        "released": "1990-10-28T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Hey Mon/Hedley Court\"\"   \"\"Shahrazad Ali's Video (The Black Man's Guide to Understanding the Black Woman)\"\"   \"\"Snackin' Shack\"\"   \"\"Frenchie\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/r3eriNqDps5NVBT4imVeTv4RKNn.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:7",
+        "title": "Funky Finger Productions",
+        "season": 2,
+        "episode": 7,
+        "released": "1990-11-04T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"B.S. Brothers: Penitentiary IV\"\"   \"\"Iraqi Fashion Show\"\"   \"\"Lil Miss Trouble: The School Play\"\"   \"\"Vera DeMilo: Buffed, Beautiful, and Bitchin'\"\"   \"\"Homeboy Shopping Network: Hollywood Homeboys\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/gTAEmKz8th46tvW1Z8y1EHN1JDl.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:8",
+        "title": "Laquita Meets Billy Dee",
+        "season": 2,
+        "episode": 8,
+        "released": "1990-11-11T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Magenta's Acting School\"\"   \"\"Foundation for Golf Heritage\"\"   \"\"Evelyn Smith\"\"   \"\"Laquita Sings the Blues\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fv8mfA0pw3cxPXW4Y9OTCcg1djR.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:9",
+        "title": "Men on Vacation",
+        "season": 2,
+        "episode": 9,
+        "released": "1990-11-18T00:00:00.000Z",
+        "overview": "Sketches include:\n\nA Lassie '90 Sequel / Amazing Grace - Rocky VI / Cousin Milly / PMS Defense System / Men on Vacation / 3rd Bass perform \"Product of the Environment\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mgXWxVFgND5AWMWabWdn3LipoLU.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:10",
+        "title": "Anton's Thanksgiving",
+        "season": 2,
+        "episode": 10,
+        "released": "1990-11-25T00:00:00.000Z",
+        "overview": "Sketches include:\n\nThe Brothers Brothers: Two Sisters for Two Brothers / Barbara Bush Visits the Illiterates / Dickie Peterson: Cherub of Justice / Anton's Thanksgiving / D-Nice performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tVemO7iMZDkfQdiCwR03dbnvRt3.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:11",
+        "title": "Justice Legions of America",
+        "season": 2,
+        "episode": 11,
+        "released": "1990-12-16T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Three Champs and a Little Lady\"\"   \"\"The Newlywed Game\"\"   \"\"The Good Behavior Variety Hour Show\"\"   \"\"Handi Man: The Justice Legion of America\"\"  Nikki D perorms",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/h75dzHuzR3yDSD5OBmyFmvRNHgA.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:12",
+        "title": "Veracosa",
+        "season": 2,
+        "episode": 12,
+        "released": "1990-12-23T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Vera DeMilo: Veracosa, Mistress of Destruction\"\"   \"\"Cephus & Reesie: Christmas Album\"\"   \"\"Lil Miss Trouble at the Museum\"\"   \"\"Homey the Clown: Homey Claus\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1KtiTKvY44BQPH2sCdKlJSAf1mC.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:13",
+        "title": "Johnny Abdul",
+        "season": 2,
+        "episode": 13,
+        "released": "1991-01-13T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"The Brothers Brothers: Tom and Tom for the Arizona Tourism Commission\"\"   \"\"Johnny Abdul - Saudi Rock Star\"\"   \"\"The Last Orphan\"\"   \"\"Velma Mulholland\"\"   \"\"B.S. Brothers: Funky Finger Productions\"\"   \"\"The Head Detective\"\"  / Rich Nice performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mxQ2zW0TNdanrjFn2aiRUsgKwtl.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:14",
+        "title": "Introducing...Fire Marshal Bill",
+        "season": 2,
+        "episode": 14,
+        "released": "1991-02-03T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Mr. Squeegee\"\"   \"\"B.S. Brothers: Big Break\"\"   \"\"Fashion Tampons\"\"   \"\"Fire Marshal Bill\"\"   \"\"Homey the Clown: Home E. Cheese\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6ysv4chLTOuPcGvYnRiEX6KyBjx.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:15",
+        "title": "My Dark Conscience",
+        "season": 2,
+        "episode": 15,
+        "released": "1991-02-10T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Vanilla Ice: White, White Baby\"\"   \"\"Benita Butrell: Block Captain\"\"   \"\"Al MacAfee: Prom Chaperone\"\"   \"\"Oswald Meets the Parole Board\"\"   \"\"My Dark Conscience\"\"   \"\"Fruit of the Loom Boxers\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fJSiD9cICGBWDPk7YOnPsSh7QXr.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:16",
+        "title": "Anton in the Burbs",
+        "season": 2,
+        "episode": 16,
+        "released": "1991-02-17T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Ejector Bed\"\"   \"\"Frenchie at a Bachelor Party\"\"   \"\"Lonny Parker, Attorney at Law\"\"   \"\"Les and Wes, Twin Stars\"\"   \"\"Anton in the Burbs\"\" / Leaders of the New School perform \"Case of the P.T.A.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cMJjvVQ8P4B1GSZjAy4khHbvSxN.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:17",
+        "title": "PCN's Win, Lose or Draw",
+        "season": 2,
+        "episode": 17,
+        "released": "1991-02-24T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Win, Lose or Draw\"\"   \"\"Milk Commercial\"\"   \"\"Pentagon Briefing\"\"   \"\"Calhoun Tubbs on the Campaign Trail\"\"   \"\"The Great Sperm Bank Robbery\"\"   \"\"Andrea Dice Clay on Love Connection\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/a0dw8RDGLBIlYTQeJ6fpJzT14hl.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:18",
+        "title": "Lil Magic's School Play",
+        "season": 2,
+        "episode": 18,
+        "released": "1991-03-03T00:00:00.000Z",
+        "overview": "Sketches include:\n\nThe Brothers Brothers: Tom and Tom at the Country Club / Oprah P.S.A. / End Zone Choreographer / Lil Magic: The Government Cheese / Fire Marshal Bill: Classroom Safety / Another Bad Creation perform \"Iesha\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iGK2dogkmGTBBT8cwFPcw0cGCFi.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:19",
+        "title": "Hour of Power: Tag Team Evangalists",
+        "season": 2,
+        "episode": 19,
+        "released": "1991-03-17T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Velma II\"\"   \"\"Cephus & Reesie: Last Request\"\"   \"\"Do You Feel Lucky Promo\"\"   \"\"The 595 Club\"\"   \"\"Vera DeMilo: Pretty Buffed Woman\"\" KRS-One performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sFmt9HFkB2NIYGDKFTJhY7OaNHT.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:20",
+        "title": "Super Fly",
+        "season": 2,
+        "episode": 20,
+        "released": "1991-03-31T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"B.S. Brothers and Sisters\"\"   \"\"Douche Commercial\"\"   \"\"Lil Miss Trouble Runs Away\"\"   \"\"The Superfly\"\"   \"\"Snackin' Shack: The New Waitress\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3sN6k18Axj7RGwFuT6yMYVBRSha.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:21",
+        "title": "Anton at the Recruiter",
+        "season": 2,
+        "episode": 21,
+        "released": "1991-04-14T00:00:00.000Z",
+        "overview": "Best of episode of \"\"In Living Color.\"\" Sketches include:\n\n\"\"Anton Volunteers\"\"   \"\"Fashion Tampons\"\"   \"\"Spike's Joint\"\"   \"\"I Won't Drift Away\"\"   \"\"Ejector Bed\"\"   \"\"The Head Detective\"\"   \"\"Men on Films II\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ppbXNruwLaGdsR5deSOSANGqma4.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:22",
+        "title": "Arsenio Hall of Justice",
+        "season": 2,
+        "episode": 22,
+        "released": "1991-04-28T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Detective Head Goes Bowling\"\"   \"\"Handi Man's Evil Twin\"\"   \"\"The Arsenio Hall of Justice\"\" Public Enemy & Ice Cube perform",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wmFbpZlYCAM10BRVIQjhzhciO4o.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:23",
+        "title": "Compilations",
+        "season": 2,
+        "episode": 23,
+        "released": "1991-05-05T00:00:00.000Z",
+        "overview": "Best of episode of \"\"In Living Color.\"\" Sketches include:\n\n\"\"Three Champs and a Little Lady\"\"   \"\"Black Like You\"\"   \"\"New Ambassador\"\"   \"\"The Making of a Tracy Chapman Song\"\"   \"\"Mo' Money with Whiz and Ice\"\"   \"\"Vanilla Ice: White, White Baby\"\"  The Afros perform",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lrGQ4Y4z0Ex8K6MQ2qOrY6CnjDH.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:24",
+        "title": "Homey the Sellout: Part 1",
+        "season": 2,
+        "episode": 24,
+        "released": "1991-05-12T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Lil Magic: The Audition\"\"   \"\"Oprah's Restaurant\"\"   \"\"Homey the Clown: Homey the Sellout\"\"   \"\"Men On Television\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/kTWT6q41677dRynVhzLqX86LVEm.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:25",
+        "title": "Dickie Peterson: Cherub of Justice",
+        "season": 2,
+        "episode": 25,
+        "released": "1991-08-11T00:00:00.000Z",
+        "overview": "Sketches include:\n\n\"\"Dickie Peterson: Secret Service\"\"   \"\"A New 911 Message Service\"\"   \"\"Frenchie at the Opera\"\"   \"\"Clear Conscience Fur Farm and Outlet Store\"\"   \"\"Velma Sings\"\"   \"\"Visiting Day for Oswald\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/c92h8KojdDHQHbNy9n9iscvEXUV.jpg"
+      },
+      {
+        "id": "tmdb:4415:2:26",
+        "title": "Men on Vacation",
+        "season": 2,
+        "episode": 26,
+        "released": "1991-09-01T00:00:00.000Z",
+        "overview": "Best of episode of \"\"In Living Color.\"\" Sketches include:\n\n\"\"Amazing Grace - Rocky VI\"\"   \"\"Vera DeMilo: Veracosa, Mistress of Destruction\"\"   \"\"Mudhead's Funeral\"\"   \"\"Men On Vacation\"\"   \"\"Homey the Clown: When Homey Met Sally\"\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pACKD5loBhWevq9d3nDOE34kjeI.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:1",
+        "title": "Homey The Sellout: Part 2",
+        "season": 3,
+        "episode": 1,
+        "released": "1991-09-22T00:00:00.000Z",
+        "overview": "Sketches include Pee Wee's Adult Adventure / Crown Heights Story / Misery II / Homey D Clown Part 2 Of 2 / The Head Detective",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/r88f8Lyrcv5X7ofjkMaQwBCwyws.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:2",
+        "title": "Men on Televison Part 2: What Happened To Blaine?",
+        "season": 3,
+        "episode": 2,
+        "released": "1991-09-29T00:00:00.000Z",
+        "overview": "Sketches include Al Sharpton And Louise Farrakhan / Men On... Part 2 Of 2 / Black And White / Silence Of The Lambs II - Oswald Bates / Kung Fu Master '91",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iGYw54YvwTH9a7y4HkaUgilLKFt.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:3",
+        "title": "Clarance Thomas's First Day",
+        "season": 3,
+        "episode": 3,
+        "released": "1991-10-06T00:00:00.000Z",
+        "overview": "Sketches include Clarence Thomas / Rocketeer / Al Macafee / Prince / Anton / Benita Butrell",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xP2A0YfoaEt0QORqCMukqGITsRx.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:4",
+        "title": "Green Eggs and The Guvment Cheese",
+        "season": 3,
+        "episode": 4,
+        "released": "1991-10-13T00:00:00.000Z",
+        "overview": "Sketches include Jesse Jackson Children's Books / Hey Mon / Funky Finger Productions / Fire Marshall Bill /Leaders of the New School perform \"Teachers Teachers\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3wbhj1T5HZFM12KMeAuiVHQRa8D.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:5",
+        "title": "The Adventures of Handi-Boy",
+        "season": 3,
+        "episode": 5,
+        "released": "1991-10-20T00:00:00.000Z",
+        "overview": "Sketches include Clarence Thomas / Construction Guys / Snack N Shack / Cephus And Reese / Lizzy's / Handi Boy / Prison Cable Network",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jXdK75CWTSJ9EqaYoJD5UWr2BrK.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:6",
+        "title": "Home Alone Again",
+        "season": 3,
+        "episode": 6,
+        "released": "1991-10-27T00:00:00.000Z",
+        "overview": "Sketches include Minute Maiden / Vera Demilo / Coyote Ugly Escape Kit / The Brothers Brothers / Adopt A TV Child / Home Alone Again / Ninja Home Security System / Nice N Smooth perform \"Hip-Hop Junkies\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8Kv74ygOJzHz0QoqsNwf7i9vPZ9.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:7",
+        "title": "The Jackson Bunch",
+        "season": 3,
+        "episode": 7,
+        "released": "1991-11-03T00:00:00.000Z",
+        "overview": "Sketches include Environment Guy / Ice Poe / The Jackson Bunch / D.A.R.E. / Sam And Samantha Kinison",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aIJaKV7B2yJGOKwOaap8EyamYCg.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:8",
+        "title": "Late Night with Mike Tyson",
+        "season": 3,
+        "episode": 8,
+        "released": "1991-11-10T00:00:00.000Z",
+        "overview": "Sketches include Paula Abdul / Les & Wes / Mike Tyson Show / Stereotype Woman / Timbuk / Big Daddy Kane performs \"Ooh, Aah, Nah-Nah-Nah\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/y1pilqKP9WQvRrB3tRbrzWRstOh.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:9",
+        "title": "Krishnia Cop",
+        "season": 3,
+        "episode": 9,
+        "released": "1991-11-17T00:00:00.000Z",
+        "overview": "Sketches include David Duke / Krishna Cop / Bill Benson / 48 Hours Again - Oswald Bates / Crystal Waters / Head Detective / Queen Latifah performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/b6d2gj6MastFHP4Oh92ZeiICWqP.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:10",
+        "title": "My Left Foot of Fury",
+        "season": 3,
+        "episode": 10,
+        "released": "1991-11-01T00:00:00.000Z",
+        "overview": "Sketches include My Left Foot Of Fury / Wilt Chamberlain Wall / Frenchie / Skully / Men On Film",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ebRzLaeRyi6lv1HSE9Xyzs7D0nt.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:11",
+        "title": "Anton And The Reporter",
+        "season": 3,
+        "episode": 11,
+        "released": "1991-12-08T00:00:00.000Z",
+        "overview": "Sketches include Jimmy Swaggart / Anton And The Reporter / Cal Hoon Tubbs / Benita Butrell / L.L. Cool J \"Mama's Gonna Kick Me Out\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xE4VgJ8euMp5w7cFJrAyRZEESmB.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:12",
+        "title": "Sidekick in Nam",
+        "season": 3,
+        "episode": 12,
+        "released": "1991-12-15T00:00:00.000Z",
+        "overview": "Sketches include HBO's Tired Comedy Night / The Cosby Condom / Lil Magic / Testy Shields / Wanda / Side Kick In Nam",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fij5xgE0tH6pNGDufcPXkF2ntoM.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:13",
+        "title": "Santa Fire Marshall Bill",
+        "season": 3,
+        "episode": 13,
+        "released": "1991-12-22T00:00:00.000Z",
+        "overview": "Sketches include Equity Express Card / Great Moments In Black History / Fire Marshall Bill As Santa Claus / Tommy Wu / Homey D Clown / Ebony Jet Essence Right On Showcase",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/oEVrgJ8s7VBFxFGDigDRpmiISGx.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:14",
+        "title": "Handi-Man and the Tiny Avenger",
+        "season": 3,
+        "episode": 14,
+        "released": "1992-01-12T00:00:00.000Z",
+        "overview": "Sketches include: Michael Jackson: Am I Black or White (cut from DVD) \"B.S. Brothers at the Funeral\" (featuring Wonderful Smith as the reverend) Darnel Bond: Agent 006 (cut from DVD) \"Handi-Man and the Tiny Avenger\" (featuring Debbie Lee Carrington as the Tiny Avenger) Close featuring A Tribe Called Quest performing \"Check the Rhime\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/87Gv61udIlsDnD9rcER5xrdNXwE.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:15",
+        "title": "Grim Reaper",
+        "season": 3,
+        "episode": 15,
+        "released": "1992-01-19T00:00:00.000Z",
+        "overview": "Sketches include Connie Chung - Me Want Murray / Frenchie / Star Trek VII / Grim Reaper / Big Apple Airlines",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cHSmdFNsHvjEklEm1d29NYDOroN.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:16",
+        "title": "Live Super Bowl Show",
+        "season": 3,
+        "episode": 16,
+        "released": "1992-01-26T00:00:00.000Z",
+        "overview": "Homeboy Shopping Network / Fire Marshall Bill / Men On Football / Background Guy / Color Me Badd performs \"I Wanna Sex You Up\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9nKpFWJKHG5jrxIKAxTk9QrXcC1.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:17",
+        "title": "George Bush Meets Tommy Wu",
+        "season": 3,
+        "episode": 17,
+        "released": "1992-02-09T00:00:00.000Z",
+        "overview": "Sketches include: \"George H.W. Bush Acts Like Tommy Wu\" \"The Detective Head Gets Framed\" (featuring Steven Williams as the police chief) \"Don Rickles at a Peace Conference\" \"Arsenio Hall Harasses Eddie Murphy\" (\"Cape Fear II\")",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bNTUiId2IauyEcnNa0VzI7iaZPS.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:18",
+        "title": "Hour of Power: Preachers On Trial",
+        "season": 3,
+        "episode": 18,
+        "released": "1992-02-16T00:00:00.000Z",
+        "overview": "Sketches include: \"Sally Struthers: Feed the Planet\" \"The Church of Discount Sin Televangelists on Trial\" (featuring Chi McBride as a senator) \"Down Wit' MSG\" (\"O.P.P.\" spoof; cut from DVD) \"Ugly Wanda: Masseuse\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1USMvReTycy6xSxyLGSackYpeCm.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:19",
+        "title": "The Fist That Rocks the Cradle",
+        "season": 3,
+        "episode": 19,
+        "released": "1992-02-23T00:00:00.000Z",
+        "overview": "Sketches include: \"FOX Special: Elvis Sighting\" \"Vera De Milo: The Fist that Rocks the Cradle\" (featuring Mitchell Laurance as the husband) \"Male Bonding in the Woods\" \"House Party 3\" \"Ghost II: Sammy Davis, Jr.'s Spirit\" Close featuring Eric B. & Rakim performing \"Know the Ledge\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9Q2W8vtQAbe3W5bHEVTBeDF8ImI.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:20",
+        "title": "Club Ozone",
+        "season": 3,
+        "episode": 20,
+        "released": "1992-03-01T00:00:00.000Z",
+        "overview": "Sketches include: \"Club Ozone\" \"Al MacAfee: McBurgers Security Guard\" \"Richard Simmons' Shed-A-Bed Diet Program\" \"Benita Butrell: Class Reunion\" \"Men on Vacation\" (repeat from Season 2, Episode 9) Close featuring Shabba Ranks with Maxi Priest performing \"Housecall\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mwSorgNZ6ZTH0FlneYn4UMIz3nx.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:21",
+        "title": "Anton And The Green Card",
+        "season": 3,
+        "episode": 21,
+        "released": "1992-03-29T00:00:00.000Z",
+        "overview": "Sketches include: \"Career Aid\" (cut from DVD) \"Anton: Suburban Marriage\" \"Chillin'\" \"Handi Man: The Sequel\" (conclusion to \"Handi-Man and the Tiny Avenger\" from Season 3, Episode 14; featuring Debbie Lee Carrington as the Tiny Avenger)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4RO3yiIMPnoXY7lYfgA6wQbBRwh.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:22",
+        "title": "Player's Club",
+        "season": 3,
+        "episode": 22,
+        "released": "1992-05-03T00:00:00.000Z",
+        "overview": "Sketches include: \"The Player's Club brand Billy Club\" \"Snackin' Shack: President's Day\" \"Act Up! Guy At the Art Gallery\" \"Homey the Clown: Kindergarten Substitute Teacher\" Close featuring Black Sheep performing \"The Choice Is Yours (Revisited)\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/poGlZt1p1FNVClJe0ta5JFcesi0.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:23",
+        "title": "The Last Man On Earth",
+        "season": 3,
+        "episode": 23,
+        "released": "1992-03-29T00:00:00.000Z",
+        "overview": "Sketches include: \"Tester's Choice\" (a.k.a. Fatal Attraction Coffee Commercial) \"The Brothers Brothers on The $100,000 Pyramid\" \"The Last Man on Earth\" \"Men on Videotape Rentals\" Close featuring Kris Kross performing \"Jump\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bhqq9pACNx9xbz6B6U082XIBKhi.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:24",
+        "title": "Anton Gets Rich",
+        "season": 3,
+        "episode": 24,
+        "released": "1992-04-05T00:00:00.000Z",
+        "overview": "Sketches include: \"MC Hammer: Too Sold Out to Quit\" (cut from DVD) \"Timbuk: The Last Runaway Slave\" (repeat from Season 3, episode 8) \"The Al Sharpton and Louis Farrakhan Comedy Hour: Haunted House\" (replaces the above sketch on FXX, Aspire, and On Demand) \"Rescue Whenever\" \"The One Night Stand\" (featuring show writer Larry Wilmore as a bar patron) \"Anton Gets Rich\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bhVvne3qf2u5FWJHdgJ0RqgggEB.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:25",
+        "title": "Bloopers, Outtakes and Gaffes",
+        "season": 3,
+        "episode": 25,
+        "released": "1992-04-26T00:00:00.000Z",
+        "overview": "In Living Color's first bloopers show including outtakes, gaffes and behind the scenes.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zVt6YRaGKNk1fPbHwIxMmiTmlGF.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:26",
+        "title": "Cousin Elsee",
+        "season": 3,
+        "episode": 26,
+        "released": "1992-05-03T00:00:00.000Z",
+        "overview": "Sketches include Crazy Polident / Les And Wes / Cousin Elsee / Howard Tibbs III & Clavell \"Funky Finger Productions\" / Heavy D & the Boys perform \"You Can't See What I Can See\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/h9Ap1eKXucYCob6cFhYSyDbXtC.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:27",
+        "title": "Silly Cone",
+        "season": 3,
+        "episode": 27,
+        "released": "1992-05-10T00:00:00.000Z",
+        "overview": "Sketches include Silly Cone / Ms. Bonita / LaShawn the Tour Guide / Fire Marshall Bill / MC Lyte performs Poor Georgie",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zBAvtwLQc91AZq2O0e5WknR5Uwx.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:28",
+        "title": "Wanda on the Dating Game",
+        "season": 3,
+        "episode": 28,
+        "released": "1992-05-17T00:00:00.000Z",
+        "overview": "Sketches include Oswald Bates / Detective Head in his first international adventure / Super Clyde / The Dating Game - Wanda / Farewell to Damon Wayans",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/NQ2iBTsfbgysGyWGaGeezVxsL9.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:29",
+        "title": "Best-of episode - Music Video Special",
+        "season": 3,
+        "episode": 29,
+        "released": "1992-04-19T00:00:00.000Z",
+        "overview": "Sketches include: Michael Bolton: \"When a Man Needs a Big Hit\" MC Hammer: \"Can't Touch This\" (from Season 1, episode 11) Crystal Waters: \"My Songs Are Mindless\" (from Season 3, episode 9) Vanilla Ice: \"White White Baby\" (from Season 2, episode 15) Prince Butt Out Jeans (from Season 3, episode 3) Paula Abdul: \"Promise of a Thin Me\" (from Season 3, episode 8) Jimmie Walker: \"Mama's Gonna Kick Me Out\" (from Season 3, episode 4) Michael Jackson: \"Am I Black or White\" (from Season 3, episode 14) Close featuring Jodeci performing \"Xs We Share\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ffHWAYyc1r7UweID6pCv0qIJIeK.jpg"
+      },
+      {
+        "id": "tmdb:4415:3:30",
+        "title": "Best-of Episode",
+        "season": 3,
+        "episode": 30,
+        "released": "1992-04-12T00:00:00.000Z",
+        "overview": "Best of episode, sketches include: \"Wilt Chamberlain Memorial\" (from Season 3, episode 10) \"The Al Sharpton and Louis Farrakhan Comedy Hour: Jews on First\" (from Season 3, episode 2) \"Velma and The Burglar\" (from Season 3, episode 2) \"Men on Football\" (from Season 3, episode 16) \"Ugly Woman: Blind Date\" (from Season 3, episode 12)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/490eLtCGJ44DHd9El126wmuUyh.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:1",
+        "title": "Rodney King and Reginald Deny Speak Out",
+        "season": 4,
+        "episode": 1,
+        "released": "1992-09-27T00:00:00.000Z",
+        "overview": "Sketches include Ross Perot / Rodney King And Reginald Deny / Edward James Almos / Fire Marshall Bill / Benita Butrell / Redman performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3w3SDXngrK2lr8ADvpuc7hU6GPv.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:2",
+        "title": "Basic Instank",
+        "season": 4,
+        "episode": 2,
+        "released": "1992-10-04T00:00:00.000Z",
+        "overview": "Sketches include Crescan / Basic Instank / Snuf And Rome",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ilkhlJETXmMNTYYev3g7bQKo73s.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:3",
+        "title": "Mr. and Mrs. Brooks",
+        "season": 4,
+        "episode": 3,
+        "released": "1992-10-11T00:00:00.000Z",
+        "overview": "Sketches include Mtv Rock The Vote / Vera Demilo / Snack N Shack / Bunny And Clive / Dysfunctional Home Show / Gangstarr with Nice & Smooth perform \"DWYCK\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iGEWi8JRyWyonZD7TfMlb1lh0lP.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:4",
+        "title": "Black People Awards",
+        "season": 4,
+        "episode": 4,
+        "released": "1992-10-18T00:00:00.000Z",
+        "overview": "Sketches include Vanessa Williams / Jay Leno / Lori Davis Beauty System / Black People's Awards / George Hamilton Luggage / A.D.O.R. performs \"Let It All Hang Out\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4ebrN79UqChTUsTy4BsVZnkYIhd.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:5",
+        "title": "Trail Mix-A-Lot",
+        "season": 4,
+        "episode": 5,
+        "released": "1992-10-25T00:00:00.000Z",
+        "overview": "Sketches include Trail Mix-A-Lot / Baby Lonnie / Super Bimbo / Def Comedy Jam / Juicemania / Grand Puba performs \"360 (What Goes Around Comes Around)\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/n0dH8l40CDpTmGNXhzZslpfs2r3.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:6",
+        "title": "Anton Returns",
+        "season": 4,
+        "episode": 6,
+        "released": "1992-11-01T00:00:00.000Z",
+        "overview": "Sketches include Bill Clinton / Head Detective / Ice Poe / Anton / Sue Goober",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/s0O1I07RqHP5uxTImSNAAph9yUa.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:7",
+        "title": "Homey and Son",
+        "season": 4,
+        "episode": 7,
+        "released": "1992-11-08T00:00:00.000Z",
+        "overview": "Sketches include Snuf And Rome / Homey D Clown Meets His Son / Dysfunctional Homeshow / Wreckx-n-Effect perform \"Rump Shaker\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yRhdbpyl9q9oFCIomTp2BQxTIIn.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:8",
+        "title": "Handi-Man Returns",
+        "season": 4,
+        "episode": 8,
+        "released": "1992-11-15T00:00:00.000Z",
+        "overview": "Sketches include Anonymous Express / Handi Man / Wanda / Loomis Simmons / Pete Rock & CL Smooth perform \"Straighten It Out\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4bNwxtHv620oPdBudY1iKhb450J.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:9",
+        "title": "Men On Cooking",
+        "season": 4,
+        "episode": 9,
+        "released": "1992-11-22T00:00:00.000Z",
+        "overview": "Sketches include Prince / Men On Cooking / Mr And Mrs Brooks / Candy Cane / Mary J. Blige performs \"Reminisce\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lVBjRvBH8Hmtgo9JotTpWFCdWFR.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:10",
+        "title": "Lil Magic: Working Girl",
+        "season": 4,
+        "episode": 10,
+        "released": "1992-12-13T00:00:00.000Z",
+        "overview": "Sketches include: Madonna in \"Neurotica\" (cut from DVD) \"Gays in the Military\" (cut from DVD) \"Lil' Magic: Working Girl\" \"Edwin O. Fay's Skin-Lightening Treatment (a.k.a. \"Your Face is Your Passport\")\" \"Dracula Meets Ugly Wanda\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2ZbcR2bEA5VnGR9qMfxyU9fAQcY.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:11",
+        "title": "Driving Miss Shott",
+        "season": 4,
+        "episode": 11,
+        "released": "1992-12-20T00:00:00.000Z",
+        "overview": "Sketches include: \"Driving Miss Shott\", \"An Ice Poe Christmas\", \"Benita Butrell: Holiday Volunteer\", \"Cephus and Reesie: Tunes for Tots\", \"Why?: Black Eyewitnesses in the News\", \"Al MacAfee: How MacAfee Stole Christmas\", Christmas close featuring Jamie Foxx performing \"This Christmas\".",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/GxS77PxKKT9sXTV05gE1PnXaKm.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:12",
+        "title": "Vera DeMilo: Stank of a Woman",
+        "season": 4,
+        "episode": 12,
+        "released": "1993-01-03T00:00:00.000Z",
+        "overview": "Sketches include: \"Vera DeMilo and Little Richard: The Stank of a Woman\" (cut from DVD) \"The Bodyguard with Grace Jones\" (cut from DVD) \"Cousin Elsee: At the Hospital\" \"Why: Rap Music Used for Commercials\" \"The Dysfunctional Home Show: Belated Christmas Special\" \"Mr. & Mrs. Brooks Second Honeymoon\" Close featuring Digable Planets performing \"Rebirth of Slick (Cool Like Dat)\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hD3nlHKSYJAp9EBbnRCaMxETt1T.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:13",
+        "title": "Capitol Hillbillies",
+        "season": 4,
+        "episode": 13,
+        "released": "1993-01-10T00:00:00.000Z",
+        "overview": "Sketches include: \"The Capitol Hillbillies\" \"Benita Butrell: Physician's Office\" \"Amy Fisher's 'Bang for Your Buck' Seminar\" \"Tales from the Crib\" (featuring Marlon Wayans as the cryptkeeper) \"Ross Perot Buys Up Airtime\" \"You Bet Your Career\" Close featuring Father MC performing \"Everything's Gonna Be Alright\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rxhNu8af1t72DZlEsxuy6GZn1L1.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:14",
+        "title": "Best-of episode - Michael Jackson",
+        "season": 4,
+        "episode": 14,
+        "released": "1993-01-17T00:00:00.000Z",
+        "overview": "Sketches include: \"La Toya Jackson: Michael Unwrapped\" \"Home Alone Again with Michael Jackson\" (repeat from Season 3, episode 6) \"Michael Jackson Potato Head\" (repeat from Season 1, episode 10) \"La Toya Jackson: Michael Unwrapped\" (conclusion) \"Family Feud's The Royal Family and The Jacksons\" (with guest star Ray Combs as himself) Close featuring Another Bad Creation performing \"Iesha\" (repeat from Season 2, Episode 18)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vg2gCiOWvADmgyVySlCg1E9ez1D.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:15",
+        "title": "Alive II with Richard Simmons",
+        "season": 4,
+        "episode": 15,
+        "released": "1993-02-07T00:00:00.000Z",
+        "overview": "Sketches include: \"Alive II: with Richard Simmons\" \"Loomis Simmons' The Power Stretch\" \"The Info Group\" \"What If Bob Hope was Black?\" (featuring Marc Wilmore as Hope) \"Sgt. Stacey Koon on COPS\" \"Men on Fitness\" (with guest star Damon Wayans as Blaine Edwards)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/oBtvypfGM1QVfFf0HSSZUtQJzTF.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:16",
+        "title": "Best-of episode - Valentine's Show",
+        "season": 4,
+        "episode": 16,
+        "released": "1993-02-11T00:00:00.000Z",
+        "overview": "Sketches include: \"Bill Cosby's Condom Commercial\" (repeat from Season 3, episode 12) \"Homey D. Clown's Parole Romance\" (repeat from Season 2, episode 2) \"Ejector Bed\" (repeat from Season 2, episode 16) \"Velma on a Blind Date\" (repeat from Season 2, episode 13) \"Ugly Woman's One Night Stand\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3riUMZtcrCeo4FMROA0PfCCszcc.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:17",
+        "title": "Oswald Booked on Phonics",
+        "season": 4,
+        "episode": 17,
+        "released": "1993-02-14T00:00:00.000Z",
+        "overview": "Sketches include: \"Oswald: Booked on Phonics\" (with guest star Damon Wayans as Oswald Bates) \"Forever Silky\" \"Lashawn: Dry Cleaners\" (with guest star Sherman Hemsley as Mr. Jefferson) \"Reality Check: Singing to Aretha Franklin\" (cut from DVD) \"Fire Marshall Bill: Teppanyaki Restaurant Safety\" Close featuring Arrested Development performing \"Mr. Wendal\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4e2spIdBEpVNtQetNZvHFnsU6CO.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:18",
+        "title": "Thighmaster",
+        "season": 4,
+        "episode": 18,
+        "released": "1993-02-21T00:00:00.000Z",
+        "overview": "Sketches include: \"Joe Jackson: Lock You in the Closet\" (cut from DVD) \"Suzanne Sommers for Thighmaster\" \"Calhoun Tubbs: Prison Performance\" \"Little Richard in: Dirty Little Dick\" \"Geraldo Rivera: The Black Child Star Mill\" \"Rodney Dangerfield Gets Pulled Over\" (with guest star Dangerfield as himself) \"Mr. & Mrs. Brooks: Garage Sale\" Close featuring Shawn Wayans as Chris Rock and Jamie Foxx as Garrett Morris",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/dfnPE7EbmrFMaQmIZwxr49BvEbT.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:19",
+        "title": "Best-of episode - Tribute to Men on Film",
+        "season": 4,
+        "episode": 19,
+        "released": "1993-02-25T00:00:00.000Z",
+        "overview": "Sketches include: \"Men on Film Festival\" (excerpt from Season 3, Episode 10) \"Rise to Stardom\" (repeat of \"Men on Films II\" from Season 2, Episode 1; introduced by Chris Connelly) \"Cliff Hanger\" (excerpt from Season 2, Episode 24 and repeat of \"Men on Film: Straight Man Out\" from Season 3, Episode 2; introduced by Jeffrey Lyons) \"Sponsors\" (excerpts from Season 1, Episode 4; Season 1, Episode 7; Season 2, Episode 9; Season 3, Episode 16; Season 4, Episode 9; and Season 4, Episode 15; introduced by Michael Medved) \"Ratings\" (excerpts from Season 1, Episode 1; Season 1, Episode 4; Season 1, Episode 7; Season 2, Episode 9; Season 3, Episode 16; Season 4, Episode 9; and Season 4, Episode 15; introduced by Chris Connelly) \"Men on Film Festival\" (excerpt from Season 3, Episode 10)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/y1huc4GqfWs0fw4hztXT4XGufBo.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:20",
+        "title": "Passenger 227",
+        "season": 4,
+        "episode": 20,
+        "released": "1993-02-28T00:00:00.000Z",
+        "overview": "Sketches include: \"Boyz II Wimps: End of the Road\" (cut from DVD) \"Jackée Harry in Passenger 227\" \"Background Guy at the White House\" \"The Dysfunctional Home Show: Wedding\" \"Ugly Woman: The Fifth En Vogue Member\" (with guest stars En Vogue as themselves; cut from DVD)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aUWJTueUaQXd2aCHS2FgBOwrT9o.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:21",
+        "title": "Louise Jefferson for Weezies",
+        "season": 4,
+        "episode": 21,
+        "released": "1993-03-07T00:00:00.000Z",
+        "overview": "Sketches include: \"Isabel Sanford's Weezies brand Throat Drops\" (featuring Marc Wilmore as Sanford) \"A Different Message\" \"Why: Reporters Affecting Accents\" \"Super Dave Dance Transition/Finale\" (with guest star Super Dave Osborne as himself) \"Charles Bronson's 'Make a Death Wish' Foundation\" \"Super Dave Dance Transition/Finale\" (conclusion) \"Grandpa and Duke the Dead Dog: Best in Show\" Close featuring Naughty by Nature performing \"Hip Hop Hooray\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sRUdeNWCSiBwDJmJ1ekA4MTEDfa.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:22",
+        "title": "Great Moments in Black History",
+        "season": 4,
+        "episode": 22,
+        "released": "1993-04-25T00:00:00.000Z",
+        "overview": "Sketches Include: \"Achy Breaky Head\" (cut from DVD) \"Great Moments In Black History: The First Record Scratcher\" \"Al Sharpton's Hunger Strike\" \"Reality Check: Bald Men vs. Men with Hair\" (repeat from Season 3, episode 28) \"What If Archie Bunker was Black?\" (would later become \"All Up in the Family\" in the fifth season; featuring Marc Wilmore as Bunker) \"Mr. Rogers: Insufferable Prick\" (a.k.a. \"Mr. Rogers at the Video Store\") Close featuring Heavy D & the Boyz performing \"Truthful\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3vrZ1eiGrZqoBBxhjF1zVn9Hq7C.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:23",
+        "title": "Best-of episode",
+        "season": 4,
+        "episode": 23,
+        "released": "1993-03-21T00:00:00.000Z",
+        "overview": "Sketches Include: \"Rodney King and Reginald Denny PSA\" (repeat from Season 4, episode 1) \"Why? Black Eyewitnesses\" (repeat from Season 4, episode 11) \"Oswald: Booked on Phonics\" (repeat from Season 4, episode 17) \"Ross Perot Buys Up Airtime\" (repeat from Season 4, episode 13) \"Driving Miss Schott\" (repeat from Season 4, episode 11) \"Beauty Tips with Lori Davis\" (repeat from Season 4, episode 4) \"Trail Mix-a-Lot\" in \"Baby Got Snacks\" (repeat from Season 4, episode 5; cut from DVD) \"Ugly Wanda: Dracula\" (repeat from Season 4, episode 10)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/d1agiTpExfAVGs88C81cNvsNZ9D.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:24",
+        "title": "What if Barbara Streisand was Black?",
+        "season": 4,
+        "episode": 24,
+        "released": "1993-04-04T00:00:00.000Z",
+        "overview": "Sketches include: \"What If Barbra Streisand was Black?\" \"Al MacAfee: Metal Detector at School\" \"Sheila Peace: Employment Agency\" \"Lashawn: Makeover\" \"The Black People's Show\" (with guest star Jenifer Lewis as Tonya Hodges) Close featuring Prince Markie Dee & The Soul Convention performing \"Typical Reasons (Swing My Way)\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2eFuZ11iTYX6uhaTI03ewOWlHGt.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:25",
+        "title": "Baby Lonnie at the Doctor",
+        "season": 4,
+        "episode": 25,
+        "released": "1993-04-25T00:00:00.000Z",
+        "overview": "Sketches include: \"Reality Check: Dancing Like The Fly Girls\" (cut from DVD) \"Baby Lonnie at the Doctor\" \"Overly Confident Gay Man Comes Out\" \"Snookie\" (with guest star Jenifer Lewis as Snookie) \"Sgt. Koon's Police Academy\" (featuring Molly Shannon as a cadet) Close featuring Da Youngsta's performing \"Crewz Pop\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wu8znqbAHsaUYGirZvw1rBTLsmh.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:26",
+        "title": "Best-of episode - Best Commercial Parodies",
+        "season": 4,
+        "episode": 26,
+        "released": "1993-04-29T00:00:00.000Z",
+        "overview": "Sketches include: \"The Player's Club brand Billy Club\" (repeat from Season 3, episode 22) \"SillyCone Brand Breast Implants\" (repeat from Season 3, episode 29) \"Vera De Milo: Milk Commercial\" (repeat from Season 3, episode 6) \"Sally Struthers: Feed the Planet\" (repeat from Season 3, episode 18) \"Tes-T-Shields Masculine Hygiene Pads\" (repeat from Season 3, episode 12) \"Muttco's Coyote Ugly One-Night Stand Escape Kit\" (repeat from Season 3, episode 6) \"George Hamilton Luggage and Belts\" (repeat from Season 4, episode 4) \"Amy Fisher's \"Bang For Your Buck\" Seminar\" (repeat from Season 4, episode 13) \"Juicemania\" (repeat from Season 4, episode 5)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2VswDXYJk7ZfQY6GwUSq7w6DgcE.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:27",
+        "title": "Teen Court",
+        "season": 4,
+        "episode": 27,
+        "released": "1993-05-02T00:00:00.000Z",
+        "overview": "Sketches include: \"Arsenio Hall, Whoopi Goldberg, and Jay Leno: Undigable Hosts\" (cut from DVD) \"Loomis Simmons: Psychic Hotline\" \"MTV's Teen Court\" \"James Brown in The Groom Room\" (with guest star Brown as himself) \"Carl \"The Tooth\" Williams\" (cut from DVD) Close featuring Showbiz and A.G. with Dres performing \"Bounce Ta This\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/i8U49b3W8psSa6J8MjKpuayAJX0.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:28",
+        "title": "Best-of episode - Night at the Movies",
+        "season": 4,
+        "episode": 28,
+        "released": "1993-05-06T00:00:00.000Z",
+        "overview": "Sketches include: \"The Superfly\" (repeat from Season 2, episode 20) \"El Grande Y Spectacular Muchacho Rocketeer\" (\"The Mexican Rocketeer\") (repeat from Season 3, episode 3) \"My Left Foot of Fury\" (repeat from Season 3, episode 10) \"Oswald: Silence of the Lambs II\" (repeat from Season 3, episode 2) \"Passenger 227\" (repeat from Season 4, episode 20) \"Ugly Wanda in Basic Instank II\" (repeat from Season 4, episode 2)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rIckJLirbfpEvGeK1sVcLAfeb7O.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:29",
+        "title": "Heterosexual Pride Parade",
+        "season": 4,
+        "episode": 29,
+        "released": "1993-05-09T00:00:00.000Z",
+        "overview": "Sketches include: \"Heterosexual Pride Parade\" \"Reality Check: Wearing a Bikini\" (does not air on Aspire) \"Calhoun Tubbs: Chuck E. Cheddar\" \"Thelma & Louise Jefferson\" (featuring Marc Wilmore as Louise Jefferson and Brian George as Mr. Bentley) \"Mrs. Sheridan's Phone Call\" (with guest star Jenifer Lewis as Mrs. Sheridan) \"Ugly Wanda: The Queen of the Old West\" (with guest star Mario Van Peebles as a posse member) Close featuring Onyx performing \"Slam\""
+      },
+      {
+        "id": "tmdb:4415:4:30",
+        "title": "Best-of episode - Celebrity Themed",
+        "season": 4,
+        "episode": 30,
+        "released": "1993-05-09T00:00:00.000Z",
+        "overview": "Sketches include: \"Elvis Sighting\" (repeat from Season 3, episode 19) \"What If Bob Hope Were Black?\" (repeat from Season 4, episode 15) \"Woody Allen: Date The Children\" (repeat from Season 4, episode 3) \"Jay Leno\" (repeat from Season 4, episode 4) \"You Bet Your Career\" (repeat from Season 4, episode 13) Close featuring Shawn Wayans as Chris Rock and Jamie Foxx as Garrett Morris (repeat from Season 4, episode 18)",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8R7tL0HuVXiSvaoIhfskF4xEfWv.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:31",
+        "title": "Grandpa and Duke the Dead Dog",
+        "season": 4,
+        "episode": 31,
+        "released": "1993-05-16T00:00:00.000Z",
+        "overview": "Sketches include: \"Grandpa and Duke the Dead Dog: Beer Commercial Audition\" \"Vera De Milo: Breasts Of Fury!\" \"Snackin' Shack: Eligible Bachelor\" \"Bunny & Clive: Incompetent Teenage Thugs\" \"The Dysfunctional Home Show: Grandma's Funeral\" Close featuring The Pharcyde performing \"Passin' Me By\""
+      },
+      {
+        "id": "tmdb:4415:4:32",
+        "title": "Joe Jackson's Rock 'Em Sock 'Em Robots",
+        "season": 4,
+        "episode": 32,
+        "released": "1993-05-23T00:00:00.000Z",
+        "overview": "Sketches include: \"Joe Jackson: Rock 'Em Sock 'Em Jacksons\" \"In Living Color Complaint Line\" \"Lashawn: Beauty Shop\" (with guest star LaWanda Page as Grandma) \"Why? Star Trek Aliens Portrayed By Black People\" (featuring Molly Shannon as an Enterprise crew member) \"B.S. Brothers: Big Break\" (repeat from Season 2, Episode 14) \"In Living Color Complaint Line #2\" \"The Champ: The Tooth Goes to Senate\" (featuring Larry Wilmore as a doctor) \"In Living Color Complaint Line #3\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/og7FGbXiGPZhuvmgDCTmWm4TLOU.jpg"
+      },
+      {
+        "id": "tmdb:4415:4:33",
+        "title": "In Living Color Voice-Mail Feedback Line",
+        "season": 4,
+        "episode": 33,
+        "released": "1993-04-25T00:00:00.000Z"
+      },
+      {
+        "id": "tmdb:4415:5:1",
+        "title": "Ike Strikes Back",
+        "season": 5,
+        "episode": 1,
+        "released": "1993-09-16T00:00:00.000Z",
+        "overview": "Sketches include Ike Strikes Back / Wanda / Sammy / Seinfeld - Ace And Main Man / Russell Simmons Def Strawberry Jam.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qLc8E3KK0ap10vr9rwW0mDcsQrb.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:2",
+        "title": "The Dirty Dozens",
+        "season": 5,
+        "episode": 2,
+        "released": "1993-09-23T00:00:00.000Z",
+        "overview": "Sketches include Micheal Jackson / The Dirty Dozens / Revival Olympics / Fire Marshall Bill / Ball Park Breast Implants.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fAny0WGChBO8UKtcRgrTjWAdTpZ.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:3",
+        "title": "Ike Turner and Hooch",
+        "season": 5,
+        "episode": 3,
+        "released": "1993-09-30T00:00:00.000Z",
+        "overview": "Sketches include Ike Turner And Hooch / Honey Mooners '93 / Snow / Cheap Pete / Ace And Main Man.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/bIwJfUG31Qzd00glUDBH1SiCONa.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:4",
+        "title": "Unpoetic Justice",
+        "season": 5,
+        "episode": 4,
+        "released": "1993-10-07T00:00:00.000Z",
+        "overview": "Sketches include Unpoetic Justice / Carl The Tooth Williams / Prison Cable Network / Funky Finger Productions",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6zssL24fDuH98xReZcpUTD8duX6.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:5",
+        "title": "The Irish Singer",
+        "season": 5,
+        "episode": 5,
+        "released": "1993-10-14T00:00:00.000Z",
+        "overview": "Sketches include L.A. Riot / NBA Harasser / Irish Singer / Wanda / Anorexic Sumo Wrestler / Rhonda Hightower / Jodeci",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qJ91Dfzp3hMagMVhwLLiHG1VEBm.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:6",
+        "title": "Droop! There It Is",
+        "season": 5,
+        "episode": 6,
+        "released": "1993-10-21T00:00:00.000Z",
+        "overview": "Sketches include  Droop! There It Is / Andy Rooney / Rush And Al's / Background Guy / Cheap Pete",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qHhcglEdS2Ka5Ka7J5RfH9lO5XW.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:7",
+        "title": "Circus of the Black Stars",
+        "season": 5,
+        "episode": 7,
+        "released": "1993-10-28T00:00:00.000Z",
+        "overview": "Sketches include Wanda / Fire Marshall Bill / Circus Of The Black Stars / Carl The Tooth Williams / Magnifico / Leaders of the New School performs \"What's Next\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ryWtlZEl0qnd36w4hKPHcxVelO0.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:8",
+        "title": "Sam Kinison: Live From Hell",
+        "season": 5,
+        "episode": 8,
+        "released": "1993-11-04T00:00:00.000Z",
+        "overview": "Sketches include Wanda / AT&T / Sam Kinison - Live From Hell / Dr. Innapropriato / The Dirty Dozens / Lords of the Underground perform",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/beoCRikdo57TrcdRt4Ahke31Qw9.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:9",
+        "title": "All Up In The Family",
+        "season": 5,
+        "episode": 9,
+        "released": "1993-11-11T00:00:00.000Z",
+        "overview": "Sketches include Rush And Al's / All Up In The Family / The Guy Who Know Way Too Many Specials / Wanda And Barry Bonds / East Hollywood Squares",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fT6FzcdGCksF4bNUcEkEDoEiTYx.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:10",
+        "title": "Wile E Coyote on Trial",
+        "season": 5,
+        "episode": 10,
+        "released": "1993-11-18T00:00:00.000Z",
+        "overview": "Sketches include Background Guy / Wile E Coyote / Candy Cane / Go On Girl / Honey Mooners '93",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/juj7uUNCmJxlg1F58TEWy1kUYng.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:11",
+        "title": "Umbilical Barry",
+        "season": 5,
+        "episode": 11,
+        "released": "1993-12-02T00:00:00.000Z",
+        "overview": "Sketches include Sammy And Bill / Carl The Tooth Williams / Pavoroti / Vera Demilo / Black Menedez Brothers / Lorena Bobbit / Umbilical Barry / Us3 perform \"Cantaloupe\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pEfaJqNLPcaiVg1xPEaAEu0TxY8.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:12",
+        "title": "Mary Tyler Mo",
+        "season": 5,
+        "episode": 12,
+        "released": "1993-12-16T00:00:00.000Z",
+        "overview": "Sketches include Mary Tyler Mo / Ace And Main Man / Irish Singer / Loomis Simmons / Geraldo / Patra performs \"Think\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/5G6sbmMGFbBp0WCOM8jf0Q5cwoT.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:13",
+        "title": "Wheel of Dozens",
+        "season": 5,
+        "episode": 13,
+        "released": "1993-12-30T00:00:00.000Z",
+        "overview": "Sketches include Joe Jackson / Wheel Of Dozens / Mr Armstrong / Rhonda Hightower / Andy Rooney",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wzwRm8dgmPSEykgSh2OTrYmR2qn.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:14",
+        "title": "The Gangsta Group",
+        "season": 5,
+        "episode": 14,
+        "released": "1994-01-13T00:00:00.000Z",
+        "overview": "Sketches include Background Guy / Gangsta Group / Sister Act 3 / Duke And Cornbread Turner / The Guy Who Knows Way Too May Specials",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xG6vAI75kSk4nnj7BN3Fiz5lijG.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:15",
+        "title": "East Hollywood Squares",
+        "season": 5,
+        "episode": 15,
+        "released": "1994-01-27T00:00:00.000Z",
+        "overview": "Sketches include Marlee Matlin / Cheap Pete / AWF's Main Event / East Hollywood Squares",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/axgSf7nlvl6rPe42Lh7bXq6Ducf.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:16",
+        "title": "Hemorrhoid Guy",
+        "season": 5,
+        "episode": 16,
+        "released": "1994-02-03T00:00:00.000Z",
+        "overview": "Sketches include Tonya Harding / Wanda / Hemorrhoid Guy / All Up In The Family / John Bobbit 6 Million Dollar Man",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xIJReMGTDVxBw3MVkRSJ8AciUY2.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:17",
+        "title": "The White League",
+        "season": 5,
+        "episode": 17,
+        "released": "1994-02-10T00:00:00.000Z",
+        "overview": "Sketches include The White League / Funky Finger Productions / Wanna Man / Ace And Main Man / Tonya Harding / Master Piece Theater",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9S46PjVNoqLDofIw3bndiX2t9vf.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:18",
+        "title": "Mrs. Ikefire",
+        "season": 5,
+        "episode": 18,
+        "released": "1994-02-17T00:00:00.000Z",
+        "overview": "Sketchs include Mrs Ikefire / Dirty Dozens Home Game / East Hollywood Squares / Fire Marshall Bill / Backgound Guy",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/l5YkgJ5ZMMLNH9EubgRmLH85feg.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:19",
+        "title": "Dirty Dozens Tournament of Champions",
+        "season": 5,
+        "episode": 19,
+        "released": "1994-02-24T00:00:00.000Z",
+        "overview": "Sketches include Risky Business II / Carl The Tooth Williams / Dirty Dozens Tournament Of Champions / San Fransisco",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/nxIFBzhXHuBJyaLXanCbQDAiENW.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:20",
+        "title": "Thugs",
+        "season": 5,
+        "episode": 20,
+        "released": "1994-03-10T00:00:00.000Z",
+        "overview": "Sketches include Dr Kervorkian's Book / Thugs / I'm Gay / Sweet Tooth Jones / Great Moments In Black History / Simply Eve performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hs4L2mwidbeUHqGzvZrHcbcvr6l.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:21",
+        "title": "Academy Awards",
+        "season": 5,
+        "episode": 21,
+        "released": "1994-03-24T00:00:00.000Z",
+        "overview": "Sketches include Loomis Simmons / 66th Annual Academy Awards / Duke And Cornbread Turner / Cheap Pete / Umbilical Barry / Hemorrhoid Guy / Eazy-E performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/h6grk7ONzJhpTmJmgDL6clCQyjq.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:22",
+        "title": "The Scary Larry Show",
+        "season": 5,
+        "episode": 22,
+        "released": "1994-04-07T00:00:00.000Z",
+        "overview": "Sketches include Rush And Al's Greatest Hits / Cheap Pete At The Carnival / Loomis Simmons / The Scary Larry Show / East Hollywood Squares / Souls of Mischief perform \"93 'til Infinity",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pJcjHALmKIXmrTo15tslCSlJOdE.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:23",
+        "title": "Sweet Tooth Jones",
+        "season": 5,
+        "episode": 23,
+        "released": "1994-04-28T00:00:00.000Z",
+        "overview": "Sketches include: \"Driving Down the Street\" \"Sweet Tooth Jones teaches martial arts to protect against sexual harassment\" \"Ed Bacon: Guidance Counselor\" \"Wanda meets Luther Vandross at a charity auction\" / BOSS performs Progress of Elimination",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/e93dDfO6Px4buBMefeFTOYuJx4Z.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:24",
+        "title": "Candy Cane's Last Show",
+        "season": 5,
+        "episode": 24,
+        "released": "1994-05-05T00:00:00.000Z",
+        "overview": "Sketches include: Rap Masterpiece Theatre,\" \"Candy Cane's Last Show,\" \"Grandpa & Duke: A Time for Love,\" and \"Family Dozens.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/e3VJm7CDoQvkpwQO1APsIv9msnO.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:25",
+        "title": "Infomercial Awards",
+        "season": 5,
+        "episode": 25,
+        "released": "1994-05-12T00:00:00.000Z",
+        "overview": "Sketches include: \"Vista Commercial,\" \"Wile E. Coyote's Mall Appearance,\" \"Infomercial Awards,\" \"All Up in the Family: Gay Barney,\" \"Deronda and Pookie Play Party,\" and \"B.S. Brothers: Gangsta Rappers.\" / Meshell Ndegeocello performs",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/n0Kg4KEGHNZV2gIPPXH1EkXDQsf.jpg"
+      },
+      {
+        "id": "tmdb:4415:5:26",
+        "title": "The Champ",
+        "season": 5,
+        "episode": 26,
+        "released": "1994-05-19T00:00:00.000Z",
+        "overview": "Sketches include: \"Background Guy at the Haunted House,\" \"The Champ: Back to School,\" \"Prison Cable Network: Lights Out with the Angel,\" and \"Ace and Main Man meet Salt-n-Pepa.\"/ To Be Continued performs \"One on One\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1tVf4eQ35Lc6Lm6Je014AlEQMyQ.jpg"
+      }
+    ]
+  }
+}

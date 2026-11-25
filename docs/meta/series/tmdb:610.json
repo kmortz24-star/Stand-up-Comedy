@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "id": "tmdb:610",
+    "type": "series",
+    "name": "Mr. Show with Bob and David",
+    "releaseInfo": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/rNPF7Zad87aXa7bQt4W4AYmnwL4.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/pv8m2DVZewCU6BIC2oqPiZFgep2.jpg",
+    "description": "A sketch comedy series starring and hosted by Bob Odenkirk and David Cross. The pair introduce most episodes as heightened versions of themselves before transitioning to a mixture of live sketches and pre-taped segments.",
+    "videos": [
+      {
+        "id": "tmdb:610:1:1",
+        "title": "The Cry of a Hungry Baby",
+        "season": 1,
+        "episode": 1,
+        "released": "1995-11-03T00:00:00.000Z",
+        "overview": "A man coerces a group into servitude by eating glass; a criminal loses his popular appeal when he fails to get arrested. Also: a trip to a convenience store results in a phone call to the President.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/kToxpZyJxxqzZi7FNU1cUEUBMJ7.jpg"
+      },
+      {
+        "id": "tmdb:610:1:2",
+        "title": "What to Think",
+        "season": 1,
+        "episode": 2,
+        "released": "1995-11-10T00:00:00.000Z",
+        "overview": "A TV show about the little-known 13th apostle; a support group for heterosexuals; a corporation that features a lovable mascot in its vulgar ads. Also: \"Golden Books for Seniors\"; and a naked-puppet act.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tKKa9OF5atDM3Wc1rjC25OdzQsT.jpg"
+      },
+      {
+        "id": "tmdb:610:1:3",
+        "title": "We Regret to Inform You",
+        "season": 1,
+        "episode": 3,
+        "released": "1995-11-17T00:00:00.000Z",
+        "overview": "An accident in editing combines a couple's honeymoon video with a porn film; an actor prepares for a role as a mental patient--by having a lobotomy; and a pair of college-basketball recruiters target a toddler prospect.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cxTDVzkgOLXwtdfxZ8A72moOV4C.jpg"
+      },
+      {
+        "id": "tmdb:610:1:4",
+        "title": "Who Let You In?",
+        "season": 1,
+        "episode": 4,
+        "released": "1995-11-24T00:00:00.000Z",
+        "overview": "A spoof of the O.J. trial finds the Pope eluding officials in the Popemobile and a \"bloody ring\" that doesn't fit; and a pool champ hawks his \"how to\" video featuring \"great moments\" in human disasters.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/uAyEe2gtZzKo1PaIxaSk2QmO5Az.jpg"
+      },
+      {
+        "id": "tmdb:610:2:1",
+        "title": "Now, Who Wants Ice Cream?",
+        "season": 2,
+        "episode": 1,
+        "released": "1996-11-15T00:00:00.000Z",
+        "overview": "A separatist demands that his Montana cabin be declared its own sovereign nation; two European vacationers try to slip illegal drugs past customs; a cooking demonstration turns tragic. Also: an Olympics parody.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/dvHcHT2sTvpU0tEjrJpP5tG5PWQ.jpg"
+      },
+      {
+        "id": "tmdb:610:2:2",
+        "title": "A Talking Junkie",
+        "season": 2,
+        "episode": 2,
+        "released": "1996-11-22T00:00:00.000Z",
+        "overview": "David has a junkie friend; a married couple run a \"mom and pop\" porn shop; and R&B group Three Times One Minus One appear on WPCBCN—the White People Co-Opting Black Culture Network—where they complain about being hassled by the cops for jaywalking.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7i28Sd2ogQl5C5tlndeQ2Dgqa65.jpg"
+      },
+      {
+        "id": "tmdb:610:2:3",
+        "title": "The Biggest Failure in Broadway History",
+        "season": 2,
+        "episode": 3,
+        "released": "1996-11-29T00:00:00.000Z",
+        "overview": "A parody of \"Jesus Christ Superstar\"; and a takeoff on \"Cops,\" involving drunken police officers. Also: the \"new hate-free Ku Klux Klan.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/sbDpLGh0jdBgKjcAkai0rdgapNz.jpg"
+      },
+      {
+        "id": "tmdb:610:2:4",
+        "title": "If You're Going to Write a Comedy Scene, You're Going to Have Some Rat Feces in There",
+        "season": 2,
+        "episode": 4,
+        "released": "1996-12-06T00:00:00.000Z",
+        "overview": "A U.S. senator sells San Francisco to a corporation that turns it into a theme park. Also: children toil to write comedy sketches--for 18 cents an hour; and parents insist that their son is gay.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/s0xodPbDEqNS1xqXPTs8nkEIpfT.jpg"
+      },
+      {
+        "id": "tmdb:610:2:5",
+        "title": "Operation Hell on Earth",
+        "season": 2,
+        "episode": 5,
+        "released": "1996-12-13T00:00:00.000Z",
+        "overview": "A hate group meets to divide up the U.S. into segregated sections and rival college basketball recruiters vie for the services of a 5-year-old boy. Also: a \"Blame-A-Thon.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qHVwsyZptF2F350T4fvj3yZZ3si.jpg"
+      },
+      {
+        "id": "tmdb:610:2:6",
+        "title": "The Velveteen Touch of a Dandy Fop",
+        "season": 2,
+        "episode": 6,
+        "released": "1996-12-20T00:00:00.000Z",
+        "overview": "A horror-movie parody entitled \"Coupon: The Movie\"; advice from a Beverly Hills \"psychoactualist.\" Also: dueling megaphone crooners.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/a9ix8y2mBeX35reoynMd7sCd6bA.jpg"
+      },
+      {
+        "id": "tmdb:610:3:1",
+        "title": "Heaven's Chimney",
+        "season": 3,
+        "episode": 1,
+        "released": "1997-09-12T00:00:00.000Z",
+        "overview": "\"The Bob\" and David attempt to go up Heaven's Chimney.  Spoof TV Bloopers using religious beliefs.  David and Karen Kilgarif ask Bob and Brett Paesal to watch them have sex.  A violent roller coaster destroys hundreds of people.  Tom introducers the world's oldest educational film.  Tom & Jill host a TV show on the Hail Satan Network.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/veNw4MpvrtvjeraM4fabKsnIzsx.jpg"
+      },
+      {
+        "id": "tmdb:610:3:2",
+        "title": "Peanut Butter, Eggs, and Dice",
+        "season": 3,
+        "episode": 2,
+        "released": "1997-09-19T00:00:00.000Z",
+        "overview": "David makes a brave choice.  The boys make a trip to \"The ratings man\" who doubles as Santa.  We meet the Tatiana, the weather hermaphrodite, and see a promo for cock ring warehouse.  When Bob gets married,  Paul, John, David, and Jay respond by beating him up.  Terry Twilstein gives Ronnie Dobbs a chance to make a soundtrack album for the TV Show \"Fuzz\" along with Ronnie's wife and John and Ken Daly as two cops.  At the Cyrus Dewey Awards, David plays Bob Lamonta, who made a movie about himself in which his parents, played by Bob and Jill, are retarded.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/s8SsG1jSe1eU3Xw2VAG5102unQm.jpg"
+      },
+      {
+        "id": "tmdb:610:3:3",
+        "title": "Oh, You Men",
+        "season": 3,
+        "episode": 3,
+        "released": "1997-10-03T00:00:00.000Z",
+        "overview": "Bob and David tape their \"Lost Episode\".  Jill plays Candy Addams, who promotes entertainers like Wally P. Doyle, a ventriloquist played by Tom, who is killed in the East Coast-West Coast ventriloquist war.  Bob reunites with a man whom he tried to kill for stealing newspapers.  Bob thinks he's a pregnant teen, and David thinks he's a 7 ft. tall psychiatrist on \"The Delongpre Dannon Show\".  David, Jay, Brian and Paul interview Bob for a job using a lie detector.  Bob & Dave play Sam and Criminy Craft who play the lost episode of their 1960s childrens' program \"Druggachusets\".  The cast says goodbye to the lost episode.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8Ba2xSRaeUQlNklsfyzTCl4dRj3.jpg"
+      },
+      {
+        "id": "tmdb:610:3:4",
+        "title": "Flat Top Tony and the Purple Canoes",
+        "season": 3,
+        "episode": 4,
+        "released": "1997-10-10T00:00:00.000Z",
+        "overview": "The Mid-Morning Show;Bob and David and the Womyn's Solidarity Collective;Smoosh on the Moon;Young People and their Companions; Wee-Time Toddler Care; Nostradamus and his ever present pal;Indomitable Spirit;Apocalypse Drill.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3hPUCvQfayBRZPW0BoUcFbEDfX2.jpg"
+      },
+      {
+        "id": "tmdb:610:3:5",
+        "title": "Please Don't Kill Me",
+        "season": 3,
+        "episode": 5,
+        "released": "1997-10-24T00:00:00.000Z",
+        "overview": "The Mr. Show Swear Jar;Landlords; The Fad 3; Pugazi's Hunger Strike; Mayostard and Mustardayonaise; The Dr. X Annual Save the Earth Telethon; Mayomustardayonaise.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/8MkmfPNQ4sv2qs6acrRN8IyEyR8.jpg"
+      },
+      {
+        "id": "tmdb:610:3:6",
+        "title": "Goin' On a Holiday",
+        "season": 3,
+        "episode": 6,
+        "released": "1997-10-31T00:00:00.000Z",
+        "overview": "\"Our Families Are Here Tonight\", The Coming Age War, The Hanged Man, 'Ol Fisherman Sticky Pads; Lie Detector; Seventies Movie Channel:Streakers and Streak-Dome 97, The New Mr. Show.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qy7isRzBoIk7fHUOg6cvlWLTFy3.jpg"
+      },
+      {
+        "id": "tmdb:610:3:7",
+        "title": "Bush is a Pussy",
+        "season": 3,
+        "episode": 7,
+        "released": "1997-11-07T00:00:00.000Z",
+        "overview": "Kedzie Matthews replaces Bob for the night,  Kedzie is a hit, The Value of Human Worth, The Ex-Siamese Twins, The Bad News Breakers, 24 is the Highest Number, Philouza, Mediocrity, Kedzie on Dr. Katz's Couch.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cs0Ew9Y2EbiOUxjs7YyD0LIcNer.jpg"
+      },
+      {
+        "id": "tmdb:610:3:8",
+        "title": "It's a No Brainer",
+        "season": 3,
+        "episode": 8,
+        "released": "1997-11-14T00:00:00.000Z",
+        "overview": "Puny Devil Knee High Socks;Protesters;On The Spot News;Lineup Room/VTV Link;Culture Hunt;Frankly Anne;;Jack Webber;Dream Of A Lifetime;Kiddie Massage Cream;Christians and Satanists Unite;Lets Get Sloppy; Fishing.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/plVum75l1Z4uH0xbJpQ0F6kW9Cx.jpg"
+      },
+      {
+        "id": "tmdb:610:3:9",
+        "title": "A White Man Set Them Free",
+        "season": 3,
+        "episode": 9,
+        "released": "1997-11-28T00:00:00.000Z",
+        "overview": "Mr. Show Viewer Hate Mail; Mr. Show Cracker Barrel, The Misunderstood Letters of Sharwood Lish, Marriage-Con and Boat Show '97; The Last Indian; Dying Asshole in Vietnam, Senator Tankerbell on Late Night with the Senate Sub-Comittee, All-Star Tribute to the Last Indian; Les Balloons Sportif.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lVX7DPra3o2Dm4OnI2ZEGhWSJb7.jpg"
+      },
+      {
+        "id": "tmdb:610:3:10",
+        "title": "The Return of the Curse of the Creature's Ghost",
+        "season": 3,
+        "episode": 10,
+        "released": "1997-12-05T00:00:00.000Z",
+        "overview": "Guidance Counselor Moe Phelps, Gus Kryzinski:Night Janitor/Entertainer, Local World News, B***job, Tittanica, The Pre-Taped Call-in Show, The Return of the Curse of the Creature's Ghost, The Chip on the Shoulder Club, A Trip Up My Mother's Ass, A Tribute to Mr. Phelps, \"\"We Are a Collection of Screaming Jackasses\"\".",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6KYfTsxsKO0PPFGdBOtOzREvcDi.jpg"
+      },
+      {
+        "id": "tmdb:610:4:1",
+        "title": "Life Is Precious and God and the Bible",
+        "season": 4,
+        "episode": 1,
+        "released": "1998-10-26T00:00:00.000Z",
+        "overview": "David's High Pharmacy, Welcome to Law School, Hitlers, The Todd Linderfloman Show Goes Out to Sea, Scams & Flams, Talkin' Bout The Weather Report.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7MbGEMUccku07cHLctGrVmUK4ba.jpg"
+      },
+      {
+        "id": "tmdb:610:4:2",
+        "title": "Show Me Your Weenis!",
+        "season": 4,
+        "episode": 2,
+        "released": "1998-11-02T00:00:00.000Z",
+        "overview": "Swingin' Show, The Mr. Show Boys Clubs, Get Your Own News, Fucked Up Kidnapper, Underground Tapes, Wycked Sceptre Party Tape, Menocu Buttplugs, House of the Future, and Racist in the Year 3000.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/1IZ1NtasgaISBfw40LZJgHqFRK6.jpg"
+      },
+      {
+        "id": "tmdb:610:4:3",
+        "title": "Rudy Will Await Your Foundation",
+        "season": 4,
+        "episode": 3,
+        "released": "1998-11-09T00:00:00.000Z",
+        "overview": "The Mr. Show \"\"Bloopers\"\", Superstar Machine, Phone Sex, Audition, Dad and You, The Pre-Natal Pageant, and the Burgandy Loaf 6-Star Resturant.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/rLZe1ITpL2Qq7R55OIZMm1j57gX.jpg"
+      },
+      {
+        "id": "tmdb:610:4:4",
+        "title": "The Story of Everest",
+        "season": 4,
+        "episode": 4,
+        "released": "1998-11-16T00:00:00.000Z",
+        "overview": "Lethal Injeksion Production, Sweetie Pie Jonus-New Executive Producer, Larry Cleest:Rapist, Pallies, The Story of Everest, The Movie: The Story of Everest.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7irjtO4cZscCliZfX6TLYzTstM3.jpg"
+      },
+      {
+        "id": "tmdb:610:4:5",
+        "title": "It's Perfectly Understandishable",
+        "season": 4,
+        "episode": 5,
+        "released": "1998-11-23T00:00:00.000Z",
+        "overview": "Rehersal Tape, In the Cage, Trainers to the Stars, Blind Love, Emergency Psychic Hotline, 18 Dalai Lama, Camp Monk Academy, and an In the Cage reprieve.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/t3fedRyZBVTm0HcOtuY1Ea52mId.jpg"
+      },
+      {
+        "id": "tmdb:610:4:6",
+        "title": "It's Insane, This Guy's Taint",
+        "season": 4,
+        "episode": 6,
+        "released": "1998-11-30T00:00:00.000Z",
+        "overview": "Tribute, Fat Intervention, Interventionist Intervention, Car Wash Change Thief Action Squad, The Men's Club of Allah, Kalunda, Taint Magazine.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wWi1EzQ5g1GbNZfA4EQ6gJIHVVS.jpg"
+      },
+      {
+        "id": "tmdb:610:4:7",
+        "title": "Eat Rotten Fruit From a Shitty Tree",
+        "season": 4,
+        "episode": 7,
+        "released": "1998-12-07T00:00:00.000Z",
+        "overview": "The Mr.Show Watercooler, Smarty Pants, International News Report: The President has Farted, God's biography \"\"My Life in the Fastlane\"\", Probings",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9W92etmWzJFbyH0TC2ITGsvUawf.jpg"
+      },
+      {
+        "id": "tmdb:610:4:8",
+        "title": "Like Chickens...Delicious Chickens",
+        "season": 4,
+        "episode": 8,
+        "released": "1998-12-14T00:00:00.000Z",
+        "overview": "David waits for his reparations from the Swiss Government, Edmund Premmington addresses the Gentleman's Hunt Club, Plane Crash, The Civil War:The Re-enactments.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wxFo3NFi7GdFDisGUkiILjXkwal.jpg"
+      },
+      {
+        "id": "tmdb:610:4:9",
+        "title": "Sad Songs are Nature's Onions",
+        "season": 4,
+        "episode": 9,
+        "released": "1998-12-21T00:00:00.000Z",
+        "overview": "David decides to run away, The Reason Behind the Content Warnings, Inside The Actor with Cyrus, Land of the Lost Parody, The Teardrop Awards.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/96vjHnsmhD0Z3CzuP81xjUHNd02.jpg"
+      },
+      {
+        "id": "tmdb:610:4:10",
+        "title": "Patriotism, Pepper, and Professionalism",
+        "season": 4,
+        "episode": 10,
+        "released": "1998-12-28T00:00:00.000Z",
+        "overview": "Globo-Chem Corporate Retreat, Honesty in Motion, Fenderman Documentary, The Week Apart, Marilyn Monster \"\"Fun-Ployees\"\" Training Video,",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pgvWfOOPO2ztukzprmQP2RiHFDh.jpg"
+      }
+    ]
+  }
+}

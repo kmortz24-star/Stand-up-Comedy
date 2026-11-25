@@ -158,6 +158,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_yScXksqeWlU",
+      "type": "movie",
+      "name": "Anjelah Johnson-Reyes | Ugly Baby (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/yScXksqeWlU/hqdefault.jpg",
+      "description": "Anjelah Johnson-Reyes · 64 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt2624662",
       "type": "movie",
       "name": "Anthony Jeselnik: Caligula",
@@ -183,6 +192,15 @@
       "type": "movie",
       "name": "Anthony Jeselnik: Bones and All",
       "poster": "https://image.tmdb.org/t/p/w500/lU96zGB4H8X1Jkrmh40J3I1enjE.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "standupyt_ts5FalYIzMw",
+      "type": "movie",
+      "name": "Anthony Jeselnik: Caligula - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/ts5FalYIzMw/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/ts5FalYIzMw/hqdefault.jpg",
+      "description": "Anthony Jeselnik · 41 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2024"
     },
     {
@@ -339,20 +357,6 @@
       "background": "https://i.ytimg.com/vi/yRMgKJov5_U/hqdefault.jpg",
       "description": "Ben Brainard · 77 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2025"
-    },
-    {
-      "id": "tt0283259",
-      "type": "movie",
-      "name": "Ben Elton: Live",
-      "poster": "https://image.tmdb.org/t/p/w500/bVpaWfFseObMDVYVF7eoCGVyLjJ.jpg",
-      "releaseInfo": "1997"
-    },
-    {
-      "id": "tmdb:158328",
-      "type": "movie",
-      "name": "Ben Elton: The Get A Grip Tour Live",
-      "poster": "https://image.tmdb.org/t/p/w500/ozWb9ujjDZUrKEty0myblta7ynS.jpg",
-      "releaseInfo": "2007"
     }
   ]
 }

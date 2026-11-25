@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "id": "tmdb:33922",
+    "type": "series",
+    "name": "Portlandia",
+    "releaseInfo": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/pfaxCP6YqlFHCL3QytnTanwRTL5.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/kCOLltSpNznhpdHhxCsky3eU1jI.jpg",
+    "description": "Satirical sketch comedy set and filmed in Portland, Oregon that explores the eccentric misfits who embody the foibles of modern culture.",
+    "videos": [
+      {
+        "id": "tmdb:33922:1:1",
+        "title": "Farm",
+        "season": 1,
+        "episode": 1,
+        "released": "2011-01-21T00:00:00.000Z",
+        "overview": "A bohemian couple goes to great lengths to make sure that their restaurant order is ethical and humane.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qKKTrHYzZqJhf9dBOP17uBD7KW2.jpg"
+      },
+      {
+        "id": "tmdb:33922:1:2",
+        "title": "A Song for Portland",
+        "season": 1,
+        "episode": 2,
+        "released": "2011-01-28T00:00:00.000Z",
+        "overview": "Fred and Carrie meet the Mayor of Portland who gives them a special assignment.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/kkGn6ZwKi52rFIiF8f8UvktiDdl.jpg"
+      },
+      {
+        "id": "tmdb:33922:1:3",
+        "title": "Aimee",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-02-04T00:00:00.000Z",
+        "overview": "Fred and Carrie discover that their maid is none other than their favorite singer-songwriter Aimee Mann. They also find that their new gardner is none other than singer songwriter Sara McLaughlin.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/pB0CGQXXbIv00yy9KkQLSSLp9pp.jpg"
+      },
+      {
+        "id": "tmdb:33922:1:4",
+        "title": "Mayor Is Missing",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-02-11T00:00:00.000Z",
+        "overview": "When the Mayor goes missing, Fred and Carrie begin a frantic search for him.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lkZLne06PdZK8tyqzFmUPMeWnQK.jpg"
+      },
+      {
+        "id": "tmdb:33922:1:5",
+        "title": "Blunderbuss",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-02-18T00:00:00.000Z",
+        "overview": "All of Portlandia is swept up in the excitement of a new music and film festival.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/w3prFmVVD3BMejvYeK3Q6flw7WB.jpg"
+      },
+      {
+        "id": "tmdb:33922:1:6",
+        "title": "Baseball",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-02-25T00:00:00.000Z",
+        "overview": "The Mayor turns to Fred and Carrie to help him put together a big league baseball team.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mtTuaJ9nDwj9eB2yRkMtJpMwllg.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:1",
+        "title": "Mixology",
+        "season": 2,
+        "episode": 1,
+        "released": "2012-01-06T00:00:00.000Z",
+        "overview": "Local artisan curators Lisa and Bryce realize that they can pickle everything; Fred helps Carrie chase a romantic mixologist (Andy Samberg) who forgets his roots when he moves from Portland to LA; Fred and Carrie stop to eat at a theme restaurant with a difficult waiter (Kumail Nanjiani); Kath and Dave's emergency signals are tested when they go river rafting; Feminist shopkeepers Toni and Candice teach an A/C repairman about the \"phallus\" and \"opposite of a phallus\" inside all of us.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/eP05avuKJcYC4D8XvhW3rMgRoUi.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:2",
+        "title": "One Moore Episode",
+        "season": 2,
+        "episode": 2,
+        "released": "2012-01-13T00:00:00.000Z",
+        "overview": "Doug and Claire become a bit obsessed with \"Battlestar Galactica\" and it begins to take over their lives.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aIqkx8tSp8LWhCk5VhSTgRKsqC3.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:3",
+        "title": "Cool Wedding",
+        "season": 2,
+        "episode": 3,
+        "released": "2012-01-20T00:00:00.000Z",
+        "overview": "Militant bike messenger Spyke and his fiancée Iris strive for non-conformity in their upcoming nuptials; Carrie drops her beloved iPhone, and her life flashes before her eyes; Two overly-polite drivers come to a standstill at an intersection when neither wants to be the first to go; A grocery shopper (Jack McBrayer) finds scorn when he forgets his reusable shopping bag; A bestselling author (Shoreh Agadashloo) visits the feminist bookstore to do a book-reading.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/kAANLzvOAC05cyGm5iEV5ISV8sW.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:4",
+        "title": "Grover",
+        "season": 2,
+        "episode": 4,
+        "released": "2012-01-27T00:00:00.000Z",
+        "overview": "Michelle and Brendan pull out all the stops to see that their son gains admittance to a prestigious preschool.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tBiXKr5d8LA8YRirnsAsvKexKuv.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:5",
+        "title": "Cops Redesign",
+        "season": 2,
+        "episode": 5,
+        "released": "2012-02-03T00:00:00.000Z",
+        "overview": "Nostalgia-loving Jason returns to LA from Portland and informs Melanie of another Portland throwback trend; the Mayor of Portland tasks Fred and Carrie with redesigning the Portland Police Department's uniforms and image; an excited donor donates his old music LPs to an elite preschool, but protective parents Brendan and Michelle question his sonic sensibilities; a team of salespeople at Bad Art Good Walls specialize in supplying new coffee shops with horrible art.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/q3ecfySnPdjE9GteTD7WsIWfurF.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:6",
+        "title": "Cat Nap",
+        "season": 2,
+        "episode": 6,
+        "released": "2012-02-10T00:00:00.000Z",
+        "overview": "In a boutique clothing store “Two Girls Two Shirts,” the owners (with Miranda July) are momentarily tempted by the idea of having customers; A struggling band finds itself with an all too enthusiastic fan (Kristin Wiig); Jayde from “jayde speaks Sevyn” and director Gahvin Quin make a video plea to help raise money in the name of art. When an innovative intern (Amber Tamblyn) suggests improvements at the feminist bookstore, shopkeepers Toni and Candace defend their way of doing business; Carrie’s sister begins making jewelry, prompting Fred to consider a new way to make a living; A houseowner’s move takes longer than she expects when she accidentally hires an eco-friendly moving crew.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7SsmKmvabhM4ZcXWUIG7lgZeaxj.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:7",
+        "title": "Motorcycle",
+        "season": 2,
+        "episode": 7,
+        "released": "2012-02-17T00:00:00.000Z",
+        "overview": "An idyllic music gathering becomes tense when they face the logistics of loading a harp into a sedan (with Joanna Newsom); A middle-aged couple attempts to reclaim the ideals of being young, rebellious and sexy by getting motorcycles; Second-hand clothing store workers scrutinize a woman’s fashion sense when she attempts to sell her used clothes; Nina attempts to convince her boyfriend Lance to join Facebook; Claire goes out for an evening and gets a sitter for her husband, Doug.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3zY13NfiEshSPDC4mAtwMoFAu9u.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:8",
+        "title": "Feminist Bookstore 10th Anniversary",
+        "season": 2,
+        "episode": 8,
+        "released": "2012-02-24T00:00:00.000Z",
+        "overview": "\"Sanitation Twins\" Marcus and Madeline Harris take separating trash to a whole new level; Portland's feminist bookstore \"Women & Women First\" commemorates its 10th anniversary, but the celebrations are cut short (with Penny Marshall and LaMarcus Aldridge); Uptight couple, Kath and Dave decide to go for a hike but get sidetracked as they prepare for every possible scenario; Peter and Nance go to their first Portland Timbers game and design a sign to root for the team; A risk-averse dance instructor ensures there is no chance of him being sued.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/zYW0U2MIIEHnwnPEi8jyaC8YyB2.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:9",
+        "title": "No Olympics",
+        "season": 2,
+        "episode": 9,
+        "released": "2012-03-02T00:00:00.000Z",
+        "overview": "A crying infant’s father escalates his attempts to soothe his thrill-seeking baby; Fred and Carrie get the Mayor of Portland’s (Kyle MacLachlan) blessing to create a grassroots campaign to prevent the Olympics from ever coming to Portland; A creative canoe dancer turns what seems to be a mistake in his routine into a triumphal finish; A pair of bike valets have trouble finding a disgruntled customer’s (Johnny Marr) bike.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ihqz9HFYKysI1togQCQhuAyvqz6.jpg"
+      },
+      {
+        "id": "tmdb:33922:2:10",
+        "title": "Brunch Village",
+        "season": 2,
+        "episode": 10,
+        "released": "2012-03-09T00:00:00.000Z",
+        "overview": "New brunch hotspot Fisherman’s Porch gets a write-up in the local paper, prompting Peter and Nance to give it a try – only to find hundreds of others had the same idea.  Portland’s Mayor (Kyle MacLachlan) offers to take Fred and Carrie to brunch, but when the bridge is blocked he is forced to find alternate routes. Feminist bookstore owners Toni and Candace take physical measures to remove unwanted pedestrians in line for brunch in front of their store. Nance has Peter hold her spot while she gets her jacket, only to return to accusations that she is cutting the line. Two bouncers escort her to a crazed man (Tim Robbins) who metes out punishment for line cutters – and it is up to Peter to save her.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/r6UB7h3tYJnMSiG4sWYdfOVasly.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:1",
+        "title": "Winter in Portlandia",
+        "season": 3,
+        "episode": 1,
+        "released": "2012-12-14T00:00:00.000Z",
+        "overview": "It's wintertime in Portlandia and Peter and Nance struggle to keep off winter weight by cutting pasta from their diets; Candace's son visits Women and Women First bookstore for the holidays; a couple tries to keep their food cart in business.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3nAXvMRivWXLy0YIGAdOx1lMc0L.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:2",
+        "title": "Take Back MTV",
+        "season": 3,
+        "episode": 2,
+        "released": "2013-01-04T00:00:00.000Z",
+        "overview": "Spyke and Iris join forces with a gang of former MTV stars to take back MTV from the Tweens; a group of frustrated college grads stage a protest on the dance floor; Sandra has a crush on a mysterious man in her meditation class.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/4JlBgfOdZEotiXvvZX08iTLuY3z.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:3",
+        "title": "Missionaries",
+        "season": 3,
+        "episode": 3,
+        "released": "2013-01-04T00:00:00.000Z",
+        "overview": "The Mayor sends Fred and Carrie on a door-to-door mission in Seattle to recruit new citizens for Portland. A pedicab driver hustles for clients. Peter and Nance prepare for the opening of their Bed and Breakfast with a visit to The Doily Shoppe. Doug and Claire spoil television shows for friends at a dinner party. Toni and Candace investigate a bad Yelp review of \"Women and Women First.\"",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qRLDwenGr3a3Jlm2bxZfZ1faVXz.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:4",
+        "title": "Nina's Birthday",
+        "season": 3,
+        "episode": 4,
+        "released": "2013-01-11T00:00:00.000Z",
+        "overview": "The Mayor sends Fred and Carrie on a door-to-door mission to Seattle to recruit new citizens for Portland; pedicab driver hustles for clients; Peter and Nance prepare for the opening of their Bed and Breakfast with a visit to The Doily Shoppe.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aPY8YlFsNvOab7OoZajV6KUQmDl.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:5",
+        "title": "Squiggleman",
+        "season": 3,
+        "episode": 5,
+        "released": "2013-01-18T00:00:00.000Z",
+        "overview": "Concerned parents Brendan and Michelle start a band that makes kids music; The Portland Nerd Council issues a Public Service Announcement; Malcom and Kris have an uncomfortable lunch at a vegan restaurant. The Feminist Bookstore hosts a comedy night.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/iUySpes0ExfakjUwD65zy1Bb685.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:6",
+        "title": "Off the Grid",
+        "season": 3,
+        "episode": 6,
+        "released": "2013-01-25T00:00:00.000Z",
+        "overview": "Following an environmental scandal, The Mayor steps down from office and moves off the grid; a dolphin discovers that plastic bags have been banned in Portland; musicians compete in a Battle of the Gentle Bands.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mnLoJyLnfjJO7X3Q5lQJckY3Sue.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:7",
+        "title": "The Temp",
+        "season": 3,
+        "episode": 7,
+        "released": "2013-02-01T00:00:00.000Z",
+        "overview": "A temp worker hopes to turn her stint as Interim Mayor of Portland into a full-time job with Fred and Carrie's help; a wedding is interrupted; local baristas draft a coffee shop manifesto; Kath and Dave struggle to find a table at a restaurant.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lTgmf73jISwgjIovu5REAW1Sk5X.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:8",
+        "title": "Soft Opening",
+        "season": 3,
+        "episode": 8,
+        "released": "2013-02-08T00:00:00.000Z",
+        "overview": "Peter and Nance practice hosting friends at the soft opening of their bed and breakfast; a magazine features a local furniture maker in their Man Issue; steampunks attend a convention; Fred takes a love interest on a bold third date.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/saq7tsLw2flfoVYPEfktyqsEWWW.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:9",
+        "title": "Alexandra",
+        "season": 3,
+        "episode": 9,
+        "released": "2013-02-15T00:00:00.000Z",
+        "overview": "The City of Portland is overrun with art projects; Fred and Carrie's relationship is complicated by their roommate Alexandra; a movie theater sells artisanal concessions. Kath and Dave are concerned about the coyotes in their neighborhood.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vns1D9lknNDhOyv6GWxXyYVH2ym.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:10",
+        "title": "No-Fo-O-Fo-Bridge",
+        "season": 3,
+        "episode": 10,
+        "released": "2013-02-22T00:00:00.000Z",
+        "overview": "The Rats decide to move out of their newly-gentrified neighborhood; first-time parents read various child-rearing books; Gahvin and his girlfriend go to the movies; Carrie and Alexandra have dinner at a communal table.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/3tSvLucHMscGGdAhdi7DgStk0m6.jpg"
+      },
+      {
+        "id": "tmdb:33922:3:11",
+        "title": "Blackout",
+        "season": 3,
+        "episode": 11,
+        "released": "2013-03-01T00:00:00.000Z",
+        "overview": "Electricity is shut off for the entire City of Portland due to unpaid bills at the Mayor's Office. Peter and Nance have a mysterious guest at their bed and breakfast. Kath and Dave go into survival mode. Fred and Carrie team up to find Mr. Mayor and restore power to the city.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9xHFhIZzPTGUarJolI50dCf7Bj8.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:1",
+        "title": "Sharing Finances",
+        "season": 4,
+        "episode": 1,
+        "released": "2014-02-27T00:00:00.000Z",
+        "overview": "A young woman is haunted by very smart ghosts; Doug and Claire make a big commitment to one another; Kath and Dave make the most of fifteen minutes; Sandra finally finds a soul mate; Fred is visited by a Date Fact Checker.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/j9ouWB4pdALrmAlpN2Ymq1s5buf.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:2",
+        "title": "Ecoterrorists",
+        "season": 4,
+        "episode": 2,
+        "released": "2014-03-06T00:00:00.000Z",
+        "overview": "Ecoterrorists protest animal testing at a makeup company; Bryce and Lisa Rent it Out!; Toni and Candace have a car wash; Fred misses hip hop; Dave helps Kath get a good night's sleep.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wGbFiFFDH1yXGZfhQMqzFZIcwO.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:3",
+        "title": "Celery Guy",
+        "season": 4,
+        "episode": 3,
+        "released": "2014-03-13T00:00:00.000Z",
+        "overview": "A celery salesman goes to great lengths to have celery become more popular; 911 dispatchers assure callers that it's beets; The Order Grill is open for lunch; Carrie declares social bankruptcy; a fed up office worker wants to become a gutter punk.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lWih2Si0KPsAkmGnqd3YC1I2uNn.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:4",
+        "title": "Pull-Out King",
+        "season": 4,
+        "episode": 4,
+        "released": "2014-03-20T00:00:00.000Z",
+        "overview": "A punk from the 1980s wakes up from a coma; an e-mail goes neglected; Nina has surprising news for Lance; Malcolm and Kris tailgate a \"Prairie Home Companion\" live show; Carrie dates a tax lawyer.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/GJK24bux0YC4a3fXdrKy2skoBH.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:5",
+        "title": "Spyke Drives",
+        "season": 4,
+        "episode": 5,
+        "released": "2014-03-27T00:00:00.000Z",
+        "overview": "Nance is driven to the emergency room; Ghavin questions a singer; Fred and Carrie have a garage sale; dinner guests are held hostage.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2J5ED5HROxmfeHavJEiR2GfksVB.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:6",
+        "title": "Bahama Knights",
+        "season": 4,
+        "episode": 6,
+        "released": "2014-04-03T00:00:00.000Z",
+        "overview": "Fred has an idea for a music documentary. Peter is reunited with his old band, The Bahama Knights, and his ex-wife is lead singer. Trudy and Craig produce a song. Carrie and Fred go home after a concert. Guest starring Maya Rudolph, Tuck & Patti and Jeff Tweedy.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qfekO8n0DXAjEjkZrKXDSSaPD52.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:7",
+        "title": "Trail Blazers",
+        "season": 4,
+        "episode": 7,
+        "released": "2014-04-10T00:00:00.000Z",
+        "overview": "Joaquin makes a smoothie. Kickstarter videos compete at the Cant’s Film. Sandra visits a tattoo removal parlor. Malcolm and Kris make their own clothing. Toni and Candace coach the Portland Trail Blazers’ dance team. Guest starring Gus Van Sant, Paul Allen and The Portland Trail Blazers.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/5GWa5Ld23RWBqyBTqJz5Py86ye8.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:8",
+        "title": "Late in Life Drug Use",
+        "season": 4,
+        "episode": 8,
+        "released": "2014-04-17T00:00:00.000Z",
+        "overview": "Mr. Mayor plans a Pride Parade. Brendan and Michelle decide it’s finally time to try recreational drugs. The Punslingers name some new businesses. Carrie’s brother comes to visit with his new boyfriend. The cops visit Toni and Candace. Spyke and Iris have dinner at a suspiciously bad Thai restaurant. Guest starring Kyle MacLachlan, Dan Savage and Josh Homme.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ptJ8uFx5V3tCoHisHO1RNmnhucY.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:9",
+        "title": "3D Printer",
+        "season": 4,
+        "episode": 9,
+        "released": "2014-04-24T00:00:00.000Z",
+        "overview": "A minister reminds us that church is an option. Art students makes anti-corporate paintings. Mr. Mayor unveils Portland’s official 3D printer. Santa is concerned about the future of Christmas. A TV commercial director struggles with his own creativity. Lance and Nina’s lizard dies. Guest starring Ed Begley Jr.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hNIrd3eHPQuL9wugAnJ8V1RNM41.jpg"
+      },
+      {
+        "id": "tmdb:33922:4:10",
+        "title": "Getting Away",
+        "season": 4,
+        "episode": 10,
+        "released": "2014-05-01T00:00:00.000Z",
+        "overview": "Portlandia gets away for the weekend to New Beavertown, Oregon. Toni and Candace lead a feminist retreat for women. Kath and Dave do their best to relax. Peter and Nance go on a walking tour of the town. Guest starring Jason Sudeikis and k.d.lang.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/f4sFrTvFf3iwzlhNyu6kfH8jf1S.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:1",
+        "title": "The Story of Toni and Candace",
+        "season": 5,
+        "episode": 1,
+        "released": "2015-01-08T00:00:00.000Z",
+        "overview": "In 1991, a merger between two corporate book retailers pits young, sexy, shoulder-pad wearing Toni and Candace against one another in fierce competition to oversee the Chick Lit Department.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/i8BrlvW21Id1muc4ptIPhLoFSIc.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:2",
+        "title": "The Fiancée",
+        "season": 5,
+        "episode": 2,
+        "released": "2015-01-15T00:00:00.000Z",
+        "overview": "A visit from Lance’s Mom and her new boyfriend puts pressure on Lance and Nina’s relationship.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/de5HCSDvnlv3lYUXe8hrzKp7Lt.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:3",
+        "title": "Healthcare",
+        "season": 5,
+        "episode": 3,
+        "released": "2015-01-22T00:00:00.000Z",
+        "overview": "A series of health ailments create a desperate search for medical solutions.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aA9pq5VzNxnpqhZEVzJp2JuDK4e.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:4",
+        "title": "SeaWorld",
+        "season": 5,
+        "episode": 4,
+        "released": "2015-01-29T00:00:00.000Z",
+        "overview": "The Ecoterroists travel to San Diego to take down their next target: Seaworld.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cyz1dZgOB5GHri4EIDUaBuHc6hJ.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:5",
+        "title": "4th of July",
+        "season": 5,
+        "episode": 5,
+        "released": "2015-02-05T00:00:00.000Z",
+        "overview": "Kath and Dave attempt the ultimate Independence Day BBQ. The Mayor and Sam search the deep web for truly spectacular fireworks.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/A9M29PrhnESAh2Y1rEi2pKiedl5.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:6",
+        "title": "Fashion",
+        "season": 5,
+        "episode": 6,
+        "released": "2015-02-12T00:00:00.000Z",
+        "overview": "Portland’s Dollar Store recruits Quinn as the face for their rebranding campaign. Spyke faces trial for making unlicensed Bart Simpson merchandise.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/xxSJNXLS60xI2rX7HIwUF0KkK4U.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:7",
+        "title": "Doug Becomes a Feminist",
+        "season": 5,
+        "episode": 7,
+        "released": "2015-02-19T00:00:00.000Z",
+        "overview": "Doug discovers that he is a male feminist. Sandra takes a rideshare for the first time.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/lGqpKEYQuSaHwCH6YVwz8d7G0tg.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:8",
+        "title": "House for Sale",
+        "season": 5,
+        "episode": 8,
+        "released": "2015-02-26T00:00:00.000Z",
+        "overview": "Fred and Carrie's landlord moves into their house; Kath and Dave decide to buy a new home for their next renovation project.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/qifWy61YwBbm0Xx9aHiIz7fnoPU.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:9",
+        "title": "You Can Call Me Al",
+        "season": 5,
+        "episode": 9,
+        "released": "2015-03-05T00:00:00.000Z",
+        "overview": "Kath and Dave get a little frantic when they need to rehearse for a karaoke party.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7U4ycFBMrpq6zr4BFDMsEvdwUJ7.jpg"
+      },
+      {
+        "id": "tmdb:33922:5:10",
+        "title": "Dead Pets",
+        "season": 5,
+        "episode": 10,
+        "released": "2015-03-12T00:00:00.000Z",
+        "overview": "Police begin profiling weirdos after arsonists burn down a taxidermy shop.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/6aczZ22LRQEOZikdBvLCr2cB172.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:1",
+        "title": "Pickathon",
+        "season": 6,
+        "episode": 1,
+        "released": "2016-01-21T00:00:00.000Z",
+        "overview": "The Flaming Lips headline Portland's Pickathon Music Festival; Brendan and Michelle attend the festival via drone.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7iBTPNJEPOFpYn1kwA44T8jQbmm.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:2",
+        "title": "Going Gray",
+        "season": 6,
+        "episode": 2,
+        "released": "2016-01-28T00:00:00.000Z",
+        "overview": "Fred wakes up with gray hair and sets out on a journey to figure out how old he is; the Mayor reminds Carrie about an arrangement they made.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aKgE7F3tMYP7SEOSbEGMNXYtNHG.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:3",
+        "title": "Shville",
+        "season": 6,
+        "episode": 3,
+        "released": "2016-02-04T00:00:00.000Z",
+        "overview": "Fred wants to do something big with his life so he moves to Austin; Carrie experiences motherhood.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tdUEv6qnPqB41qD8WcL4epq2JVv.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:4",
+        "title": "Weirdo Beach",
+        "season": 6,
+        "episode": 4,
+        "released": "2016-02-11T00:00:00.000Z",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/7rDNhbjrXKUws8rPkoAAxiVdJ25.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:5",
+        "title": "Breaking Up",
+        "season": 6,
+        "episode": 5,
+        "released": "2016-02-18T00:00:00.000Z",
+        "overview": "Claire is finally fed up with Doug's childish behavior and breaks up with him. They both date new people and discover surprising things about themselves.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/ekrW5jcaXKWdOow2eFqgY0RB8Ed.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:6",
+        "title": "TADA",
+        "season": 6,
+        "episode": 6,
+        "released": "2016-02-25T00:00:00.000Z",
+        "overview": "Kath & Dave feel marginalized after an accident leaves them temporarily disabled. A car service app user dodges surge pricing by calling a cab. Joey gets an internship.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/AgAvD1BJlXvAR2x7knNBDARI5LR.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:7",
+        "title": "Family Emergency",
+        "season": 6,
+        "episode": 7,
+        "released": "2016-03-03T00:00:00.000Z",
+        "overview": "Louis C.K. cancels a show in Portland due to a family emergency; Fred and Carrie are asked to judge a plume contest.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/nLBCER4euq0oX0Lda26rYKs9VNR.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:8",
+        "title": "First Feminist City",
+        "season": 6,
+        "episode": 8,
+        "released": "2016-03-10T00:00:00.000Z",
+        "overview": "Portland is declared the most feminist city in the country, and Toni and Candace have to deal with the attention. The town opens a Femi-Mart.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/cMnqOJ4qBWN6clyPxPgJEeuwg4y.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:9",
+        "title": "Lance Is Smart",
+        "season": 6,
+        "episode": 9,
+        "released": "2016-03-17T00:00:00.000Z",
+        "overview": "Lance gets glasses and joins an intellectual crowd. Nina hires a tutor to help her win over Lance's new friends.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yqDBTH29CaXyt6SdrhbibS96sBp.jpg"
+      },
+      {
+        "id": "tmdb:33922:6:10",
+        "title": "Noodle Monster",
+        "season": 6,
+        "episode": 10,
+        "released": "2016-03-24T00:00:00.000Z",
+        "overview": "A tsukemen ramen monster is on the loose in Portland. The mayor tries to impress a major brand visiting Portland and enlists Fred and Carrie to help.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hRKfMMHO6KBInlhZsIKzUp8Bjjz.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:1",
+        "title": "The Storytellers",
+        "season": 7,
+        "episode": 1,
+        "released": "2017-01-05T00:00:00.000Z",
+        "overview": "Fred and Carrie consult with a storytelling expert. Nigel and Amy pitch an album release. A traveler checks into an unconventional hotel. A pediatrician invents a children's toy. The Weirdos discover the joys of Bed, Bath and Beyond.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/fcmkZcJTaABkZqdv6E2LPFgS3qP.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:2",
+        "title": "Carrie Dates a Hunk",
+        "season": 7,
+        "episode": 2,
+        "released": "2017-01-12T00:00:00.000Z",
+        "overview": "Fred doesn't dig Carrie's hunky new beau. A new couple goes to therapy. Drew and Andy question, \"What about men?\". Melanie and Lars make the important choice to buy a rug.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/NT7Y2aL1sBbJ6TdvVAK71zmpD6.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:3",
+        "title": "Fred's Cell Phone Company",
+        "season": 7,
+        "episode": 3,
+        "released": "2017-01-19T00:00:00.000Z",
+        "overview": "Fred's new business may be more trouble than it's worth. Kate and Sam learn the perils of long distance love. Drew and Andy plan a funeral. Nina gives Lance a massage chair that changes everything.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vgYqAVfscPP7FYT2c2xYg8sghlz.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:4",
+        "title": "Separation Anxiety",
+        "season": 7,
+        "episode": 4,
+        "released": "2017-01-26T00:00:00.000Z",
+        "overview": "Toni and Candace retire but there is still some unfinished business between them. Drew and Andy re-imagine gingerbread cookies. Peter and Nance try a new protein diet. The rats consider the charms of squirrels.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/2Y9prGP0Cns9FXhBuWkwLRNnIth.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:5",
+        "title": "Amore",
+        "season": 7,
+        "episode": 5,
+        "released": "2017-02-02T00:00:00.000Z",
+        "overview": "Fred has a marriage arranged. A couple opens a movie theater with a real at-home experience. A school hires a bully to teach children grit. A creepy guy keeps commenting \"Beautiful\" on social media posts.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mvIQtIGx1CZSmrClhkMBGNE2dNY.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:6",
+        "title": "Friend Replacement",
+        "season": 7,
+        "episode": 6,
+        "released": "2017-02-09T00:00:00.000Z",
+        "overview": "Carrie looks for a new friend. Jill's office anxieties cause her to try a radical diet. Drew and Andy host a film festival. A scientist pitches the cure for modern life. Ghavin opens an elaborate box set.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/jK65CQSNcCa3XYSaj7uRXMAjxWr.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:7",
+        "title": "Portland Secedes",
+        "season": 7,
+        "episode": 7,
+        "released": "2017-02-16T00:00:00.000Z",
+        "overview": "Fred and Carrie help the Mayor secede Portland from the United States. The eco-terrorists receive an award for Best Protest. Peter thinks he might be Banksy. Dave and Kath leave passive-aggressive notes on cars.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/hmm3vcZtt9oAO84ypSWcIw17iEs.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:8",
+        "title": "Ants",
+        "season": 7,
+        "episode": 8,
+        "released": "2017-02-23T00:00:00.000Z",
+        "overview": "Nina and Lance deal with an ant infestation. The mayor attempts to break a world record. \"Time Tailors\" evaluate a man's schedule. The eco-terrorists brainstorm how to make an impressive event entrance.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/i6sYD6fQbFNUro3p30x9sRSWFB.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:9",
+        "title": "Passenger Rating",
+        "season": 7,
+        "episode": 9,
+        "released": "2017-03-02T00:00:00.000Z",
+        "overview": "Carrie tries to improve her passenger rating on a ride sharing app. A local actor teaches a boss how to fire employees. The National Small Talk Convention takes place. Sandra develops a close relationship with her customer service representative.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/9eZAelAUusyhmxTxEhadhajJAOQ.jpg"
+      },
+      {
+        "id": "tmdb:33922:7:10",
+        "title": "Misunderstood Miracles",
+        "season": 7,
+        "episode": 10,
+        "released": "2017-03-09T00:00:00.000Z",
+        "overview": "Sandra teaches a pit bull self-control.  Fred and Carrie attempt protesting for cyclist rights. Lisa and Bryce sell instant garbage. A couple explains alcohol to their adult son. Fred discovers models.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/v6rNFZWJLP783BvWrFs8K2k8v5P.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:1",
+        "title": "Riot Spray",
+        "season": 8,
+        "episode": 1,
+        "released": "2018-01-18T00:00:00.000Z",
+        "overview": "Spyke gets his old band back together. Podcasters investigate a police station. Candace brings Toni to her childhood summer home.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/eapVUztkAONnJdXfWPdx9RSJe3o.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:2",
+        "title": "Shared Workspace",
+        "season": 8,
+        "episode": 2,
+        "released": "2018-01-25T00:00:00.000Z",
+        "overview": "Toni & Candace get involved in women's healthcare. Peter & Nance deal with a sushi situation. Kathleen becomes the first female partner at her firm.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/mSC0CdgsVwShDNWzVIjklSAnk3H.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:3",
+        "title": "No Thank You",
+        "season": 8,
+        "episode": 3,
+        "released": "2018-02-01T00:00:00.000Z",
+        "overview": "Fred & Carrie help Rachel navigate the world of dating apps. Kath & Dave take on an escape room. Joey tries therapy. Andy & Drew swear off women.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/I2Bc8JCpU6J5Sguu5t39lS6riy.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:4",
+        "title": "Abracadabra",
+        "season": 8,
+        "episode": 4,
+        "released": "2018-02-08T00:00:00.000Z",
+        "overview": "Nina & Lance tell the story of how they met. A couple uses distraction cancelling glasses. Peter & Nance look forward to breakfast.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/aeyMAouWs0f6Aa3tWFyCrSTyWEw.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:5",
+        "title": "Open Relationship",
+        "season": 8,
+        "episode": 5,
+        "released": "2018-02-15T00:00:00.000Z",
+        "overview": "Doug & Claire try an open relationship. A company uses VR for an important meeting. The Mayor waits for a helicopter. Fred steps on a snail.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/tJWZfhmONp3skudkfUhXQAoy8Ri.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:6",
+        "title": "You Do You",
+        "season": 8,
+        "episode": 6,
+        "released": "2018-02-22T00:00:00.000Z",
+        "overview": "Sandra discovers she can have it all. Portland adds more lanes to the freeway. Kath & Dave learn the art of taking photo booth pictures.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/vDButLwYJ8kua7IeNUl6UvkCsDF.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:7",
+        "title": "Most Pro City",
+        "season": 8,
+        "episode": 7,
+        "released": "2018-03-01T00:00:00.000Z",
+        "overview": "The Mayor sets out to prove Portland's diversity. Text message drama unfolds during a business meeting. Activists on a hunger strike take a cheat day. Drivers communicate via hand signals.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/yi1paNmCrhHm1G01iURW4henBIs.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:8",
+        "title": "Peter Follows P!nk",
+        "season": 8,
+        "episode": 8,
+        "released": "2018-03-08T00:00:00.000Z",
+        "overview": "Peter and Nance interact with celebrities on social media. Fred gives Carrie a rock n' roll remodel. James rides his bike to work. Gil and George say hello to Toni and Candace.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/wl6gaVOChz0jkQ816MoZ8UbMiZB.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:9",
+        "title": "Long Way Back",
+        "season": 8,
+        "episode": 9,
+        "released": "2018-03-15T00:00:00.000Z",
+        "overview": "The Weirdos lose their favorite trash can, which takes an unexpected journey throughout the city; Malcolm and Kris visit their pediatrician; Peter and Nance wonder why they've never been hacked; Fred and Carrie just give up.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/buCFNDHr3a3Tw46TYApcoOFfn1g.jpg"
+      },
+      {
+        "id": "tmdb:33922:8:10",
+        "title": "Rose Route",
+        "season": 8,
+        "episode": 10,
+        "released": "2018-03-22T00:00:00.000Z",
+        "overview": "The Mayor cuts deals all over town to secure the perfect route for the Portland Marathon; Fred and Carrie decide to run to break their addiction to news alerts; Candace's house guest Dolly quickly becomes her new best friend.",
+        "thumbnail": "https://image.tmdb.org/t/p/w780/eDPCgDdBmnmjHx9fcyFvbe7LbN5.jpg"
+      }
+    ]
+  }
+}

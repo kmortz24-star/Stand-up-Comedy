@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "YouTube (try in app)",
+      "title": "YouTube · Experimental in-app playback",
+      "ytId": "KWMUM_myE38"
+    },
+    {
+      "name": "YouTube (open externally)",
+      "title": "YouTube · Browser / YouTube app",
+      "externalUrl": "https://www.youtube.com/watch?v=KWMUM_myE38"
+    }
+  ]
+}
