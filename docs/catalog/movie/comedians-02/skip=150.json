@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt37610597",
+      "type": "movie",
+      "name": "Dom Irrera: Live from Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/j0OJAusYw5zqtfWKsocQmgBqroW.jpg",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "tt1071280",
       "type": "movie",
       "name": "Don Rickles: Alive and Kicking",
@@ -156,6 +163,15 @@
       "type": "movie",
       "name": "Drew Lynch: Short King",
       "poster": "https://image.tmdb.org/t/p/w500/gdKzcG2RIBMgLrVQjWWq6eRx0ex.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "standupyt_6oWdOoqhIQs",
+      "type": "movie",
+      "name": "Drew Lynch | And These Are Jokes | Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/6oWdOoqhIQs/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/6oWdOoqhIQs/hqdefault.jpg",
+      "description": "Drew Lynch · 38 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
       "releaseInfo": "2023"
     },
     {

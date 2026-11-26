@@ -44,6 +44,15 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "standupyt_s-gt-Rqflo4",
+      "type": "movie",
+      "name": "Ed Night | Hour Long Clip (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/s-gt-Rqflo4/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/s-gt-Rqflo4/hqdefault.jpg",
+      "description": "Ed Night · 49 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0435636",
       "type": "movie",
       "name": "Eddie Griffin: Voodoo Child",
@@ -259,6 +268,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_LYfZ60ijd1Q",
+      "type": "movie",
+      "name": "Emmy Blotnick | What's Her Secret? (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/LYfZ60ijd1Q/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/LYfZ60ijd1Q/hqdefault.jpg",
+      "description": "Emmy Blotnick · 44 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0333395",
       "type": "movie",
       "name": "Emo Philips Live! At the Hasty Pudding Theatre",
@@ -333,20 +351,6 @@
       "name": "Felipe Esparza: Bad Decisions",
       "poster": "https://image.tmdb.org/t/p/w500/8StJcppu0n8iqG9aFTZQIcK6GvN.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt9721832",
-      "type": "movie",
-      "name": "Fern Brady: Male Comedienne",
-      "poster": "https://image.tmdb.org/t/p/w500/bD5bqZbrArOysVQ18DHujvFCzCb.jpg",
-      "releaseInfo": "2017"
-    },
-    {
-      "id": "tt14606118",
-      "type": "movie",
-      "name": "Fern Brady: Power & Chaos",
-      "poster": "https://image.tmdb.org/t/p/w500/9NlEKMGvTqKETJniYpAFl9RZF1q.jpg",
-      "releaseInfo": "2021"
     }
   ]
 }

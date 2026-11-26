@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1614256",
+      "type": "movie",
+      "name": "Trevor Noah: The LOST South African Show",
+      "poster": "https://image.tmdb.org/t/p/w500/uyOIvtBv12ZtbqNr1KqMQaC9TZT.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt41592024",
+      "type": "movie",
+      "name": "Trevor Noah: Joy in the Trenches",
+      "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt9315848",
       "type": "movie",
       "name": "Vir Das: Losing It",

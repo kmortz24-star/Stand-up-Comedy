@@ -262,6 +262,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_Ix-0-BDLBHE",
+      "type": "movie",
+      "name": "Shane Mauss | Trips: Second Dose (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/Ix-0-BDLBHE/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/Ix-0-BDLBHE/hqdefault.jpg",
+      "description": "Shane Mauss · 46 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt30394557",
       "type": "movie",
       "name": "Shane Torres: The Blue Eyed Mexican",
@@ -339,18 +348,13 @@
       "releaseInfo": "2012"
     },
     {
-      "id": "tt0292690",
+      "id": "standupyt_HuLgVSa88Sg",
       "type": "movie",
-      "name": "Sinbad: Brain Damaged",
-      "poster": "https://image.tmdb.org/t/p/w500/2hXCWKRHuzox2NQxxylwrhr07vH.jpg",
-      "releaseInfo": "1991"
-    },
-    {
-      "id": "tt0938331",
-      "type": "movie",
-      "name": "Sinbad: Afros and Bellbottoms",
-      "poster": "https://image.tmdb.org/t/p/w500/gAYv6aZ7i4aQ9FztzM26Fx7KreZ.jpg",
-      "releaseInfo": "1993"
+      "name": "Simon Brodkin | Screwed Up (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/HuLgVSa88Sg/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/HuLgVSa88Sg/hqdefault.jpg",
+      "description": "Simon Brodkin · 52 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     }
   ]
 }

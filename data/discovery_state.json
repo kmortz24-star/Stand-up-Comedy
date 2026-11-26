@@ -11562,12 +11562,12 @@
     "Q891678": "2026-11-24",
     "Q96390553": "2026-11-24"
   },
-  "last_run": "2026-11-25",
+  "last_run": "2026-11-26",
   "last_discovery": {
     "wikidata_people": 1499,
     "wikidata_works": 422,
     "performers_searched": 0,
-    "total_tmdb_candidates": 1703,
+    "total_tmdb_candidates": 1659,
     "exact_title_searches": 0,
     "exact_title_matches": 0,
     "matched_by_source": {}
@@ -11587,16 +11587,18 @@
     "2020": "2026-11-23",
     "ian fidance": "2026-11-24",
     "richard lewis": "2026-11-25",
-    "eleanor kerrigan": "2026-11-25"
+    "eleanor kerrigan": "2026-11-25",
+    "dara o briain": "2026-11-26",
+    "wanda sykes": "2026-11-26"
   },
-  "youtube_last_run": "2026-11-25",
+  "youtube_last_run": "2026-11-26",
   "youtube_last_discovery": {
-    "queries_completed": 0,
+    "queries_completed": 6,
     "daily_queries_used": 6,
     "daily_query_budget": 6,
-    "videos_checked": 1,
-    "new_candidates": 0,
-    "channels_scanned": 0,
+    "videos_checked": 857,
+    "new_candidates": 70,
+    "channels_scanned": 6,
     "quota_or_connection_blocked": false
   },
   "wikidata_schema": 3,
@@ -11817,53 +11819,61 @@
   },
   "last_discovery_title_searches": 0,
   "credited_works_count": 55,
-  "youtube_daily_date": "2026-11-25",
+  "youtube_daily_date": "2026-11-26",
   "youtube_daily_queries": 6,
   "youtube_set_searched": {
     "ian fidance": "2026-11-24",
     "richard lewis": "2026-11-25",
-    "eleanor kerrigan": "2026-11-25"
+    "eleanor kerrigan": "2026-11-25",
+    "dara o briain": "2026-11-26",
+    "wanda sykes": "2026-11-26"
   },
   "youtube_searched_titles": {
     "Q4658588": "2026-11-24",
     "Q7711239": "2026-11-24",
     "Q4749977": "2026-11-24",
     "Q5127975": "2026-11-25",
-    "Q16950277": "2026-11-25"
+    "Q16950277": "2026-11-25",
+    "Q17426155": "2026-11-26",
+    "Q7783333": "2026-11-26"
   },
   "youtube_general_searched": "2026-11-24",
   "youtube_general_rotation": 1,
   "youtube_channel_cursors": {
     "UC7MgijK9WL_EqCo1juUERwg": {
-      "page": "EAAaH1BUOkNKWUJJaEJFTlRBMFFVWkRSakUzT1RsRk1FRTM",
-      "checked": "2026-11-25"
+      "page": "EAAaH1BUOkNNZ0JJaEJGT0RBeE9EY3pRekU1UmtJeE1FVXc",
+      "checked": "2026-11-26"
     },
     "UCJ9hfZ2sU7jFT9isA2rN58Q": {
-      "page": "EAAaH1BUOkNKWUJJaEF5TkVSQlF6WXpRVFU1TlRCRVJFSkQ",
-      "checked": "2026-11-25"
+      "page": "EAAaH1BUOkNNZ0JJaEJGUlRNNU5qSTBOamRDUVRZeFFqRTM",
+      "checked": "2026-11-26"
     },
     "UCMpmSyI1e_6tf5ctDY547xw": {
-      "page": "EAAaH1BUOkNKWUJJaEJDTVRNek5UY3dOakZCTjBFMU1UbEI",
-      "checked": "2026-11-25"
+      "page": "EAAaH1BUOkNNZ0JJaEE1TTBJMVJqRTBNMFZHUkRSQk4wSkM",
+      "checked": "2026-11-26"
     },
     "UCObk_g1hQBy0RKKriVX_zOQ": {
-      "page": "EAAaH1BUOkNKWUJJaEJFTWpKR01ESTNOVEkxUkVZM05VTkQ",
-      "checked": "2026-11-25"
+      "page": "EAAaH1BUOkNNZ0JJaEJGUkVVd01FRTVSRFpCUkRZM01EbEU",
+      "checked": "2026-11-26"
     },
     "UCtw7q4SyOeoCwM1i_3x8lDg": {
       "page": "EAAaH1BUOkNKWUJJaEJDT1RKQ05FUXpRMEl5TkVZek1VRTU",
       "checked": "2026-11-25"
     },
     "UCvlVuntLjdURVD3b3Hx7kxw": {
-      "page": "EAAaHlBUOkNHUWlFRE5DUWpaRVJrTTVSa05DTlRRM01qVQ",
-      "checked": "2026-11-24"
+      "page": "EAAaH1BUOkNKWUJJaEJGTkVKRU5VTkNNelZGUVRBM09VTXo",
+      "checked": "2026-11-26"
     },
     "UCWHZt1zsnWz3ksHg-YND7PQ": {
       "page": "EAAaHlBUOkNHUWlFRVZCUWpVM1F6QkZSa0pCTnpjd09VVQ",
       "checked": "2026-11-25"
+    },
+    "UCyQ3OZzpD5Vh6YBUfejR4eA": {
+      "page": "",
+      "checked": "2026-11-26"
     }
   },
-  "youtube_channel_scan_date": "2026-11-25",
+  "youtube_channel_scan_date": "2026-11-26",
   "language_backfill_attempts": {
     "823754": "2026-11-24",
     "508933": "2026-11-24",

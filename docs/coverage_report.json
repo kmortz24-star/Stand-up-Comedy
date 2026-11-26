@@ -7,9 +7,9 @@
     "priority_comedians_without_movie_records": 5,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 57,
-    "catalog_movie_records": 3032,
+    "catalog_movie_records": 3035,
     "tv_review_leads": 3296,
-    "youtube_review_candidates": 191
+    "youtube_review_candidates": 261
   },
   "comedians": [
     {
@@ -419,7 +419,7 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 1,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 4,
       "independent_unmatched_works": [
         {
           "title": "These Are Jokes",
@@ -856,16 +856,6 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
-      "name": "Earthquake",
-      "priority": "established",
-      "movie_special_records": 1,
-      "tv_episode_review_leads": 2,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
       "name": "Gina Yashere",
       "priority": "established",
       "movie_special_records": 1,
@@ -1060,6 +1050,16 @@
       "priority": "established",
       "movie_special_records": 2,
       "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Earthquake",
+      "priority": "established",
+      "movie_special_records": 2,
+      "tv_episode_review_leads": 2,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,
@@ -2160,17 +2160,7 @@
       "priority": "established",
       "movie_special_records": 6,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
-      "name": "Dave Attell",
-      "priority": "established",
-      "movie_special_records": 6,
-      "tv_episode_review_leads": 2,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 11,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"
@@ -2190,16 +2180,6 @@
       "priority": "established",
       "movie_special_records": 6,
       "tv_episode_review_leads": 5,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
-      "name": "Marc Maron",
-      "priority": "established",
-      "movie_special_records": 6,
-      "tv_episode_review_leads": 3,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,
@@ -2250,7 +2230,7 @@
       "priority": "established",
       "movie_special_records": 6,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 14,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"
@@ -2260,6 +2240,16 @@
       "priority": "established",
       "movie_special_records": 7,
       "tv_episode_review_leads": 0,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dave Attell",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 2,
       "youtube_review_candidates": 0,
       "independent_unmatched_works": [],
       "needs_attention": false,
@@ -2297,6 +2287,16 @@
     },
     {
       "name": "Jim Norton",
+      "priority": "established",
+      "movie_special_records": 7,
+      "tv_episode_review_leads": 3,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Marc Maron",
       "priority": "established",
       "movie_special_records": 7,
       "tv_episode_review_leads": 3,

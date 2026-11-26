@@ -3,9 +3,9 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1654,
+    "original_alphabetical_movies": 1657,
     "remaining_alphabetical_movies": 1330,
-    "unrated_movies_hidden": 324,
+    "unrated_movies_hidden": 327,
     "unrated_established_movies_kept": 143
   },
   "hidden": [
@@ -95,13 +95,13 @@
     },
     {
       "id": "tt29134283",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok",
       "release_date": "2024-01-18"
     },
     {
       "id": "tt35052947",
-      "performer": "ALOK",
+      "performer": "Alok",
       "title": "Alok: Biology!",
       "release_date": "2024-12-18"
     },
@@ -1103,13 +1103,13 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just For Laughs",
+      "performer": "Just for Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
@@ -1118,6 +1118,24 @@
       "performer": "Just Say Yo!",
       "title": "Just Say Yo!: The Yo Yo Man Instructional Video",
       "release_date": "1988-01-01"
+    },
+    {
+      "id": "tmdb:1847766",
+      "performer": "Juston McKinney",
+      "title": "Juston McKinney: It's the Little Things",
+      "release_date": ""
+    },
+    {
+      "id": "tt31179762",
+      "performer": "Juston McKinney",
+      "title": "Juston McKinney: On The Bright Side",
+      "release_date": ""
+    },
+    {
+      "id": "tt32801265",
+      "performer": "Juston McKinney",
+      "title": "Juston McKinney: Parentally Challenged",
+      "release_date": ""
     },
     {
       "id": "tt7827042",
@@ -1667,7 +1685,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy 'Chubby' Brown",
+      "performer": "Roy Chubby Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -2487,7 +2505,7 @@
     },
     {
       "id": "tmdb:1089015",
-      "performer": "Patrice O'Neal",
+      "performer": "Patrice O'neal",
       "title": "Patrice O'neal: Live at the Comedy Store in Hollywood"
     },
     {

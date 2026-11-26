@@ -1,18 +1,3 @@
 {
-  "metas": [
-    {
-      "id": "tt36462322",
-      "type": "movie",
-      "name": "Mike Birbiglia: The Good Life",
-      "poster": "https://image.tmdb.org/t/p/w500/zAlU7tRd2jNtilSrqakkiSi02OQ.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tt35667233",
-      "type": "movie",
-      "name": "LowKey Comedy Special",
-      "poster": "https://image.tmdb.org/t/p/w500/1sf4uBmtmqq3x4Gzta60lhOJ3Ly.jpg",
-      "releaseInfo": "2025"
-    }
-  ]
+  "metas": []
 }
