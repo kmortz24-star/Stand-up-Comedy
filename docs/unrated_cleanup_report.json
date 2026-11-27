@@ -3,10 +3,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1657,
-    "remaining_alphabetical_movies": 1330,
-    "unrated_movies_hidden": 327,
-    "unrated_established_movies_kept": 143
+    "original_alphabetical_movies": 1659,
+    "remaining_alphabetical_movies": 1331,
+    "unrated_movies_hidden": 328,
+    "unrated_established_movies_kept": 144
   },
   "hidden": [
     {
@@ -494,6 +494,12 @@
       "performer": "Curtis Walker",
       "title": "Curtis Walker - NextUp Special",
       "release_date": ""
+    },
+    {
+      "id": "tmdb:1848538",
+      "performer": "Daliso Chaponda",
+      "title": "Daliso Chaponda: Topical Storm",
+      "release_date": "2026-11-26"
     },
     {
       "id": "tmdb:1372085",
@@ -1103,13 +1109,13 @@
     },
     {
       "id": "tmdb:367345",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just for Laughs Stand Up, Vol. 2: On the Edge",
       "release_date": "2006-01-01"
     },
     {
       "id": "tmdb:456407",
-      "performer": "Just for Laughs",
+      "performer": "Just For Laughs",
       "title": "Just For Laughs: Working Class Comics",
       "release_date": "2009-01-01"
     },
@@ -1685,7 +1691,7 @@
     },
     {
       "id": "tmdb:1019686",
-      "performer": "Roy Chubby Brown",
+      "performer": "Roy 'Chubby' Brown",
       "title": "Roy Chubby Brown - Harmless Vulgarity & Friendly Smut",
       "release_date": "2022-01-22"
     },
@@ -2157,6 +2163,11 @@
       "id": "tt1197325",
       "performer": "Craig Shoemaker",
       "title": "Craig Shoemaker: The Lovemaster... Unzipped"
+    },
+    {
+      "id": "tmdb:1849321",
+      "performer": "Dane Cook",
+      "title": "Dane Cook: Gritty in Pink"
     },
     {
       "id": "tmdb:1578089",

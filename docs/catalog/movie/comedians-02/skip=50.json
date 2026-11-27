@@ -108,6 +108,15 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "standupyt_Gk5Cz2my3OM",
+      "type": "movie",
+      "name": "Craig Ferguson | I'm So Happy (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/Gk5Cz2my3OM/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/Gk5Cz2my3OM/hqdefault.jpg",
+      "description": "Craig Ferguson · 54 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tmdb:320583",
       "type": "movie",
       "name": "Craig Shoemaker: Live: That's a True Story!",
@@ -233,6 +242,12 @@
       "releaseInfo": "2009"
     },
     {
+      "id": "tmdb:1849321",
+      "type": "movie",
+      "name": "Dane Cook: Gritty in Pink",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "standupyt_JoqvzOZcQZk",
       "type": "movie",
       "name": "DANE COOK - ABOVE IT ALL (FULL SPECIAL) [YouTube]",
@@ -340,19 +355,6 @@
       "name": "Dara Ó Briain: Voice of Reason",
       "poster": "https://image.tmdb.org/t/p/w500/n5m3QN2LFwJfLfdoIuAEl1ptVTu.jpg",
       "releaseInfo": "2020"
-    },
-    {
-      "id": "tt11443254",
-      "type": "movie",
-      "name": "Dave Allen Live ...On Life",
-      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
-      "releaseInfo": "1998"
-    },
-    {
-      "id": "tt0777178",
-      "type": "movie",
-      "name": "1995 Young Comedians Special",
-      "releaseInfo": "1995"
     }
   ]
 }

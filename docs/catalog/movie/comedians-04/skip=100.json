@@ -298,6 +298,15 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "standupyt_pAMe4YEWxas",
+      "type": "movie",
+      "name": "Joe Dombrowski | Dad on Arrival (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/pAMe4YEWxas/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/pAMe4YEWxas/hqdefault.jpg",
+      "description": "Joe Dombrowski · 50 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt33419876",
       "type": "movie",
       "name": "Joe Gatto: Messing with People",
@@ -346,13 +355,6 @@
       "name": "Joe Pera: Slow & Steady",
       "poster": "https://image.tmdb.org/t/p/w500/mOoLhmBYyEPtWXLFrl37PhPFt8r.jpg",
       "releaseInfo": "2023"
-    },
-    {
-      "id": "tt0307031",
-      "type": "movie",
-      "name": "Joe Rogan: Live from the Belly of the Beast",
-      "poster": "https://image.tmdb.org/t/p/w500/13pLWdgoCVsYUEMIdZxMDvSepiK.jpg",
-      "releaseInfo": "2001"
     }
   ]
 }

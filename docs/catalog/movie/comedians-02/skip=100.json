@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt11443254",
+      "type": "movie",
+      "name": "Dave Allen Live ...On Life",
+      "poster": "https://image.tmdb.org/t/p/w500/lap046LoGap31HrR4OlBhym4EJ8.jpg",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0777178",
+      "type": "movie",
+      "name": "1995 Young Comedians Special",
+      "releaseInfo": "1995"
+    },
+    {
       "id": "tt1243457",
       "type": "movie",
       "name": "Dave Attell - HBO Comedy Half-Hour",
@@ -189,6 +202,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_OfqMkJwVgmo",
+      "type": "movie",
+      "name": "David Cross | The End of The Beginning of The End (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/OfqMkJwVgmo/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/OfqMkJwVgmo/hqdefault.jpg",
+      "description": "David Cross · 64 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt0233528",
       "type": "movie",
       "name": "David Spade: Take the Hit",
@@ -327,27 +349,6 @@
       "name": "D.L. Hughley: Going Home",
       "poster": "https://image.tmdb.org/t/p/w500/8VmaaSILY70JiML6QmgsflbW4sS.jpg",
       "releaseInfo": "1999"
-    },
-    {
-      "id": "tt2229095",
-      "type": "movie",
-      "name": "D.L. Hughley: Reset",
-      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "tt3589494",
-      "type": "movie",
-      "name": "D.L. Hughley: Clear",
-      "poster": "https://image.tmdb.org/t/p/w500/10jrkEnT2TutZolYOeRr0nKjD7C.jpg",
-      "releaseInfo": "2014"
-    },
-    {
-      "id": "tt8426270",
-      "type": "movie",
-      "name": "D.L. Hughley: Contrarian",
-      "poster": "https://image.tmdb.org/t/p/w500/oa86wKpThSQu2yVQNofpdwuLZRp.jpg",
-      "releaseInfo": "2018"
     }
   ]
 }

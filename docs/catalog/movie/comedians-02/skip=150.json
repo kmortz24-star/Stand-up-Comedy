@@ -1,6 +1,27 @@
 {
   "metas": [
     {
+      "id": "tt2229095",
+      "type": "movie",
+      "name": "D.L. Hughley: Reset",
+      "poster": "https://image.tmdb.org/t/p/w500/gZPYMpChNJQ2dswh8veKHoW2WXo.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt3589494",
+      "type": "movie",
+      "name": "D.L. Hughley: Clear",
+      "poster": "https://image.tmdb.org/t/p/w500/10jrkEnT2TutZolYOeRr0nKjD7C.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt8426270",
+      "type": "movie",
+      "name": "D.L. Hughley: Contrarian",
+      "poster": "https://image.tmdb.org/t/p/w500/oa86wKpThSQu2yVQNofpdwuLZRp.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "tt37610597",
       "type": "movie",
       "name": "Dom Irrera: Live from Las Vegas",

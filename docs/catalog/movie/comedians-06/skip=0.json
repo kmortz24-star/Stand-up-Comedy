@@ -169,6 +169,15 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "standupyt_5qEogP7K3Jg",
+      "type": "movie",
+      "name": "Nick Swardson: Taste It - Full Special [YouTube]",
+      "poster": "https://i.ytimg.com/vi/5qEogP7K3Jg/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/5qEogP7K3Jg/hqdefault.jpg",
+      "description": "Nick Swardson · 68 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "tt15204492",
       "type": "movie",
       "name": "Nicole Byer: BBW (Big Beautiful Weirdo)",
@@ -343,13 +352,6 @@
       "name": "Patton Oswalt: My Weakness Is Strong",
       "poster": "https://image.tmdb.org/t/p/w500/fk7grnwQtt1W9PkJj0Gc2sc300N.jpg",
       "releaseInfo": "2009"
-    },
-    {
-      "id": "tt3628334",
-      "type": "movie",
-      "name": "Patton Oswalt: Tragedy Plus Comedy Equals Time",
-      "poster": "https://image.tmdb.org/t/p/w500/wAqRKiJfL7GlUbo10JNvHdJEL41.jpg",
-      "releaseInfo": "2014"
     }
   ]
 }

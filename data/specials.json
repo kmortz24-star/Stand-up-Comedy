@@ -21863,6 +21863,20 @@
     "original_language": "fr"
   },
   {
+    "id": "tmdb:1834098",
+    "tmdb_id": 1834098,
+    "title": "Mohd Suhel: King of Kings",
+    "performer": "Mohd Suhel",
+    "release_date": "",
+    "poster_path": "/oUidUxvxVIO8ChUv3vtQ1BvvM5r.jpg",
+    "popularity": 0.055,
+    "original_language": "hi",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-27"
+  },
+  {
     "id": "tt1047610",
     "tmdb_id": 18362,
     "title": "Doug Stanhope: No Refunds",
@@ -22029,6 +22043,34 @@
     "tags": [],
     "last_checked": "2026-11-19",
     "original_language": "en"
+  },
+  {
+    "id": "tmdb:1848538",
+    "tmdb_id": 1848538,
+    "title": "Daliso Chaponda: Topical Storm",
+    "performer": "Daliso Chaponda",
+    "release_date": "2026-11-26",
+    "poster_path": null,
+    "popularity": 0.0,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-27"
+  },
+  {
+    "id": "tmdb:1849321",
+    "tmdb_id": 1849321,
+    "title": "Dane Cook: Gritty in Pink",
+    "performer": "Dane Cook",
+    "release_date": "2026-11-25",
+    "poster_path": null,
+    "popularity": 0.0,
+    "original_language": "en",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "tags": [],
+    "last_checked": "2026-11-27"
   },
   {
     "id": "tt2828960",

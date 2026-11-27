@@ -228,19 +228,19 @@
       "poster": "https://image.tmdb.org/t/p/w500/58SLx5YE6mfeqv8KSH3yozEXQzo.jpg"
     },
     {
-      "id": "tmdb:11545",
-      "type": "series",
-      "name": "Comedy Now!",
-      "releaseInfo": "1997",
-      "poster": "https://image.tmdb.org/t/p/w500/pl1VY8Umi9PtWbsqm595KfzUTqd.jpg"
-    },
-    {
       "id": "tmdb:44758",
       "type": "series",
       "name": "The Half Hour",
       "releaseInfo": "2012",
       "poster": "https://image.tmdb.org/t/p/w500/ciZlDJmfIpWTUUcqJDHHHbEYJfa.jpg",
       "background": "https://image.tmdb.org/t/p/w780/nSWMNLDyGEuU948jmzoQe3gFFDU.jpg"
+    },
+    {
+      "id": "tmdb:11545",
+      "type": "series",
+      "name": "Comedy Now!",
+      "releaseInfo": "1997",
+      "poster": "https://image.tmdb.org/t/p/w500/pl1VY8Umi9PtWbsqm595KfzUTqd.jpg"
     },
     {
       "id": "tmdb:73943",

@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt1500505",
+      "type": "movie",
+      "name": "Lewis Black: Stark Raving Black",
+      "poster": "https://image.tmdb.org/t/p/w500/gvznuG9TcntGbXnoATMQCE9g7C4.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "tt3091320",
       "type": "movie",
       "name": "Lewis Black: Old Yeller - Live at the Borgata",
@@ -342,13 +349,6 @@
       "name": "Marcello Hernández: American Boy",
       "poster": "https://image.tmdb.org/t/p/w500/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "tt0251739",
-      "type": "movie",
-      "name": "Margaret Cho: I'm the One That I Want",
-      "poster": "https://image.tmdb.org/t/p/w500/7pFwrqCnjycoAvFnXVP6dexO3aC.jpg",
-      "releaseInfo": "2000"
     }
   ]
 }

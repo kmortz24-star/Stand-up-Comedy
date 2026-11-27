@@ -1,6 +1,13 @@
 {
   "metas": [
     {
+      "id": "tt0334249",
+      "type": "movie",
+      "name": "Rodney Dangerfield: It's Not Easy Bein' Me",
+      "poster": "https://image.tmdb.org/t/p/w500/5x5OM2hp5KOploiZp0d6CldjYyU.jpg",
+      "releaseInfo": "1986"
+    },
+    {
       "id": "tt0148538",
       "type": "movie",
       "name": "Rodney Dangerfield: Nothin' Goes Right",
@@ -124,6 +131,15 @@
       "name": "Roseanne Barr: Blonde and Bitchin'",
       "poster": "https://image.tmdb.org/t/p/w500/cUkQQnfPTonMXRroZzCyw11eKXr.jpg",
       "releaseInfo": "2006"
+    },
+    {
+      "id": "standupyt_RUQjk3-q2V8",
+      "type": "movie",
+      "name": "Rosie Jones | Triple Threat (Full Comedy Special) [YouTube]",
+      "poster": "https://i.ytimg.com/vi/RUQjk3-q2V8/hqdefault.jpg",
+      "background": "https://i.ytimg.com/vi/RUQjk3-q2V8/hqdefault.jpg",
+      "description": "Rosie Jones · 71 min · YouTube upload. Preview candidate: availability and playback are not guaranteed; may open YouTube externally.",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt4374814",

@@ -1,23 +1,23 @@
 {
   "counts": {
-    "New Specials": 150,
+    "New Specials": 151,
     "Top Rated": 200,
     "Fan Favorites": 200,
     "Comedy Roulette": 60,
-    "Hidden Gems": 76,
+    "Hidden Gems": 83,
     "Comedy Legends": 77,
-    "Viral & Rising Comedians": 49,
+    "Viral & Rising Comedians": 55,
     "Roasts & Comedy Events": 68,
-    "Comedians AB": 212,
-    "CD": 189,
+    "Comedians AB": 211,
+    "CD": 192,
     "EFGHI": 171,
-    "J": 194,
-    "KLM": 239,
-    "NOPQR": 192,
+    "J": 195,
+    "KLM": 241,
+    "NOPQR": 194,
     "STUVWXYZ": 193,
     "Stand-Up TV Shows": 37
   },
-  "total_unique_records": 3035,
+  "total_unique_records": 3038,
   "needs_review": [
     {
       "id": "tt0322129",
@@ -1046,10 +1046,10 @@
     "policy": "Hide zero-vote movies by comics outside the curated A/B roster",
     "applies_to": "All movie catalogs built from the accepted performer pool; not TV or YouTube",
     "reversible": true,
-    "original_alphabetical_movies": 1657,
-    "remaining_alphabetical_movies": 1330,
-    "unrated_movies_hidden": 327,
-    "unrated_established_movies_kept": 143
+    "original_alphabetical_movies": 1659,
+    "remaining_alphabetical_movies": 1331,
+    "unrated_movies_hidden": 328,
+    "unrated_established_movies_kept": 144
   },
   "quality_cleanup": {
     "policy": "Hide weakly reviewed movies by non-established performers",
@@ -1095,8 +1095,8 @@
       "The Comedy Lineup": 16,
       "Premium Blend": 97,
       "John Oliver's New York Stand-Up Show": 26,
-      "Comedy Now!": 6,
       "The Half Hour": 74,
+      "Comedy Now!": 6,
       "Comedy Central Stand-Up Presents": 34,
       "The Degenerates": 12,
       "Just for Laughs: All Access": 28,
@@ -1111,9 +1111,9 @@
     "unverified_playback": true,
     "fallback": "YouTube external link",
     "counts": {
-      "viral_and_rising_added": 44,
-      "hidden_gems_added": 46,
-      "alphabetical_full_specials_added": 60
+      "viral_and_rising_added": 50,
+      "hidden_gems_added": 53,
+      "alphabetical_full_specials_added": 66
     }
   },
   "rankings": {
@@ -1208,7 +1208,7 @@
         "Tiffany Haddish",
         "Jeff Arcuri",
         "Nick Offerman",
-        "RUSSELL BRAND",
+        "Russell Brand",
         "Mo Gilligan",
         "Jon Stewart",
         "Chris Porter",
@@ -1222,7 +1222,7 @@
   },
   "english_language_policy": {
     "status": "Known non-English excluded; unknown language needs confirmation",
-    "known_non_english_source_records": 789,
+    "known_non_english_source_records": 790,
     "unknown_language_source_records": 0,
     "unknown_language_alphabetical_records": 0,
     "known_non_english_published_movie_records": 0,

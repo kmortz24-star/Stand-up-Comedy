@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tmdb:1849321",
+      "type": "movie",
+      "name": "Dane Cook: Gritty in Pink",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "tt50828463",
       "type": "movie",
       "name": "Nate Bargatze: Good for Nathan",
@@ -339,13 +345,6 @@
       "type": "movie",
       "name": "Bill Bailey: Thoughtifier",
       "poster": "https://image.tmdb.org/t/p/w500/gwNxtWXlwfvYOK147ezJ5jxXWtZ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "tt43493860",
-      "type": "movie",
-      "name": "We're Looking For People Who Do Huge Numbers On Social Media",
-      "poster": "https://image.tmdb.org/t/p/w500/cpqdABu3B2KKHPx9Pk1AW9DfSJf.jpg",
       "releaseInfo": "2026"
     }
   ]

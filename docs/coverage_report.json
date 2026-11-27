@@ -7,9 +7,9 @@
     "priority_comedians_without_movie_records": 5,
     "priority_comedians_with_unmatched_works": 27,
     "unmatched_work_leads": 57,
-    "catalog_movie_records": 3035,
+    "catalog_movie_records": 3038,
     "tv_review_leads": 3296,
-    "youtube_review_candidates": 261
+    "youtube_review_candidates": 330
   },
   "comedians": [
     {
@@ -276,7 +276,7 @@
       "priority": "established",
       "movie_special_records": 4,
       "tv_episode_review_leads": 0,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 3,
       "independent_unmatched_works": [
         {
           "title": "Lock 'n Load",
@@ -438,7 +438,7 @@
       "priority": "established",
       "movie_special_records": 5,
       "tv_episode_review_leads": 2,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 6,
       "independent_unmatched_works": [
         {
           "title": "Mr. P",
@@ -627,7 +627,7 @@
       "priority": "established",
       "movie_special_records": 10,
       "tv_episode_review_leads": 2,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 29,
       "independent_unmatched_works": [
         {
           "title": "All Things Comedy Live",
@@ -1916,16 +1916,6 @@
       "coverage_claim": "incomplete_evidence_only"
     },
     {
-      "name": "Dane Cook",
-      "priority": "established",
-      "movie_special_records": 5,
-      "tv_episode_review_leads": 1,
-      "youtube_review_candidates": 0,
-      "independent_unmatched_works": [],
-      "needs_attention": false,
-      "coverage_claim": "incomplete_evidence_only"
-    },
-    {
       "name": "Frankie Boyle",
       "priority": "established",
       "movie_special_records": 5,
@@ -2147,6 +2137,16 @@
     },
     {
       "name": "Christopher Titus",
+      "priority": "established",
+      "movie_special_records": 6,
+      "tv_episode_review_leads": 1,
+      "youtube_review_candidates": 0,
+      "independent_unmatched_works": [],
+      "needs_attention": false,
+      "coverage_claim": "incomplete_evidence_only"
+    },
+    {
+      "name": "Dane Cook",
       "priority": "established",
       "movie_special_records": 6,
       "tv_episode_review_leads": 1,
@@ -2440,7 +2440,7 @@
       "priority": "established",
       "movie_special_records": 9,
       "tv_episode_review_leads": 1,
-      "youtube_review_candidates": 0,
+      "youtube_review_candidates": 10,
       "independent_unmatched_works": [],
       "needs_attention": false,
       "coverage_claim": "incomplete_evidence_only"
